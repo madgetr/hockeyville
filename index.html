@@ -48,8 +48,8 @@
     <option value="">-- Select a file --</option>
     <option value="data/authors.csv">Individual Contributions</option>
     <option value="data/qualified.csv">Qualified For Giveaways</option>
-    <option value="data/kraft_facilities.csv">Standings</option>
-    <option value="data/kraft.csv">Arena Breakdown</option>
+<!--    <option value="data/kraft_facilities.csv">Standings</option>-->
+<!--    <option value="data/kraft.csv">Arena Breakdown</option>-->
   </select>
 </div>
 
@@ -66,7 +66,11 @@
   window.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
     const fileParam = urlParams.get('file');
-
+    const all = urlParams.get('all');
+    if (all) {
+        // add standings and arena breakdown to the dropdown
+        document.getElementById('csv-select').innerHTML += '<option value="data/kraft_facilities.csv">Standings</option><option value="data/kraft.csv">Arena Breakdown</option>';
+    }
     if (fileParam) {
       document.getElementById('csv-select').value = fileParam;
       loadCSV(fileParam);
