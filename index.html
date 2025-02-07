@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trout Creek Hockeyville Rally</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    select, button { margin: 10px 0; padding: 5px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; cursor: pointer; }
+    th { background-color: #f2f2f2; }
+    tr:nth-child(even) { background-color: #f1f5f8; }
+  </style>
+</head>
+<body>
+<h1>CSV Table Viewer</h1>
+<label for="csv-select">Select:</label>
+<select id="csv-select">
+  <option value="">-- Select a file --</option>
+  <option value="data/authors.csv">Individual Contributions</option>
+  <option value="data/kraft_facilities.csv">Standings</option>
+  <option value="data/kraft.csv">Breakdown</option>
+</select>
+
+<table id="csv-table">
+  <thead></thead>
+  <tbody></tbody>
+</table>
+
+<script>
+  const hiddenFields = ["Facility ID", "isTop4Facility", "ID"];
+
+  document.getElementById('csv-select').addEventListener('change', function () {
+    const file = this.value;
+    if (file) {
+      fetch(file)
+          .then(response => response.text())
+          .then(csvText => {
+            const parsedData = Papa.parse(csvText, { header: true });
+            displayTable(parsedData.data);
+            displayHiddenFields();
+          })
+          .catch(error => console.error('Error loading CSV:', error));
+    } else {
+      clearTable();
+    }
+  });
+
+  function displayTable(data) {
+    const tableHead = document.querySelector('#csv-table thead');
+    const tableBody = document.querySelector('#csv-table tbody');
+
+    tableHead.innerHTML = '';
+    tableBody.innerHTML = '';
+
+    if (data.length === 0) return;
+
+    const headers = Object.keys(data[0]).filter(header => !hiddenFields.includes(header.trim()));
+    const headerRow = document.createElement('tr');
+
+    headers.forEach(header => {
+      const th = document.createElement('th');
+      th.textContent = header;
+      headerRow.appendChild(th);
+    });
+    tableHead.appendChild(headerRow);
+
+    populateTableBody(data, headers);
+  }
+
+  function populateTableBody(data, headers) {
+    const tableBody = document.querySelector('#csv-table tbody');
+    tableBody.innerHTML = '';
+
+    data.forEach(row => {
+      const tr = document.createElement('tr');
+      headers.forEach(header => {
+        const td = document.createElement('td');
+        td.textContent = row[header] || '';
+        tr.appendChild(td);
+      });
+      tableBody.appendChild(tr);
+    });
+  }
+
+  function sortTable(data, column) {
+    const thElements = document.querySelectorAll('th');
+    let currentSort = 'asc';
+
+    thElements.forEach(th => {
+      if (th.textContent === column) {
+        if (th.classList.contains('sort-asc')) {
+          currentSort = 'desc';
+          th.classList.remove('sort-asc');
+          th.classList.add('sort-desc');
+        } else {
+          currentSort = 'asc';
+          th.classList.remove('sort-desc');
+          th.classList.add('sort-asc');
+        }
+      } else {
+        th.classList.remove('sort-asc', 'sort-desc');
+      }
+    });
+
+    populateTableBody(data, Object.keys(data[0]).filter(header => !hiddenFields.includes(header)));
+  }
+
+  function displayHiddenFields() {
+    const hiddenList = document.getElementById('hidden-fields');
+    hiddenList.innerHTML = '';
+    hiddenFields.forEach(field => {
+      const li = document.createElement('li');
+      li.textContent = field;
+      hiddenList.appendChild(li);
+    });
+  }
+
+  function clearTable() {
+    document.querySelector('#csv-table thead').innerHTML = '';
+    document.querySelector('#csv-table tbody').innerHTML = '';
+    document.getElementById('hidden-fields').innerHTML = '';
+  }
+</script>
+</body>
+</html>
