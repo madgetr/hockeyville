@@ -295,7 +295,7 @@ def get_facilities(cookie):
 
 def save_last_modified_date(pos, points):
     with open(SAVE_DIR + "last_modified.txt", "w") as f:
-        f.write(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()) + "   | Pos: " + str(pos) + "   | Points: " + str(points) + "\n")
+        f.write(time.strftime("%Y-%m-%d %H:%M", time.localtime()) + "   |   Place: " + str(pos) + "   |   Points: " + str(points) + "\n")
 
 def main():
     cookie = input("Enter the cookie: ")
