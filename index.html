@@ -10,7 +10,10 @@
     body {
       background-color: #036;
     }
-    h1, label {
+    label {
+      color: #fff;
+    }
+    h1 {
       font-family: Redzone Bold Reg, Helvetica, Arial, sans-serif;
       font-weight: 400;
       color: #fff;
@@ -37,6 +40,7 @@
 <body class="container py-4">
 <img src="assets/shield.807ec91d.png" alt="Shield" class="shield-image">
 <h1>Trout Creek Hockeyville Rally</h1>
+<!--diusplay last modified data on the top right of the table-->
 
 <div class="mb-3 text-center">
   <select id="csv-select" class="form-select w-auto mx-auto">
@@ -49,6 +53,7 @@
 </div>
 
 <div class="table-responsive">
+  <label for="csv-table" id="last-modified-label">Last Modified: </label>
   <table id="csv-table" class="table table-striped table-bordered">
     <thead></thead>
     <tbody></tbody>
@@ -83,6 +88,7 @@
   });
 
   function loadCSV(file) {
+    getLastModified();
     fetch(file)
         .then(response => response.text())
         .then(csvText => {
@@ -128,6 +134,15 @@
       });
       tableBody.appendChild(tr);
     });
+  }
+
+  function getLastModified() {
+    fetch('data/last_modified.txt')
+      .then(response => response.headers.get('Last-Modified'))
+        .then(lastModified => {
+            const lastModifiedLabel = document.getElementById('last-modified-label');
+            lastModifiedLabel.textContent = `Last Modified: ${new Date(lastModified).toLocaleString()}`;
+        })
   }
 
   function sortTable(data, column) {

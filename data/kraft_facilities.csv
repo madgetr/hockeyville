@@ -1,9 +1,9 @@
 Pos, Facility ID, Facility Name, Points
 1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,7824
 2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),7558
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,4166
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,4176
 4, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,3357
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,2495
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,2505
 6, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,2375
 7, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,2348
 8, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,1523
@@ -28,7 +28,7 @@ Pos, Facility ID, Facility Name, Points
 27, 11E9F686BB7584B481807B23EA662A63,8th Hussars Sports Center,385
 28, 11eecb02c0216050305bc32b29dd71df,North Peace Arena,366
 29, 11efd22efdcddb70aa25cfa7687d2aa4,Ron Gorr Memorial Arena,353
-30, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,334
+30, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,344
 31, 11eeb8c4f3352030b590a61d8226fed8,Springdale Stadium and Curling Club,330
 32, 11efce8c9f28cfd02e5ea2749db3bae8,Kingston Memorial Centre,327
 33, 11E9F686BBEB399881807B23EA662A63,Redwood Meadows Arena,296
@@ -41,14 +41,14 @@ Pos, Facility ID, Facility Name, Points
 40, 11eebf00b2768100c91eac76a462c52c,Elm Creek Skating Rink,227
 41, 11eebe55089c4260111c17e9259caa6a,Goulds Arena,223
 42, 11efcc66abe09f50fbb368fdafdeb6ca,Cupar Memorial Rink,213
-43, 11efcf75483809902bd90ec1517cab1c,Memorial Community Centre Arena,206
-44, 11eeb9609bd28c50a173d25df9263a83,Unity Parc Arena,196
+43, 11eeb9609bd28c50a173d25df9263a83,Unity Parc Arena,206
+44, 11efcf75483809902bd90ec1517cab1c,Memorial Community Centre Arena,206
 45, 11efcc61799f45f0337d822e4932bf4e,Ville De Bouctouche Forum,182
 46, 11E9F686BB9CD3E881807B23EA662A63,Centre récréatif de Donnacona,180
-47, 11E9F686BB81FFAA81807B23EA662A63,Aréna Jean Rougeau,174
-48, b14065f8a04f49af8eb79de468077cd4,I J Coady Memorial Arena,174
-49, 11eec6f3b6b67ef0b4beebf0dc85c2b2,Arena De Clarence Creek,170
-50, 11eeb94b0a9f1e707a50d372baf5b339,Walkerton Community Centre,168
+47, 11eeb94b0a9f1e707a50d372baf5b339,Walkerton Community Centre,178
+48, 11E9F686BB81FFAA81807B23EA662A63,Aréna Jean Rougeau,174
+49, b14065f8a04f49af8eb79de468077cd4,I J Coady Memorial Arena,174
+50, 11eec6f3b6b67ef0b4beebf0dc85c2b2,Arena De Clarence Creek,170
 51, 11efd1e8664880205b118712b95eceb6,Archie Miller Arena,165
 52, 11eeb6f3ef437df0634f81fa6d7292d2,Coldwater Arena,163
 53, 11efd8c3f0f1b75085346d6e65b3d095,Wilfred T Lipton Arena,152
@@ -127,127 +127,127 @@ Pos, Facility ID, Facility Name, Points
 126, 11eec0ba95f58650cddc36c5aa8a2c4b,Sungod Recreation Centre,33
 127, 11efcde27f78f070ac72fbd7fff4a754,Aréna Conrad-Parent,33
 128, 11efcebb75901dc0cb4becb479c7125b,Doug Hagel Arena,33
-129, 11eeb948f1e16b10958164c4afa33fb1,Tilley arena,31
-130, 11E9F686BB867CD881807B23EA662A63,Aréna St-Cyrille,30
-131, 11E9F686BB95427281807B23EA662A63,Cambrian Arena,30
-132, 11E9F686BBAFE1C281807B23EA662A63,Duncan Murray Recreation Centre,30
-133, 11eeb8bf1c1b27700663652ce727cce9,Edson and District Leisure Centre,30
-134, 11eeba577b589cb0f6d23fd4cbae1d68,Hodder Memorial Recreation Complex,30
-135, 11efded6895a516004839a3c822c0043,Kipsigak Arena,30
-136, 11E9F686BBAF802E81807B23EA662A63,Drumheller Memorial Arena,29
-137, 11eeb5ac31155cb0fc1c9db49812067b,Penticton Memorial Arena,29
-138, 11eeccd75e4550e0b73e51cca69c9dae,Paul J Yakabuski Community Centre,29
-139, 11efcd3bdaf2bb40f1c5d0ce7eabb7b3,Complexe Sportif De St-Louis-De-France Inc,29
-140, 11efd3ca4b6af5103419c4a27d769a41,Hague Arena,29
-141, 11E9F686BBC866C081807B23EA662A63,KC Irving Regional Center,28
-142, 11E9F686BB75AC3C81807B23EA662A63,A.G. Ross Arena,27
-143, 11E9F686BB7BE9EE81807B23EA662A63,Arena BSR,27
-144, 11E9F686BBB8470481807B23EA662A63,Galt Arena Gardens,27
-145, 11eebaeccbfda5307f4e36fd88fecfc1,Wikwemikong Recreation Center,27
-146, 11eebd5b569d0a3042bbc639dc23aa8b,Harry Lumley Bayshore Community Centre,27
-147, 11efd863f5180a105dfe37a9d3b8096b,Berens River Memorial Arena ,27
-148, 11E9F686BB775CA881807B23EA662A63,Alberni Valley Multiplex,26
-149, 11eebaf0e71cdd502482dcb382b1081a,Powassan Sportsplex,26
-150, 11eebf362ebf1d00d81b793057e5747c,Princeton & District Arena,26
-151, 11E9F686BC07B29481807B23EA662A63,Tri Township Arena,25
-152, 11eeb32fbd64aab013655c150e502a92,Strasbourg & Community Recreation Centre,25
-153, 11eeb7132a120630d6bd4d395c6df313,Strathcona Gardens Recreation Complex,25
-154, 11eec6035945eb20b93c60cbbe68acd2,Beeton Community Memorial Centre,25
-155, 11efced65b5931b09438b67a8bddf3c6,Vulcan Arena,25
-156, 11efd10097b80740dc84e441069785fe,Lion's Head Arena,25
-157, 11efde56f9e542806e961e37fce419fd,Centre sportif J.-A. Lemay,25
-158, 11E9F686BBB36DA681807B23EA662A63,Emily Omemee Arena,24
-159, 11eec0bf87bfe210af5700aaafa2d9f1,Multiplex Arena,24
-160, 11E9F686BBBCC8F681807B23EA662A63,Gros Morne Regional Complex,23
-161, 11E9F686BBBE635081807B23EA662A63,Harry Ivany Arena,23
-162, 11E9F686BBE5A32A81807B23EA662A63,Peterborough Memorial Centre,23
-163, 11eeb6f1947c1f001655bb9ac12d518d,Oro-Medonte Community Arena,23
-164, 11eeb7072c55f9308fe2395362db20ce,Centre sportif de Métabetchouan,23
-165, 11eebb026d9d06003c8b28043df69538,Smiths Falls Memorial Community Centre,23
-166, 11eebb1858c097905e167b5bb43921ab,Kentville Centennial Arena,23
-167, 11E9F686BBDF2CCA81807B23EA662A63,Norway House Cree Nation Multiplex,22
-168, 11eeb7b7be66cb50ecb2ff28eaa966de,Darlington Sports Centre,22
-169, 11eeb7b95e6193f0439ee030f65b6ccd,Wainfleet Arena,22
-170, 11efcc4c7779da700cf0061f660dea9a,Stride Place,22
-171, 11efce169eb10b605501b9a86d3ceb3a,Centre des sports Jean Claude Tremblay,22
-172, 11efd14a4f5c786058d88ce51f44c41f,Espanola Recreation Fitness,22
-173, 11E9F686BBC0760481807B23EA662A63,Hillsborough Arena,21
-174, 11eeb57164f89a506ee5bd2c428d7c67,Cominco Arena,21
-175, 11eeb86534aaa3b07f7d59551d1a4621,Marysville Arena,21
-176, 11eec0ca2a6e9100ec3dbc0a12e7ac76,East Gwillimbury Sports Complex,21
-177, 11E9F686BB91C99E81807B23EA662A63,Brennan Park Arena,20
-178, 11eeb17cc56cffa0fd468084f1237ec6,Oxbow Arena,20
-179, 11eeb543b68fd5a0d61bc92906228066,Twin Town Sports Complex,20
-180, 11eeb54d47d059503d9771929b460183,Centre sportif Jacques-Lesage,20
-181, 11eeb5bd746d98905db7339b1b9e9e9b,South Cariboo Rec Center,20
-182, 11eeb631ab3e8cc0782b468a096f8c6e,Tommy Ricketts Arena,20
-183, 11eeba568440b110c8148e7cf196f9f4,Arctic Spas Recreation Complex,20
-184, 11eec0b1afaa6bf05e6d9245f4c60ce4,Okanagan Training Rink,20
-185, 11eec62b03459810023392bba64f97a4,Kapuskasing sports palace,20
-186, 11eecba83cfa87a0286260c4873a2187,Ken Williams Southern Shore Arena,20
-187, 11efcbc1be0a2fc00e21c7f8c26c4aa3,Fort Simpson ,20
-188, 11efce4bdc59b3b099fa2a567ad3cb1e,Maidstone Arena,20
-189, 11efcf9029c2fea01539fbe7fd88feaf,Upper Pontiac Sports ComplexJ,20
-190, 11efcfb594126b4024c9e24f6ed79a60,Nakina Community Complex,20
-191, 11efcfba1d3453d0d6b10f5b24fd3d17,Northern Lights Palace Arena,20
-192, 11efd62c87b536c09afe23d005d4072b,Savanna Agricultural Society Rec-Plex,20
-193, 11efd8d19d573f8086ed6c535fa9893b,Jordan Arena,20
-194, 11efdebc30caa6e0bb3c5cdf886ba58b,Noelville Community Centre,20
-195, 11E9F686BBB1692081807B23EA662A63,eastern Kings Sportsplex,19
-196, 11efcfd1cdae6e50800e363a98538b76,Saint Andrews Community Club,19
-197, 11eeb73381cc29802b6bce5cdba41fa3,Bobcaygeon-Verulam Community Centre,18
-198, 11efcc4fd33abf205d7cbfac73e8aae2,Westlock Rotary Spirit Centre,18
-199, 11E9F686BB811CD481807B23EA662A63,Aréna Gilles-Bourassa,17
-200, 11E9F686BB97FAEE81807B23EA662A63,Carlisle Community Centre,17
-201, 11E9F686BBBA66D881807B23EA662A63,Glenn Hall Centennial Arena,17
-202, 11E9F686BBE5652281807B23EA662A63,Perth & District Community Arena,17
-203, 11E9F686BC0F701081807B23EA662A63,Wallaceburg Memorial Arena,17
-204, 11eeb66b5a1b04603179e071d742dec0,Foam Lake Recreation Centre,17
-205, 11eebbbb7b8cd6501b4b861b90b26a3f,Tilbury Memorial Arena,17
-206, 11eebf8f1b5ef2e0185a05bc4b38f59a,Ridgevalley Arena,17
-207, 11efcfb3099b19f0bdc60934a5d9eb65,Marshal Moores Arena,17
-208, 11E9F686BC12B00481807B23EA662A63,western Financial Group Community Arena (formerly Bow Island Arena),16
-209, 11eeb71c1f7431e0a94860ebb2bfdc25,Alexandra Arena,16
-210, 11eeb99c59e12c70934c42277fc2eb09,Rogers Arena,16
-211, 11eebcd617b2a170a305efaa5f54d6e3,Sandy Bay Arena,16
-212, 11eebebad4f080f0a8fe39202ee25c45,Glovertown Arena,16
-213, 11eec7db96b1bd20b8a44d7b7a374ffa,Arena de Valcourt,16
-214, 11efcc5f9f6ec19095fd7136dfbe7c90,Centre Sportif Mistouk,16
-215, 11efcd08c2d3d6303f7b8bc914b94c9f,Mnjikaning Arena Sports Ki (MASK),16
-216, 11efcce6c12730105f17285b74504356,Pond Inlet Comunity Hall,15
-217, 11E9F686BB75309A81807B23EA662A63,Aréna Réjean Lemelin,14
-218, 11E9F686BB79685E81807B23EA662A63,Amherst Stadium,14
-219, 11E9F686BB804A8E81807B23EA662A63,Aréna Fernand-Asselin,14
-220, 11E9F686BBCB036C81807B23EA662A63,Kitchener Memorial Auditorium Dom Cardillo Kinsmen & Kiwanis Arenas,14
-221, 11E9F686BBFE48C681807B23EA662A63,Sudbury Arena,14
-222, 11eeb6096e308ae030fc3b42da6a5268,Welland Main Arena,14
-223, 11eebef8eb4fb3a0eb1c98d6bfdfcb5f,Fort Macleod & District Sports Centre / Outdoor Swimming Pool / Ice Arena,14
-224, 11eec6f740f4c970a663bfd4e0d55d8e,Aréna Municipal,14
-225, 11eec7900567a2804fec4c1a0ec33e9a,Burford Community Centre,14
-226, 11eeca274231a87051f5d871ecdbc004,Daysland Memorial Arena,14
-227, 11efcc598545bb3061d82c9b9c18ec46,Southeast Event Centre,14
-228, 11efcd74dfe790102bf0b3a287ae113a,Festival Arena,14
-229, 11efd83fc73bd0a0e0288b55e4e44419,Kindersley West Central Events Centre,14
-230, 11E9F686BBA1040481807B23EA662A63,Centre sportif sainte-anne des plaines,13
-231, 11E9F686BBAD621281807B23EA662A63,Deseronto Community Recreation Centre,13
-232, 11E9F686BBB44F3C81807B23EA662A63,Essar Centre formerly Steelback Centre,13
-233, 11E9F686BBB833AE81807B23EA662A63,Fundy Arena,13
-234, 11E9F686BBD09D6881807B23EA662A63,Lunenburg Community Centre Arena,13
-235, 11E9F686BBE02B3E81807B23EA662A63,Oceanside Place Arena,13
-236, 11eeb5c4366043c0d775d2171044d347,Clearwater Arena,13
-237, 11eeb6271149c0d06e362257ecea58d1,Sundre Arena,13
-238, 11eeb740841da7b099a2f8a1725ea445,Tom Forsyth Memorial Arena,13
-239, 11eeb7971751de10faebd9ec82c95a12,Bay Arena,13
-240, 11eeb81e5bb2107075791955b5ea24eb,Flames Community Arenas,13
-241, 11eeb854a5585fa0f0879da6e0855755,Aréna Doug-Harvey,13
-242, 11eebbf5dd11ffb03000c5f17510974d,Gaylord Powless Arena,13
-243, 11eebdfe5779b180d2483a7df74aefbe,Kinsmen Community Arenas,13
-244, 11eec620be82565025b546f0c5fc1684,Co-operative Place,13
-245, 11efcee20ea8f7e0a95514b511914e67,Desbarats arena ,13
-246, 11efd090b4d17a70050acc31db35eb4b,Cornwall Civic Complex,13
-247, 11efd476bae27f10fd0951691c5c54b1,E J Broomfield Arena,13
-248, 11efd8ecd26831a049ae44f50660feed,Lloyd Wilson Centennial Arena,13
-249, 11efe32eeedfcd608e2a11d9ff2f65f3,Tobique-Plex,13
+129, 11eeb7b7be66cb50ecb2ff28eaa966de,Darlington Sports Centre,32
+130, 11eeb948f1e16b10958164c4afa33fb1,Tilley arena,31
+131, 11E9F686BB867CD881807B23EA662A63,Aréna St-Cyrille,30
+132, 11E9F686BB95427281807B23EA662A63,Cambrian Arena,30
+133, 11E9F686BBAFE1C281807B23EA662A63,Duncan Murray Recreation Centre,30
+134, 11eeb8bf1c1b27700663652ce727cce9,Edson and District Leisure Centre,30
+135, 11eeba577b589cb0f6d23fd4cbae1d68,Hodder Memorial Recreation Complex,30
+136, 11efded6895a516004839a3c822c0043,Kipsigak Arena,30
+137, 11E9F686BBAF802E81807B23EA662A63,Drumheller Memorial Arena,29
+138, 11eeb5ac31155cb0fc1c9db49812067b,Penticton Memorial Arena,29
+139, 11eeccd75e4550e0b73e51cca69c9dae,Paul J Yakabuski Community Centre,29
+140, 11efcd3bdaf2bb40f1c5d0ce7eabb7b3,Complexe Sportif De St-Louis-De-France Inc,29
+141, 11efd3ca4b6af5103419c4a27d769a41,Hague Arena,29
+142, 11E9F686BBC866C081807B23EA662A63,KC Irving Regional Center,28
+143, 11E9F686BB75AC3C81807B23EA662A63,A.G. Ross Arena,27
+144, 11E9F686BB7BE9EE81807B23EA662A63,Arena BSR,27
+145, 11E9F686BBB8470481807B23EA662A63,Galt Arena Gardens,27
+146, 11eebaeccbfda5307f4e36fd88fecfc1,Wikwemikong Recreation Center,27
+147, 11eebd5b569d0a3042bbc639dc23aa8b,Harry Lumley Bayshore Community Centre,27
+148, 11efd863f5180a105dfe37a9d3b8096b,Berens River Memorial Arena ,27
+149, 11E9F686BB775CA881807B23EA662A63,Alberni Valley Multiplex,26
+150, 11eebaf0e71cdd502482dcb382b1081a,Powassan Sportsplex,26
+151, 11eebf362ebf1d00d81b793057e5747c,Princeton & District Arena,26
+152, 11E9F686BC07B29481807B23EA662A63,Tri Township Arena,25
+153, 11eeb32fbd64aab013655c150e502a92,Strasbourg & Community Recreation Centre,25
+154, 11eeb7132a120630d6bd4d395c6df313,Strathcona Gardens Recreation Complex,25
+155, 11eec6035945eb20b93c60cbbe68acd2,Beeton Community Memorial Centre,25
+156, 11efced65b5931b09438b67a8bddf3c6,Vulcan Arena,25
+157, 11efd10097b80740dc84e441069785fe,Lion's Head Arena,25
+158, 11efde56f9e542806e961e37fce419fd,Centre sportif J.-A. Lemay,25
+159, 11E9F686BBB36DA681807B23EA662A63,Emily Omemee Arena,24
+160, 11eec0bf87bfe210af5700aaafa2d9f1,Multiplex Arena,24
+161, 11E9F686BBBCC8F681807B23EA662A63,Gros Morne Regional Complex,23
+162, 11E9F686BBBE635081807B23EA662A63,Harry Ivany Arena,23
+163, 11E9F686BBE5A32A81807B23EA662A63,Peterborough Memorial Centre,23
+164, 11eeb6f1947c1f001655bb9ac12d518d,Oro-Medonte Community Arena,23
+165, 11eeb7072c55f9308fe2395362db20ce,Centre sportif de Métabetchouan,23
+166, 11eebb026d9d06003c8b28043df69538,Smiths Falls Memorial Community Centre,23
+167, 11eebb1858c097905e167b5bb43921ab,Kentville Centennial Arena,23
+168, 11efe32eeedfcd608e2a11d9ff2f65f3,Tobique-Plex,23
+169, 11E9F686BBDF2CCA81807B23EA662A63,Norway House Cree Nation Multiplex,22
+170, 11eeb7b95e6193f0439ee030f65b6ccd,Wainfleet Arena,22
+171, 11efcc4c7779da700cf0061f660dea9a,Stride Place,22
+172, 11efce169eb10b605501b9a86d3ceb3a,Centre des sports Jean Claude Tremblay,22
+173, 11efd14a4f5c786058d88ce51f44c41f,Espanola Recreation Fitness,22
+174, 11E9F686BBC0760481807B23EA662A63,Hillsborough Arena,21
+175, 11eeb57164f89a506ee5bd2c428d7c67,Cominco Arena,21
+176, 11eeb86534aaa3b07f7d59551d1a4621,Marysville Arena,21
+177, 11eec0ca2a6e9100ec3dbc0a12e7ac76,East Gwillimbury Sports Complex,21
+178, 11E9F686BB91C99E81807B23EA662A63,Brennan Park Arena,20
+179, 11eeb17cc56cffa0fd468084f1237ec6,Oxbow Arena,20
+180, 11eeb543b68fd5a0d61bc92906228066,Twin Town Sports Complex,20
+181, 11eeb54d47d059503d9771929b460183,Centre sportif Jacques-Lesage,20
+182, 11eeb5bd746d98905db7339b1b9e9e9b,South Cariboo Rec Center,20
+183, 11eeb631ab3e8cc0782b468a096f8c6e,Tommy Ricketts Arena,20
+184, 11eeba568440b110c8148e7cf196f9f4,Arctic Spas Recreation Complex,20
+185, 11eec0b1afaa6bf05e6d9245f4c60ce4,Okanagan Training Rink,20
+186, 11eec62b03459810023392bba64f97a4,Kapuskasing sports palace,20
+187, 11eecba83cfa87a0286260c4873a2187,Ken Williams Southern Shore Arena,20
+188, 11efcbc1be0a2fc00e21c7f8c26c4aa3,Fort Simpson ,20
+189, 11efce4bdc59b3b099fa2a567ad3cb1e,Maidstone Arena,20
+190, 11efcf9029c2fea01539fbe7fd88feaf,Upper Pontiac Sports ComplexJ,20
+191, 11efcfb594126b4024c9e24f6ed79a60,Nakina Community Complex,20
+192, 11efcfba1d3453d0d6b10f5b24fd3d17,Northern Lights Palace Arena,20
+193, 11efd62c87b536c09afe23d005d4072b,Savanna Agricultural Society Rec-Plex,20
+194, 11efd8d19d573f8086ed6c535fa9893b,Jordan Arena,20
+195, 11efdebc30caa6e0bb3c5cdf886ba58b,Noelville Community Centre,20
+196, 11E9F686BBB1692081807B23EA662A63,eastern Kings Sportsplex,19
+197, 11efcfd1cdae6e50800e363a98538b76,Saint Andrews Community Club,19
+198, 11eeb73381cc29802b6bce5cdba41fa3,Bobcaygeon-Verulam Community Centre,18
+199, 11efcc4fd33abf205d7cbfac73e8aae2,Westlock Rotary Spirit Centre,18
+200, 11E9F686BB811CD481807B23EA662A63,Aréna Gilles-Bourassa,17
+201, 11E9F686BB97FAEE81807B23EA662A63,Carlisle Community Centre,17
+202, 11E9F686BBBA66D881807B23EA662A63,Glenn Hall Centennial Arena,17
+203, 11E9F686BBE5652281807B23EA662A63,Perth & District Community Arena,17
+204, 11E9F686BC0F701081807B23EA662A63,Wallaceburg Memorial Arena,17
+205, 11eeb66b5a1b04603179e071d742dec0,Foam Lake Recreation Centre,17
+206, 11eebbbb7b8cd6501b4b861b90b26a3f,Tilbury Memorial Arena,17
+207, 11eebf8f1b5ef2e0185a05bc4b38f59a,Ridgevalley Arena,17
+208, 11efcfb3099b19f0bdc60934a5d9eb65,Marshal Moores Arena,17
+209, 11E9F686BC12B00481807B23EA662A63,western Financial Group Community Arena (formerly Bow Island Arena),16
+210, 11eeb71c1f7431e0a94860ebb2bfdc25,Alexandra Arena,16
+211, 11eeb99c59e12c70934c42277fc2eb09,Rogers Arena,16
+212, 11eebcd617b2a170a305efaa5f54d6e3,Sandy Bay Arena,16
+213, 11eebebad4f080f0a8fe39202ee25c45,Glovertown Arena,16
+214, 11eec7db96b1bd20b8a44d7b7a374ffa,Arena de Valcourt,16
+215, 11efcc5f9f6ec19095fd7136dfbe7c90,Centre Sportif Mistouk,16
+216, 11efcd08c2d3d6303f7b8bc914b94c9f,Mnjikaning Arena Sports Ki (MASK),16
+217, 11efcce6c12730105f17285b74504356,Pond Inlet Comunity Hall,15
+218, 11E9F686BB75309A81807B23EA662A63,Aréna Réjean Lemelin,14
+219, 11E9F686BB79685E81807B23EA662A63,Amherst Stadium,14
+220, 11E9F686BB804A8E81807B23EA662A63,Aréna Fernand-Asselin,14
+221, 11E9F686BBCB036C81807B23EA662A63,Kitchener Memorial Auditorium Dom Cardillo Kinsmen & Kiwanis Arenas,14
+222, 11E9F686BBFE48C681807B23EA662A63,Sudbury Arena,14
+223, 11eeb6096e308ae030fc3b42da6a5268,Welland Main Arena,14
+224, 11eebef8eb4fb3a0eb1c98d6bfdfcb5f,Fort Macleod & District Sports Centre / Outdoor Swimming Pool / Ice Arena,14
+225, 11eec6f740f4c970a663bfd4e0d55d8e,Aréna Municipal,14
+226, 11eec7900567a2804fec4c1a0ec33e9a,Burford Community Centre,14
+227, 11eeca274231a87051f5d871ecdbc004,Daysland Memorial Arena,14
+228, 11efcc598545bb3061d82c9b9c18ec46,Southeast Event Centre,14
+229, 11efcd74dfe790102bf0b3a287ae113a,Festival Arena,14
+230, 11efd83fc73bd0a0e0288b55e4e44419,Kindersley West Central Events Centre,14
+231, 11E9F686BBA1040481807B23EA662A63,Centre sportif sainte-anne des plaines,13
+232, 11E9F686BBAD621281807B23EA662A63,Deseronto Community Recreation Centre,13
+233, 11E9F686BBB44F3C81807B23EA662A63,Essar Centre formerly Steelback Centre,13
+234, 11E9F686BBB833AE81807B23EA662A63,Fundy Arena,13
+235, 11E9F686BBD09D6881807B23EA662A63,Lunenburg Community Centre Arena,13
+236, 11E9F686BBE02B3E81807B23EA662A63,Oceanside Place Arena,13
+237, 11eeb5c4366043c0d775d2171044d347,Clearwater Arena,13
+238, 11eeb6271149c0d06e362257ecea58d1,Sundre Arena,13
+239, 11eeb740841da7b099a2f8a1725ea445,Tom Forsyth Memorial Arena,13
+240, 11eeb7971751de10faebd9ec82c95a12,Bay Arena,13
+241, 11eeb81e5bb2107075791955b5ea24eb,Flames Community Arenas,13
+242, 11eeb854a5585fa0f0879da6e0855755,Aréna Doug-Harvey,13
+243, 11eebbf5dd11ffb03000c5f17510974d,Gaylord Powless Arena,13
+244, 11eebdfe5779b180d2483a7df74aefbe,Kinsmen Community Arenas,13
+245, 11eec620be82565025b546f0c5fc1684,Co-operative Place,13
+246, 11efcee20ea8f7e0a95514b511914e67,Desbarats arena ,13
+247, 11efd090b4d17a70050acc31db35eb4b,Cornwall Civic Complex,13
+248, 11efd476bae27f10fd0951691c5c54b1,E J Broomfield Arena,13
+249, 11efd8ecd26831a049ae44f50660feed,Lloyd Wilson Centennial Arena,13
 250, 11E9F686BB7627E881807B23EA662A63,Acton Community Centre,12
 251, 11E9F686BBDC6CC481807B23EA662A63,Nicola Valley Memorial Arena,12
 252, 11eebe4d5236daf02d732ed0c64e828a,Sudbury Community Arena,12
