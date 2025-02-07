@@ -13,7 +13,12 @@
       background-repeat: repeat;
     }
     select, button { margin: 10px 0; padding: 5px; }
-    table { width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fff;}
+    table {
+      width: calc(100% - 40px); /* Subtracting the left and right margins */
+      border-collapse: collapse;
+      background-color: #fff;
+      margin: 20px;
+    }
     th, td { border: 1px solid #ddd; padding: 8px; text-align: left; cursor: pointer; }
     th { background-color: #f2f2f2; }
     tr:nth-child(even) { background-color: #f1f5f8; }
@@ -37,8 +42,9 @@
 <select id="csv-select">
   <option value="">-- Select a file --</option>
   <option value="data/authors.csv">Individual Contributions</option>
+  <option value="data/qualified.csv">Qualified For Giveaways</option>
   <option value="data/kraft_facilities.csv">Standings</option>
-  <option value="data/kraft.csv">Breakdown</option>
+  <option value="data/kraft.csv">Arena Breakdown</option>
 </select>
 
 <table id="csv-table">
@@ -93,7 +99,7 @@
 
     if (data.length === 0) return;
 
-    const headers = Object.keys(data[0]).filter(header => !hiddenFields.includes(header));
+    const headers = Object.keys(data[0]).filter(header => !hiddenFields.includes(header.trim()));
     const headerRow = document.createElement('tr');
 
     headers.forEach(header => {
