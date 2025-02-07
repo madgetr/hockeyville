@@ -19,7 +19,7 @@ Pos, Facility ID, Facility Name, Points
 18, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,640
 19, 11eeb9929af07e0041c78e2eb4d12f7a,Veterans Memorial Sports Complex,629
 20, 11EF745D92A71A20B4B8620607786234,St. Isidore Recreation Centre,600
-21, d5512a67cdfc4608ac279365175fcd00,Haldimand Community Memorial Arena,559
+21, d5512a67cdfc4608ac279365175fcd00,Haldimand Community Memorial Arena,569
 22, 11efd05236b741d08029d62c4a776558,Longlac Sportsplex,555
 23, 11E9F686BBED0CFA81807B23EA662A63,Riverton Arena,537
 24, 11E9F686BBCBCC4881807B23EA662A63,La Glace Recreation Centre,496
@@ -40,8 +40,8 @@ Pos, Facility ID, Facility Name, Points
 39, 11efcef1fb67d1a0afa669bb60f5a7ad,Eleanor Pew Memorial Arena,233
 40, 11eebf00b2768100c91eac76a462c52c,Elm Creek Skating Rink,227
 41, 11eebe55089c4260111c17e9259caa6a,Goulds Arena,223
-42, 11efcc66abe09f50fbb368fdafdeb6ca,Cupar Memorial Rink,213
-43, 11eeb9609bd28c50a173d25df9263a83,Unity Parc Arena,206
+42, 11eeb9609bd28c50a173d25df9263a83,Unity Parc Arena,216
+43, 11efcc66abe09f50fbb368fdafdeb6ca,Cupar Memorial Rink,213
 44, 11efcf75483809902bd90ec1517cab1c,Memorial Community Centre Arena,206
 45, 11efcc61799f45f0337d822e4932bf4e,Ville De Bouctouche Forum,182
 46, 11E9F686BB9CD3E881807B23EA662A63,Centre récréatif de Donnacona,180
@@ -69,13 +69,13 @@ Pos, Facility ID, Facility Name, Points
 68, 11efdcb2fb4865d031e479e5767dddb8,Manitouwadge arena ,102
 69, 11E9F686BBD3470C81807B23EA662A63,Marystown Arena,99
 70, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,96
-71, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,92
-72, 11eeb6222b688f00ac245cf23d9a366b,Summerland Arena,91
-73, 11eeb6da2c720620a837bc41071a607e,Thamesford District Recreation Centre,91
-74, 11efde3afa45e9d0516367953137c4c9,Marmora Arena,87
-75, 11E9F686BBECB2BE81807B23EA662A63,River Valley Civic Centre,84
-76, 11eeb616171bd5e0ceb6edfcfeb91bd6,Grandview Agricultural Community Centre,82
-77, 11efdde64b0b40e0ca9a7a266d507e82,Sam Ault Arena,81
+71, 11eeb616171bd5e0ceb6edfcfeb91bd6,Grandview Agricultural Community Centre,92
+72, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,92
+73, 11eeb6222b688f00ac245cf23d9a366b,Summerland Arena,91
+74, 11eeb6da2c720620a837bc41071a607e,Thamesford District Recreation Centre,91
+75, 11efdde64b0b40e0ca9a7a266d507e82,Sam Ault Arena,91
+76, 11efde3afa45e9d0516367953137c4c9,Marmora Arena,87
+77, 11E9F686BBECB2BE81807B23EA662A63,River Valley Civic Centre,84
 78, 11E9F686BBC3FD1A81807B23EA662A63,Inch Park Arena,80
 79, 11efcd34d2eaa0401431a7d1d2ed686b,Kyle Community Sports Centre,78
 80, 11eebf3760b00940ffe304762d2bb666,Irma Arena,77

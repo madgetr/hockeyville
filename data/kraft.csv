@@ -15,7 +15,7 @@ Big River Arena - SK,33,0,91,37,784,75,1424
 Veterans Memorial Sports Complex - MB,31,1,93,30,765,48,1394
 Arborg & District Arena - MB,56,0,122,89,99,120,1114
 Rolling Hills Arena - AB,51,0,82,33,315,66,1104
-Haldimand Community Memorial Arena - ON,29,0,79,32,525,57,1084
+Haldimand Community Memorial Arena - ON,30,0,79,32,525,58,1094
 Fox Valley Skating Arena - SK,47,0,79,29,302,64,1038
 Centre Sportif Normandin - QC,39,1,121,76,198,119,1037
 Riverton Arena - MB,36,0,49,30,493,51,1030
@@ -38,8 +38,8 @@ Kinistino sports complex - SK,10,0,52,12,149,25,417
 Cupar Memorial Rink - SK,8,0,40,13,192,28,405
 Brooke-Alvinston-Inwood Community Centre Complex - ON,14,0,30,13,150,27,393
 Kaslo arena - BC,13,0,41,9,92,22,354
+Unity Parc Arena - NL,15,0,17,15,108,21,324
 Moosonee Arena - ON,15,0,31,8,65,21,316
-Unity Parc Arena - NL,14,0,17,15,108,21,314
 Redwood Meadows Arena - AB,14,2,42,10,17,25,313
 Eleanor Pew Memorial Arena - NS,12,0,34,11,67,19,300
 Walkerton Community Centre - ON,6,0,35,13,84,22,262
@@ -63,13 +63,14 @@ Bienfait Memorial Arena - SK,6,0,26,10,0,16,148
 Jus Jordan Arena - ON,9,0,13,8,4,18,141
 John Levi Community Centre - ON,4,1,22,7,11,17,134
 Al Lawrence Memorial Arena - BC,7,0,11,3,20,8,126
+Sam Ault Arena - ON,7,0,4,9,34,13,125
 Saxon Family Community Complex - SK,9,0,8,3,6,12,123
 Soo Pee Wee Arena - ON,7,0,11,5,8,11,116
-Sam Ault Arena - ON,6,0,4,9,34,13,115
 Kings Arrow Arena - NB,5,0,14,10,13,16,115
 Marystown Arena - NL,5,0,15,4,14,16,113
 Katelynn Osmond Arena - NL,8,0,7,2,4,11,107
 Manitouwadge arena  - ON,4,0,19,5,2,10,104
+Grandview Agricultural Community Centre - MB,5,0,13,3,11,7,103
 Clavet Community Arena - SK,4,0,16,4,11,6,103
 River Valley Civic Centre - NB,5,0,9,7,17,11,101
 Beausejour Sportsplex - MB,4,0,11,4,22,8,99
@@ -78,7 +79,6 @@ Centre Sportif C E Boucher - QC,5,0,14,4,0,11,96
 Thamesford District Recreation Centre - ON,4,0,14,9,4,14,95
 Kyle Community Sports Centre - SK,3,0,15,3,16,8,94
 Marmora Arena - ON,7,0,4,5,6,8,93
-Grandview Agricultural Community Centre - MB,4,0,13,3,11,6,93
 Manvers Arena & Community Centre - ON,4,0,11,2,16,6,91
 Summerland Arena - BC,7,0,6,3,0,10,91
 Rapid City community complex - MB,6,0,5,2,10,7,87
