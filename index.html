@@ -6,16 +6,31 @@
   <title>Trout Creek Hockeyville Rally</title>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
   <style>
-    body { font-family: Arial, sans-serif; margin: 20px; }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #036;
+      background-repeat: repeat;
+    }
     select, button { margin: 10px 0; padding: 5px; }
-    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 20px; background-color: #fff;}
     th, td { border: 1px solid #ddd; padding: 8px; text-align: left; cursor: pointer; }
     th { background-color: #f2f2f2; }
     tr:nth-child(even) { background-color: #f1f5f8; }
+    .shield-image {
+      display: block;
+      margin: 0 auto;
+    }
+    h1, label {
+      font-family: Redzone, Helvetica, Arial, sans-serif;
+        color: #fff;
+      text-align: center;
+    }
   </style>
 </head>
 <body>
-<h1>CSV Table Viewer</h1>
+<img src="assets/shield.807ec91d.png" alt="Shield" class="shield-image">
+<h1>Trout Creek Hockeyville Rally</h1>
 <label for="csv-select">Select:</label>
 <select id="csv-select">
   <option value="">-- Select a file --</option>
