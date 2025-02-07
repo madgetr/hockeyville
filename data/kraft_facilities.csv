@@ -3,7 +3,7 @@ Pos, Facility ID, Facility Name, Points
 2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),7558
 3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,4166
 4, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,3357
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,2485
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,2495
 6, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,2375
 7, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,2348
 8, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,1523
@@ -11,7 +11,7 @@ Pos, Facility ID, Facility Name, Points
 10, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,1015
 11, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,859
 12, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,839
-13, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,779
+13, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,789
 14, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,736
 15, 11eebad347f099003d540cdb84e09cb8,Centre Sportif Charles-Edouard-Boucher,709
 16, 11E9F686BBE5AE1A81807B23EA662A63,Petitcodiac Arena,679
@@ -62,11 +62,11 @@ Pos, Facility ID, Facility Name, Points
 61, 11eec5e85326a470f60b4a810ad1314f,Jim Ciccone Civic Centre,126
 62, 11efd6019365d310971c42873a24eb89,John Levi Community Centre,123
 63, 11efcdd84450f100620f665327d1f7b1,Saxon Family Community Complex,117
-64, 11eebbdd59db60e0838dd72fc536eca8,Soo Pee Wee Arena,108
-65, 11efcc743431db507989d6c33ba8c77f,Al Lawrence Memorial Arena,106
-66, 11E9F686BBCA410281807B23EA662A63,Kings Arrow Arena,102
-67, 11efdcb2fb4865d031e479e5767dddb8,Manitouwadge arena ,102
-68, 11efd4eae8c401503acc7126751bba6f,Delburne AG Arena,101
+64, 11efd4eae8c401503acc7126751bba6f,Delburne AG Arena,111
+65, 11eebbdd59db60e0838dd72fc536eca8,Soo Pee Wee Arena,108
+66, 11efcc743431db507989d6c33ba8c77f,Al Lawrence Memorial Arena,106
+67, 11E9F686BBCA410281807B23EA662A63,Kings Arrow Arena,102
+68, 11efdcb2fb4865d031e479e5767dddb8,Manitouwadge arena ,102
 69, 11E9F686BBD3470C81807B23EA662A63,Marystown Arena,99
 70, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,96
 71, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,92

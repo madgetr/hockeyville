@@ -3,54 +3,57 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Trout Creek Hockeyville Rally</title>
+  <title>Trout Creek Hockeyville Stats</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
       background-color: #036;
-      background-repeat: repeat;
     }
-    select, button { margin: 10px 0; padding: 5px; }
-    table {
-      width: calc(100% - 40px); /* Subtracting the left and right margins */
-      border-collapse: collapse;
-      background-color: #fff;
-      margin: 20px;
+    h1, label {
+      font-family: Redzone Bold Reg, Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      color: #fff;
+      text-align: center;
+      text-shadow: rgba(0, 0, 0, 0.33) 0px 0px 17.68px, rgba(0, 0, 0, 0.25) 0px 0px 8.84px;
+      text-transform: uppercase;
+      font-size: 4.25rem;
+      line-height: .95;
+      margin-bottom: 1rem;
+      margin-block-start: 0.83em;
+      margin-block-end: 0.83em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
     }
-    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; cursor: pointer; }
-    th { background-color: #f2f2f2; }
-    tr:nth-child(even) { background-color: #f1f5f8; }
     .shield-image {
       display: block;
       margin: 0 auto;
     }
-    h1, label {
-      font-family: Redzone, Helvetica, Arial, sans-serif;
-        color: #fff;
-      text-align: center;
-      text-shadow: rgba(0, 0, 0, 0.33) 0px 0px 17.68px, rgba(0, 0, 0, 0.25) 0px 0px 8.84px;
-      text-transform: uppercase;
+    .table th {
+      cursor: pointer;
     }
   </style>
 </head>
-<body>
+<body class="container py-4">
 <img src="assets/shield.807ec91d.png" alt="Shield" class="shield-image">
 <h1>Trout Creek Hockeyville Rally</h1>
-<label for="csv-select">Select:</label>
-<select id="csv-select">
-  <option value="">-- Select a file --</option>
-  <option value="data/authors.csv">Individual Contributions</option>
-  <option value="data/qualified.csv">Qualified For Giveaways</option>
-  <option value="data/kraft_facilities.csv">Standings</option>
-  <option value="data/kraft.csv">Arena Breakdown</option>
-</select>
 
-<table id="csv-table">
-  <thead></thead>
-  <tbody></tbody>
-</table>
+<div class="mb-3 text-center">
+  <select id="csv-select" class="form-select w-auto mx-auto">
+    <option value="">-- Select a file --</option>
+    <option value="data/authors.csv">Individual Contributions</option>
+    <option value="data/qualified.csv">Qualified For Giveaways</option>
+    <option value="data/kraft_facilities.csv">Standings</option>
+    <option value="data/kraft.csv">Arena Breakdown</option>
+  </select>
+</div>
+
+<div class="table-responsive">
+  <table id="csv-table" class="table table-striped table-bordered">
+    <thead></thead>
+    <tbody></tbody>
+  </table>
+</div>
 
 <script>
   const hiddenFields = ["Facility ID", "isTop4Facility", "ID"];
@@ -85,7 +88,6 @@
         .then(csvText => {
           const parsedData = Papa.parse(csvText, { header: true });
           displayTable(parsedData.data);
-          displayHiddenFields();
         })
         .catch(error => console.error('Error loading CSV:', error));
   }
@@ -128,7 +130,6 @@
     });
   }
 
-
   function sortTable(data, column) {
     const thElements = document.querySelectorAll('th');
     let currentSort = 'asc';
@@ -149,23 +150,18 @@
       }
     });
 
-    populateTableBody(data, Object.keys(data[0]).filter(header => !hiddenFields.includes(header)));
-  }
-
-  function displayHiddenFields() {
-    const hiddenList = document.getElementById('hidden-fields');
-    hiddenList.innerHTML = '';
-    hiddenFields.forEach(field => {
-      const li = document.createElement('li');
-      li.textContent = field;
-      hiddenList.appendChild(li);
+    data.sort((a, b) => {
+      const valA = isNaN(a[column]) ? a[column] : parseFloat(a[column]);
+      const valB = isNaN(b[column]) ? b[column] : parseFloat(b[column]);
+      return currentSort === 'asc' ? valA - valB : valB - valA;
     });
+
+    populateTableBody(data, Object.keys(data[0]).filter(header => !hiddenFields.includes(header)));
   }
 
   function clearTable() {
     document.querySelector('#csv-table thead').innerHTML = '';
     document.querySelector('#csv-table tbody').innerHTML = '';
-    document.getElementById('hidden-fields').innerHTML = '';
   }
 </script>
 </body>

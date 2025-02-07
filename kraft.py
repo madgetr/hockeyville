@@ -264,6 +264,7 @@ def job(cookie):
     save_running_total_by_arena_csv(data, "kraft_running_total.csv")
     print("Total: ", total)
     commit_and_push_to_git()
+    save_last_modified_date()
 
 
 def save_facilities_as_csv(data, filename):
@@ -290,6 +291,10 @@ def get_facilities(cookie):
     except requests.exceptions.JSONDecodeError:
         print(response.content)
         raise ValueError("Response content is not valid JSON or is empty")
+
+def save_last_modified_date():
+    with open(SAVE_DIR + "last_modified.txt", "w") as f:
+        f.write(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
 
 def main():
     cookie = input("Enter the cookie: ")
