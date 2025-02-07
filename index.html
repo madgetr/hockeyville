@@ -155,10 +155,11 @@
 
   function getLastModified() {
     fetch('data/last_modified.txt')
-        .then(response => response.headers.get('Last-Modified'))
+        .then(response => response.text())
         .then(lastModified => {
           const lastModifiedLabel = document.getElementById('last-modified-label');
-          lastModifiedLabel.textContent = `Last Modified: ${new Date(lastModified).toLocaleString()}`;
+          lastModifiedLabel.textContent = `Last Modified: ${lastModified}`;
+          console.log(lastModified);
         })
   }
 
