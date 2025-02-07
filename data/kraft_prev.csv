@@ -13,8 +13,8 @@ St. Isidore Recreation Centre - ON,19,1,124,28,1058,49,1658
 Oxbow Community Arena - SK,51,0,36,50,979,55,1647
 Big River Arena - SK,33,0,91,37,784,75,1424
 Veterans Memorial Sports Complex - MB,31,1,93,30,765,48,1394
+Rolling Hills Arena - AB,53,0,82,33,332,68,1141
 Arborg & District Arena - MB,58,0,122,89,99,121,1134
-Rolling Hills Arena - AB,52,0,82,33,316,67,1115
 Haldimand Community Memorial Arena - ON,31,0,79,32,525,59,1104
 Fox Valley Skating Arena - SK,47,0,79,29,302,64,1038
 Centre Sportif Normandin - QC,39,1,121,76,198,119,1037
@@ -30,7 +30,7 @@ Greenwood Arena - ON,29,0,47,30,140,62,601
 8th Hussars Sports Center - NB,25,0,40,15,189,45,574
 Ivor MacDonald Memorial Arena - NS,12,0,40,28,248,38,516
 Elm Creek Skating Rink - MB,11,0,33,18,269,29,496
-North Peace Arena - BC,20,0,50,16,119,46,485
+North Peace Arena - BC,21,0,50,16,119,47,495
 Kingston Memorial Centre - ON,19,0,41,14,137,25,464
 Springdale Stadium and Curling Club - NL,21,0,40,10,90,30,430
 Goulds Arena - NL,7,0,47,12,207,19,430
@@ -180,6 +180,7 @@ Hillsborough Arena - NB,2,0,0,1,0,2,21
 Jordan Arena - ON,1,0,3,1,1,1,21
 Westlock Rotary Spirit Centre - AB,1,0,2,2,3,3,21
 Cominco Arena - BC,2,0,0,1,0,3,21
+Cremona Ag Society Community Arena - AB,2,0,0,0,0,2,20
 Twin Town Sports Complex - NL,2,0,0,0,0,2,20
 Upper Pontiac Sports ComplexJ - QC,1,0,3,1,0,1,20
 Savanna Agricultural Society Rec-Plex - AB,2,0,0,0,0,2,20
@@ -276,7 +277,6 @@ Centre Sportif d'Opitciwan - QC,1,0,0,1,0,1,11
 Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada - PE,1,0,0,0,0,1,10
 Upper Pontiac Sports Complex - QC,1,0,0,0,0,1,10
 Chesterville and District Arena - ON,1,0,0,0,0,1,10
-Cremona Ag Society Community Arena - AB,1,0,0,0,0,1,10
 Frank Crane Arena - BC,1,0,0,0,0,1,10
 De Salaberry Recreation Facility (St. Malo Arena) - MB,1,0,0,0,0,1,10
 Macdonald - QC,1,0,0,0,0,1,10

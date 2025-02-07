@@ -264,7 +264,6 @@ def job(cookie):
     save_running_total_by_arena_csv(data, "kraft_running_total.csv")
     print("Total: ", total)
     commit_and_push_to_git()
-    save_last_modified_date()
 
 
 def save_facilities_as_csv(data, filename):
@@ -275,6 +274,8 @@ def save_facilities_as_csv(data, filename):
         for facility in data["facilities"]:
             pos = data["facilities"].index(facility) + 1
             points = facility['points'] if facility['points'] else 0
+            if 'Trout Creek' in facility['data']['name']:
+                save_last_modified_date(pos, points)
             f.write(f"{pos}, {facility['data']['id']},{facility['data']['name'].replace(',','')},{points}\n")
 
 
@@ -292,9 +293,11 @@ def get_facilities(cookie):
         print(response.content)
         raise ValueError("Response content is not valid JSON or is empty")
 
-def save_last_modified_date():
+def save_last_modified_date(pos, points):
     with open(SAVE_DIR + "last_modified.txt", "w") as f:
-        f.write(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
+        f.write(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()) + "\n" +
+                "Pos: " + str(pos) + "\n" +
+                "Points: " + str(points) + "\n")
 
 def main():
     cookie = input("Enter the cookie: ")
