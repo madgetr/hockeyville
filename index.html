@@ -25,6 +25,8 @@
       font-family: Redzone, Helvetica, Arial, sans-serif;
         color: #fff;
       text-align: center;
+      text-shadow: rgba(0, 0, 0, 0.33) 0px 0px 17.68px, rgba(0, 0, 0, 0.25) 0px 0px 8.84px;
+      text-transform: uppercase;
     }
   </style>
 </head>
@@ -46,22 +48,41 @@
 
 <script>
   const hiddenFields = ["Facility ID", "isTop4Facility", "ID"];
+  window.addEventListener('DOMContentLoaded', () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const fileParam = urlParams.get('file');
+
+    if (fileParam) {
+      document.getElementById('csv-select').value = fileParam;
+      loadCSV(fileParam);
+    }
+  });
 
   document.getElementById('csv-select').addEventListener('change', function () {
     const file = this.value;
+    const url = new URL(window.location);
+
     if (file) {
-      fetch(file)
-          .then(response => response.text())
-          .then(csvText => {
-            const parsedData = Papa.parse(csvText, { header: true });
-            displayTable(parsedData.data);
-            displayHiddenFields();
-          })
-          .catch(error => console.error('Error loading CSV:', error));
+      url.searchParams.set('file', file);
+      loadCSV(file);
     } else {
+      url.searchParams.delete('file');
       clearTable();
     }
+
+    window.history.pushState({}, '', url);
   });
+
+  function loadCSV(file) {
+    fetch(file)
+        .then(response => response.text())
+        .then(csvText => {
+          const parsedData = Papa.parse(csvText, { header: true });
+          displayTable(parsedData.data);
+          displayHiddenFields();
+        })
+        .catch(error => console.error('Error loading CSV:', error));
+  }
 
   function displayTable(data) {
     const tableHead = document.querySelector('#csv-table thead');
@@ -72,12 +93,13 @@
 
     if (data.length === 0) return;
 
-    const headers = Object.keys(data[0]).filter(header => !hiddenFields.includes(header.trim()));
+    const headers = Object.keys(data[0]).filter(header => !hiddenFields.includes(header));
     const headerRow = document.createElement('tr');
 
     headers.forEach(header => {
       const th = document.createElement('th');
       th.textContent = header;
+      th.addEventListener('click', () => sortTable(data, header));
       headerRow.appendChild(th);
     });
     tableHead.appendChild(headerRow);
@@ -99,6 +121,7 @@
       tableBody.appendChild(tr);
     });
   }
+
 
   function sortTable(data, column) {
     const thElements = document.querySelectorAll('th');

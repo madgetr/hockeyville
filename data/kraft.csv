@@ -1,9 +1,9 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,432,2,994,459,31107,656,38888
-Sackville Arena (LDRA) - NS,387,0,1110,358,13756,625,21314
-Honeywood Arena - ON,179,19,669,166,6179,343,10332
-Bashaw Arena - AB,238,0,263,188,6463,309,9820
-Pete Knight Arena - AB,146,0,279,158,5712,239,8167
+Trout Creek Community Centre - ON,434,2,994,459,31107,657,38908
+Sackville Arena (LDRA) - NS,387,0,1110,358,13787,625,21345
+Honeywood Arena - ON,180,19,669,166,6179,343,10342
+Bashaw Arena - AB,238,0,263,188,6500,309,9857
+Pete Knight Arena - AB,149,0,279,158,5712,239,8197
 Middleton District Arena - NS,126,0,317,161,3927,248,6299
 Redvers rec center - SK,76,0,185,93,4677,137,6085
 Aréna Saint-Boniface - QC,137,0,274,156,2920,240,5268
@@ -35,7 +35,7 @@ Kingston Memorial Centre - ON,19,0,41,14,137,25,464
 Goulds Arena - NL,7,0,47,12,207,19,430
 Springdale Stadium and Curling Club - NL,20,0,40,10,90,29,420
 Kinistino sports complex - SK,10,0,52,12,149,25,417
-Cupar Memorial Rink - SK,7,0,40,13,192,27,395
+Cupar Memorial Rink - SK,8,0,40,13,192,28,405
 Brooke-Alvinston-Inwood Community Centre Complex - ON,14,0,30,13,150,27,393
 Kaslo arena - BC,13,0,41,9,92,22,354
 Moosonee Arena - ON,15,0,31,8,65,21,316
@@ -49,22 +49,23 @@ Coldwater Arena - ON,12,0,11,10,56,16,219
 Centre récréatif de Donnacona - QC,8,0,26,22,35,29,215
 Memorial Community Centre Arena - AB,10,0,31,10,8,16,211
 Arena De Clarence Creek - ON,7,0,29,13,33,21,203
+South Courtice Arena - ON,7,0,17,8,71,13,200
 Ville De Bouctouche Forum - NB,15,0,7,11,14,20,196
 Wilfred T Lipton Arena - MB,9,0,17,11,44,16,196
 Sangudo Arena - AB,7,0,21,7,55,15,195
 Bill Chaplin Arena - NL,6,1,18,13,54,20,191
-South Courtice Arena - ON,6,0,17,8,71,12,190
 Aréna Jean Rougeau - QC,6,0,34,12,15,17,189
 Hespeler Memorial Arena - ON,6,0,22,4,55,12,185
 Archie Miller Arena - AB,8,0,25,10,1,20,166
 Jim Ciccone Civic Centre - BC,4,1,22,10,29,21,155
 Bienfait Memorial Arena - SK,6,0,26,10,0,16,148
+Delburne AG Arena - AB,8,0,6,3,42,9,143
 Jus Jordan Arena - ON,9,0,13,8,4,18,141
 John Levi Community Centre - ON,4,1,22,7,11,17,134
-Delburne AG Arena - AB,7,0,6,3,42,8,133
 Al Lawrence Memorial Arena - BC,7,0,11,3,20,8,126
 Saxon Family Community Complex - SK,9,0,8,3,6,12,123
 Soo Pee Wee Arena - ON,7,0,11,5,8,11,116
+Sam Ault Arena - ON,6,0,4,9,34,13,115
 Kings Arrow Arena - NB,5,0,14,10,13,16,115
 Marystown Arena - NL,5,0,15,4,14,16,113
 Katelynn Osmond Arena - NL,8,0,7,2,4,11,107
@@ -74,14 +75,13 @@ River Valley Civic Centre - NB,5,0,9,7,17,11,101
 Beausejour Sportsplex - MB,4,0,11,4,22,8,99
 Inch Park Arena - ON,2,0,18,6,18,11,98
 Centre Sportif C E Boucher - QC,5,0,14,4,0,11,96
-Sam Ault Arena - ON,4,0,4,9,34,11,95
 Thamesford District Recreation Centre - ON,4,0,14,9,4,14,95
 Kyle Community Sports Centre - SK,3,0,15,3,16,8,94
+Marmora Arena - ON,7,0,4,5,6,8,93
 Grandview Agricultural Community Centre - MB,4,0,13,3,11,6,93
 Manvers Arena & Community Centre - ON,4,0,11,2,16,6,91
 Summerland Arena - BC,7,0,6,3,0,10,91
 Rapid City community complex - MB,6,0,5,2,10,7,87
-Marmora Arena - ON,6,0,4,5,6,7,83
 Irma Arena - AB,3,0,15,2,0,7,77
 Knights Of Columbus Twin Arenas - AB,5,0,6,8,0,12,76
 Ingersoll & District Memorial Centre - ON,4,0,9,5,0,7,72
@@ -273,6 +273,8 @@ Reeves Community Complex - ON,1,0,0,1,0,2,11
 Ma-te-way Park - ON,1,0,0,1,0,1,11
 Ridgetown Arena - ON,1,0,0,1,0,1,11
 Centre Sportif d'Opitciwan - QC,1,0,0,1,0,1,11
+Cremona Ag Society Community Arena - AB,1,0,0,0,0,1,10
+Frank Crane Arena - BC,1,0,0,0,0,1,10
 De Salaberry Recreation Facility (St. Malo Arena) - MB,1,0,0,0,0,1,10
 Macdonald - QC,1,0,0,0,0,1,10
 Jubilee Recreation Centre - AB,1,0,0,0,0,1,10

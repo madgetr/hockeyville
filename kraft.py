@@ -143,6 +143,7 @@ def get_author_points(counts):
 
 
 def save_author_repo_csv(authors, profiles, facility_names):
+    save_qualified_csv(authors, profiles, facility_names)
     # sort authors by name
     for facility, data in authors.items():
         authors[facility] = dict(sorted(data.items(), key=lambda item: profiles[item[0]]))
@@ -153,6 +154,23 @@ def save_author_repo_csv(authors, profiles, facility_names):
             if 'Trout Creek' not in facility_names[facility]:
                 continue
             for author, counts in data.items():
+                # if 'Trout Creek' in facility_names[facility].replace(',', ''):
+                f.write(
+                    f"{author},{get_firstname(profiles[author])},{get_story_icon(counts['story'] + counts['video'])},{get_story_icon(counts['note'])},{get_photo_icon(counts['photo'])},{get_author_points(counts)}\n")
+
+def save_qualified_csv(authors, profiles, facility_names):
+    # sort authors by name
+    for facility, data in authors.items():
+        authors[facility] = dict(sorted(data.items(), key=lambda item: profiles[item[0]]))
+
+    with open(SAVE_DIR + "qualified.csv", "w") as f:
+        f.write("ID, Author, Story, Note, Photo, Points\n")
+        for facility, data in authors.items():
+            if 'Trout Creek' not in facility_names[facility]:
+                continue
+            for author, counts in data.items():
+                if str(get_author_points(counts)).count('⭐') != 1:
+                    continue
                 # if 'Trout Creek' in facility_names[facility].replace(',', ''):
                 f.write(
                     f"{author},{get_firstname(profiles[author])},{get_story_icon(counts['story'] + counts['video'])},{get_story_icon(counts['note'])},{get_photo_icon(counts['photo'])},{get_author_points(counts)}\n")
