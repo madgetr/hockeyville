@@ -10,9 +10,11 @@
     body {
       background-color: #036;
     }
+
     label {
       color: #fff;
     }
+
     h1 {
       font-family: Redzone Bold Reg, Helvetica, Arial, sans-serif;
       font-weight: 400;
@@ -28,11 +30,13 @@
       margin-inline-start: 0px;
       margin-inline-end: 0px;
     }
+
     .shield-image {
       display: block;
       margin: 0 auto;
       scale: 75%;
     }
+
     .table th {
       cursor: pointer;
     }
@@ -48,8 +52,8 @@
     <option value="">-- Select a file --</option>
     <option value="data/authors.csv">Individual Contributions</option>
     <option value="data/qualified.csv">Qualified For Giveaways</option>
-<!--    <option value="data/kraft_facilities.csv">Standings</option>-->
-<!--    <option value="data/kraft.csv">Arena Breakdown</option>-->
+    <!--    <option value="data/kraft_facilities.csv">Standings</option>-->
+    <!--    <option value="data/kraft.csv">Arena Breakdown</option>-->
   </select>
 </div>
 
@@ -63,28 +67,38 @@
 
 <script>
   const hiddenFields = ["Facility ID", "isTop4Facility", "ID"];
+  const hiddenOptions = [["data/kraft_facilities.csv", "Standings"], ["data/kraft.csv", "Arena Breakdown"]];
   window.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
     const fileParam = urlParams.get('file');
     const all = urlParams.get('all');
     if (all) {
-        // add standings and arena breakdown to the dropdown
-        document.getElementById('csv-select').innerHTML += '<option value="data/kraft_facilities.csv">Standings</option><option value="data/kraft.csv">Arena Breakdown</option>';
+      // add standings and arena breakdown to the dropdown
+      hiddenOptions.forEach(option => {
+        const select = document.getElementById('csv-select');
+        const optionElement = document.createElement('option');
+        optionElement.value = option[0];
+        optionElement.textContent = option[1];
+        select.appendChild(optionElement);
+      });
     }
     if (fileParam) {
       document.getElementById('csv-select').value = fileParam;
-      loadCSV(fileParam);
+      if (all || !hiddenOptions.some(option => option[0] === fileParam)) {
+        loadCSV(fileParam);
+      }
     }
   });
 
-  document.getElementById('csv-select').addEventListener('change', function () {
+  document.getElementById('csv-select').addEventListener('change', function() {
     const file = this.value;
     const url = new URL(window.location);
 
     if (file) {
       url.searchParams.set('file', file);
       loadCSV(file);
-    } else {
+    }
+    else {
       url.searchParams.delete('file');
       clearTable();
     }
@@ -97,7 +111,7 @@
     fetch(file)
         .then(response => response.text())
         .then(csvText => {
-          const parsedData = Papa.parse(csvText, { header: true });
+          const parsedData = Papa.parse(csvText, {header: true});
           displayTable(parsedData.data);
         })
         .catch(error => console.error('Error loading CSV:', error));
@@ -143,10 +157,10 @@
 
   function getLastModified() {
     fetch('data/last_modified.txt')
-      .then(response => response.headers.get('Last-Modified'))
+        .then(response => response.headers.get('Last-Modified'))
         .then(lastModified => {
-            const lastModifiedLabel = document.getElementById('last-modified-label');
-            lastModifiedLabel.textContent = `Last Modified: ${new Date(lastModified).toLocaleString()}`;
+          const lastModifiedLabel = document.getElementById('last-modified-label');
+          lastModifiedLabel.textContent = `Last Modified: ${new Date(lastModified).toLocaleString()}`;
         })
   }
 
@@ -160,12 +174,14 @@
           currentSort = 'desc';
           th.classList.remove('sort-asc');
           th.classList.add('sort-desc');
-        } else {
+        }
+        else {
           currentSort = 'asc';
           th.classList.remove('sort-desc');
           th.classList.add('sort-asc');
         }
-      } else {
+      }
+      else {
         th.classList.remove('sort-asc', 'sort-desc');
       }
     });
