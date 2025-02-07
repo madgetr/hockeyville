@@ -1,10 +1,10 @@
 Pos, Facility ID, Facility Name, Points
-1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,7834
+1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,7894
 2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),7558
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,4176
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,4186
 4, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,3367
 5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,2515
-6, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,2385
+6, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,2395
 7, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,2348
 8, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,1523
 9, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,1408
@@ -12,14 +12,14 @@ Pos, Facility ID, Facility Name, Points
 11, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,859
 12, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,839
 13, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,809
-14, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,736
+14, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,746
 15, 11eebad347f099003d540cdb84e09cb8,Centre Sportif Charles-Edouard-Boucher,709
 16, 11E9F686BBE5AE1A81807B23EA662A63,Petitcodiac Arena,679
 17, 11eeb488d3a9da20bc289cffe14b7496,Oxbow Community Arena,668
-18, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,640
+18, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,650
 19, 11eeb9929af07e0041c78e2eb4d12f7a,Veterans Memorial Sports Complex,629
 20, 11EF745D92A71A20B4B8620607786234,St. Isidore Recreation Centre,600
-21, d5512a67cdfc4608ac279365175fcd00,Haldimand Community Memorial Arena,579
+21, d5512a67cdfc4608ac279365175fcd00,Haldimand Community Memorial Arena,589
 22, 11efd05236b741d08029d62c4a776558,Longlac Sportsplex,555
 23, 11E9F686BBED0CFA81807B23EA662A63,Riverton Arena,537
 24, 11E9F686BBCBCC4881807B23EA662A63,La Glace Recreation Centre,496
@@ -30,7 +30,7 @@ Pos, Facility ID, Facility Name, Points
 29, 11efd22efdcddb70aa25cfa7687d2aa4,Ron Gorr Memorial Arena,353
 30, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,344
 31, 11eeb8c4f3352030b590a61d8226fed8,Springdale Stadium and Curling Club,340
-32, 11efce8c9f28cfd02e5ea2749db3bae8,Kingston Memorial Centre,327
+32, 11efce8c9f28cfd02e5ea2749db3bae8,Kingston Memorial Centre,337
 33, 11E9F686BBEB399881807B23EA662A63,Redwood Meadows Arena,296
 34, 11eeb28b1e853a30ffa2ce4b52231f7b,Kinistino sports complex,278
 35, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,268
@@ -39,11 +39,11 @@ Pos, Facility ID, Facility Name, Points
 38, 11eeb86ad118030047158bd465a9cd46,Brooke-Alvinston-Inwood Community Centre Complex,243
 39, 11efcef1fb67d1a0afa669bb60f5a7ad,Eleanor Pew Memorial Arena,233
 40, 11eebf00b2768100c91eac76a462c52c,Elm Creek Skating Rink,227
-41, 11eebe55089c4260111c17e9259caa6a,Goulds Arena,223
-42, 11efcc66abe09f50fbb368fdafdeb6ca,Cupar Memorial Rink,223
-43, 11eeb9609bd28c50a173d25df9263a83,Unity Parc Arena,216
-44, 11efcf75483809902bd90ec1517cab1c,Memorial Community Centre Arena,206
-45, 11eec6f3b6b67ef0b4beebf0dc85c2b2,Arena De Clarence Creek,200
+41, 11eeb9609bd28c50a173d25df9263a83,Unity Parc Arena,226
+42, 11eebe55089c4260111c17e9259caa6a,Goulds Arena,223
+43, 11efcc66abe09f50fbb368fdafdeb6ca,Cupar Memorial Rink,223
+44, 11eec6f3b6b67ef0b4beebf0dc85c2b2,Arena De Clarence Creek,210
+45, 11efcf75483809902bd90ec1517cab1c,Memorial Community Centre Arena,206
 46, 11efcc61799f45f0337d822e4932bf4e,Ville De Bouctouche Forum,182
 47, 11E9F686BB9CD3E881807B23EA662A63,Centre récréatif de Donnacona,180
 48, 11eeb94b0a9f1e707a50d372baf5b339,Walkerton Community Centre,178
@@ -61,8 +61,8 @@ Pos, Facility ID, Facility Name, Points
 60, 11E9F686BBF63B4A81807B23EA662A63,South Courtice Arena,129
 61, 11eec5e85326a470f60b4a810ad1314f,Jim Ciccone Civic Centre,126
 62, 11efd6019365d310971c42873a24eb89,John Levi Community Centre,123
-63, 11efcdd84450f100620f665327d1f7b1,Saxon Family Community Complex,117
-64, 11efd4eae8c401503acc7126751bba6f,Delburne AG Arena,111
+63, 11efd4eae8c401503acc7126751bba6f,Delburne AG Arena,121
+64, 11efcdd84450f100620f665327d1f7b1,Saxon Family Community Complex,117
 65, 11eebbdd59db60e0838dd72fc536eca8,Soo Pee Wee Arena,108
 66, 11efcc743431db507989d6c33ba8c77f,Al Lawrence Memorial Arena,106
 67, 11E9F686BBCA410281807B23EA662A63,Kings Arrow Arena,102
