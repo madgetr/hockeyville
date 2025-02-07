@@ -2,9 +2,9 @@ Facility, stories, videos, photos, notes, reactions, contributors, points
 Trout Creek Community Centre - ON,436,2,994,459,31107,657,38928
 Sackville Arena (LDRA) - NS,387,0,1110,358,13787,625,21345
 Honeywood Arena - ON,181,19,669,166,6179,343,10352
-Bashaw Arena - AB,238,0,263,188,6537,309,9894
-Pete Knight Arena - AB,151,0,279,158,5712,239,8217
-Middleton District Arena - NS,126,0,317,161,3927,248,6299
+Bashaw Arena - AB,239,0,263,188,6538,310,9905
+Pete Knight Arena - AB,152,0,279,158,5712,240,8227
+Middleton District Arena - NS,127,0,317,161,3927,249,6309
 Redvers rec center - SK,76,0,185,93,4677,137,6085
 Aréna Saint-Boniface - QC,137,0,274,156,2920,240,5268
 North Hastings Community Centre - ON,52,0,102,33,2149,62,3008
@@ -13,9 +13,9 @@ St. Isidore Recreation Centre - ON,19,1,124,28,1058,49,1658
 Oxbow Community Arena - SK,51,0,36,50,979,55,1647
 Big River Arena - SK,33,0,91,37,784,75,1424
 Veterans Memorial Sports Complex - MB,31,1,93,30,765,48,1394
-Arborg & District Arena - MB,56,0,122,89,99,120,1114
-Rolling Hills Arena - AB,51,0,82,33,315,66,1104
-Haldimand Community Memorial Arena - ON,30,0,79,32,525,58,1094
+Arborg & District Arena - MB,58,0,122,89,99,121,1134
+Rolling Hills Arena - AB,52,0,82,33,316,67,1115
+Haldimand Community Memorial Arena - ON,31,0,79,32,525,59,1104
 Fox Valley Skating Arena - SK,47,0,79,29,302,64,1038
 Centre Sportif Normandin - QC,39,1,121,76,198,119,1037
 Riverton Arena - MB,36,0,49,30,493,51,1030
@@ -32,10 +32,10 @@ Ivor MacDonald Memorial Arena - NS,12,0,40,28,248,38,516
 Elm Creek Skating Rink - MB,11,0,33,18,269,29,496
 North Peace Arena - BC,20,0,50,16,119,46,485
 Kingston Memorial Centre - ON,19,0,41,14,137,25,464
+Springdale Stadium and Curling Club - NL,21,0,40,10,90,30,430
 Goulds Arena - NL,7,0,47,12,207,19,430
-Springdale Stadium and Curling Club - NL,20,0,40,10,90,29,420
 Kinistino sports complex - SK,10,0,52,12,149,25,417
-Cupar Memorial Rink - SK,8,0,40,13,192,28,405
+Cupar Memorial Rink - SK,9,0,40,13,192,29,415
 Brooke-Alvinston-Inwood Community Centre Complex - ON,14,0,30,13,150,27,393
 Kaslo arena - BC,13,0,41,9,92,22,354
 Unity Parc Arena - NL,15,0,17,15,108,21,324
@@ -45,10 +45,10 @@ Eleanor Pew Memorial Arena - NS,12,0,34,11,67,19,300
 Walkerton Community Centre - ON,6,0,35,13,84,22,262
 I J Coady Memorial Arena - ON,8,0,29,7,82,15,256
 Civic Centre Arena - ON,7,0,23,12,84,20,235
+Arena De Clarence Creek - ON,10,0,29,13,33,24,233
 Coldwater Arena - ON,12,0,11,10,56,16,219
 Centre récréatif de Donnacona - QC,8,0,26,22,35,29,215
 Memorial Community Centre Arena - AB,10,0,31,10,8,16,211
-Arena De Clarence Creek - ON,7,0,29,13,33,21,203
 South Courtice Arena - ON,7,0,17,8,71,13,200
 Ville De Bouctouche Forum - NB,15,0,7,11,14,20,196
 Wilfred T Lipton Arena - MB,9,0,17,11,44,16,196
@@ -273,6 +273,9 @@ Reeves Community Complex - ON,1,0,0,1,0,2,11
 Ma-te-way Park - ON,1,0,0,1,0,1,11
 Ridgetown Arena - ON,1,0,0,1,0,1,11
 Centre Sportif d'Opitciwan - QC,1,0,0,1,0,1,11
+Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada - PE,1,0,0,0,0,1,10
+Upper Pontiac Sports Complex - QC,1,0,0,0,0,1,10
+Chesterville and District Arena - ON,1,0,0,0,0,1,10
 Cremona Ag Society Community Arena - AB,1,0,0,0,0,1,10
 Frank Crane Arena - BC,1,0,0,0,0,1,10
 De Salaberry Recreation Facility (St. Malo Arena) - MB,1,0,0,0,0,1,10
