@@ -3,7 +3,7 @@
 2025/02/07,Trout Creek Community Centre,story,10,13
 2025/02/07,Scott Safety Centre - Whitecourt Twin Arenas,story,10,10
 2025/02/07,North Hastings Community Centre,story,10,12
-2025/02/07,Delburne AG Arena,story,10,13
+2025/02/07,Delburne AG Arena,story,10,14
 2025/02/07,Rolling Hills Arena,story,10,10
 2025/02/07,Veterans Memorial Sports Complex,story,10,10
 2025/02/07,Haldimand Community Memorial Arena,story,10,10
@@ -27,7 +27,7 @@
 2025/02/07,Unity Parc Arena,story,10,10
 2025/02/07,Fox Valley Skating Arena,story,10,10
 2025/02/07,Trout Creek Community Centre,story,10,13
-2025/02/07,Delburne AG Arena,story,10,13
+2025/02/07,Delburne AG Arena,story,10,14
 2025/02/07,Honeywood Arena,story,10,12
 2025/02/07,Trout Creek Community Centre,story,10,13
 2025/02/07,Kinistino sports complex,story,10,10
@@ -47,7 +47,7 @@
 2025/02/07,Arena De Clarence Creek,story,10,10
 2025/02/07,Arborg & District Arena,story,10,10
 2025/02/07,Haldimand Community Memorial Arena,story,10,10
-2025/02/07,Pete Knight Arena,story,10,14
+2025/02/07,Pete Knight Arena,story,10,15
 2025/02/07,Centre Sportif Normandin,story,10,11
 2025/02/07,Middleton District Arena,story,10,11
 2025/02/07,Chesterville and District Arena,story,10,10
@@ -70,8 +70,8 @@
 2025/02/07,Centre Sportif Normandin,note,1,1
 2025/02/07,Athens Community Centre Centre 76,story,10,10
 2025/02/07,Pete Knight Arena,note,1,1
-2025/02/07,Pete Knight Arena,story,10,14
-2025/02/07,Delburne AG Arena,story,10,14
+2025/02/07,Pete Knight Arena,story,10,15
+2025/02/07,Delburne AG Arena,story,10,15
 2025/02/07,Pete Knight Arena,note,1,1
 2025/02/07,Ron Ebbesen Twin Arena,note,1,1
 2025/02/07,Rolling Hills Arena,story,10,11
@@ -84,7 +84,7 @@
 2025/02/07,Cremona Ag Society Community Arena,story,10,10
 2025/02/07,Trout Creek Community Centre,note,1,1
 2025/02/07,Trout Creek Community Centre,story,10,13
-2025/02/07,Delburne AG Arena,story,10,13
+2025/02/07,Delburne AG Arena,story,10,14
 2025/02/07,Bashaw Arena,note,1,1
 2025/02/07,Fox Valley Skating Arena,note,1,1
 2025/02/07,Bashaw Arena,story,10,15
@@ -92,7 +92,7 @@
 2025/02/07,Bashaw Arena,story,10,14
 2025/02/07,Trout Creek Community Centre,story,10,13
 2025/02/07,Marysville Arena,story,10,10
-2025/02/07,Delburne AG Arena,story,10,13
+2025/02/07,Delburne AG Arena,story,10,14
 2025/02/07,Orville Acres Arena,story,10,10
 2025/02/07,Trout Creek Community Centre,note,1,1
 2025/02/07,Trout Creek Community Centre,story,10,12
@@ -165,7 +165,7 @@
 2025/02/06,John Levi Community Centre,story,10,10
 2025/02/06,Centre Sportif Normandin,note,1,1
 2025/02/06,Unity Parc Arena,note,1,1
-2025/02/06,Delburne AG Arena,story,10,13
+2025/02/06,Delburne AG Arena,story,10,14
 2025/02/06,Centre sportif J.-A. Lemay,story,10,10
 2025/02/06,Riverton Arena,story,10,10
 2025/02/06,Centre Sportif Normandin,note,1,1
@@ -349,14 +349,14 @@
 2025/02/06,Aréna Saint-Boniface,story,10,10
 2025/02/06,Haldimand Community Memorial Arena,photo,3,4
 2025/02/06,Don Cruickshank Memorial Arena,photo,3,7
-2025/02/06,Delburne AG Arena,story,10,13
+2025/02/06,Delburne AG Arena,story,10,14
 2025/02/06,Kaetlyn Osmond Arena,photo,3,3
 2025/02/06,Aréna Saint-Boniface,story,10,10
 2025/02/06,Delburne AG Arena,note,1,1
 2025/02/06,Macdonald,story,10,10
-2025/02/06,Delburne AG Arena,photo,3,9
+2025/02/06,Delburne AG Arena,photo,3,10
 2025/02/06,Middleton District Arena,note,1,1
-2025/02/06,Delburne AG Arena,photo,3,9
+2025/02/06,Delburne AG Arena,photo,3,10
 2025/02/06,Orville Acres Arena,note,1,1
 2025/02/06,Orville Acres Arena,photo,3,4
 2025/02/06,Middleton District Arena,photo,3,5
@@ -472,9 +472,9 @@
 2025/02/06,Pete Knight Arena,photo,3,7
 2025/02/06,Centre Sportif Normandin,photo,3,6
 2025/02/06,Don Cruickshank Memorial Arena,story,10,12
-2025/02/06,Pete Knight Arena,photo,3,8
+2025/02/06,Pete Knight Arena,photo,3,9
 2025/02/06,Centre Sportif Normandin,photo,3,4
-2025/02/06,Delburne AG Arena,story,10,13
+2025/02/06,Delburne AG Arena,story,10,14
 2025/02/06,Centre Sportif Normandin,photo,3,4
 2025/02/06,Complexe Sportif De St-Louis-De-France Inc,note,1,1
 2025/02/06,Don Cruickshank Memorial Arena,note,1,1
@@ -611,8 +611,8 @@
 2025/02/05,Pete Knight Arena,photo,3,8
 2025/02/05,Pete Knight Arena,photo,3,7
 2025/02/05,Fox Valley Skating Arena,photo,3,3
-2025/02/05,Pete Knight Arena,photo,3,7
-2025/02/05,Pete Knight Arena,photo,3,7
+2025/02/05,Pete Knight Arena,photo,3,8
+2025/02/05,Pete Knight Arena,photo,3,8
 2025/02/05,Pete Knight Arena,story,10,13
 2025/02/05,Pete Knight Arena,photo,3,7
 2025/02/05,Hope Rec Centre ,story,10,10
@@ -755,11 +755,11 @@
 2025/02/05,River Valley Civic Centre,note,1,1
 2025/02/05,Brooke-Alvinston-Inwood Community Centre Complex,story,10,10
 2025/02/05,Tobique-Plex,note,1,1
-2025/02/05,Pete Knight Arena,photo,3,6
+2025/02/05,Pete Knight Arena,photo,3,7
 2025/02/05,Redvers rec centre,photo,3,7
 2025/02/05,Redvers rec centre,photo,3,6
 2025/02/05,Arborg & District Arena,story,10,10
-2025/02/05,Pete Knight Arena,photo,3,7
+2025/02/05,Pete Knight Arena,photo,3,8
 2025/02/05,Orville Acres Arena,story,10,10
 2025/02/05,Haldimand Community Memorial Arena,story,10,11
 2025/02/05,Ivor MacDonald Memorial Arena,photo,3,5
@@ -782,7 +782,7 @@
 2025/02/05,Bashaw Arena,photo,3,6
 2025/02/05,Delburne AG Arena,story,10,14
 2025/02/05,Kaslo arena,note,1,1
-2025/02/05,North Hastings Community Centre,story,10,12
+2025/02/05,North Hastings Community Centre,story,10,13
 2025/02/05,Centre récréatif de Donnacona,note,1,1
 2025/02/05,Centre Sportif Normandin,photo,3,4
 2025/02/05,Centre Sportif Normandin,photo,3,4
@@ -898,7 +898,7 @@
 2025/02/05,Trout Creek Community Centre,story,10,13
 2025/02/05,Aréna Saint-Boniface,story,10,10
 2025/02/05,Dan K. Stevens Memorial Arena,story,10,10
-2025/02/05,North Hastings Community Centre,story,10,11
+2025/02/05,North Hastings Community Centre,story,10,12
 2025/02/05,KC Irving Regional Center,note,1,1
 2025/02/05,Centre Sportif Normandin,story,10,11
 2025/02/05,Bill Chaplin Arena,note,1,1
@@ -958,7 +958,7 @@
 2025/02/05,Rolling Hills Arena,photo,3,3
 2025/02/05,Knights Of Columbus Twin Arenas,story,10,10
 2025/02/05,Pete Knight Arena,photo,3,6
-2025/02/05,Pete Knight Arena,photo,3,6
+2025/02/05,Pete Knight Arena,photo,3,7
 2025/02/05,Pete Knight Arena,photo,3,6
 2025/02/05,Pete Knight Arena,photo,3,6
 2025/02/05,Grandview Agricultural Community Centre,story,10,10
@@ -1308,12 +1308,12 @@
 2025/02/04,Trout Creek Community Centre,note,1,1
 2025/02/04,Trout Creek Community Centre,photo,3,7
 2025/02/04,Trout Creek Community Centre,photo,3,7
-2025/02/04,Delburne AG Arena,photo,3,7
+2025/02/04,Delburne AG Arena,photo,3,8
 2025/02/04,Middleton District Arena,note,1,1
 2025/02/04,Trout Creek Community Centre,story,10,28
 2025/02/04,Delburne AG Arena,note,1,1
 2025/02/04,Rolling Hills Arena,story,10,18
-2025/02/04,Delburne AG Arena,photo,3,9
+2025/02/04,Delburne AG Arena,photo,3,10
 2025/02/04,Bill Chaplin Arena,photo,3,6
 2025/02/04,Bill Chaplin Arena,photo,3,6
 2025/02/04,Bill Chaplin Arena,photo,3,5
@@ -1351,11 +1351,11 @@
 2025/02/04,Trout Creek Community Centre,photo,3,7
 2025/02/04,Aréna Saint-Boniface,note,1,1
 2025/02/04,Trout Creek Community Centre,photo,3,7
-2025/02/04,Delburne AG Arena,photo,3,7
+2025/02/04,Delburne AG Arena,photo,3,8
 2025/02/04,Aréna Saint-Boniface,note,1,1
 2025/02/04,Trout Creek Community Centre,photo,3,7
 2025/02/04,Trout Creek Community Centre,story,10,24
-2025/02/04,Delburne AG Arena,photo,3,7
+2025/02/04,Delburne AG Arena,photo,3,8
 2025/02/04,Delburne AG Arena,story,10,18
 2025/02/04,Coldwater Arena,story,10,11
 2025/02/04,Kaetlyn Osmond Arena,story,10,13
@@ -1366,7 +1366,7 @@
 2025/02/04,Bashaw Arena,photo,3,5
 2025/02/04,Pete Knight Arena,note,1,1
 2025/02/04,Trout Creek Community Centre,note,1,1
-2025/02/04,Pete Knight Arena,photo,3,4
+2025/02/04,Pete Knight Arena,photo,3,5
 2025/02/04,Trout Creek Community Centre,photo,3,7
 2025/02/04,Trout Creek Community Centre,photo,3,7
 2025/02/04,Trout Creek Community Centre,photo,3,7
@@ -1375,9 +1375,9 @@
 2025/02/04,Bashaw Arena,photo,3,4
 2025/02/04,West Orillia Sports Complex Rotary Place Arena,story,10,10
 2025/02/04,Pete Knight Arena,note,1,1
-2025/02/04,Pete Knight Arena,photo,3,4
-2025/02/04,Pete Knight Arena,photo,3,4
-2025/02/04,Pete Knight Arena,photo,3,4
+2025/02/04,Pete Knight Arena,photo,3,5
+2025/02/04,Pete Knight Arena,photo,3,5
+2025/02/04,Pete Knight Arena,photo,3,5
 2025/02/04,Pete Knight Arena,story,10,24
 2025/02/04,Aréna Saint-Boniface,note,1,1
 2025/02/04,Bill Chaplin Arena,note,1,1
@@ -1781,7 +1781,7 @@
 2025/02/04,Don Cruickshank Memorial Arena,photo,3,8
 2025/02/04,Kaetlyn Osmond Arena,story,10,17
 2025/02/04,Ron Gorr Memorial Arena,photo,3,3
-2025/02/04,North Hastings Community Centre,story,10,14
+2025/02/04,North Hastings Community Centre,story,10,15
 2025/02/04,Don Cruickshank Memorial Arena,story,10,15
 2025/02/04,Jus Jordan Arena,story,10,10
 2025/02/04,Honeywood Arena,story,10,20
@@ -1985,9 +1985,9 @@
 2025/02/03,Moosonee Arena,photo,3,4
 2025/02/03,Aréna Saint-Boniface,photo,3,5
 2025/02/03,Aréna Saint-Boniface,story,10,10
+2025/02/03,Pete Knight Arena,photo,3,6
 2025/02/03,Pete Knight Arena,photo,3,5
-2025/02/03,Pete Knight Arena,photo,3,4
-2025/02/03,Pete Knight Arena,photo,3,4
+2025/02/03,Pete Knight Arena,photo,3,5
 2025/02/03,Kaetlyn Osmond Arena,story,10,14
 2025/02/03,Pete Knight Arena,photo,3,4
 2025/02/03,Hespeler Memorial Arena,story,10,10
@@ -2272,7 +2272,7 @@
 2025/02/03,Redvers rec centre,story,10,13
 2025/02/03,Katelynn Osmond Arena,story,10,10
 2025/02/03,Ivor MacDonald Memorial Arena,photo,3,8
-2025/02/03,North Hastings Community Centre,story,10,14
+2025/02/03,North Hastings Community Centre,story,10,15
 2025/02/03,Kaetlyn Osmond Arena,photo,3,7
 2025/02/03,Redvers rec centre,story,10,13
 2025/02/03,Kaetlyn Osmond Arena,photo,3,7
@@ -2323,7 +2323,7 @@
 2025/02/03,Trout Creek Community Centre,story,10,20
 2025/02/03,Trout Creek Community Centre,photo,3,18
 2025/02/03,Veterans Memorial Sports Complex,story,10,14
-2025/02/03,Pete Knight Arena,photo,3,18
+2025/02/03,Pete Knight Arena,photo,3,19
 2025/02/03,Fox Valley Skating Arena,story,10,12
 2025/02/03,Trout Creek Community Centre,story,10,23
 2025/02/03,Trout Creek Community Centre,note,1,1
@@ -2331,7 +2331,7 @@
 2025/02/03,Trout Creek Community Centre,story,10,21
 2025/02/03,Redwood Meadows Arena,note,1,1
 2025/02/03,Redwood Meadows Arena,note,1,1
-2025/02/03,Pete Knight Arena,photo,3,19
+2025/02/03,Pete Knight Arena,photo,3,20
 2025/02/03,Redwood Meadows Arena,photo,3,3
 2025/02/03,Pete Knight Arena,note,1,1
 2025/02/03,Redwood Meadows Arena,photo,3,3
@@ -2339,7 +2339,7 @@
 2025/02/03,Redwood Meadows Arena,photo,3,3
 2025/02/03,Kyle Community Sports Centre,photo,3,4
 2025/02/03,Redwood Meadows Arena,photo,3,3
-2025/02/03,Pete Knight Arena,photo,3,17
+2025/02/03,Pete Knight Arena,photo,3,18
 2025/02/03,Arena De Clarence Creek,note,1,1
 2025/02/03,Arena De Clarence Creek,photo,3,4
 2025/02/03,Arena De Clarence Creek,photo,3,4
@@ -2446,11 +2446,11 @@
 2025/02/03,Trout Creek Community Centre,photo,3,12
 2025/02/03,Pete Knight Arena,photo,3,18
 2025/02/03,Memorial Community Centre Arena,note,1,1
-2025/02/03,Pete Knight Arena,photo,3,17
+2025/02/03,Pete Knight Arena,photo,3,18
 2025/02/03,Trout Creek Community Centre,story,10,22
 2025/02/03,Norway House Cree Nation Multiplex,story,10,10
-2025/02/03,Pete Knight Arena,photo,3,20
-2025/02/03,Pete Knight Arena,photo,3,17
+2025/02/03,Pete Knight Arena,photo,3,21
+2025/02/03,Pete Knight Arena,photo,3,18
 2025/02/03,Middleton District Arena,photo,3,10
 2025/02/03,Middleton District Arena,photo,3,9
 2025/02/03,Trout Creek Community Centre,photo,3,11
@@ -2777,7 +2777,7 @@
 2025/02/02,Hespeler Memorial Arena,story,10,10
 2025/02/02,Trout Creek Community Centre,note,1,1
 2025/02/02,Trout Creek Community Centre,note,1,1
-2025/02/02,North Hastings Community Centre,story,10,14
+2025/02/02,North Hastings Community Centre,story,10,15
 2025/02/02,I J Coady Memorial Arena,photo,3,4
 2025/02/02,Arena De Clarence Creek,note,1,1
 2025/02/02,Kinistino sports complex,photo,3,5
@@ -3457,7 +3457,7 @@
 2025/02/01,Pete Knight Arena,note,1,1
 2025/02/01,Pete Knight Arena,note,1,1
 2025/02/01,Pete Knight Arena,story,10,18
-2025/02/01,Pete Knight Arena,photo,3,11
+2025/02/01,Pete Knight Arena,photo,3,12
 2025/02/01,Pete Knight Arena,story,10,19
 2025/02/01,Trout Creek Community Centre,note,1,1
 2025/02/01,Sackville Arena (LDRA),note,1,1
@@ -3758,7 +3758,7 @@
 2025/01/31,Rolling Hills Arena,photo,3,4
 2025/01/31,North Hastings Community Centre,photo,3,9
 2025/01/31,Aréna Saint-Boniface,story,10,17
-2025/01/31,North Hastings Community Centre,story,10,16
+2025/01/31,North Hastings Community Centre,story,10,17
 2025/01/31,Aréna Saint-Boniface,story,10,17
 2025/01/31,Honeywood Arena,photo,3,18
 2025/01/31,Bashaw Arena,photo,3,22
@@ -4160,7 +4160,7 @@
 2025/01/31,Trout Creek Community Centre,photo,3,23
 2025/01/31,Pete Knight Arena,story,10,53
 2025/01/31,Didsbury Memorial Complex Arena,photo,3,3
-2025/01/31,North Hastings Community Centre,story,10,16
+2025/01/31,North Hastings Community Centre,story,10,17
 2025/01/31,Honeywood Arena,note,1,1
 2025/01/31,Kitchener Memorial Auditorium Dom Cardillo Kinsmen & Kiwanis Arenas,story,10,10
 2025/01/31,Sackville Arena (LDRA),photo,3,5
@@ -4267,10 +4267,10 @@
 2025/01/30,Pete Knight Arena,story,10,42
 2025/01/30,Centre Sportif Normandin,story,10,14
 2025/01/30,Kinistino sports complex,story,10,13
-2025/01/30,Pete Knight Arena,photo,3,21
-2025/01/30,Pete Knight Arena,photo,3,20
 2025/01/30,Pete Knight Arena,photo,3,22
-2025/01/30,Pete Knight Arena,photo,3,19
+2025/01/30,Pete Knight Arena,photo,3,21
+2025/01/30,Pete Knight Arena,photo,3,23
+2025/01/30,Pete Knight Arena,photo,3,20
 2025/01/30,Honeywood Arena,photo,3,8
 2025/01/30,Pete Knight Arena,note,1,1
 2025/01/30,Pete Knight Arena,story,10,38
@@ -4670,7 +4670,7 @@
 2025/01/30,Rolling Hills Arena,photo,3,4
 2025/01/30,Rolling Hills Arena,photo,3,5
 2025/01/30,Rolling Hills Arena,story,10,15
-2025/01/30,Pete Knight Arena,photo,3,19
+2025/01/30,Pete Knight Arena,photo,3,20
 2025/01/30,Elm Creek Skating Rink,note,1,1
 2025/01/30,Pete Knight Arena,note,1,1
 2025/01/30,Elm Creek Skating Rink,photo,3,10
@@ -5444,8 +5444,8 @@
 2025/01/29,Trout Creek Community Centre,photo,3,6
 2025/01/29,Trout Creek Community Centre,photo,3,5
 2025/01/29,Honeywood Arena,note,1,1
+2025/01/29,Pete Knight Arena,photo,3,17
 2025/01/29,Pete Knight Arena,photo,3,16
-2025/01/29,Pete Knight Arena,photo,3,15
 2025/01/29,Pete Knight Arena,note,1,1
 2025/01/29,Ivor MacDonald Memorial Arena,note,1,1
 2025/01/29,Bashaw Arena,note,1,1
@@ -9293,7 +9293,7 @@
 2025/01/22,Centre Sportif Charles-Edouard-Boucher,photo,3,3
 2025/01/22,Centre Sportif Charles-Edouard-Boucher,photo,3,3
 2025/01/22,Pete Knight Arena,photo,3,23
-2025/01/22,Pete Knight Arena,photo,3,20
+2025/01/22,Pete Knight Arena,photo,3,21
 2025/01/22,Centre Sportif Charles-Edouard-Boucher,story,10,10
 2025/01/22,Soo Pee Wee Arena,story,10,10
 2025/01/22,Oro-Medonte Community Arena,photo,3,3
@@ -10113,7 +10113,7 @@
 2025/01/21,Trout Creek Community Centre,note,1,1
 2025/01/21,Honeywood Arena,photo,3,14
 2025/01/21,Trout Creek Community Centre,note,1,1
-2025/01/21,Trout Creek Community Centre,story,10,82
+2025/01/21,Trout Creek Community Centre,story,10,83
 2025/01/21,Bashaw Arena,photo,3,23
 2025/01/21,Bashaw Arena,note,1,1
 2025/01/21,Trout Creek Community Centre,story,10,85
@@ -10209,7 +10209,7 @@
 2025/01/21,Longlac Sportsplex,photo,3,6
 2025/01/21,Longlac Sportsplex,story,10,17
 2025/01/21,Longlac Sportsplex,photo,3,6
-2025/01/21,Trout Creek Community Centre,story,10,65
+2025/01/21,Trout Creek Community Centre,story,10,66
 2025/01/21,Emily Omemee Arena,note,1,1
 2025/01/21,Trout Creek Community Centre,photo,3,45
 2025/01/21,Emily Omemee Arena,story,10,10
@@ -10342,7 +10342,7 @@
 2025/01/20,Sackville Arena (LDRA),photo,3,10
 2025/01/20,Sackville Arena (LDRA),photo,3,9
 2025/01/20,Sackville Arena (LDRA),photo,3,10
-2025/01/20,Trout Creek Community Centre,story,10,57
+2025/01/20,Trout Creek Community Centre,story,10,58
 2025/01/20,Sackville Arena (LDRA),story,10,32
 2025/01/20,Sackville Arena (LDRA),story,10,28
 2025/01/20,Trout Creek Community Centre,note,1,1
@@ -12262,8 +12262,8 @@
 2025/01/15,Aréna Saint-Boniface,photo,3,8
 2025/01/15,Grandview Agricultural Community Centre,photo,3,3
 2025/01/15,Pete Knight Arena,photo,3,20
-2025/01/15,Pete Knight Arena,photo,3,24
-2025/01/15,Pete Knight Arena,photo,3,26
+2025/01/15,Pete Knight Arena,photo,3,25
+2025/01/15,Pete Knight Arena,photo,3,27
 2025/01/15,Sackville Arena (LDRA),note,1,1
 2025/01/15,Eleanor Pew Memorial Arena,photo,3,5
 2025/01/15,Eleanor Pew Memorial Arena,photo,3,5
@@ -12424,7 +12424,7 @@
 2025/01/14,Pete Knight Arena,note,1,1
 2025/01/14,Pete Knight Arena,photo,3,21
 2025/01/14,Pete Knight Arena,photo,3,22
-2025/01/14,Pete Knight Arena,photo,3,24
+2025/01/14,Pete Knight Arena,photo,3,25
 2025/01/14,North Hastings Community Centre,note,1,1
 2025/01/14,Pete Knight Arena,story,10,38
 2025/01/14,Springdale Stadium and Curling Club,story,10,12
@@ -12821,7 +12821,7 @@
 2025/01/11,Teulon-Rockwood Arena,photo,3,3
 2025/01/11,Teulon-Rockwood Arena,photo,3,3
 2025/01/11,Sackville Arena (LDRA),photo,3,13
-2025/01/11,Sackville Arena (LDRA),photo,3,13
+2025/01/11,Sackville Arena (LDRA),photo,3,14
 2025/01/11,Sackville Arena (LDRA),photo,3,14
 2025/01/11,Sackville Arena (LDRA),photo,3,16
 2025/01/11,Sackville Arena (LDRA),photo,3,10
@@ -13338,8 +13338,8 @@
 2025/01/09,Ville De Bouctouche Forum,note,1,1
 2025/01/09,Pete Knight Arena,note,1,1
 2025/01/09,Kaslo arena,story,10,12
+2025/01/09,Pete Knight Arena,photo,3,24
 2025/01/09,Pete Knight Arena,photo,3,23
-2025/01/09,Pete Knight Arena,photo,3,22
 2025/01/09,Hespeler Memorial Arena,photo,3,6
 2025/01/09,Grandview Agricultural Community Centre,story,10,11
 2025/01/09,La Glace Recreation Centre,story,10,15
@@ -13430,10 +13430,10 @@
 2025/01/09,Aréna Saint-Lin-Laurentides,photo,3,3
 2025/01/09,Kaetlyn Osmond Arena,photo,3,10
 2025/01/09,Kaetlyn Osmond Arena,photo,3,9
-2025/01/09,Pete Knight Arena,photo,3,20
+2025/01/09,Pete Knight Arena,photo,3,21
 2025/01/09,Sackville Arena (LDRA),photo,3,12
 2025/01/09,Aréna Jean Rougeau,photo,3,3
-2025/01/09,Pete Knight Arena,photo,3,21
+2025/01/09,Pete Knight Arena,photo,3,22
 2025/01/09,Aréna Saint-Lin-Laurentides,story,10,10
 2025/01/09,Talbot Gardens Arena,story,10,10
 2025/01/09,Tri Township Arena,note,1,1
@@ -13513,7 +13513,7 @@
 2025/01/08,Cupar Memorial Rink,photo,3,8
 2025/01/08,Cupar Memorial Rink,photo,3,8
 2025/01/08,Pete Knight Arena,note,1,1
-2025/01/08,Pete Knight Arena,photo,3,20
+2025/01/08,Pete Knight Arena,photo,3,21
 2025/01/08,Pete Knight Arena,photo,3,19
 2025/01/08,Pete Knight Arena,photo,3,18
 2025/01/08,Pete Knight Arena,story,10,41
@@ -13542,8 +13542,8 @@
 2025/01/08,Pete Knight Arena,photo,3,20
 2025/01/08,Pete Knight Arena,photo,3,21
 2025/01/08,Pete Knight Arena,photo,3,19
-2025/01/08,Pete Knight Arena,photo,3,21
 2025/01/08,Pete Knight Arena,photo,3,22
+2025/01/08,Pete Knight Arena,photo,3,23
 2025/01/08,Arborg & District Arena,note,1,1
 2025/01/08,Pete Knight Arena,note,1,1
 2025/01/08,North Hastings Community Centre,photo,3,15
@@ -14006,7 +14006,7 @@
 2025/01/06,Soo Pee Wee Arena,story,10,10
 2025/01/06,Inch Park Arena,note,1,1
 2025/01/06,Bobby Orr Community Centre,story,10,10
-2025/01/06,Pete Knight Arena,photo,3,23
+2025/01/06,Pete Knight Arena,photo,3,24
 2025/01/06,Pete Knight Arena,story,10,45
 2025/01/06,Veterans Memorial Sports Complex,note,1,1
 2025/01/06,Veterans Memorial Sports Complex,story,10,22
