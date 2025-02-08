@@ -1,10 +1,10 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,458,2,1066,459,31509,680,39766
+Trout Creek Community Centre - ON,458,2,1066,459,31513,680,39770
 Sackville Arena (LDRA) - NS,388,0,1110,358,13824,626,21392
-Honeywood Arena - ON,190,19,724,166,6337,358,10765
+Honeywood Arena - ON,190,19,724,166,6376,358,10804
 Bashaw Arena - AB,241,0,301,188,6657,313,10158
-Pete Knight Arena - AB,171,0,279,158,6070,256,8775
-Middleton District Arena - NS,128,0,322,161,3978,250,6385
+Pete Knight Arena - AB,171,0,353,158,6070,261,8997
+Middleton District Arena - NS,128,0,322,161,3979,250,6386
 Redvers rec center - SK,76,0,186,93,4679,137,6090
 Aréna Saint-Boniface - QC,137,0,301,156,3096,245,5525
 North Hastings Community Centre - ON,53,0,102,33,2249,63,3118
@@ -27,8 +27,8 @@ Centre Sportif Charles-Edouard-Boucher - QC,19,0,141,96,19,110,728
 Ron Gorr Memorial Arena - AB,21,0,44,21,323,42,686
 La Glace Recreation Centre - AB,26,0,72,29,142,45,647
 Greenwood Arena - ON,29,0,47,30,140,62,601
+Ivor MacDonald Memorial Arena - NS,16,0,45,28,260,43,583
 8th Hussars Sports Center - NB,25,0,40,15,189,45,574
-Ivor MacDonald Memorial Arena - NS,16,0,40,28,260,40,568
 North Peace Arena - BC,24,0,50,16,119,50,525
 Elm Creek Skating Rink - MB,11,0,33,18,279,29,506
 Kingston Memorial Centre - ON,20,0,41,14,138,26,475
@@ -38,17 +38,17 @@ Springdale Stadium and Curling Club - NL,21,0,40,10,94,30,434
 Goulds Arena - NL,7,0,47,12,207,19,430
 Cupar Memorial Rink - SK,9,0,40,13,192,29,415
 Brooke-Alvinston-Inwood Community Centre Complex - ON,15,0,30,13,150,28,403
+Delburne AG Arena - AB,16,0,6,3,183,17,364
 Kaslo arena - BC,14,0,41,9,92,23,364
-Delburne AG Arena - AB,16,0,6,3,172,17,353
 Moosonee Arena - ON,15,0,31,8,65,21,316
 Redwood Meadows Arena - AB,14,2,42,10,17,25,313
 Eleanor Pew Memorial Arena - NS,12,0,34,11,67,19,300
-Walkerton Community Centre - ON,6,0,37,13,84,23,268
+Walkerton Community Centre - ON,6,0,43,13,84,24,286
+South Courtice Arena - ON,7,0,31,8,102,15,273
+Bill Chaplin Arena - NL,6,1,24,13,108,21,263
 Arena De Clarence Creek - ON,13,0,29,13,33,26,263
 I J Coady Memorial Arena - ON,8,0,29,7,82,15,256
-South Courtice Arena - ON,7,0,31,8,82,15,253
 Coldwater Arena - ON,13,0,17,10,56,19,247
-Bill Chaplin Arena - NL,6,1,18,13,108,20,245
 Civic Centre Arena - ON,7,0,23,12,84,20,235
 Centre récréatif de Donnacona - QC,8,0,26,22,35,29,215
 Memorial Community Centre Arena - AB,10,0,31,10,8,16,211
@@ -84,7 +84,7 @@ Centre Sportif C E Boucher - QC,5,0,14,4,0,11,96
 Thamesford District Recreation Centre - ON,4,0,14,9,4,14,95
 Summerland Arena - BC,7,0,6,3,0,10,91
 Rapid City community complex - MB,6,0,5,2,10,7,87
-Frank Crane Arena - BC,8,0,0,0,0,8,80
+Frank Crane Arena - BC,8,0,0,0,2,8,82
 Knights Of Columbus Twin Arenas - AB,5,0,6,8,0,12,76
 Ingersoll & District Memorial Centre - ON,4,0,9,5,0,7,72
 Taylor District Ice Center - BC,2,0,16,3,0,11,71
