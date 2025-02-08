@@ -74,7 +74,8 @@
     <option class="btn btn-light" value="data/qualified.csv">Qualified For Giveaways</option>
   </select>
 </div>
-
+<!-- google map-->
+<div id="map" style="height: 400px;"></div>
 <div class="table-responsive">
   <label for="csv-table" id="last-modified-label">Last Modified: </label>
   <table id="csv-table" class="table table-bordered table-responsive table-hover bdr">
@@ -82,9 +83,45 @@
     <tbody></tbody>
   </table>
 </div>
-
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBadYwsOYuVLlK-v9MKIPbK4cEPUxQI-zo&callback=initMap" async defer></script>
 <script>
-  const hiddenFields = ["Facility ID", "isTop4Facility", "ID"];
+  function initMap() {
+    const map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 3,
+      center: { lat: 56.8283, lng: -106.5795 }
+    });
+      fetch("data/kraft_facilities.csv")
+          .then(response => response.text())
+          .then(csvText => {
+            const parsedData = Papa.parse(csvText, { header: true });
+
+            parsedData.data.forEach(row => {
+              if (row["Pos"] > 10) return;
+              const lat = parseFloat(row[" Lat"]);
+              const lng = parseFloat(row[" Lng"]);
+              const infowindow = new google.maps.InfoWindow({
+                content: `<h3>${row[" Facility Name"]}</h3><p>${row[" Points"]}</p>`,
+                ariaLabel: `${row[" Facility Name"]}`
+              });
+              let marker;
+              if (!isNaN(lat) && !isNaN(lng)) {
+                marker = new google.maps.Marker({
+                  position: {lat, lng},
+                  label: row["Pos"].toString(),
+                  map
+                });
+                marker.addListener("click", () => {
+                  infowindow.open({
+                    anchor: marker,
+                    map,
+                  });
+                });
+              }
+            });
+          })
+          .catch(error => console.error('Error loading CSV:', error));
+  }
+  const hiddenFields = ["Facility ID", "isTop4Facility", "ID", "Lat", "Lng"];
   const hiddenOptions = [
     ["data/kraft_facilities.csv", "Standings"],
     ["data/kraft.csv", "Arena Breakdown"],
