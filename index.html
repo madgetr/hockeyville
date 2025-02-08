@@ -45,13 +45,9 @@
     .table th {
       cursor: pointer;
     }
-    .table {
-      border-collapse: collapse;
-      margin: 25px 0;
-      font-size: 0.9em;
-      font-family: sans-serif;
-      min-width: 400px;
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    .bdr {
+      border-radius: 10px 10px 0 0;
+      overflow: hidden;
     }
 
   </style>
@@ -73,7 +69,7 @@
 
 <div class="table-responsive">
   <label for="csv-table" id="last-modified-label">Last Modified: </label>
-  <table id="csv-table" class="table table-small table-bordered table-responsive table-hover">
+  <table id="csv-table" class="table table-bordered table-responsive table-hover bdr">
     <thead></thead>
     <tbody></tbody>
   </table>
