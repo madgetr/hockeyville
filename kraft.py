@@ -2,8 +2,6 @@
 import time
 from collections import Counter
 
-time_localtime = time.localtime()
-
 import requests
 from tqdm import tqdm
 
@@ -207,7 +205,6 @@ def produce_delta_report(old_csv, new_csv):
             new_value = new_parts[i].replace('\n', '')
             if old_value != new_value:
                 # TODO: only update time if changes
-                time_localtime = time.localtime()
                 key = keys[i + 1].replace('\n', '')
                 print(f"{facility} has changed in {key} + {int(new_value) - int(old_value)}")
     print("Updated at: ", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
@@ -302,8 +299,15 @@ def get_facilities(cookie):
 
 
 def save_last_modified_date(pos, points):
+    with open(SAVE_DIR + "last_modified.txt", "r") as f:
+    #     read points to see if we need to save
+        lines = f.readlines()
+        last_line = lines[-1]
+        last_points = int(last_line.split("Points: ")[-1].split("\n")[0])
+        if last_points == points:
+            return
     with open(SAVE_DIR + "last_modified.txt", "w") as f:
-        f.write(time.strftime("%Y-%m-%d %H:%M", time_localtime) + "   |   Place: " + str(pos) + "   |   Points: " + str(
+        f.write(time.strftime("%Y-%m-%d %H:%M", time.localtime()) + "   |   Place: " + str(pos) + "   |   Points: " + str(
             points) + "\n")
 
 

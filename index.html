@@ -6,7 +6,6 @@
   <title>Trout Creek Rally Stats</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
     body {
       background-color: #036;
@@ -29,6 +28,10 @@
       font-size: 4.25rem;
       line-height: .95;
       margin-bottom: 1rem;
+      margin-block-start: 0.83em;
+      margin-block-end: 0.83em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
     }
 
     .shield-image {
@@ -40,42 +43,57 @@
     .table th {
       cursor: pointer;
     }
-
-    #chart-container {
-      display: none;
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    }
   </style>
 </head>
 <body class="container py-4">
 <img src="assets/shield.807ec91d.png" alt="Shield" class="shield-image">
 <h1>Trout Creek Rally Stats</h1>
+<!--diusplay last modified data on the top right of the table-->
 
 <div class="mb-3 text-center">
-  <select id="csv-select" class="form-select w-auto mx-auto btn btn-primary dropdown-toggle">
+  <select id="csv-select" class="form-select mx-auto btn btn-primary dropdown-toggle" style="width: 50%">
     <option class="btn btn-light" value="data/authors.csv">Individual Contributions</option>
     <option class="btn btn-light" value="data/qualified.csv">Qualified For Giveaways</option>
-    <option class="btn btn-light" value="data/kraft_by_date.csv">Entries Breakdown</option>
   </select>
 </div>
 
 <div class="table-responsive">
   <label for="csv-table" id="last-modified-label">Last Modified: </label>
-  <table id="csv-table" class="table table-small table-bordered table-hover">
+  <table id="csv-table" class="table table-small table-bordered table-responsive table-hover">
     <thead></thead>
     <tbody></tbody>
   </table>
 </div>
 
-<div id="chart-container" class="my-4">
-  <canvas id="entriesChart"></canvas>
-</div>
-
 <script>
   const hiddenFields = ["Facility ID", "isTop4Facility", "ID"];
+  const hiddenOptions = [
+    ["data/kraft_facilities.csv", "Standings"],
+    ["data/kraft.csv", "Arena Breakdown"],
+    ["data/kraft_by_date.csv", "Entries Breakdown"]
+  ];
+  window.addEventListener('DOMContentLoaded', () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const fileParam = urlParams.get('file');
+    const all = urlParams.get('all');
+    if (all) {
+      // add standings and arena breakdown to the dropdown
+      hiddenOptions.forEach(option => {
+        const select = document.getElementById('csv-select');
+        const optionElement = document.createElement('option');
+        optionElement.value = option[0];
+        optionElement.textContent = option[1];
+        optionElement.className = 'btn btn-light';
+        select.appendChild(optionElement);
+      });
+    }
+    if (fileParam) {
+      document.getElementById('csv-select').value = fileParam;
+      if (all || !hiddenOptions.some(option => option[0] === fileParam)) {
+        loadCSV(fileParam);
+      }
+    }
+  });
 
   document.getElementById('csv-select').addEventListener('change', function() {
     const file = this.value;
@@ -83,8 +101,9 @@
 
     if (file) {
       url.searchParams.set('file', file);
-      loadPage(file);
-    } else {
+      loadCSV(file);
+    }
+    else {
       url.searchParams.delete('file');
       clearTable();
     }
@@ -92,32 +111,21 @@
     window.history.pushState({}, '', url);
   });
 
-  function loadPage(file) {
-    if (file === 'data/kraft_by_date.csv') {
-      loadCSV(file, true);
-    } else {
-      loadCSV(file);
-    }
-  }
-
-  function loadCSV(file, isChart = false) {
+  function loadCSV(file) {
+    getLastModified();
     fetch(file)
         .then(response => response.text())
         .then(csvText => {
-          const parsedData = Papa.parse(csvText, { header: true });
-          if (isChart) {
-            displayChart(parsedData.data);
-          } else {
-            displayTable(parsedData.data);
-          }
+          const parsedData = Papa.parse(csvText, {header: true});
+          displayTable(parsedData.data);
         })
         .catch(error => console.error('Error loading CSV:', error));
   }
 
   function displayTable(data) {
-    document.getElementById('chart-container').style.display = 'none';
     const tableHead = document.querySelector('#csv-table thead');
     const tableBody = document.querySelector('#csv-table tbody');
+
     tableHead.innerHTML = '';
     tableBody.innerHTML = '';
 
@@ -133,6 +141,13 @@
     });
     tableHead.appendChild(headerRow);
 
+    populateTableBody(data, headers);
+  }
+
+  function populateTableBody(data, headers) {
+    const tableBody = document.querySelector('#csv-table tbody');
+    tableBody.innerHTML = '';
+
     data.forEach(row => {
       const tr = document.createElement('tr');
       headers.forEach(header => {
@@ -144,47 +159,50 @@
     });
   }
 
-  function displayChart(data) {
-    document.getElementById('chart-container').style.display = 'block';
-    document.querySelector('#csv-table thead').innerHTML = '';
-    document.querySelector('#csv-table tbody').innerHTML = '';
+  function getLastModified() {
+    fetch('data/last_modified.txt')
+        .then(response => response.text())
+        .then(lastModified => {
+          const lastModifiedLabel = document.getElementById('last-modified-label');
+          lastModifiedLabel.textContent = `Last Modified: ${lastModified}`;
+          console.log(lastModified);
+        })
+  }
 
-    const dates = data.map(row => row.Date).filter(Boolean);
-    const entries = data.map(row => parseInt(row.Entries)).filter(num => !isNaN(num));
+  function sortTable(data, column) {
+    const thElements = document.querySelectorAll('th');
+    let currentSort = 'asc';
 
-    const ctx = document.getElementById('entriesChart').getContext('2d');
-    if (window.entriesChart) {
-      window.entriesChart.destroy();
-    }
-
-    window.entriesChart = new Chart(ctx, {
-      type: 'line',
-      data: {
-        labels: dates,
-        datasets: [{
-          label: 'Entries Over Time',
-          data: entries,
-          borderColor: '#007bff',
-          backgroundColor: 'rgba(0, 123, 255, 0.1)',
-          tension: 0.3,
-          pointRadius: 4,
-          pointHoverRadius: 6,
-        }]
-      },
-      options: {
-        responsive: true,
-        scales: {
-          x: { title: { display: true, text: 'Date' } },
-          y: { title: { display: true, text: 'Entries' }, beginAtZero: true }
+    thElements.forEach(th => {
+      if (th.textContent === column) {
+        if (th.classList.contains('sort-asc')) {
+          currentSort = 'desc';
+          th.classList.remove('sort-asc');
+          th.classList.add('sort-desc');
+        }
+        else {
+          currentSort = 'asc';
+          th.classList.remove('sort-desc');
+          th.classList.add('sort-asc');
         }
       }
+      else {
+        th.classList.remove('sort-asc', 'sort-desc');
+      }
     });
+
+    data.sort((a, b) => {
+      const valA = isNaN(a[column]) ? a[column] : parseFloat(a[column]);
+      const valB = isNaN(b[column]) ? b[column] : parseFloat(b[column]);
+      return currentSort === 'asc' ? valA - valB : valB - valA;
+    });
+
+    populateTableBody(data, Object.keys(data[0]).filter(header => !hiddenFields.includes(header)));
   }
 
   function clearTable() {
     document.querySelector('#csv-table thead').innerHTML = '';
     document.querySelector('#csv-table tbody').innerHTML = '';
-    document.getElementById('chart-container').style.display = 'none';
   }
 </script>
 </body>
