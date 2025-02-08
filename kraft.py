@@ -1,6 +1,8 @@
 # https://hockeyville.kraftheinz.com/api/contest/gallery?country=CA&page=1&pageCount=1000&search=&sort=random&types=story,video,note,photo
-from collections import Counter
 import time
+from collections import Counter
+
+time_localtime = time.localtime()
 
 import requests
 from tqdm import tqdm
@@ -97,13 +99,12 @@ def produce_report(stories, videos, photos, notes, reactions, points, contributo
     points = dict(sorted(points.items(), key=lambda item: item[1], reverse=True))
     # for facility_id, count in points.items():
     #     pos = list(points.keys()).index(facility_id) + 1
-        # print(f"{pos} - {facility_names[facility_id]}: {count}")
+    # print(f"{pos} - {facility_names[facility_id]}: {count}")
 
     # copy existing report file to a backup
     with open(SAVE_DIR + "kraft.csv", "r") as f:
         with open(SAVE_DIR + "kraft_prev.csv", "w") as f2:
             f2.write(f.read())
-
 
     #     save the report as a csv
     with open(SAVE_DIR + "kraft.csv", "w") as f:
@@ -158,6 +159,7 @@ def save_author_repo_csv(authors, profiles, facility_names):
                 f.write(
                     f"{author},{get_firstname(profiles[author])},{get_story_icon(counts['story'] + counts['video'])},{get_story_icon(counts['note'])},{get_photo_icon(counts['photo'])},{get_author_points(counts)}\n")
 
+
 def save_qualified_csv(authors, profiles, facility_names):
     # sort authors by name
     for facility, data in authors.items():
@@ -204,9 +206,13 @@ def produce_delta_report(old_csv, new_csv):
             old_value = part.replace('\n', '')
             new_value = new_parts[i].replace('\n', '')
             if old_value != new_value:
+                # TODO: only update time if changes
+                time_localtime = time.localtime()
                 key = keys[i + 1].replace('\n', '')
-                print(f"{facility} has changed in {key} + {int(new_value)-int(old_value)}")
+                print(f"{facility} has changed in {key} + {int(new_value) - int(old_value)}")
     print("Updated at: ", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
+
+
 def save_data_as_csv(data, filename):
     with open(SAVE_DIR + filename, "w") as f:
         for entry in data["entries"]:
@@ -225,6 +231,7 @@ def save_data_as_csv(data, filename):
             points += cer["sad"]
             points += cer["wow"]
             f.write(f"{created_at},{facility_name},{item_type},{raw_points},{points}\n")
+
 
 def save_running_total_by_arena_csv(data, filename):
     # sort data by date
@@ -260,7 +267,7 @@ def job(cookie):
     produce_report(stories, videos, photos, notes, reactions, points, contributors, facility_names)
     save_author_repo_csv(authors, profiles, facility_names)
     save_data_as_csv(data, "kraft_by_date.csv")
-    produce_delta_report("kraft_prev.csv","kraft.csv")
+    produce_delta_report("kraft_prev.csv", "kraft.csv")
     save_running_total_by_arena_csv(data, "kraft_running_total.csv")
     print("Total: ", total)
     commit_and_push_to_git()
@@ -276,7 +283,7 @@ def save_facilities_as_csv(data, filename):
             points = facility['points'] if facility['points'] else 0
             if 'Trout Creek' in facility['data']['name']:
                 save_last_modified_date(pos, points)
-            f.write(f"{pos}, {facility['data']['id']},{facility['data']['name'].replace(',','')},{points}\n")
+            f.write(f"{pos}, {facility['data']['id']},{facility['data']['name'].replace(',', '')},{points}\n")
 
 
 def get_facilities(cookie):
@@ -293,9 +300,12 @@ def get_facilities(cookie):
         print(response.content)
         raise ValueError("Response content is not valid JSON or is empty")
 
+
 def save_last_modified_date(pos, points):
     with open(SAVE_DIR + "last_modified.txt", "w") as f:
-        f.write(time.strftime("%Y-%m-%d %H:%M", time.localtime()) + "   |   Place: " + str(pos) + "   |   Points: " + str(points) + "\n")
+        f.write(time.strftime("%Y-%m-%d %H:%M", time_localtime) + "   |   Place: " + str(pos) + "   |   Points: " + str(
+            points) + "\n")
+
 
 def main():
     cookie = input("Enter the cookie: ")
@@ -316,9 +326,9 @@ def commit_and_push_to_git():
     os.system("git commit -m 'update'")
     os.system("git push")
 
+
 if __name__ == "__main__":
     # schedule run every 2 minutes
     main()
-
 
 # 11efd5fdb2f8b2a06277328bfa6019be
