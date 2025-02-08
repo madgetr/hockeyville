@@ -54,7 +54,7 @@
       cursor: pointer;
     }
     .bdr {
-      border-radius: 10px 10px 0 0;
+      border-radius: 10px;
       overflow: hidden;
     }
 
@@ -67,15 +67,14 @@
         src="assets/shield.807ec91d.png" alt="Shield" class="shield-image"></a>
 <h1>Trout Creek Rally Stats</h1>
 <!--diusplay last modified data on the top right of the table-->
-
+<!-- google map-->
+<div class = "bdr" id="map" style="height: 400px; margin-bottom: 20px"></div>
 <div class="mb-3 text-center">
   <select id="csv-select" class="form-select mx-auto btn btn-primary dropdown-toggle" style="width: 50%">
     <option class="btn btn-light" value="data/authors.csv">Individual Contributions</option>
     <option class="btn btn-light" value="data/qualified.csv">Qualified For Giveaways</option>
   </select>
 </div>
-<!-- google map-->
-<div id="map" style="height: 400px;"></div>
 <div class="table-responsive">
   <label for="csv-table" id="last-modified-label">Last Modified: </label>
   <table id="csv-table" class="table table-bordered table-responsive table-hover bdr">
@@ -88,7 +87,7 @@
   function initMap() {
     const map = new google.maps.Map(document.getElementById('map'), {
       zoom: 3,
-      center: { lat: 56.8283, lng: -106.5795 }
+      center: { lat: 46.8283, lng: -79.5795 }
     });
       fetch("data/kraft_facilities.csv")
           .then(response => response.text())
