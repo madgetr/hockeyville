@@ -1,5 +1,5 @@
 Pos, Facility ID, Facility Name, Points
-1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,8004
+1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,8024
 2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),7568
 3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,4216
 4, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,3387
@@ -8,13 +8,13 @@ Pos, Facility ID, Facility Name, Points
 7, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,2348
 8, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,1533
 9, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,1408
-10, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,1035
+10, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,1055
 11, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,869
 12, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,849
 13, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,839
 14, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,766
 15, 11eebad347f099003d540cdb84e09cb8,Centre Sportif Charles-Edouard-Boucher,709
-16, 11E9F686BBE5AE1A81807B23EA662A63,Petitcodiac Arena,679
+16, 11E9F686BBE5AE1A81807B23EA662A63,Petitcodiac Arena,689
 17, 11eeb488d3a9da20bc289cffe14b7496,Oxbow Community Arena,668
 18, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,660
 19, 11eeb9929af07e0041c78e2eb4d12f7a,Veterans Memorial Sports Complex,639
@@ -35,11 +35,11 @@ Pos, Facility ID, Facility Name, Points
 34, 11eeb28b1e853a30ffa2ce4b52231f7b,Kinistino sports complex,278
 35, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,268
 36, 11eec20786a453e0099eb8493d090fb9,Kaslo arena,262
-37, 11efc94cfaa4171050876939db7c4873,Moosonee Arena,251
-38, 11eeb86ad118030047158bd465a9cd46,Brooke-Alvinston-Inwood Community Centre Complex,243
-39, 11efcef1fb67d1a0afa669bb60f5a7ad,Eleanor Pew Memorial Arena,233
-40, 11eebf00b2768100c91eac76a462c52c,Elm Creek Skating Rink,227
-41, 11eeb9609bd28c50a173d25df9263a83,Unity Parc Arena,226
+37, 11eeb86ad118030047158bd465a9cd46,Brooke-Alvinston-Inwood Community Centre Complex,253
+38, 11efc94cfaa4171050876939db7c4873,Moosonee Arena,251
+39, 11eeb9609bd28c50a173d25df9263a83,Unity Parc Arena,246
+40, 11efcef1fb67d1a0afa669bb60f5a7ad,Eleanor Pew Memorial Arena,233
+41, 11eebf00b2768100c91eac76a462c52c,Elm Creek Skating Rink,227
 42, 11eebe55089c4260111c17e9259caa6a,Goulds Arena,223
 43, 11efcc66abe09f50fbb368fdafdeb6ca,Cupar Memorial Rink,223
 44, 11eec6f3b6b67ef0b4beebf0dc85c2b2,Arena De Clarence Creek,220
@@ -51,10 +51,10 @@ Pos, Facility ID, Facility Name, Points
 50, b14065f8a04f49af8eb79de468077cd4,I J Coady Memorial Arena,174
 51, 11efd1e8664880205b118712b95eceb6,Archie Miller Arena,165
 52, 11eeb6f3ef437df0634f81fa6d7292d2,Coldwater Arena,163
-53, 11efd8c3f0f1b75085346d6e65b3d095,Wilfred T Lipton Arena,152
-54, 11eebaed463332c0bbdb434aa3eb12d2,Civic Centre Arena,151
-55, 11efd4f031d4e490fae299e67c87685a,Bienfait Memorial Arena,148
-56, 11efd4eae8c401503acc7126751bba6f,Delburne AG Arena,141
+53, 11efd4eae8c401503acc7126751bba6f,Delburne AG Arena,161
+54, 11efd8c3f0f1b75085346d6e65b3d095,Wilfred T Lipton Arena,152
+55, 11eebaed463332c0bbdb434aa3eb12d2,Civic Centre Arena,151
+56, 11efd4f031d4e490fae299e67c87685a,Bienfait Memorial Arena,148
 57, 11efcd1057a003904627c103b195fc0a,Sangudo Arena,140
 58, 11E9F686BBC7D3B881807B23EA662A63,Jus Jordan Arena,137
 59, 11efcdc03bc8b940ce1cd676788d51ff,Bill Chaplin Arena,137
@@ -68,30 +68,30 @@ Pos, Facility ID, Facility Name, Points
 67, 11E9F686BBCA410281807B23EA662A63,Kings Arrow Arena,102
 68, 11eeb616171bd5e0ceb6edfcfeb91bd6,Grandview Agricultural Community Centre,102
 69, 11efdcb2fb4865d031e479e5767dddb8,Manitouwadge arena ,102
-70, 11E9F686BBD3470C81807B23EA662A63,Marystown Arena,99
-71, 11efde3afa45e9d0516367953137c4c9,Marmora Arena,97
-72, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,96
-73, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,92
-74, 11eeb6222b688f00ac245cf23d9a366b,Summerland Arena,91
-75, 11eeb6da2c720620a837bc41071a607e,Thamesford District Recreation Centre,91
-76, 11efdde64b0b40e0ca9a7a266d507e82,Sam Ault Arena,91
-77, 11E9F686BBECB2BE81807B23EA662A63,River Valley Civic Centre,84
-78, 11E9F686BBC3FD1A81807B23EA662A63,Inch Park Arena,80
-79, 11efcd34d2eaa0401431a7d1d2ed686b,Kyle Community Sports Centre,78
-80, 11eebf3760b00940ffe304762d2bb666,Irma Arena,77
-81, 11eeca22dde18fb0d59351ed89cc1736,Beausejour Sportsplex,77
-82, 11efd287b441e5104101740a70dd5205,Rapid City community complex,77
-83, 11efddddfbf84f008dbc4d6ce46696f3,Knights Of Columbus Twin Arenas,76
-84, 11eeb6f6ce9e1260f845c99fc6a31ba3,Manvers Arena & Community Centre,75
-85, 11E9F686BBC445CC81807B23EA662A63,Ingersoll & District Memorial Centre,72
-86, 11efd08efc6585e0c766955230151d67,Taylor District Ice Center,71
-87, aa1085f1858f4424ab5421ecadadf611,Capreol Community Centre and Arena,67
-88, 11eeb550f50e99d0a6ce5f21b411b73a,Scott Safety Centre - Whitecourt Twin Arenas,66
-89, 11efd5095f3e38f0e9beec3e86c7d857,Geraldton Community Centre,66
-90, 11efde8833a3670051d225be9f444f95,Orville Acres Arena,63
-91, 11eeb71ac96842b0fac784089a0e2451,Ko Gocho Centre (Sportsplex) - Arena,62
-92, 11eebae8b7159cd08e501c76a8afd944,Town of Innisfail Twin Arena,62
-93, 11eeb7e2fe6974c09c016cc0a60704ac,Frank Crane Arena,60
+70, 11efdde64b0b40e0ca9a7a266d507e82,Sam Ault Arena,101
+71, 11E9F686BBD3470C81807B23EA662A63,Marystown Arena,99
+72, 11efde3afa45e9d0516367953137c4c9,Marmora Arena,97
+73, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,96
+74, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,92
+75, 11eeb6222b688f00ac245cf23d9a366b,Summerland Arena,91
+76, 11eeb6da2c720620a837bc41071a607e,Thamesford District Recreation Centre,91
+77, 11eeb6f6ce9e1260f845c99fc6a31ba3,Manvers Arena & Community Centre,85
+78, 11E9F686BBECB2BE81807B23EA662A63,River Valley Civic Centre,84
+79, 11E9F686BBC3FD1A81807B23EA662A63,Inch Park Arena,80
+80, 11eeb7e2fe6974c09c016cc0a60704ac,Frank Crane Arena,80
+81, 11efcd34d2eaa0401431a7d1d2ed686b,Kyle Community Sports Centre,78
+82, 11eebf3760b00940ffe304762d2bb666,Irma Arena,77
+83, 11eeca22dde18fb0d59351ed89cc1736,Beausejour Sportsplex,77
+84, 11efd287b441e5104101740a70dd5205,Rapid City community complex,77
+85, 11efddddfbf84f008dbc4d6ce46696f3,Knights Of Columbus Twin Arenas,76
+86, 11efde8833a3670051d225be9f444f95,Orville Acres Arena,73
+87, 11E9F686BBC445CC81807B23EA662A63,Ingersoll & District Memorial Centre,72
+88, 11efd08efc6585e0c766955230151d67,Taylor District Ice Center,71
+89, aa1085f1858f4424ab5421ecadadf611,Capreol Community Centre and Arena,67
+90, 11eeb550f50e99d0a6ce5f21b411b73a,Scott Safety Centre - Whitecourt Twin Arenas,66
+91, 11efd5095f3e38f0e9beec3e86c7d857,Geraldton Community Centre,66
+92, 11eeb71ac96842b0fac784089a0e2451,Ko Gocho Centre (Sportsplex) - Arena,62
+93, 11eebae8b7159cd08e501c76a8afd944,Town of Innisfail Twin Arena,62
 94, 11eebaf3374e9460a96867f16dd0bcf4,Fort Erie Leisureplex,56
 95, 11eeb89115d148f0db0f21b7ada3a2e3,Iceberg Arena,55
 96, 11E9F686BBBE293081807B23EA662A63,Harman Park Arena,52
