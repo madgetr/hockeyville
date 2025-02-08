@@ -1,22 +1,22 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,458,2,1066,459,31597,680,39854
+Trout Creek Community Centre - ON,458,2,1066,459,31612,680,39869
 Sackville Arena (LDRA) - NS,388,0,1110,358,13827,626,21395
 Honeywood Arena - ON,190,19,724,166,6378,358,10806
 Bashaw Arena - AB,241,0,301,188,6657,313,10158
 Pete Knight Arena - AB,171,0,353,158,6070,261,8997
-Middleton District Arena - NS,128,0,322,161,3983,250,6390
+Middleton District Arena - NS,128,0,322,162,3983,251,6391
 Redvers rec center - SK,76,0,186,93,4679,137,6090
-Aréna Saint-Boniface - QC,137,0,301,156,3096,245,5525
-North Hastings Community Centre - ON,53,0,102,33,2249,63,3118
+Aréna Saint-Boniface - QC,137,0,301,158,3096,247,5527
+North Hastings Community Centre - ON,53,0,102,34,2249,63,3119
 Kaetlyn Osmond Arena - NL,101,0,153,60,1208,142,2751
 St. Isidore Recreation Centre - ON,20,1,124,28,1058,50,1668
 Oxbow Community Arena - SK,51,0,36,50,979,55,1647
 Big River Arena - SK,35,0,91,37,784,76,1444
 Veterans Memorial Sports Complex - MB,32,1,93,30,765,49,1404
-Centre Sportif Normandin - QC,39,1,162,76,362,132,1324
-Rolling Hills Arena - AB,59,0,89,33,360,76,1250
+Centre Sportif Normandin - QC,39,1,162,90,362,142,1338
+Rolling Hills Arena - AB,59,0,89,36,360,78,1253
 Haldimand Community Memorial Arena - ON,38,0,79,32,532,66,1181
-Arborg & District Arena - MB,60,0,125,89,99,123,1163
+Arborg & District Arena - MB,60,0,125,90,99,123,1164
 Fox Valley Skating Arena - SK,51,0,91,29,335,67,1147
 Riverton Arena - MB,36,0,49,30,493,51,1030
 Longlac Sportsplex - ON,23,0,101,22,448,38,1003
@@ -34,11 +34,11 @@ Elm Creek Skating Rink - MB,11,0,33,18,279,29,506
 Kingston Memorial Centre - ON,20,0,41,14,138,26,475
 Unity Parc Arena - NL,18,0,36,15,157,24,460
 Kinistino sports complex - SK,11,0,56,12,154,26,444
-Springdale Stadium and Curling Club - NL,21,0,40,10,94,30,434
+Springdale Stadium and Curling Club - NL,21,0,40,11,94,30,435
 Goulds Arena - NL,7,0,47,12,207,19,430
-Cupar Memorial Rink - SK,9,0,40,13,192,29,415
+Cupar Memorial Rink - SK,9,0,40,14,192,29,416
 Brooke-Alvinston-Inwood Community Centre Complex - ON,15,0,30,13,150,28,403
-Delburne AG Arena - AB,16,0,6,3,183,17,364
+Delburne AG Arena - AB,16,0,6,4,183,18,365
 Kaslo arena - BC,14,0,41,9,92,23,364
 Moosonee Arena - ON,15,0,31,8,65,21,316
 Redwood Meadows Arena - AB,14,2,42,10,17,25,313
@@ -46,19 +46,19 @@ Eleanor Pew Memorial Arena - NS,12,0,34,11,67,19,300
 Walkerton Community Centre - ON,6,0,43,13,84,24,286
 South Courtice Arena - ON,7,0,31,8,102,15,273
 Bill Chaplin Arena - NL,6,1,24,13,114,21,269
-Arena De Clarence Creek - ON,13,0,29,13,33,26,263
+Arena De Clarence Creek - ON,13,0,29,14,33,27,264
 I J Coady Memorial Arena - ON,8,0,29,7,82,15,256
 Coldwater Arena - ON,13,0,17,10,56,19,247
 Civic Centre Arena - ON,7,0,23,12,84,20,235
 Centre récréatif de Donnacona - QC,8,0,26,22,35,29,215
 Memorial Community Centre Arena - AB,10,0,31,10,8,16,211
-Sam Ault Arena - ON,8,0,23,9,47,19,205
+Sam Ault Arena - ON,8,0,23,11,47,20,207
 Ville De Bouctouche Forum - NB,15,0,7,11,14,20,196
 Wilfred T Lipton Arena - MB,9,0,17,11,44,16,196
 Sangudo Arena - AB,7,0,21,7,55,15,195
 Aréna Jean Rougeau - QC,6,0,34,12,15,17,189
 Hespeler Memorial Arena - ON,6,0,22,4,55,12,185
-John Levi Community Centre - ON,4,1,36,7,11,22,176
+John Levi Community Centre - ON,4,1,36,8,11,23,177
 Archie Miller Arena - AB,8,0,25,10,1,20,166
 Marmora Arena - ON,8,0,14,5,32,10,159
 Jim Ciccone Civic Centre - BC,4,1,22,10,29,21,155
@@ -70,7 +70,7 @@ Al Lawrence Memorial Arena - BC,7,0,11,3,20,8,126
 Saxon Family Community Complex - SK,9,0,8,3,6,12,123
 Soo Pee Wee Arena - ON,7,0,11,5,8,11,116
 Kings Arrow Arena - NB,5,0,14,10,13,16,115
-Orville Acres Arena - MB,5,0,17,5,7,10,113
+Orville Acres Arena - MB,5,0,17,6,7,10,114
 Grandview Agricultural Community Centre - MB,6,0,13,3,11,8,113
 Marystown Arena - NL,5,0,15,4,14,16,113
 Katelynn Osmond Arena - NL,8,0,7,2,4,11,107
@@ -434,6 +434,7 @@ Vic Johnston Community Centre - ON,0,0,1,0,0,1,3
 Bruno Skating Rink - SK,0,0,1,0,0,1,3
 Stanley Agrena - NB,0,0,1,0,0,1,3
 Allman Memorial Arena - ON,0,0,0,2,0,2,2
+St Boniface - QC,0,0,0,1,0,1,1
 Ron Ebbesen Twin Arena - AB,0,0,0,1,0,1,1
 Complexe Sportif Robert Hartley - ON,0,0,0,1,0,1,1
 Bridgetown & District Memorial Arena - NS,0,0,0,1,0,1,1
