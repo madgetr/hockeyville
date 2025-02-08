@@ -9,7 +9,7 @@
   <style>
     body {
       background-color: #036;
-      display: flex;
+      display: block;
       flex-direction: column;
       align-items: center;
     }
@@ -51,16 +51,16 @@
 <!--diusplay last modified data on the top right of the table-->
 
 <div class="mb-3 text-center">
-  <select id="csv-select" class="form-select w-auto mx-auto">
-    <option value="">-- Select a file --</option>
-    <option value="data/authors.csv">Individual Contributions</option>
-    <option value="data/qualified.csv">Qualified For Giveaways</option>
+  <select id="csv-select" class="form-select w-auto mx-auto btn btn-primary dropdown-toggle">
+    <option class="btn btn-light" value="">-- Select a Table --</option>
+    <option class="btn btn-light" value="data/authors.csv">Individual Contributions</option>
+    <option class="btn btn-light" value="data/qualified.csv">Qualified For Giveaways</option>
   </select>
 </div>
 
 <div class="table-responsive">
   <label for="csv-table" id="last-modified-label">Last Modified: </label>
-  <table id="csv-table" class="table table-striped table-bordered">
+  <table id="csv-table" class="table table-small table-bordered table-responsive table-hover">
     <thead></thead>
     <tbody></tbody>
   </table>
@@ -84,6 +84,7 @@
         const optionElement = document.createElement('option');
         optionElement.value = option[0];
         optionElement.textContent = option[1];
+        optionElement.className = 'btn btn-light';
         select.appendChild(optionElement);
       });
     }
@@ -137,7 +138,6 @@
     headers.forEach(header => {
       const th = document.createElement('th');
       th.textContent = header;
-      th.addEventListener('click', () => sortTable(data, header));
       headerRow.appendChild(th);
     });
     tableHead.appendChild(headerRow);
