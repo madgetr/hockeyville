@@ -274,7 +274,7 @@ def save_facilities_as_csv(data, filename):
     # sort data by points and treat null points as 0
     data["facilities"].sort(key=lambda x: x['points'] if x['points'] else 0, reverse=True)
     with open(SAVE_DIR + filename, "w") as f:
-        f.write("Pos, Facility ID, Facility Name, Points\n")
+        f.write("Pos, Facility ID, Facility Name, Lat, Lng, Points\n")
         for facility in data["facilities"]:
             pos = data["facilities"].index(facility) + 1
             points = facility['points'] if facility['points'] else 0
