@@ -298,9 +298,15 @@ def get_facilities(cookie):
         print(response.content)
         raise ValueError("Response content is not valid JSON or is empty")
 
+def ordinal(n: int):
+    if 11 <= (n % 100) <= 13:
+        suffix = 'th'
+    else:
+        suffix = ['th', 'st', 'nd', 'rd', 'th'][min(n % 10, 4)]
+    return str(n) + suffix
 
 def save_last_modified_date(pos, points, forced=False):
-    meta = {"last_modified": time.strftime("%Y-%m-%d %H:%M", time.localtime()), "pos": pos, "points": points}
+    meta = {"last_modified": time.strftime("%Y-%m-%d %H:%M", time.localtime()), "pos": ordinal(pos), "points": points}
     if not forced:
         # check if meta.json exists
         try:
