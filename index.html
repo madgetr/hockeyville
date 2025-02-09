@@ -69,6 +69,8 @@
 <!--diusplay last modified data on the top right of the table-->
 <!-- google map-->
 <div class = "bdr" id="map" style="height: 400px; margin-bottom: 20px"></div>
+<canvas class = "bdr" id="chart" width="800" height="400"></canvas>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <div class="mb-3 text-center">
   <select id="csv-select" class="form-select mx-auto btn btn-primary dropdown-toggle" style="width: 50%">
     <option class="btn btn-light" value="data/authors.csv">Individual Contributions</option>
@@ -124,7 +126,7 @@
   const hiddenOptions = [
     ["data/kraft_facilities.csv", "Standings"],
     ["data/kraft.csv", "Arena Breakdown"],
-    ["data/kraft_by_date.csv", "Entries Breakdown"]
+    ["data/kraft_running_total.csv", "Entries Breakdown"]
   ];
   window.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
@@ -166,14 +168,27 @@
   });
 
   function loadPage(file) {
+    hideMap();
+    hideChart();
     switch (file) {
       case 'data/kraft_facilities.csv':
         loadCSV(file);
         showMap();
         break;
+      case 'data/kraft_running_total.csv':
+        loadChart(file);
+        break;
       default:
         loadCSV(file);
     }
+  }
+
+  function hideChart() {
+    document.getElementById('chart').style.display = 'none';
+  }
+
+  function showChart() {
+    document.getElementById('chart').style.display = 'block';
   }
 
   function hideMap() {
@@ -183,9 +198,97 @@
   function showMap() {
     document.getElementById('map').style.display = 'block';
   }
+  function loadChart(file) {
+    showChart();
+    fetch(file)
+        .then(response => response.text())
+        .then(csvText => {
+          const parsedData = Papa.parse(csvText, {header: false});
+          displayChart(parsedData.data);
+        })
+        .catch(error => console.error('Error loading CSV:', error));
+  }
+
+  function displayChart(data) {
+    const dataMap = {};
+    // filter to only include the top 10 facilities in points
+    data = data.filter(row => row[3] <= 10);
+    // Group entries by Arena + Type, and sum the points for each date
+    data.forEach(row => {
+      const [arena, date, type, raw_points, points] = row;
+      // if (arena !== 'Trout Creek Community Centre') return; // Filter by arena (optional
+      const key = `${arena}`;
+      if (!dataMap[key]) dataMap[key] = {};
+      if (!dataMap[key][date]) dataMap[key][date] = 0;
+
+      dataMap[key][date] = Math.max(parseInt(raw_points, 10), dataMap[key][date]); // max for the date
+    });
+
+    // Extract unique dates
+    const dates = [...new Set(data.map(row => row[1]))].sort();
+
+    // Prepare datasets for each arena-type combination
+    const datasets = Object.keys(dataMap).map((key, index) => ({
+      label: key,
+      data: dates.map(date => dataMap[key][date] || 0),
+      borderColor: `hsl(${index * 30}, 70%, 50%)`,
+      backgroundColor: `hsla(${index * 30}, 70%, 50%, 0.2)`,
+      fill: false,
+      tension: 0.3 // Smooth curves
+    }));
+
+    // Destroy the previous chart if it exists
+    if (window.myChart) {
+      window.myChart.destroy();
+    }
+
+    // Render the chart
+    const ctx = document.getElementById('chart').getContext('2d');
+    window.myChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: dates,
+        datasets: datasets
+      },
+      options: {
+        responsive: true,
+        interaction: {
+          mode: 'index',
+          intersect: false
+        },
+        stacked: false,
+        plugins: {
+          title: {
+            display: true,
+            text: 'Arena Activity with Points Over Time'
+          },
+          legend: {
+            display: true,
+            position: 'bottom'
+          }
+        },
+        scales: {
+          y: {
+            beginAtZero: true,
+            title: {
+              display: true,
+              text: 'Points'
+            }
+          },
+          x: {
+            title: {
+              display: true,
+              text: 'Date'
+            }
+          }
+        }
+      }
+    });
+  }
 
   function loadCSV(file) {
     hideMap();
+    hideChart();
     getLastModified();
     fetch(file)
         .then(response => response.text())
