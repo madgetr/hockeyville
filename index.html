@@ -44,6 +44,7 @@
       color: #fc6;
       text-align: center;
       filter: drop-shadow(1px 2px 1px rgba(0, 0, 0, .75));
+      margin-bottom: 2rem;
     }
 
     .shield-image {
@@ -80,7 +81,7 @@
 <canvas class = "bdr card" id="chart" width="800" height="550" style="margin-bottom: 20px"></canvas>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <div class="mb-3 text-center">
-  <select id="csv-select" class="form-select mx-auto btn btn-primary dropdown-toggle" style="width: 50%">
+  <select id="csv-select" class="form-select mx-auto btn btn-primary dropdown-toggle" style="width: 100%; max-width:500px">
     <option class="btn btn-light" value="data/authors.csv">Individual Contributions</option>
     <option class="btn btn-light" value="data/qualified.csv">Qualified For Giveaways</option>
   </select>
@@ -374,7 +375,7 @@
           const json = JSON.parse(text);
           const lastModified = json['last_modified'];
           document.getElementById('last-modified-label').textContent = `Last Modified: ${lastModified}`;
-          document.getElementById('points').innerHTML = `Rally Score: ${json['points']} <span class = "badge text-bg-success">${json['pos']} place</span>`;
+          document.getElementById('points').innerHTML = `Rally Score: ${json['points']} <span class = "badge rounded-pill text-bg-success">${json['pos']} place</span>`;
         })
   }
 
