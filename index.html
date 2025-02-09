@@ -70,7 +70,7 @@
 <!--diusplay last modified data on the top right of the table-->
 <!-- google map-->
 <div class = "bdr" id="map" style="height: 400px; margin-bottom: 20px"></div>
-<canvas class = "bdr card" id="chart" width="800" height="400" style="margin-bottom: 20px"></canvas>
+<canvas class = "bdr card" id="chart" width="800" height="550" style="margin-bottom: 20px"></canvas>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <div class="mb-3 text-center">
   <select id="csv-select" class="form-select mx-auto btn btn-primary dropdown-toggle" style="width: 50%">
@@ -177,6 +177,7 @@
         showMap();
         break;
       case 'data/kraft_running_total.csv':
+        loadCSV('data/kraft_facilities.csv');
         loadChart(file);
         break;
       default:
@@ -243,7 +244,8 @@
 
     // Extract unique dates
     const dates = [...new Set(data.map(row => row[1]))].sort();
-
+    // limit to past 20 days of dates
+    dates.splice(0, dates.length - 20)
     // Prepare datasets for each arena-type combination
     const datasets = Object.keys(dataMap).map((key, index) => ({
       label: key,
