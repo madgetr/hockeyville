@@ -144,7 +144,7 @@
     if (fileParam) {
       document.getElementById('csv-select').value = fileParam;
       if (all || !hiddenOptions.some(option => option[0] === fileParam)) {
-        loadCSV(fileParam);
+        loadPage(fileParam);
       }
     }
   });
@@ -155,7 +155,7 @@
 
     if (file) {
       url.searchParams.set('file', file);
-      loadCSV(file);
+      loadPage(file);
     }
     else {
       url.searchParams.delete('file');
@@ -165,7 +165,27 @@
     window.history.pushState({}, '', url);
   });
 
+  function loadPage(file) {
+    switch (file) {
+      case 'data/kraft_facilities.csv':
+        loadCSV(file);
+        showMap();
+        break;
+      default:
+        loadCSV(file);
+    }
+  }
+
+  function hideMap() {
+    document.getElementById('map').style.display = 'none';
+  }
+
+  function showMap() {
+    document.getElementById('map').style.display = 'block';
+  }
+
   function loadCSV(file) {
+    hideMap();
     getLastModified();
     fetch(file)
         .then(response => response.text())
