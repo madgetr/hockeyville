@@ -69,7 +69,7 @@
 <!--diusplay last modified data on the top right of the table-->
 <!-- google map-->
 <div class = "bdr" id="map" style="height: 400px; margin-bottom: 20px"></div>
-<canvas class = "bdr" id="chart" width="800" height="400"></canvas>
+<canvas class = "bdr card" id="chart" width="800" height="400" style="margin-bottom: 20px"></canvas>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <div class="mb-3 text-center">
   <select id="csv-select" class="form-select mx-auto btn btn-primary dropdown-toggle" style="width: 50%">
@@ -211,17 +211,33 @@
 
   function displayChart(data) {
     const dataMap = {};
-    // filter to only include the top 10 facilities in points
-    data = data.filter(row => row[3] <= 10);
+
     // Group entries by Arena + Type, and sum the points for each date
     data.forEach(row => {
+      // skip header
+        if (row[0] === 'Arena') return;
       const [arena, date, type, raw_points, points] = row;
       // if (arena !== 'Trout Creek Community Centre') return; // Filter by arena (optional
       const key = `${arena}`;
       if (!dataMap[key]) dataMap[key] = {};
       if (!dataMap[key][date]) dataMap[key][date] = 0;
-
+      if (!raw_points) return;
       dataMap[key][date] = Math.max(parseInt(raw_points, 10), dataMap[key][date]); // max for the date
+    });
+    top_arenas = []
+    top_arenas.push("Trout Creek Community Centre")
+    top_arenas.push("Sackville Arena (LDRA)")
+    top_arenas.push("Honeywood Arena")
+    top_arenas.push("Bashaw Arena")
+    top_arenas.push("Pete Knight Arena")
+    top_arenas.push("Middleton District Arena")
+    top_arenas.push("Redvers rec center")
+    console.log(top_arenas)
+    // remove all but the top 10 in points
+    Object.keys(dataMap).forEach(key => {
+      if (!top_arenas.includes(key)) {
+        delete dataMap[key];
+      }
     });
 
     // Extract unique dates
@@ -232,7 +248,7 @@
       label: key,
       data: dates.map(date => dataMap[key][date] || 0),
       borderColor: `hsl(${index * 30}, 70%, 50%)`,
-      backgroundColor: `hsla(${index * 30}, 70%, 50%, 0.2)`,
+      backgroundColor: `hsla(${index * 30}, 70%, 50%, 0.8)`,
       fill: false,
       tension: 0.3 // Smooth curves
     }));
