@@ -41,23 +41,9 @@
       text-shadow: 0 4px rgba(0, 0, 0, .75);
     }
     h2 {
-      font-family: "Roboto", serif;
-      font-optical-sizing: auto;
-      font-style: normal;
-      font-variation-settings:
-          "wdth" 100;
-      font-weight: 600;
-      color: #fab854;
+      color: #fc6;
       text-align: center;
-      text-transform: uppercase;
-      font-size: 4.25rem;
-      line-height: .95;
-      margin-bottom: 1rem;
-      margin-block-start: 0.83em;
-      margin-block-end: 0.83em;
-      margin-inline-start: 0px;
-      margin-inline-end: 0px;
-      text-shadow: 0 4px rgba(0, 0, 0, .75);
+      filter: drop-shadow(1px 2px 1px rgba(0, 0, 0, .75));
     }
 
     .shield-image {
@@ -86,7 +72,7 @@
 <a href="https://hockeyville.kraftheinz.com/community/11efd43abbf93d801185f98b382e2880" target="_blank"><img
         src="assets/shield.807ec91d.png" alt="Shield" class="shield-image"></a>
 <h1>Trout Creek Rally Stats</h1>
-<h2 class = "" id="pos"></h2>
+
 <h2 id="points"></h2>
 <!--diusplay last modified data on the top right of the table-->
 <!-- google map-->
@@ -154,7 +140,7 @@
     hideMap();
     hideChart();
     const urlParams = new URLSearchParams(window.location.search);
-    const fileParam = urlParams.get('file');
+    let fileParam = urlParams.get('file');
     const all = urlParams.get('all');
     if (all) {
       // add standings and arena breakdown to the dropdown
@@ -167,12 +153,14 @@
         select.appendChild(optionElement);
       });
     }
-    if (fileParam) {
-      document.getElementById('csv-select').value = fileParam;
-      if (all || !hiddenOptions.some(option => option[0] === fileParam)) {
-        loadPage(fileParam);
-      }
+    if (!fileParam) {
+      fileParam = 'data/authors.csv';
     }
+    document.getElementById('csv-select').value = fileParam;
+    if (all || !hiddenOptions.some(option => option[0] === fileParam)) {
+      loadPage(fileParam);
+    }
+
   });
 
   document.getElementById('csv-select').addEventListener('change', function() {
@@ -386,8 +374,7 @@
           const json = JSON.parse(text);
           const lastModified = json['last_modified'];
           document.getElementById('last-modified-label').textContent = `Last Modified: ${lastModified}`;
-          document.getElementById('pos').textContent = `Pos: ${json['pos']}`;
-          document.getElementById('points').textContent = `Points: ${json['points']}`;
+          document.getElementById('points').innerHTML = `Rally Score: ${json['points']} <span class = "badge text-bg-success">${json['pos']} place</span>`;
         })
   }
 
