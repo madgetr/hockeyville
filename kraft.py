@@ -1,5 +1,6 @@
 # https://hockeyville.kraftheinz.com/api/contest/gallery?country=CA&page=1&pageCount=1000&search=&sort=random&types=story,video,note,photo
 import time
+import json
 from collections import Counter
 
 import requests
@@ -299,17 +300,18 @@ def get_facilities(cookie):
 
 
 def save_last_modified_date(pos, points, forced=False):
+    meta = {"last_modified": time.strftime("%Y-%m-%d %H:%M", time.localtime()), "pos": pos, "points": points}
     if not forced:
-        with open(SAVE_DIR + "last_modified.txt", "r") as f:
-        #     read points to see if we need to save
-            lines = f.readlines()
-            last_line = lines[-1]
-            last_points = int(last_line.split("Points: ")[-1].split("\n")[0])
-            if last_points == points:
-                return
-    with open(SAVE_DIR + "last_modified.txt", "w") as f:
-        f.write(time.strftime("%Y-%m-%d %H:%M", time.localtime()) + "   |   Place: " + str(pos) + "   |   Points: " + str(
-            points) + "\n")
+        # check if meta.json exists
+        try:
+            with open(SAVE_DIR + "meta.json", "r") as f:
+                old_meta = json.load(f)
+                if old_meta["points"] == meta["points"]:
+                    return
+        except FileNotFoundError:
+            pass
+    with open(SAVE_DIR + "meta.json", "w") as f:
+        json.dump(meta, f)
 
 
 def main():
