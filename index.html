@@ -127,7 +127,7 @@
   const hiddenOptions = [
     ["data/kraft_facilities.csv", "Standings"],
     ["data/kraft.csv", "Arena Breakdown"],
-    ["data/kraft_running_total.csv", "Entries Breakdown"]
+    ["data/kraft_by_date.csv", "Points By Day"]
   ];
   window.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
@@ -176,7 +176,7 @@
         loadCSV(file);
         showMap();
         break;
-      case 'data/kraft_running_total.csv':
+      case 'data/kraft_by_date.csv':
         loadCSV('data/kraft_facilities.csv');
         loadChart(file);
         break;
@@ -218,13 +218,13 @@
     data.forEach(row => {
       // skip header
         if (row[0] === 'Arena') return;
-      const [arena, date, type, raw_points, points] = row;
+      const [date, arena, type, raw_points, points] = row;
       // if (arena !== 'Trout Creek Community Centre') return; // Filter by arena (optional
       const key = `${arena}`;
       if (!dataMap[key]) dataMap[key] = {};
       if (!dataMap[key][date]) dataMap[key][date] = 0;
       if (!raw_points) return;
-      dataMap[key][date] = Math.max(parseInt(raw_points, 10), dataMap[key][date]); // max for the date
+      dataMap[key][date] += parseInt(raw_points, 10);
     });
     top_arenas = []
     top_arenas.push("Trout Creek Community Centre")
@@ -243,9 +243,9 @@
     });
 
     // Extract unique dates
-    const dates = [...new Set(data.map(row => row[1]))].sort();
-    // limit to past 20 days of dates
-    dates.splice(0, dates.length - 20)
+    const dates = [...new Set(data.map(row => row[0]))].sort();
+    // // limit to past 20 days of dates
+    // dates.splice(0, dates.length - 20)
     // Prepare datasets for each arena-type combination
     const datasets = Object.keys(dataMap).map((key, index) => ({
       label: key,
