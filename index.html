@@ -87,7 +87,7 @@
   </select>
 </div>
 <!--center div-->
-<div class="bdr card" id="giveaways" style="width: 100%; max-width:500px;
+<div id="giveaways" style="width: 100%; max-width:800px;
   margin-left: auto;
   margin-right: auto;">
 </div>
@@ -205,22 +205,26 @@
       {
         src: "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftroutcreekhockeyville%2Fposts%2Fpfbid02fTMui8VBGupZptgKqVwn2AP3ns9BJwDpt9No7hfZy2fqALeRucvWKVBcvZDsLDGil&show_text=true&width=500",
         date: "2022-02-10",
-        winner: "Jacob W & Sarah D"
+        winner: "Jacob W & Sarah D",
+        prize: "2 Tickets to the Voodoos Game"
       },
         {
         src: "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftroutcreekhockeyville%2Fposts%2Fpfbid02gXihrcoPXw8Ar8EF9hUBVxXVRFWexdroZ3mkE3mv1CbW4veuvGBy6w3X4EH9Jnucl&show_text=true&width=500",
         date: "2022-02-04",
-        winner: "Carol C & Sherry W"
+        winner: "Carol C & Sherry W",
+          prize: "1 of 2 $30 Gift Cards to Grecos Pizza"
       },
         {
         src: "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftroutcreekhockeyville%2Fposts%2Fpfbid02Sfc6GNgox2zYQi1MQ8WPf2FLuXDGHa3nzDWGBkuc93HWyXBq1uU3UKZXzZseL3jol&show_text=true&width=500",
         date: "2022-02-08",
-        winner: "Stephanie C"
+        winner: "Stephanie C",
+          prize: "$50 Gift Card to Powassan Flowers"
       },
         {
         src: "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftroutcreekhockeyville%2Fposts%2Fpfbid0225KcqXrBSio53oh8LbJv4xPBntdvY21r2AeZHGAnWUBEmQ6HyUg18aPfFEWK8AYZl&show_text=true&width=500",
         date: "2022-03-01",
-        winner: ""
+        winner: "",
+          prize: "$200 Gift Card to Ashley Homestore North Bay"
       },
       {
         src: "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftroutcreekhockeyville%2Fposts%2Fpfbid02MfDVPUr5R4oAahwFcq47mR7Hy9xRXCvRuEqnRJ5CzdqbNv3mFHjNfpnn1eLLNdRRl&show_text=true&width=500",
@@ -243,6 +247,7 @@
     ]
     giveawayUrls.forEach(giveaway => {
       const div = document.createElement('div');
+      div.className = "bdr card";
       const iframe = document.createElement('iframe');
       iframe.src = giveaway.src;
       iframe.height = "fit-content";
@@ -251,17 +256,24 @@
       iframe.style.overflow = "hidden";
       iframe.allowFullScreen = "true";
       iframe.allow = "autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share";
+
+      let prizeTag = document.createElement('h5');
+        prizeTag.innerHTML = `${giveaway.prize}`;
+        prizeTag.style.margin = "0.5rem";
+        div.appendChild(prizeTag);
       let dateTag = document.createElement('div');
       dateTag.innerHTML = `${giveaway.date}`;
       dateTag.className = "badge bg-primary";
+      dateTag.style.margin = "0.5rem";
       if (giveaway.winner) {
         dateTag.innerHTML = ` Winner: ${giveaway.winner}`
         dateTag.className = "badge bg-success";
       }
       div.appendChild(dateTag);
       div.appendChild(iframe);
-      div.appendChild(document.createElement('br'));
+
       document.getElementById('giveaways').appendChild(div);
+      document.getElementById('giveaways').appendChild(document.createElement('br'));
     });
   }
 
