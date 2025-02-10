@@ -110,7 +110,7 @@ def produce_report(stories, videos, photos, notes, reactions, points, contributo
         for facility_id, point in points.items():
             arena = facility_names[facility_id].replace(',', '')
             if 'Trout Creek' in arena:
-                save_last_modified_date(points=point, stories=stories[facility_id], photos=photos[facility_id],
+                save_last_modified_date(stories=stories[facility_id], photos=photos[facility_id],
                                          notes=notes[facility_id], reactions=reactions[facility_id],
                                          contributors=len(contributors[facility_id]))
             f.write(f"{arena}"
