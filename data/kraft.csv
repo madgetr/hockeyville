@@ -6,7 +6,7 @@ Bashaw Arena - AB,246,0,313,195,7308,320,10902
 Pete Knight Arena - AB,186,0,362,177,7347,277,10470
 Middleton District Arena - NS,148,0,330,163,4719,270,7352
 Redvers rec center - SK,76,0,195,93,4694,139,6132
-Aréna Saint-Boniface - QC,145,0,347,169,3382,271,6042
+Aréna Saint-Boniface - QC,150,0,347,169,3382,272,6092
 North Hastings Community Centre - ON,55,0,108,36,2347,67,3257
 Kaetlyn Osmond Arena - NL,104,0,161,60,1208,145,2805
 St. Isidore Recreation Centre - ON,20,1,124,28,1058,50,1668
@@ -117,6 +117,7 @@ Walpole Island Complex - ON,2,0,7,2,0,4,43
 Hope Rec Centre  - BC,3,0,4,1,0,4,43
 Milton Memorial Arena - ON,3,0,4,1,0,3,43
 McIntyre Arena - ON,3,0,4,1,0,3,43
+Centre des sports Jean Claude Tremblay - QC,2,0,7,1,0,2,42
 Tobique-Plex - NB,2,0,6,3,0,4,41
 Manitouwadge Community Center - ON,4,0,0,0,0,4,40
 Dundalk Arena & Community Centre - ON,1,0,9,0,3,5,40
@@ -157,6 +158,7 @@ KC Irving Regional Center - NB,1,0,5,3,0,3,28
 Powassan Sportsplex - ON,1,0,5,1,2,2,28
 Berens River Memorial Arena  - MB,1,0,5,2,1,5,28
 A.G. Ross Arena - AB,2,0,2,1,1,3,28
+Kuujjuaq Forum - QC,1,0,4,1,4,2,27
 Galt Arena Gardens - ON,2,0,2,1,0,3,27
 Arena BSR - QC,2,0,2,1,0,3,27
 Jarome Iginla and kinex arenas - AB,1,0,5,1,0,1,26
@@ -180,7 +182,6 @@ Centre sportif de Métabetchouan - QC,1,0,4,1,0,1,23
 Oro-Medonte Community Arena - ON,2,0,1,0,0,2,23
 Smiths Falls Memorial Community Centre - ON,1,0,4,1,0,1,23
 Gros Morne Regional Complex - NL,2,0,1,0,0,2,23
-Centre des sports Jean Claude Tremblay - QC,0,0,7,1,0,2,22
 Norway House Cree Nation Multiplex - MB,1,0,4,0,0,1,22
 East Gwillimbury Sports Complex - ON,2,0,0,1,1,2,22
 Espanola Recreation Fitness - ON,2,0,0,2,0,3,22
@@ -211,7 +212,6 @@ Tommy Ricketts Arena - NL,2,0,0,0,0,2,20
 Centre sportif Jacques-Lesage - QC,1,0,3,1,0,2,20
 Saint Andrews Community Club - MB,1,0,3,0,0,1,19
 eastern Kings Sportsplex - PE,1,0,3,0,0,2,19
-Kuujjuaq Forum - QC,0,0,4,1,4,2,17
 Ridgevalley Arena - AB,1,0,2,1,0,2,17
 Foam Lake Recreation Centre - SK,1,0,2,1,0,1,17
 Perth & District Community Arena - ON,1,0,2,1,0,1,17
@@ -297,6 +297,7 @@ Blackstock Recreation Complex - ON,1,0,0,0,0,1,10
 Ken Houston Memorial Agricultural Centre - ON,1,0,0,0,0,1,10
 Katelyn Osmond Arena - NL,1,0,0,0,0,1,10
 Dan K. Stevens Memorial Arena - NS,1,0,0,0,0,1,10
+Aréna Saint-Basile - NB,1,0,0,0,0,1,10
 West Orillia Sports Complex Rotary Place Arena - ON,1,0,0,0,0,1,10
 High level  Arena - AB,1,0,0,0,0,1,10
 Redvers Recreation Centre - SK,0,0,3,1,0,1,10
