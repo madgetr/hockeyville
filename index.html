@@ -81,15 +81,9 @@
 <!-- google map-->
 <div class="bdr" id="map" style="height: 400px; margin-bottom: 20px"></div>
 <canvas class="bdr card" id="chart" width="800" height="550" style="margin-bottom: 20px"></canvas>
-<div class="bdr card" id="goals">
-  <h2 class="card-header">Goals</h2>
-  <div class="card-body">
-    <div class="progress">
-      <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0"
-           aria-valuemax="100">25%
-      </div>
-    </div>
-  </div>
+<div class="bdr card" id="goals" style="margin-bottom: 20px;">
+  <h3 class="card-header">Goals</h3>
+  <div class="card-body"></div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <div class="mb-3 text-center">
@@ -222,6 +216,7 @@
   }
 
   function showGoals() {
+    getLastModified();
     document.getElementById('goals').style.display = 'block';
   }
 
@@ -396,34 +391,26 @@
     });
   }
 
-  function createGoalProgressBars(data) {
-    const goals = [
-      {
-        "name": "1000 Photos",
-        "goal": 1000,
-        "current": 250
-      },
-      {
-        "name": "200 Stories",
-        "goal": 200,
-        "current": 100
-
-      }
-    ];
-    document.querySelector('#goals .progress').innerHTML = '';
+  function createGoalProgressBars(goals) {
+    document.querySelector('#goals .card-body').innerHTML = '';
     for (let i = 0; i < goals.length; i++) {
       const goal = goals[i];
-      const progress = goal.current / goal.goal * 100;
+      const progress = goal.valuenow / goal.valuemax * 100;
+      const progressDiv = document.createElement('div');
+      progressDiv.className = 'progress';
+      progressDiv.style.margin = '0.5rem';
       const progressBar = document.createElement('div');
-      progressBar.className = 'progress-bar';
+      progressBar.className = `progress-bar bg-${goal.color}`;
       progressBar.style.width = `${progress}%`;
       progressBar.setAttribute('role', 'progressbar');
-      progressBar.setAttribute('aria-valuenow', progress);
-      progressBar.setAttribute('aria-valuemin', 0);
-      progressBar.setAttribute('aria-valuemax', 100);
+      progressBar.setAttribute('aria-valuenow', goal.valuenow);
+      progressBar.setAttribute('aria-valuemin', goal.valuemin);
+      progressBar.setAttribute('aria-valuemax', goal.valuemax);
+
       progressBar.textContent = `${progress.toFixed(0)}%`;
-      progressBar.style.backgroundColor = i % 2 === 0 ? '#28a745' : '#007bff';
-      document.querySelector('#goals .progress').appendChild(progressBar);
+      progressBar.innerHTML = `${goal.name} ${goal.valuenow}/${goal.valuemax}`;
+      progressDiv.appendChild(progressBar);
+      document.querySelector('#goals .card-body').appendChild(progressDiv);
     }
   }
 
@@ -437,7 +424,29 @@
           document.getElementById('last-modified-label').textContent = `Last Modified: ${lastModified}`;
           document.getElementById(
               'points').innerHTML = `Rally Score: ${json['points']} <span class = "badge rounded-pill text-bg-success">${json['pos']} place</span>`;
-          createGoalProgressBars(null);
+          createGoalProgressBars([
+            {
+              "name": "15,000 Points",
+              "valuemax": 15000,
+              "valuemin": 0,
+              "valuenow": json['points'],
+              "color": "success"
+            },
+            {
+              "name": "600 Stories",
+              "valuemax": 600,
+              "valuemin": 0,
+              "valuenow": json['stories'],
+              "color": "primary"
+            },
+            {
+              "name": "1000 Photos",
+              "valuemax": 1000,
+              "valuemin": 0,
+              "valuenow": json['photos'],
+              "color": "info"
+            }
+          ]);
         })
   }
 
