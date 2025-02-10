@@ -272,6 +272,7 @@ def job(cookie):
     produce_delta_report("kraft_prev.csv", "kraft.csv")
     save_running_total_by_arena_csv(data, "kraft_running_total.csv")
     print("Total: ", total)
+    save_last_modified_date(diff=check_if_git_diff())
     commit_and_push_to_git()
 
 
@@ -312,14 +313,14 @@ def ordinal(n: int):
     return str(n) + suffix
 
 
-def save_last_modified_date(pos=None, points=None, stories=None, photos=None, notes=None, reactions=None, contributors=None):
+def save_last_modified_date(pos=None, points=None, stories=None, photos=None, notes=None, reactions=None, contributors=None, diff=False):
     try:
         with open(SAVE_DIR + "meta.json", "r") as f:
             meta = json.load(f)
     except FileNotFoundError:
         meta = {}
 
-    meta["last_modified"] = time.strftime("%Y-%m-%d %H:%M", time.localtime())
+    if diff: meta["last_modified"] = time.strftime("%Y-%m-%d %H:%M", time.localtime())
     if pos: meta["pos"] =  ordinal(pos)
     if points: meta["points"] = points
     if stories: meta["stories"] = stories
@@ -328,8 +329,18 @@ def save_last_modified_date(pos=None, points=None, stories=None, photos=None, no
     if reactions: meta["reactions"] = reactions
     if contributors: meta["contributors"] = contributors
 
+
     with open(SAVE_DIR + "meta.json", "w") as f:
         json.dump(meta, f)
+
+
+def check_if_git_diff():
+    import os
+    diff = os.system("git diff")
+    if diff:
+        return True
+    else:
+        return False
 
 
 def main():
