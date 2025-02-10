@@ -336,11 +336,8 @@ def save_last_modified_date(pos=None, points=None, stories=None, photos=None, no
 
 def check_if_git_diff():
     import os
-    diff = os.system("git diff")
-    if diff:
-        return True
-    else:
-        return False
+    # --quiet returns exit code 1 if there are changes, 0 if none
+    return os.system("git diff --quiet") != 0
 
 
 def main():
