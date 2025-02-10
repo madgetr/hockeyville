@@ -77,6 +77,14 @@
 <h1>Trout Creek Rally Stats</h1>
 
 <h2 id="points"></h2>
+<div class="mb-3 text-center">
+  <select id="csv-select" class="form-select mx-auto btn btn-primary dropdown-toggle"
+          style="width: 100%; max-width:500px">
+    <option class="btn btn-light" value="goals">Goals</option>
+    <option class="btn btn-light" value="data/authors.csv">Individual Contributions</option>
+    <option class="btn btn-light" value="data/qualified.csv">Qualified For Giveaways</option>
+  </select>
+</div>
 <!--diusplay last modified data on the top right of the table-->
 <!-- google map-->
 <div class="bdr" id="map" style="height: 400px; margin-bottom: 20px"></div>
@@ -86,14 +94,6 @@
   <div class="card-body"></div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<div class="mb-3 text-center">
-  <select id="csv-select" class="form-select mx-auto btn btn-primary dropdown-toggle"
-          style="width: 100%; max-width:500px">
-    <option class="btn btn-light" value="goals">Goals</option>
-    <option class="btn btn-light" value="data/authors.csv">Individual Contributions</option>
-    <option class="btn btn-light" value="data/qualified.csv">Qualified For Giveaways</option>
-  </select>
-</div>
 <div class="table-responsive">
   <label for="csv-table" id="last-modified-label">Last Modified: </label>
   <table id="csv-table" class="table table-bordered table-responsive table-hover bdr">
@@ -396,11 +396,18 @@
     for (let i = 0; i < goals.length; i++) {
       const goal = goals[i];
       const progress = goal.valuenow / goal.valuemax * 100;
+      const wrapperDiv = document.createElement('div');
+      const label = document.createElement('h4');
+        label.textContent = `${goal.name}`;
+        label.style.fontFamily = 'Roboto';
+
       const progressDiv = document.createElement('div');
       progressDiv.className = 'progress';
       progressDiv.style.margin = '0.5rem';
+      progressDiv.style.height = '2rem';
+      progressDiv.style.fontFamily = 'Roboto';
       const progressBar = document.createElement('div');
-      progressBar.className = `progress-bar bg-${goal.color}`;
+      progressBar.className = `progress-bar progress-bar-striped bg-${goal.color}`;
       progressBar.style.width = `${progress}%`;
       progressBar.setAttribute('role', 'progressbar');
       progressBar.setAttribute('aria-valuenow', goal.valuenow);
@@ -408,9 +415,11 @@
       progressBar.setAttribute('aria-valuemax', goal.valuemax);
 
       progressBar.textContent = `${progress.toFixed(0)}%`;
-      progressBar.innerHTML = `${goal.name} ${goal.valuenow}/${goal.valuemax}`;
+      progressBar.innerHTML = `${goal.valuenow}/${goal.valuemax} ${Math.floor(progress)}%`;
       progressDiv.appendChild(progressBar);
-      document.querySelector('#goals .card-body').appendChild(progressDiv);
+      wrapperDiv.appendChild(label);
+        wrapperDiv.appendChild(progressDiv);
+      document.querySelector('#goals .card-body').appendChild(wrapperDiv);
     }
   }
 
@@ -430,7 +439,7 @@
               "valuemax": 15000,
               "valuemin": 0,
               "valuenow": json['points'],
-              "color": "success"
+              "color": "warning"
             },
             {
               "name": "600 Stories",
@@ -440,11 +449,19 @@
               "color": "primary"
             },
             {
-              "name": "1000 Photos",
+              "name": "2000 Photos",
+              "valuemax": 2000,
+              "valuemin": 1000,
+              "valuenow": json['photos'],
+              "color": "danger"
+            }
+            ,
+            {
+              "name": "1000 Contributors",
               "valuemax": 1000,
               "valuemin": 0,
-              "valuenow": json['photos'],
-              "color": "info"
+              "valuenow": json['contributors'],
+              "color": "secondary"
             }
           ]);
         })
