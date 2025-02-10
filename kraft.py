@@ -1,9 +1,8 @@
 # https://hockeyville.kraftheinz.com/api/contest/gallery?country=CA&page=1&pageCount=1000&search=&sort=random&types=story,video,note,photo
-import time
 import json
-from collections import Counter
-
 import requests
+import time
+from collections import Counter
 from tqdm import tqdm
 
 # SAVE_DIR = "/mnt/c/Users/trevo/OneDrive/Documents/hockeyville_data/"
@@ -109,7 +108,12 @@ def produce_report(stories, videos, photos, notes, reactions, points, contributo
     with open(SAVE_DIR + "kraft.csv", "w") as f:
         f.write("Facility, stories, videos, photos, notes, reactions, contributors, points\n")
         for facility_id, point in points.items():
-            f.write(f"{facility_names[facility_id].replace(',', '')}"
+            arena = facility_names[facility_id].replace(',', '')
+            if arena == 'Trout Creek Community Centre':
+                save_last_modified_date(points=point, stories=stories[facility_id], photos=photos[facility_id],
+                                         notes=notes[facility_id], reactions=reactions[facility_id],
+                                         contributors=len(contributors[facility_id]))
+            f.write(f"{arena}"
                     f",{stories[facility_id]},{videos[facility_id]},{photos[facility_id]},{notes[facility_id]},{reactions[facility_id]},{len(contributors[facility_id])},{points[facility_id]}\n")
 
 
@@ -280,8 +284,9 @@ def save_facilities_as_csv(data, filename):
             pos = data["facilities"].index(facility) + 1
             points = facility['points'] if facility['points'] else 0
             if 'Trout Creek' in facility['data']['name']:
-                save_last_modified_date(pos, points)
-            f.write(f"{pos}, {facility['data']['id']},{facility['data']['name'].replace(',', '')},{facility['data']['lat']},{facility['data']['lng']},{points}\n")
+                save_last_modified_date(pos = pos, points = points)
+            f.write(
+                f"{pos}, {facility['data']['id']},{facility['data']['name'].replace(',', '')},{facility['data']['lat']},{facility['data']['lng']},{points}\n")
 
 
 def get_facilities(cookie):
@@ -298,6 +303,7 @@ def get_facilities(cookie):
         print(response.content)
         raise ValueError("Response content is not valid JSON or is empty")
 
+
 def ordinal(n: int):
     if 11 <= (n % 100) <= 13:
         suffix = 'th'
@@ -305,17 +311,23 @@ def ordinal(n: int):
         suffix = ['th', 'st', 'nd', 'rd', 'th'][min(n % 10, 4)]
     return str(n) + suffix
 
-def save_last_modified_date(pos, points, forced=False):
-    meta = {"last_modified": time.strftime("%Y-%m-%d %H:%M", time.localtime()), "pos": ordinal(pos), "points": points}
-    if not forced:
-        # check if meta.json exists
-        try:
-            with open(SAVE_DIR + "meta.json", "r") as f:
-                old_meta = json.load(f)
-                if old_meta["points"] == meta["points"]:
-                    return
-        except FileNotFoundError:
-            pass
+
+def save_last_modified_date(pos=None, points=None, stories=None, photos=None, notes=None, reactions=None, contributors=None):
+    try:
+        with open(SAVE_DIR + "meta.json", "r") as f:
+            meta = json.load(f)
+    except FileNotFoundError:
+        meta = {}
+
+    meta["last_modified"] = time.strftime("%Y-%m-%d %H:%M", time.localtime())
+    if pos: meta["pos"] =  ordinal(pos)
+    if points: meta["points"] = points
+    if stories: meta["stories"] = stories
+    if photos: meta["photos"] = photos
+    if notes: meta["notes"] = notes
+    if reactions: meta["reactions"] = reactions
+    if contributors: meta["contributors"] = contributors
+
     with open(SAVE_DIR + "meta.json", "w") as f:
         json.dump(meta, f)
 
