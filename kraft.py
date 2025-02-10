@@ -287,7 +287,7 @@ def save_facilities_as_csv(data, filename):
             if 'Trout Creek' in facility['data']['name']:
                 save_last_modified_date(pos = pos, points = points)
             f.write(
-                f"{ordinal(pos)}, {facility['data']['id']},{facility['data']['name'].replace(',', '')},{facility['data']['lat']},{facility['data']['lng']},{points}\n")
+                f"{pos}, {facility['data']['id']},{facility['data']['name'].replace(',', '')},{facility['data']['lat']},{facility['data']['lng']},{points}\n")
 
 
 def get_facilities(cookie):
