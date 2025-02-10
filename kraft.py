@@ -348,7 +348,7 @@ def main():
         except ValueError:
             cookie = input("Enter the cookie: ")
             job(cookie)
-        for _ in tqdm(range(25 * 60), desc="Waiting for next run"):
+        for _ in tqdm(range(2 * 60), desc="Waiting for next run"):
             time.sleep(1)
 
 
