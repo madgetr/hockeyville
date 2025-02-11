@@ -338,7 +338,7 @@ def save_last_modified_date(pos=None, points=None, stories=None, photos=None, no
         meta["change_reactions"] = reactions - meta["reactions"]
         meta["reactions"] = reactions
     if contributors:
-        meta["pchange_contributors"] = contributors - meta["contributors"]
+        meta["change_contributors"] = contributors - meta["contributors"]
         meta["contributors"] = contributors
 
 
