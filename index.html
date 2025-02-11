@@ -598,6 +598,14 @@
               "valuenow": json['contributors'],
               "valuechange": json['change_contributors'],
               "color": "secondary"
+            },
+            {
+              "name": `A Note for every Contributor`,
+              "valuemax": json['contributors'],
+              "valuemin": 0,
+              "valuenow": json['notes'],
+              "valuechange": json['change_notes'],
+              "color": "info"
             }
           ]);
         })
