@@ -510,8 +510,15 @@
       progressDiv.style.fontFamily = 'Roboto';
 
       const progressBar = document.createElement('div');
+      const changeLabel = document.createElement('h5');
       if (goal.valuechange > 0) {
         progressBar.className = `progress-bar progress-bar-striped progress-bar-animated bg-${goal.color}`;
+        changeLabel.textContent = `+${goal.valuechange}`;
+        changeLabel.style.marginLeft = '0.5rem';
+        changeLabel.style.marginTop = 'auto';
+        changeLabel.style.marginBottom = 'auto';
+        changeLabel.style.fontFamily = 'Roboto';
+        changeLabel.style.color = `#9de5a2`;
       } else {
         progressBar.className = `progress-bar bg-${goal.color}`;
       }
@@ -535,6 +542,7 @@
 
       progressDiv.appendChild(progressBar);
       progressDiv.appendChild(progressBarChange);
+      progressDiv.appendChild(changeLabel);
       wrapperDiv.appendChild(label);
       wrapperDiv.appendChild(progressDiv);
       document.querySelector('#goals .card-body').appendChild(wrapperDiv);
