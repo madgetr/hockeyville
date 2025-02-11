@@ -1,6 +1,6 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
 Trout Creek Community Centre - ON,518,2,1148,539,32987,746,42170
-Sackville Arena (LDRA) - NS,392,0,1137,366,14157,638,21854
+Sackville Arena (LDRA) - NS,392,0,1137,366,14161,638,21858
 Pete Knight Arena - AB,222,1,385,221,9793,330,13399
 Bashaw Arena - AB,257,0,317,210,8213,338,11944
 Honeywood Arena - ON,202,19,751,186,6777,378,11426
@@ -11,7 +11,7 @@ North Hastings Community Centre - ON,55,0,108,38,2353,68,3265
 Centre Sportif Normandin - QC,162,2,189,145,632,258,2984
 Kaetlyn Osmond Arena - NL,104,0,161,61,1208,145,2806
 Ivor MacDonald Memorial Arena - NS,61,0,66,60,1093,111,1961
-Fox Valley Skating Arena - SK,72,1,96,48,821,92,1887
+Fox Valley Skating Arena - SK,72,1,96,48,840,92,1906
 Rolling Hills Arena - AB,79,0,96,57,730,101,1865
 St. Isidore Recreation Centre - ON,21,1,124,29,1067,51,1688
 Oxbow Community Arena - SK,51,0,36,50,979,55,1647
@@ -49,7 +49,7 @@ Moosonee Arena - ON,15,0,31,8,65,21,316
 Walkerton Community Centre - ON,6,0,43,13,107,24,309
 Eleanor Pew Memorial Arena - NS,12,0,34,11,67,19,300
 Arena De Clarence Creek - ON,13,0,37,18,33,34,292
-I J Coady Memorial Arena - ON,8,0,34,8,82,17,272
+I J Coady Memorial Arena - ON,8,0,34,8,84,17,274
 John Levi Community Centre - ON,8,1,37,12,43,29,256
 Civic Centre Arena - ON,7,0,23,14,99,21,252
 Coldwater Arena - ON,13,0,17,10,56,19,247
@@ -148,12 +148,12 @@ Doug Hagel Arena - AB,2,0,4,1,0,3,33
 Berens River Memorial Arena  - MB,1,0,5,3,3,6,31
 Tamitik Jubilee Sports Complex - BC,3,0,0,1,0,3,31
 Jordan Arena - ON,2,0,3,1,1,2,31
+Kuujjuaq Forum - QC,1,0,4,1,8,2,31
 Hodder Memorial Recreation Complex - NL,3,0,0,0,0,3,30
 Duncan Murray Recreation Centre - AB,3,0,0,0,0,3,30
 Kipsigak Arena - NU,3,0,0,0,0,3,30
 Edson and District Leisure Centre - AB,2,0,3,1,0,3,30
 Cambrian Arena - ON,3,0,0,0,0,3,30
-Kuujjuaq Forum - QC,1,0,4,1,6,2,29
 Penticton Memorial Arena - BC,2,0,3,0,0,2,29
 Drumheller Memorial Arena - AB,2,0,3,0,0,3,29
 Wikwemikong Recreation Center - ON,2,0,2,1,2,2,29
@@ -271,6 +271,7 @@ Seaparc  - BC,1,0,0,2,0,2,12
 Berens River First Nation - MB,0,0,4,0,0,1,12
 Acton Community Centre - ON,1,0,0,2,0,3,12
 Nicola Valley Memorial Arena - BC,1,0,0,2,0,3,12
+Centre récréatif de Blanc-Sablon - QC,1,0,0,0,1,1,11
 G3 Iceplex - SK,1,0,0,1,0,1,11
 SEAPARC Recreation Centre - BC,1,0,0,1,0,2,11
 Aréna Jacques Laperrière - QC,1,0,0,1,0,1,11
@@ -289,7 +290,6 @@ Reeves Community Complex - ON,1,0,0,1,0,2,11
 Ma-te-way Park - ON,1,0,0,1,0,1,11
 Ridgetown Arena - ON,1,0,0,1,0,1,11
 Centre Sportif d'Opitciwan - QC,1,0,0,1,0,1,11
-Centre récréatif de Blanc-Sablon - QC,1,0,0,0,0,1,10
 North Shore Recreation Ctr - NS,1,0,0,0,0,1,10
 Beeton Community Memorial Arena - ON,1,0,0,0,0,1,10
 Bowness Community Association - AB,1,0,0,0,0,1,10
