@@ -495,9 +495,9 @@
     document.querySelector('#goals .card-body').innerHTML = '';
     for (let i = 0; i < goals.length; i++) {
       const goal = goals[i];
-
-      const progress = goal.valuenow / goal.valuemax * 100;
-      const progressPrev = goal.valueprev / goal.valuemax * 100;
+      const progressPrev = goal.valuenow - goal.valuechange;
+      const progress = Math.min(progressPrev / goal.valuemax * 100,100);
+      const progressChange = Math.min(goal.valuechange / goal.valuemax * 100,100);
       const wrapperDiv = document.createElement('div');
       const label = document.createElement('h4');
       label.textContent = `${goal.name}`;
@@ -510,27 +510,27 @@
       progressDiv.style.fontFamily = 'Roboto';
 
       const progressBar = document.createElement('div');
-      progressBar.className = `progress-bar progress-bar-striped bg-${goal.color}`;
+      progressBar.className = `progress-bar bg-${goal.color}`;
       progressBar.style.width = `${progress}%`;
       progressBar.setAttribute('role', 'progressbar');
-      progressBar.setAttribute('aria-valuenow', goal.valuenow);
+      progressBar.setAttribute('aria-valuenow', progressPrev.toString());
       progressBar.setAttribute('aria-valuemin', goal.valuemin);
       progressBar.setAttribute('aria-valuemax', goal.valuemax);
 
-      const progressBarPrev = document.createElement('div');
-      progressBarPrev.className = `progress-bar bg-${goal.color}`;
-      progressBarPrev.style.width = `${progressPrev}%`;
-      progressBarPrev.setAttribute('role', 'progressbar');
-      progressBarPrev.setAttribute('aria-valuenow', goal.valueprev);
-      progressBarPrev.setAttribute('aria-valuemin', goal.valuemin);
-      progressBarPrev.setAttribute('aria-valuemax', goal.valuemax);
-      progressBarPrev.style.opacity = 0.5;
+      const progressBarChange = document.createElement('div');
+      progressBarChange.className = `progress-bar progress-bar-striped progress-bar-animated bg-${goal.color}`;
+      progressBarChange.style.width = `${progressChange}%`;
+      progressBarChange.setAttribute('role', 'progressbar');
+      progressBarChange.setAttribute('aria-valuenow', goal.valuechange);
+      progressBarChange.setAttribute('aria-valuemin', goal.valuemin);
+      progressBarChange.setAttribute('aria-valuemax', goal.valuemax);
+      progressBarChange.style.opacity = 0.5;
 
       progressBar.textContent = `${progress.toFixed(0)}%`;
       progressBar.innerHTML = `${goal.valuenow}/${goal.valuemax} ${Math.floor(progress)}%`;
 
       progressDiv.appendChild(progressBar);
-      progressDiv.appendChild(progressBarPrev);
+      progressDiv.appendChild(progressBarChange);
       wrapperDiv.appendChild(label);
       wrapperDiv.appendChild(progressDiv);
       document.querySelector('#goals .card-body').appendChild(wrapperDiv);
@@ -553,7 +553,7 @@
               "valuemax": 15000,
               "valuemin": 0,
               "valuenow": json['points'],
-              "valueprev": json['prev_points'],
+              "valuechange": json['change_points'],
               "color": "warning"
             },
             {
@@ -561,7 +561,7 @@
               "valuemax": 700,
               "valuemin": 0,
               "valuenow": json['stories'],
-              "valueprev": json['prev_stories'],
+              "valuechange": json['change_stories'],
               "color": "primary"
             },
             {
@@ -569,7 +569,7 @@
               "valuemax": 2000,
               "valuemin": 1000,
               "valuenow": json['photos'],
-              "valueprev": json['prev_photos'],
+              "valuechange": json['change_photos'],
               "color": "danger"
             }
             ,
@@ -578,7 +578,7 @@
               "valuemax": 1000,
               "valuemin": 0,
               "valuenow": json['contributors'],
-              "valueprev": json['prev_contributors'],
+              "valuechange": json['change_contributors'],
               "color": "secondary"
             }
           ]);
