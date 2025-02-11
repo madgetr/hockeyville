@@ -2,16 +2,16 @@ Facility, stories, videos, photos, notes, reactions, contributors, points
 Trout Creek Community Centre - ON,518,2,1211,539,32987,746,42359
 Sackville Arena (LDRA) - NS,392,0,1143,366,14320,638,22035
 Pete Knight Arena - AB,222,1,393,221,9826,332,13456
-Bashaw Arena - AB,257,0,322,210,8213,338,11959
+Bashaw Arena - AB,257,0,325,210,8213,338,11968
 Honeywood Arena - ON,202,19,755,186,6802,379,11463
 Middleton District Arena - NS,174,0,379,222,4921,332,8020
-Aréna Saint-Boniface - QC,180,0,355,209,4477,312,7551
+Aréna Saint-Boniface - QC,180,0,355,209,4535,312,7609
 Redvers rec center - SK,77,0,199,94,4730,140,6191
 North Hastings Community Centre - ON,55,0,108,38,2353,68,3265
 Centre Sportif Normandin - QC,168,2,191,145,632,263,3050
 Kaetlyn Osmond Arena - NL,104,0,161,61,1208,145,2806
-Ivor MacDonald Memorial Arena - NS,61,0,70,60,1364,112,2244
-Fox Valley Skating Arena - SK,72,1,96,48,893,92,1959
+Ivor MacDonald Memorial Arena - NS,61,0,71,60,1364,112,2247
+Fox Valley Skating Arena - SK,72,1,96,48,948,92,2014
 Rolling Hills Arena - AB,79,0,105,57,730,102,1892
 St. Isidore Recreation Centre - ON,21,1,124,29,1067,51,1688
 Oxbow Community Arena - SK,51,0,36,50,979,55,1647
@@ -27,8 +27,8 @@ Delburne AG Arena - AB,27,0,34,16,409,34,797
 Athens Community Centre Centre 76 - ON,21,0,38,24,431,39,779
 Centre Sportif Charles-Edouard-Boucher - QC,21,0,141,96,19,112,748
 Ron Gorr Memorial Arena - AB,23,0,47,25,336,46,732
+North Peace Arena - BC,28,0,56,20,182,58,650
 La Glace Recreation Centre - AB,26,0,72,29,142,45,647
-North Peace Arena - BC,28,0,56,20,170,58,638
 Greenwood Arena - ON,29,0,47,30,140,62,601
 8th Hussars Sports Center - NB,25,0,40,16,189,46,575
 Elm Creek Skating Rink - MB,11,0,36,18,301,30,537
@@ -50,8 +50,8 @@ Walkerton Community Centre - ON,6,0,43,13,107,24,309
 Eleanor Pew Memorial Arena - NS,12,0,34,11,67,19,300
 Arena De Clarence Creek - ON,13,0,37,18,33,34,292
 I J Coady Memorial Arena - ON,8,0,34,8,84,17,274
+Irma Arena - AB,13,0,38,7,12,19,263
 John Levi Community Centre - ON,8,1,38,12,43,29,259
-Irma Arena - AB,13,0,36,7,12,19,257
 Civic Centre Arena - ON,7,0,23,14,99,21,252
 Coldwater Arena - ON,13,0,17,10,56,19,247
 Centre récréatif de Donnacona - QC,8,0,27,22,40,30,223
@@ -248,6 +248,7 @@ Burford Community Centre - ON,1,0,1,1,0,1,14
 Fort Macleod & District Sports Centre / Outdoor Swimming Pool / Ice Arena - AB,1,0,1,1,0,1,14
 Sudbury Arena - ON,1,0,1,1,0,2,14
 Southeast Event Centre - MB,1,0,1,1,0,1,14
+Centre récréatif de Blanc-Sablon - QC,1,0,0,0,3,1,13
 Lunenburg Community Centre Arena - NS,1,0,1,0,0,1,13
 Sudbury Community Arena - ON,1,0,0,2,1,3,13
 Sundre Arena - AB,1,0,1,0,0,1,13
@@ -267,7 +268,6 @@ Desbarats arena  - ON,1,0,1,0,0,1,13
 Deseronto Community Recreation Centre - ON,1,0,1,0,0,1,13
 Gaylord Powless Arena - ON,1,0,1,0,0,2,13
 Flames Community Arenas - AB,1,0,1,0,0,1,13
-Centre récréatif de Blanc-Sablon - QC,1,0,0,0,2,1,12
 Seaparc  - BC,1,0,0,2,0,2,12
 Berens River First Nation - MB,0,0,4,0,0,1,12
 Acton Community Centre - ON,1,0,0,2,0,3,12
