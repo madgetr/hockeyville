@@ -321,13 +321,27 @@ def save_last_modified_date(pos=None, points=None, stories=None, photos=None, no
         meta = {}
 
     if diff: meta["last_modified"] = time.strftime("%Y-%m-%d %H:%M", time.localtime())
-    if pos: meta["pos"] =  ordinal(pos)
-    if points: meta["points"] = points
-    if stories: meta["stories"] = stories
-    if photos: meta["photos"] = photos
-    if notes: meta["notes"] = notes
-    if reactions: meta["reactions"] = reactions
-    if contributors: meta["contributors"] = contributors
+    if pos:
+        meta["prev_pos"] = meta["pos"]
+        meta["pos"] = ordinal(pos)
+    if points:
+        meta["prev_points"] = meta["points"]
+        meta["points"] = points
+    if stories:
+        meta["prev_stories"] = meta["stories"]
+        meta["stories"] = stories
+    if photos:
+        meta["prev_photos"] = meta["photos"]
+        meta["photos"] = photos
+    if notes:
+        meta["prev_notes"] = meta["notes"]
+        meta["notes"] = notes
+    if reactions:
+        meta["prev_reactions"] = meta["reactions"]
+        meta["reactions"] = reactions
+    if contributors:
+        meta["prev_contributors"] = meta["contributors"]
+        meta["contributors"] = contributors
 
 
     with open(SAVE_DIR + "meta.json", "w") as f:
