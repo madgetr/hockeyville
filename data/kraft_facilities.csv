@@ -1,19 +1,19 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
 1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,9155
-2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,7684
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,4538
+2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,7694
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,4578
 4, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,3717
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,3477
-6, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,2956
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,3497
+6, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,2966
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,2941
 8, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,1598
-9, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,1497
+9, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,1518
 10, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,1448
-11, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,1088
+11, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,1118
 12, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,50.7011,-97.1462,1077
 13, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1039
 14, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,911
-15, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,821
+15, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,841
 16, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,775
 17, d5512a67cdfc4608ac279365175fcd00,Haldimand Community Memorial Arena,43.9919702,-78.0310643,734
 18, 11eebad347f099003d540cdb84e09cb8,Centre Sportif Charles-Edouard-Boucher,47.6525,-70.4067,719
@@ -49,8 +49,8 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 48, 11efd6019365d310971c42873a24eb89,John Levi Community Centre,45.1953,-76.1496,210
 49, 11efdde64b0b40e0ca9a7a266d507e82,Sam Ault Arena,45.1299843,-75.3590755,208
 50, 11efcf75483809902bd90ec1517cab1c,Memorial Community Centre Arena,49.7318,-112.6171,207
-51, 11eeb94b0a9f1e707a50d372baf5b339,Walkerton Community Centre,43.8567,-81.4023,202
-52, 11efcdc03bc8b940ce1cd676788d51ff,Bill Chaplin Arena,53.5329,-64.0145,196
+51, 11efcdc03bc8b940ce1cd676788d51ff,Bill Chaplin Arena,53.5329,-64.0145,206
+52, 11eeb94b0a9f1e707a50d372baf5b339,Walkerton Community Centre,43.8567,-81.4023,202
 53, 11eeb6f3ef437df0634f81fa6d7292d2,Coldwater Arena,44.6072,-79.6291,191
 54, b14065f8a04f49af8eb79de468077cd4,I J Coady Memorial Arena,46.64023299999999,-81.39035799999999,190
 55, 11eebda934364a803381ba5d7c9248c4,Cremona Ag Society Community Arena,52.0306,-113.9565,188
@@ -108,35 +108,35 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 107, 11E9F686BBE111DE81807B23EA662A63,Onoway Arena,53.7069476,-114.1929874,46
 108, 11eeb743163d9310c999633b382e6569,Aldershot Arena,43.3018,-79.8497,46
 109, 11eeb7664c770600c33f81f42a252b79,Hepburn Arena,52.807,-105.3626,46
-110, 11efcd745b1778a07c5edeb709174625,Didsbury Memorial Complex Arena,52.0306,-113.9565,45
-111, 11eec6b6c0ab3fa0d42ffb9151dc9a95,Raymore Arena,51.8194,-103.5644,44
-112, 11E9F686BBD43F7C81807B23EA662A63,McIntyre Arena,48.477891,-81.2982109,43
-113, 11E9F686BC0F81C281807B23EA662A63,Walpole Island Complex,42.5909326,-82.4785076,43
-114, 11eeb70b7cd54920fd100fefa15eb6dd,Milton Memorial Arena,43.5034,-79.8773,43
-115, 11efd6df5dcb7280fbb24aba07cc4747,Hope Rec Centre ,49.0538,-122.476,43
-116, 11efce169eb10b605501b9a86d3ceb3a,Centre des sports Jean Claude Tremblay,48.3133,-70.8557,42
-117, 11efde56f9e542806e961e37fce419fd,Centre sportif J.-A. Lemay,45.582,-72.0094,42
-118, 11efe32eeedfcd608e2a11d9ff2f65f3,Tobique-Plex,46.9097,-67.3971,42
-119, 11eeb948f1e16b10958164c4afa33fb1,Tilley arena,49.8442,-110.78,41
-120, 11E9F686BBFF838081807B23EA662A63,Sydney Mines & District Community Centre,46.244039,-60.2331991,40
-121, 11efd2aa953868b0cb43609db9037b5a,MCN Arena,55.8244,-98.8348,40
-122, 11efdc65616a9fc0a3ad0f64ed2a4b32,Manitouwadge Community Center,50.139,-89.0561,40
-123, 11efe18d222a4a909a23bbecde8236bb,Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada,46.2318,-63.1192,40
-124, 11E9F686BBBB1EFC81807B23EA662A63,Grand Forks arena,49.1340816,-118.5133909,39
-125, 11eec874950eca0005e7bcbec11edb41,Aréna Olympia,45.5321,-73.894,39
-126, 11efcd07f77241207d7e7f32a6c0f9e2,Aréna Saint-Pamphile,46.9055,-70.7456,39
-127, 11eeb8b4a1328210a0d833b02c6d8329,Aréna Saint-Lin-Laurentides,45.8522,-73.7577,38
-128, 11efdf38bd249a700c2e5cf63e1b1e2b,New Waterford community Center ,46.2295,-60.0941,38
-129, 11E9F686BBC9B81881807B23EA662A63,Keswick Valley Regional Complex,46.0624807,-66.8798785,37
-130, 11eeb6f548c09f10b4f1058c6cf4143a,Dundalk Arena & Community Centre,44.2999,-80.4804,37
-131, 11eebd5b569d0a3042bbc639dc23aa8b,Harry Lumley Bayshore Community Centre,44.5519,-80.9385,37
-132, 11E9F686BB94545281807B23EA662A63,Burks Falls Arena,45.6226202,-79.4037669,36
-133, 11eeb3d9b9f76f20aa55631588281247,West Colchester United Arena,45.3317,-64.7596,36
-134, 11eeb9822c9dcc107fe98a4577c7de4b,Moose Jaw Events Centre,50.4019,-105.5325,36
-135, 11eebf362ebf1d00d81b793057e5747c,Princeton & District Arena,49.0538,-122.476,36
-136, 11E9F686BB750A3481807B23EA662A63,Aréna Luc & Marie-Claude de Baie Saint-Paul,47.440778,-70.507809,35
-137, 11eec2efded509e0092439ba7bb3fe19,St. Jacobs Arena,43.7722,-80.6586,35
-138, 11efcd3bdaf2bb40f1c5d0ce7eabb7b3,Complexe Sportif De St-Louis-De-France Inc,46.4024,-72.5846,35
+110, 11efcd3bdaf2bb40f1c5d0ce7eabb7b3,Complexe Sportif De St-Louis-De-France Inc,46.4024,-72.5846,45
+111, 11efcd745b1778a07c5edeb709174625,Didsbury Memorial Complex Arena,52.0306,-113.9565,45
+112, 11eec6b6c0ab3fa0d42ffb9151dc9a95,Raymore Arena,51.8194,-103.5644,44
+113, 11E9F686BBD43F7C81807B23EA662A63,McIntyre Arena,48.477891,-81.2982109,43
+114, 11E9F686BC0F81C281807B23EA662A63,Walpole Island Complex,42.5909326,-82.4785076,43
+115, 11eeb70b7cd54920fd100fefa15eb6dd,Milton Memorial Arena,43.5034,-79.8773,43
+116, 11efd6df5dcb7280fbb24aba07cc4747,Hope Rec Centre ,49.0538,-122.476,43
+117, 11efce169eb10b605501b9a86d3ceb3a,Centre des sports Jean Claude Tremblay,48.3133,-70.8557,42
+118, 11efde56f9e542806e961e37fce419fd,Centre sportif J.-A. Lemay,45.582,-72.0094,42
+119, 11efe32eeedfcd608e2a11d9ff2f65f3,Tobique-Plex,46.9097,-67.3971,42
+120, 11eeb948f1e16b10958164c4afa33fb1,Tilley arena,49.8442,-110.78,41
+121, 11E9F686BBFF838081807B23EA662A63,Sydney Mines & District Community Centre,46.244039,-60.2331991,40
+122, 11efd2aa953868b0cb43609db9037b5a,MCN Arena,55.8244,-98.8348,40
+123, 11efdc65616a9fc0a3ad0f64ed2a4b32,Manitouwadge Community Center,50.139,-89.0561,40
+124, 11efe18d222a4a909a23bbecde8236bb,Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada,46.2318,-63.1192,40
+125, 11E9F686BBBB1EFC81807B23EA662A63,Grand Forks arena,49.1340816,-118.5133909,39
+126, 11eec874950eca0005e7bcbec11edb41,Aréna Olympia,45.5321,-73.894,39
+127, 11efcd07f77241207d7e7f32a6c0f9e2,Aréna Saint-Pamphile,46.9055,-70.7456,39
+128, 11eeb8b4a1328210a0d833b02c6d8329,Aréna Saint-Lin-Laurentides,45.8522,-73.7577,38
+129, 11efdf38bd249a700c2e5cf63e1b1e2b,New Waterford community Center ,46.2295,-60.0941,38
+130, 11E9F686BBC9B81881807B23EA662A63,Keswick Valley Regional Complex,46.0624807,-66.8798785,37
+131, 11eeb6f548c09f10b4f1058c6cf4143a,Dundalk Arena & Community Centre,44.2999,-80.4804,37
+132, 11eebd5b569d0a3042bbc639dc23aa8b,Harry Lumley Bayshore Community Centre,44.5519,-80.9385,37
+133, 11E9F686BB94545281807B23EA662A63,Burks Falls Arena,45.6226202,-79.4037669,36
+134, 11eeb3d9b9f76f20aa55631588281247,West Colchester United Arena,45.3317,-64.7596,36
+135, 11eeb9822c9dcc107fe98a4577c7de4b,Moose Jaw Events Centre,50.4019,-105.5325,36
+136, 11eebf362ebf1d00d81b793057e5747c,Princeton & District Arena,49.0538,-122.476,36
+137, 11E9F686BB750A3481807B23EA662A63,Aréna Luc & Marie-Claude de Baie Saint-Paul,47.440778,-70.507809,35
+138, 11eec2efded509e0092439ba7bb3fe19,St. Jacobs Arena,43.7722,-80.6586,35
 139, 11eebc8a539b75f0f6df272c30eb7379,Carlo Cartarello Arena,48.4466,-80.8161,34
 140, 11efd476bae27f10fd0951691c5c54b1,E J Broomfield Arena,55.8889,-60.8805,34
 141, 11eec0ba95f58650cddc36c5aa8a2c4b,Sungod Recreation Centre,49.1348,-122.9131,33
