@@ -1,9 +1,9 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
 Trout Creek Community Centre - ON,508,2,1142,526,32779,735,41831
 Sackville Arena (LDRA) - NS,391,0,1137,363,14000,635,21684
-Pete Knight Arena - AB,189,0,362,191,9641,289,12808
-Bashaw Arena - AB,251,0,313,208,8211,331,11868
-Honeywood Arena - ON,197,19,729,178,6708,368,11233
+Pete Knight Arena - AB,191,0,362,191,9641,289,12828
+Bashaw Arena - AB,255,0,313,208,8211,335,11908
+Honeywood Arena - ON,197,19,729,178,6709,368,11234
 Middleton District Arena - NS,165,0,330,208,4892,310,7740
 Aréna Saint-Boniface - QC,162,0,347,201,4405,297,7267
 Redvers rec center - SK,76,0,195,93,4694,139,6132
@@ -12,14 +12,14 @@ Kaetlyn Osmond Arena - NL,104,0,161,61,1208,145,2806
 Centre Sportif Normandin - QC,71,1,175,137,626,199,2008
 St. Isidore Recreation Centre - ON,20,1,124,28,1067,50,1677
 Oxbow Community Arena - SK,51,0,36,50,979,55,1647
+Fox Valley Skating Arena - SK,55,1,91,36,697,74,1566
 Big River Arena - SK,41,0,98,41,819,84,1564
-Fox Valley Skating Arena - SK,53,1,91,36,697,73,1546
 Rolling Hills Arena - AB,72,0,93,49,444,91,1492
-Ivor MacDonald Memorial Arena - NS,21,0,66,33,1021,52,1462
+Ivor MacDonald Memorial Arena - NS,22,0,66,33,1021,53,1472
 Veterans Memorial Sports Complex - MB,32,1,98,30,765,49,1419
 Haldimand Community Memorial Arena - ON,42,0,84,42,580,76,1294
 Arborg & District Arena - MB,60,0,125,92,99,124,1166
-Don Cruickshank Memorial Arena - BC,26,0,82,17,594,45,1117
+Don Cruickshank Memorial Arena - BC,27,0,82,17,594,45,1127
 Riverton Arena - MB,37,0,49,30,553,52,1100
 Longlac Sportsplex - ON,23,0,101,22,448,38,1003
 Petitcodiac Arena - NB,45,0,75,23,299,71,997
@@ -70,8 +70,8 @@ Bienfait Memorial Arena - SK,6,0,26,10,0,16,148
 Jus Jordan Arena - ON,9,0,13,9,4,19,142
 River Valley Civic Centre - NB,5,0,16,7,37,11,142
 Grandview Agricultural Community Centre - MB,7,0,15,3,11,10,129
+Orville Acres Arena - MB,6,0,17,7,8,11,126
 Al Lawrence Memorial Arena - BC,7,0,11,3,20,8,126
-Orville Acres Arena - MB,6,0,17,7,7,11,125
 Marystown Arena - NL,6,0,15,4,14,17,123
 Saxon Family Community Complex - SK,9,0,8,3,6,12,123
 Soo Pee Wee Arena - ON,7,0,11,5,8,11,116
@@ -90,6 +90,7 @@ Knights Of Columbus Twin Arenas - AB,5,0,6,9,0,13,77
 Ingersoll & District Memorial Centre - ON,4,0,9,5,0,7,72
 Taylor District Ice Center - BC,2,0,16,3,0,11,71
 St Martins 4 Season Complex - NB,1,0,13,3,18,6,70
+Richmond Arena - NS,4,0,6,1,10,4,69
 Scott Safety Centre - Whitecourt Twin Arenas - AB,4,0,8,2,2,6,68
 Capreol Community Centre and Arena - ON,5,0,4,5,1,8,68
 Geraldton Community Centre - ON,5,0,4,4,0,6,66
@@ -99,7 +100,6 @@ Welland Main Arena - ON,2,0,13,2,0,7,61
 Iceberg Arena - NL,4,0,6,1,1,4,60
 Chesterville and District Arena - ON,3,0,9,0,2,4,59
 Fort Erie Leisureplex - ON,5,0,0,6,3,9,59
-Richmond Arena - NS,3,0,6,1,10,3,59
 Harman Park Arena - ON,4,0,4,0,4,6,56
 Complexe Sportif De St-Louis-De-France Inc - QC,1,0,8,1,20,5,55
 Powell River Recreation Complex - BC,2,0,9,4,1,7,52
@@ -142,6 +142,7 @@ Darlington Sports Centre - ON,3,0,0,2,1,4,33
 Aréna Conrad-Parent - QC,2,0,3,4,0,4,33
 Sungod Recreation Centre - BC,2,0,4,1,0,2,33
 Doug Hagel Arena - AB,2,0,4,1,0,3,33
+Tamitik Jubilee Sports Complex - BC,3,0,0,1,0,3,31
 Jordan Arena - ON,2,0,3,1,1,2,31
 Hodder Memorial Recreation Complex - NL,3,0,0,0,0,3,30
 Duncan Murray Recreation Centre - AB,3,0,0,0,0,3,30
@@ -188,11 +189,11 @@ East Gwillimbury Sports Complex - ON,2,0,0,1,1,2,22
 Espanola Recreation Fitness - ON,2,0,0,2,0,3,22
 Wainfleet Arena - ON,1,0,4,0,0,1,22
 Stride Place - MB,1,0,4,0,0,1,22
-Tamitik Jubilee Sports Complex - BC,2,0,0,1,0,2,21
 Marysville Arena - BC,2,0,0,1,0,2,21
 Hillsborough Arena - NB,2,0,0,1,0,2,21
 Westlock Rotary Spirit Centre - AB,1,0,2,2,3,3,21
 Cominco Arena - BC,2,0,0,1,0,3,21
+Zurich Community Centre - ON,2,0,0,0,0,2,20
 Twin Town Sports Complex - NL,2,0,0,0,0,2,20
 Upper Pontiac Sports ComplexJ - QC,1,0,3,1,0,1,20
 Savanna Agricultural Society Rec-Plex - AB,2,0,0,0,0,2,20
@@ -290,7 +291,6 @@ Ridgetown Arena - ON,1,0,0,1,0,1,11
 Centre Sportif d'Opitciwan - QC,1,0,0,1,0,1,11
 Baysville Ice Skating Rink - ON,1,0,0,0,0,1,10
 Rothesay Arena - NB,1,0,0,0,0,1,10
-Zurich Community Centre - ON,1,0,0,0,0,1,10
 Vern Miller Memorial Arena - ON,1,0,0,0,0,1,10
 Macdonald - QC,1,0,0,0,0,1,10
 Jubilee Recreation Centre - AB,1,0,0,0,0,1,10
