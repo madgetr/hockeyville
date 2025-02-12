@@ -1,14 +1,14 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,518,2,1211,539,33206,746,42578
-Sackville Arena (LDRA) - NS,392,0,1143,366,14921,638,22636
-Pete Knight Arena - AB,222,1,393,221,10046,332,13676
-Bashaw Arena - AB,257,0,325,210,9711,338,13466
-Honeywood Arena - ON,202,19,755,186,7071,379,11732
+Trout Creek Community Centre - ON,518,2,1211,539,33224,746,42596
+Sackville Arena (LDRA) - NS,392,0,1143,366,14963,638,22678
+Pete Knight Arena - AB,222,1,393,221,10048,332,13678
+Bashaw Arena - AB,257,0,325,210,9731,338,13486
+Honeywood Arena - ON,202,19,755,186,7379,379,12040
+Aréna Saint-Boniface - QC,242,1,355,234,4698,361,8427
 Middleton District Arena - NS,174,0,379,222,4925,332,8024
-Aréna Saint-Boniface - QC,180,0,355,209,4649,312,7723
 Redvers rec center - SK,77,0,199,94,4758,140,6219
 North Hastings Community Centre - ON,55,0,108,38,2366,68,3278
-Centre Sportif Normandin - QC,168,2,191,145,642,263,3060
+Centre Sportif Normandin - QC,172,2,191,145,648,263,3106
 Kaetlyn Osmond Arena - NL,104,0,161,61,1208,145,2806
 Ivor MacDonald Memorial Arena - NS,61,0,71,60,1387,112,2270
 Fox Valley Skating Arena - SK,72,1,96,48,1197,92,2263
@@ -25,7 +25,7 @@ Longlac Sportsplex - ON,23,0,101,22,448,38,1003
 Petitcodiac Arena - NB,45,0,75,23,299,71,997
 Delburne AG Arena - AB,27,0,34,16,416,34,804
 Athens Community Centre Centre 76 - ON,21,0,38,24,431,39,779
-Centre Sportif Charles-Edouard-Boucher - QC,21,0,141,96,19,112,748
+Centre Sportif Charles-Edouard-Boucher - QC,22,0,141,96,19,113,758
 Ron Gorr Memorial Arena - AB,23,0,47,25,336,46,732
 North Peace Arena - BC,28,0,56,20,192,58,660
 La Glace Recreation Centre - AB,26,0,72,29,142,45,647
@@ -93,7 +93,7 @@ St Martins 4 Season Complex - NB,1,0,13,3,18,6,70
 Richmond Arena - NS,4,0,6,1,10,4,69
 Scott Safety Centre - Whitecourt Twin Arenas - AB,4,0,8,2,2,6,68
 Capreol Community Centre and Arena - ON,5,0,4,5,1,8,68
-Complexe Sportif De St-Louis-De-France Inc - QC,2,0,8,2,20,6,66
+Complexe Sportif De St-Louis-De-France Inc - QC,2,0,8,3,20,6,67
 Geraldton Community Centre - ON,5,0,4,4,0,6,66
 Welland Main Arena - ON,2,0,13,3,0,8,62
 Ko Gocho Centre (Sportsplex) - Arena - NT,5,0,3,3,0,7,62
@@ -102,6 +102,7 @@ Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada - PE,4,0,0,0
 Iceberg Arena - NL,4,0,6,1,1,4,60
 Chesterville and District Arena - ON,3,0,9,0,2,4,59
 Fort Erie Leisureplex - ON,5,0,0,6,3,9,59
+St Boniface - QC,4,0,3,2,5,5,56
 Harman Park Arena - ON,4,0,4,0,4,6,56
 Powell River Recreation Complex - BC,2,0,9,4,1,7,52
 Harry O. Memorial Arena - SK,4,0,2,4,0,6,50
@@ -164,7 +165,6 @@ Powassan Sportsplex - ON,1,0,5,1,2,2,28
 A.G. Ross Arena - AB,2,0,2,1,1,3,28
 Galt Arena Gardens - ON,2,0,2,1,0,3,27
 Arena BSR - QC,2,0,2,1,0,3,27
-St Boniface - QC,1,0,3,2,5,3,26
 Jarome Iginla and kinex arenas - AB,1,0,5,1,0,1,26
 Deep River Arena - ON,1,0,5,1,0,1,26
 Vulcan Arena - AB,1,0,5,0,1,1,26
@@ -191,11 +191,11 @@ East Gwillimbury Sports Complex - ON,2,0,0,1,1,2,22
 Espanola Recreation Fitness - ON,2,0,0,2,0,3,22
 Wainfleet Arena - ON,1,0,4,0,0,1,22
 Stride Place - MB,1,0,4,0,0,1,22
+Centre récréatif de Blanc-Sablon - QC,1,0,0,0,11,1,21
 Marysville Arena - BC,2,0,0,1,0,2,21
 Hillsborough Arena - NB,2,0,0,1,0,2,21
 Westlock Rotary Spirit Centre - AB,1,0,2,2,3,3,21
 Cominco Arena - BC,2,0,0,1,0,3,21
-Centre récréatif de Blanc-Sablon - QC,1,0,0,0,10,1,20
 Zurich Community Centre - ON,2,0,0,0,0,2,20
 Twin Town Sports Complex - NL,2,0,0,0,0,2,20
 Upper Pontiac Sports ComplexJ - QC,1,0,3,1,0,1,20
