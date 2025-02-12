@@ -152,7 +152,7 @@
   const hiddenOptions = [
     ["data/kraft_facilities.csv", "Standings"],
     ["data/kraft.csv", "Arena Breakdown"],
-    ["data/kraft_by_date.csv", "Points By Day"],
+    ["data/kraft_by_date.csv", "New Points By Day"],
     ["data/kraft_running_total.csv", "Total Points By Day"]
   ];
   window.addEventListener('DOMContentLoaded', () => {
@@ -369,7 +369,7 @@
     // Group entries by Arena + Type, and sum the points for each date
     data.forEach(row => {
       // skip header
-      if (row[0] === 'Arena') return;
+      if (row[1] === 'Arena') return;
       const [date, arena, type, raw_points, points] = row;
       // if (arena !== 'Trout Creek Community Centre') return; // Filter by arena (optional
       const key = `${arena}`;
@@ -386,7 +386,10 @@
 
     // Extract unique dates
     const dates = [...new Set(data.map(row => row[0]))].sort();
-
+    const lastItem = dates.pop();
+    if (lastItem !== 'Date') {
+      dates.push(lastItem);
+    }
     // fill holes in data with previous day's data
     Object.keys(dataMap).forEach(key => {
       let prev = 0;
@@ -407,20 +410,14 @@
     top_arenas.sort((a, b) => {
       return dataMap[b][dates[dates.length - 1]] - dataMap[a][dates[dates.length - 1]];
     });
+    top_arenas.splice(10);
+    top_arenas.push("Trout Creek Community Centre");
     // remove all but the top 10 in points
     Object.keys(dataMap).forEach(key => {
       if (!top_arenas.includes(key)) {
         delete dataMap[key];
       }
     });
-
-    // remove all but the top 10 in points
-    Object.keys(dataMap).forEach(key => {
-      if (!top_arenas.includes(key)) {
-        delete dataMap[key];
-      }
-    });
-    top_arenas.push("Trout Creek Community Centre")
 
     // // limit to past 20 days of dates
     // dates.splice(0, dates.length - 20)
