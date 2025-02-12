@@ -2,7 +2,7 @@ Facility, stories, videos, photos, notes, reactions, contributors, points
 Trout Creek Community Centre - ON,518,2,1211,539,33198,746,42570
 Sackville Arena (LDRA) - NS,392,0,1143,366,14898,638,22613
 Pete Knight Arena - AB,222,1,393,221,10032,332,13662
-Bashaw Arena - AB,257,0,325,210,9404,338,13159
+Bashaw Arena - AB,257,0,325,210,9408,338,13163
 Honeywood Arena - ON,202,19,755,186,7066,379,11727
 Middleton District Arena - NS,174,0,379,222,4925,332,8024
 Aréna Saint-Boniface - QC,180,0,355,209,4638,312,7712
@@ -10,8 +10,8 @@ Redvers rec center - SK,77,0,199,94,4758,140,6219
 North Hastings Community Centre - ON,55,0,108,38,2366,68,3278
 Centre Sportif Normandin - QC,168,2,191,145,641,263,3059
 Kaetlyn Osmond Arena - NL,104,0,161,61,1208,145,2806
-Ivor MacDonald Memorial Arena - NS,61,0,71,60,1378,112,2261
-Fox Valley Skating Arena - SK,72,1,96,48,1082,92,2148
+Ivor MacDonald Memorial Arena - NS,61,0,71,60,1382,112,2265
+Fox Valley Skating Arena - SK,72,1,96,48,1084,92,2150
 Rolling Hills Arena - AB,79,0,105,57,730,102,1892
 St. Isidore Recreation Centre - ON,21,1,124,29,1067,51,1688
 Oxbow Community Arena - SK,51,0,36,50,979,55,1647
@@ -214,9 +214,9 @@ Maidstone Arena - SK,2,0,0,0,0,2,20
 Brennan Park Arena - BC,1,0,3,1,0,1,20
 Tommy Ricketts Arena - NL,2,0,0,0,0,2,20
 Centre sportif Jacques-Lesage - QC,1,0,3,1,0,2,20
+Centre récréatif de Blanc-Sablon - QC,1,0,0,0,9,1,19
 Saint Andrews Community Club - MB,1,0,3,0,0,1,19
 eastern Kings Sportsplex - PE,1,0,3,0,0,2,19
-Centre récréatif de Blanc-Sablon - QC,1,0,0,0,8,1,18
 Tilbury Memorial Arena - ON,1,0,2,2,0,2,18
 Nattilik Arena - NU,1,0,2,2,0,3,18
 Oceanside Place Arena - BC,1,0,2,1,0,3,17
@@ -250,6 +250,7 @@ Fort Macleod & District Sports Centre / Outdoor Swimming Pool / Ice Arena - AB,1
 Sudbury Arena - ON,1,0,1,1,0,2,14
 Southeast Event Centre - MB,1,0,1,1,0,1,14
 Lunenburg Community Centre Arena - NS,1,0,1,0,0,1,13
+Aréna Joannie Rochette - QC,1,0,0,0,3,1,13
 Sudbury Community Arena - ON,1,0,0,2,1,3,13
 Sundre Arena - AB,1,0,1,0,0,1,13
 Bay Arena - NL,1,0,1,0,0,1,13
@@ -269,7 +270,6 @@ Deseronto Community Recreation Centre - ON,1,0,1,0,0,1,13
 Gaylord Powless Arena - ON,1,0,1,0,0,2,13
 Flames Community Arenas - AB,1,0,1,0,0,1,13
 Seaparc  - BC,1,0,0,2,0,2,12
-Aréna Joannie Rochette - QC,1,0,0,0,2,1,12
 Berens River First Nation - MB,0,0,4,0,0,1,12
 Acton Community Centre - ON,1,0,0,2,0,3,12
 Nicola Valley Memorial Arena - BC,1,0,0,2,0,3,12
