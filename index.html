@@ -366,7 +366,6 @@
 
   function displayChart(data) {
     const dataMap = {};
-
     // Group entries by Arena + Type, and sum the points for each date
     data.forEach(row => {
       // skip header
@@ -377,7 +376,7 @@
       if (!dataMap[key]) dataMap[key] = {};
       if (!dataMap[key][date]) dataMap[key][date] = 0;
       if (!raw_points) return;
-      dataMap[key][date] += parseInt(raw_points, 10);
+      dataMap[key][date] = Math.max(parseInt(raw_points, 10),dataMap[key][date]);
     });
     top_arenas = []
     top_arenas.push("Trout Creek Community Centre")
