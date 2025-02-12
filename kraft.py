@@ -239,7 +239,7 @@ def save_running_total_by_arena_csv(data, filename):
     # sort data by date
     data["entries"].sort(key=lambda x: x["ce"]["created_at"])
     with open(SAVE_DIR + filename, "w") as f:
-        f.write("Arena, Date, Type, Raw Points, Points\n")
+        f.write("Date, Arena, Type, Raw Points, Points\n")
         points = Counter()
         raw_points = Counter()
         for entry in data["entries"]:
@@ -258,7 +258,7 @@ def save_running_total_by_arena_csv(data, filename):
             points[facility_name] += cer["sad"]
             points[facility_name] += cer["wow"]
 
-            f.write(f"{facility_name},{created_at},{item_type},{raw_points[facility_name]},{points[facility_name]}\n")
+            f.write(f"{created_at},{facility_name},{item_type},{raw_points[facility_name]},{points[facility_name]}\n")
 
 
 def job(cookie):

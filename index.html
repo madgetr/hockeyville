@@ -152,7 +152,8 @@
   const hiddenOptions = [
     ["data/kraft_facilities.csv", "Standings"],
     ["data/kraft.csv", "Arena Breakdown"],
-    ["data/kraft_by_date.csv", "Points By Day"]
+    ["data/kraft_by_date.csv", "Points By Day"],
+    ["data/kraft_running_total.csv", "Total Points By Day"]
   ];
   window.addEventListener('DOMContentLoaded', () => {
     loadGiveaways();
@@ -300,6 +301,10 @@
         showMap();
         break;
       case 'data/kraft_by_date.csv':
+        loadCSV('data/kraft_facilities.csv');
+        loadChart(file);
+        break;
+      case 'data/kraft_running_total.csv':
         loadCSV('data/kraft_facilities.csv');
         loadChart(file);
         break;
