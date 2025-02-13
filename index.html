@@ -87,6 +87,13 @@
   </select>
 </div>
 <!--center div-->
+<div id="random-name-picker" style="width: 100%; max-width:800px; margin-left: auto; margin-right: auto;">
+  <div class="input-group mb-3">
+    <input type="text" class="form-control" placeholder="Random Name Picker" aria-label="Random Name Picker"
+           aria-describedby="button-addon2">
+    <button class="btn btn-outline-secondary" type="button" id="button-addon2">Pick</button>
+  </div>
+</div>
 <div id="giveaways" style="width: 100%; max-width:800px;
   margin-left: auto;
   margin-right: auto;">
@@ -295,7 +302,12 @@
     hideChart();
     hideGoals();
     hideGiveaways();
+    hideRandomNamePicker();
     switch (file) {
+      case 'data/qualified.csv':
+        loadCSV(file);
+        showRandomNamePicker(file);
+        break;
       case 'data/kraft_facilities.csv':
         loadCSV(file);
         showMap();
@@ -317,6 +329,27 @@
       default:
         loadCSV(file);
     }
+  }
+
+  function hideRandomNamePicker() {
+    document.getElementById('random-name-picker').style.display = 'none';
+  }
+
+  function showRandomNamePicker(file) {
+      document.getElementById('random-name-picker').style.display = 'block';
+    fetch(file)
+        .then(response => response.text())
+        .then(csvText => {
+          const parsedData = Papa.parse(csvText, {header: true});
+            const names = parsedData.data.map(row => row[0]);
+            console.log(names);
+            const button = document.getElementById('button-addon2');
+            const input = document.querySelector('.form-control');
+            button.addEventListener('click', () => {
+              input.value = names[Math.floor(Math.random() * names.length)];
+            });
+        })
+        .catch(error => console.error('Error loading CSV:', error));
   }
 
   function hideGoals() {
