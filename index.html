@@ -341,7 +341,9 @@
         .then(response => response.text())
         .then(csvText => {
           const parsedData = Papa.parse(csvText, {header: true});
-            const names = parsedData.data.map(row => row[0]);
+            const names = parsedData.data.map(row => row[' Author']);
+            // remove undefined names
+            names.splice(names.indexOf(undefined), 1);
             console.log(names);
             const button = document.getElementById('button-addon2');
             const input = document.querySelector('.form-control');
@@ -351,6 +353,72 @@
         })
         .catch(error => console.error('Error loading CSV:', error));
   }
+  const participants = ["Alice", "Bob", "Charlie", "Dave", "Eve"]; // Input list of names
+  const raceTrack = document.createElement("div");
+  raceTrack.style.position = "relative";
+  raceTrack.style.width = "80vw";
+  raceTrack.style.height = "200px";
+  raceTrack.style.border = "2px solid black";
+  document.body.appendChild(raceTrack);
+
+  const finishLine = document.createElement("div");
+  finishLine.style.position = "absolute";
+  finishLine.style.right = "10px";
+  finishLine.style.top = "0";
+  finishLine.style.bottom = "0";
+  finishLine.style.width = "5px";
+  finishLine.style.backgroundColor = "red";
+  raceTrack.appendChild(finishLine);
+
+  let winner = null;
+  let interval;
+  const racers = participants.map((name, index) => {
+    const racer = document.createElement("img");
+    racer.src = "https://cdn-icons-png.flaticon.com/512/3205/3205282.png";
+    racer.alt = name;
+    racer.style.position = "absolute";
+    racer.style.left = "0px";
+    racer.style.top = `${index * 40}px`;
+    racer.style.width = "40px";
+    racer.style.height = "40px";
+    raceTrack.appendChild(racer);
+    return { name, element: racer, position: 0 };
+  });
+
+  function startRace() {
+    interval = setInterval(() => {
+      racers.forEach(racer => {
+        if (!winner) {
+          racer.position += Math.random() * 10;
+          racer.element.style.left = `${racer.position}px`;
+          if (racer.position >= raceTrack.clientWidth - 30) {
+            winner = racer.name;
+            alert(`${winner} wins the race!`);
+            clearInterval(interval);
+          }
+        }
+      });
+    }, 100);
+  }
+
+  function resetRace() {
+    clearInterval(interval);
+    winner = null;
+    racers.forEach(racer => {
+      racer.position = 0;
+      racer.element.style.left = "0px";
+    });
+  }
+
+  const startButton = document.createElement("button");
+  startButton.innerText = "Start Race";
+  startButton.onclick = startRace;
+  document.body.appendChild(startButton);
+
+  const resetButton = document.createElement("button");
+  resetButton.innerText = "Reset Race";
+  resetButton.onclick = resetRace;
+  document.body.appendChild(resetButton);
 
   function hideGoals() {
     document.getElementById('goals').style.display = 'none';
