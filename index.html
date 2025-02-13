@@ -372,7 +372,8 @@
       const racerContainer = document.createElement("div");
       racerContainer.style.position = "absolute";
       racerContainer.style.left = "0px";
-      racerContainer.style.top = `${index * 20}px`;
+      // evently space the racers across raceTrack.style.height
+      racerContainer.style.top = `${(index + 1) * ((raceTrack.clientHeight-60) / (participants.length + 1))}px`;
       racerContainer.style.display = "flex";
       racerContainer.style.flexDirection = "column";
       racerContainer.style.alignItems = "center";
@@ -387,20 +388,23 @@
       racer.alt = name;
       racer.style.width = "40px";
       racer.style.height = "40px";
-
+      racer.speed = 0;
       racerContainer.appendChild(nameBubble);
       racerContainer.appendChild(racer);
       raceTrack.appendChild(racerContainer);
 
-      return { name, element: racerContainer, position: 0 };
+      return { name, element: racerContainer, position: 0, speed: 0 };
     });
 
     function startRace() {
       interval = setInterval(() => {
         racers.forEach(racer => {
           if (!winner) {
-            racer.speed = Math.random() * 10;
-            racer.position += racer.speed;
+            // add random speed between -1 and 2
+            racer.speed += (Math.random() * 2 - 1);
+            // clamp speed between 1 and 10
+            racer.speed = Math.max(0.1, Math.min(racer.speed, 4));
+            racer.position += racer.speed * 0.5;
             racer.element.style.left = `${racer.position}px`;
             if (racer.position >= raceTrack.clientWidth - 30) {
               winner = racer.name;
@@ -409,7 +413,7 @@
             }
           }
         });
-      }, 100);
+      }, 10);
     }
 
     function resetRace() {
@@ -418,6 +422,7 @@
       racers.forEach(racer => {
         racer.position = 0;
         racer.element.style.left = "0px";
+        racer.speed = 0;
       });
     }
 
