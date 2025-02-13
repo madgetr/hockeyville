@@ -4,17 +4,17 @@ Sackville Arena (LDRA) - NS,392,0,1237,368,15121,659,23120
 Pete Knight Arena - AB,222,1,610,226,10576,356,14862
 Bashaw Arena - AB,257,0,430,216,10668,354,14744
 Honeywood Arena - ON,202,19,938,188,7879,410,13091
-Aréna Saint-Boniface - QC,244,1,560,238,5487,404,9855
+Aréna Saint-Boniface - QC,244,1,560,238,5494,404,9862
 Middleton District Arena - NS,174,0,398,222,5006,334,8162
-Redvers rec center - SK,77,0,207,94,4800,141,6285
+Redvers rec center - SK,77,0,209,94,4800,142,6291
 Centre Sportif Normandin - QC,203,2,219,147,690,293,3544
-North Hastings Community Centre - ON,55,0,108,39,2439,68,3352
+North Hastings Community Centre - ON,55,0,114,39,2453,70,3384
 Kaetlyn Osmond Arena - NL,105,0,161,62,1317,146,2926
 Ivor MacDonald Memorial Arena - NS,61,0,149,61,1552,129,2670
 Fox Valley Skating Arena - SK,72,1,111,48,1212,93,2323
 Rolling Hills Arena - AB,79,0,133,61,798,110,2048
 St. Isidore Recreation Centre - ON,21,1,127,29,1079,51,1709
-Big River Arena - SK,44,0,119,45,822,93,1664
+Big River Arena - SK,44,0,119,45,824,93,1666
 Oxbow Community Arena - SK,51,0,36,50,979,55,1647
 Veterans Memorial Sports Complex - MB,32,1,98,31,776,50,1431
 Haldimand Community Memorial Arena - ON,44,0,89,43,594,79,1344
@@ -40,11 +40,11 @@ Springdale Stadium and Curling Club - NL,21,0,43,13,103,32,455
 Kinistino sports complex - SK,11,0,57,13,155,27,449
 Goulds Arena - NL,7,0,50,13,216,20,449
 Brooke-Alvinston-Inwood Community Centre Complex - ON,15,0,30,15,159,28,414
-South Courtice Arena - ON,7,0,36,8,223,17,409
+South Courtice Arena - ON,7,0,36,8,227,17,413
 Frank Crane Arena - BC,19,0,61,17,16,42,406
 Kaslo arena - BC,14,0,43,9,92,23,370
+Redwood Meadows Arena - AB,14,2,49,11,20,27,338
 Sam Ault Arena - ON,11,0,31,19,104,33,326
-Redwood Meadows Arena - AB,14,2,44,11,20,26,323
 Moosonee Arena - ON,15,0,31,8,65,21,316
 Walkerton Community Centre - ON,6,0,43,13,107,24,309
 Eleanor Pew Memorial Arena - NS,12,0,35,11,67,20,303
@@ -87,6 +87,7 @@ Centre Sportif C E Boucher - QC,5,0,14,4,0,11,96
 Thamesford District Recreation Centre - ON,4,0,14,9,4,14,95
 Summerland Arena - BC,7,0,6,4,0,11,92
 Rapid City community complex - MB,6,0,5,2,10,7,87
+Aréna Joannie Rochette - QC,1,0,24,0,4,12,86
 Centre récréatif de Blanc-Sablon - QC,1,0,21,0,12,7,85
 Complexe Sportif De St-Louis-De-France Inc - QC,2,0,13,3,20,7,82
 Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada - PE,4,0,5,0,25,6,80
@@ -96,19 +97,19 @@ Ingersoll & District Memorial Centre - ON,4,0,9,5,0,7,72
 Taylor District Ice Center - BC,2,0,16,3,0,11,71
 St Martins 4 Season Complex - NB,1,0,13,3,18,6,70
 Richmond Arena - NS,4,0,6,1,10,4,69
+Walpole Island Complex - ON,2,0,15,2,1,7,68
 Scott Safety Centre - Whitecourt Twin Arenas - AB,4,0,8,2,2,6,68
 Capreol Community Centre and Arena - ON,5,0,4,5,1,8,68
 Geraldton Community Centre - ON,5,0,4,4,0,6,66
 Ko Gocho Centre (Sportsplex) - Arena - NT,5,0,3,3,0,7,62
 Town of Innisfail Twin Arena - AB,4,0,6,4,0,5,62
 Iceberg Arena - NL,4,0,6,1,1,4,60
+Harman Park Arena - ON,4,0,5,0,4,6,59
 Chesterville and District Arena - ON,3,0,9,0,2,4,59
 Fort Erie Leisureplex - ON,5,0,0,6,3,9,59
-Harman Park Arena - ON,4,0,4,0,4,6,56
 Powell River Recreation Complex - BC,2,0,10,4,1,8,55
 Berens River Memorial Arena  - MB,1,0,10,4,7,7,51
 Harry O. Memorial Arena - SK,4,0,2,4,0,6,50
-Aréna Joannie Rochette - QC,1,0,11,0,4,6,47
 Ray Twinney Recreation Complex - ON,3,0,5,2,0,4,47
 Boundary Expo Recreation Centre - BC,0,1,12,1,0,4,47
 Centre sportif J.-A. Lemay - QC,3,0,4,3,1,8,46
@@ -117,7 +118,6 @@ Onoway Arena - AB,3,0,5,1,0,3,46
 Harrow Arena - ON,4,0,1,2,1,6,46
 Hepburn Arena - SK,3,0,5,1,0,3,46
 Didsbury Memorial Complex Arena - AB,2,0,8,1,0,7,45
-Walpole Island Complex - ON,2,0,7,2,1,4,44
 Raymore Arena - SK,2,0,8,0,0,2,44
 Aréna Olympia - QC,1,0,9,2,5,3,44
 Hope Rec Centre  - BC,3,0,4,1,0,4,43
@@ -437,6 +437,7 @@ Al Palladini Community Centre - ON,0,0,3,0,0,1,9
 Gaukel Memorial Community Centre - ON,0,0,3,0,0,1,9
 Gore Bay Arena - ON,0,0,3,0,0,1,9
 Comox Valley sports Centre - BC,0,0,2,1,0,1,7
+Cross Lake Arena - MB,0,0,2,0,0,1,6
 Claresholm Arena - AB,0,0,2,0,0,1,6
 Lac du Bonnet Arena - MB,0,0,2,0,0,1,6
 Tri-County Complex - NB,0,0,2,0,0,1,6
