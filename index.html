@@ -359,7 +359,7 @@
 
     const finishLine = document.createElement("div");
     finishLine.style.position = "absolute";
-    finishLine.style.right = "10px";
+    finishLine.style.right = "2px";
     finishLine.style.top = "0";
     finishLine.style.bottom = "0";
     finishLine.style.width = "5px";
@@ -376,11 +376,13 @@
       racerContainer.style.top = `${(index + 1) * ((raceTrack.clientHeight-60) / (participants.length + 1))}px`;
       racerContainer.style.display = "flex";
       racerContainer.style.flexDirection = "column";
-      racerContainer.style.alignItems = "center";
+      racerContainer.style.alignItems = "left";
 
       const nameBubble = document.createElement("div");
       nameBubble.innerText = name;
       nameBubble.className = "badge";
+      nameBubble.style.textAlign = "right";
+      nameBubble.style.display = "block";
       nameBubble.style.marginTop = "4px";
 
       const racer = document.createElement("img");
@@ -388,12 +390,11 @@
       racer.alt = name;
       racer.style.width = "40px";
       racer.style.height = "40px";
-      racer.speed = 0;
       racerContainer.appendChild(nameBubble);
       racerContainer.appendChild(racer);
       raceTrack.appendChild(racerContainer);
 
-      return { name, element: racerContainer, position: 0, speed: 0 };
+      return { name, element: racerContainer, position: 0, speed: 0, bounce:0, yoffset:(index + 1) * ((raceTrack.clientHeight-60) / (participants.length + 1))};
     });
 
     function startRace() {
@@ -406,6 +407,8 @@
             racer.speed = Math.max(0.1, Math.min(racer.speed, 4));
             racer.position += racer.speed * 0.5;
             racer.element.style.left = `${racer.position}px`;
+            racer.element.style.top = `${(racer.yoffset + racer.bounce)}px`;
+            racer.bounce = Math.max(Math.sin(racer.position/5) * racer.speed);
             if (racer.position >= raceTrack.clientWidth - 30) {
               winner = racer.name;
               alert(`${winner} wins the race!`);
