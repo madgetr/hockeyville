@@ -344,104 +344,10 @@
             const names = parsedData.data.map(row => row[' Author']);
             // remove undefined names
             names.splice(names.indexOf(undefined), 1);
-          showRace(names);
         })
         .catch(error => console.error('Error loading CSV:', error));
   }
 
-  function showRace(participants) {
-    const raceTrack = document.createElement("div");
-    raceTrack.style.position = "relative";
-    raceTrack.style.width = "80vw";
-    raceTrack.style.height = "80vh";
-    raceTrack.style.border = "2px solid black";
-    document.body.appendChild(raceTrack);
-
-    const finishLine = document.createElement("div");
-    finishLine.style.position = "absolute";
-    finishLine.style.right = "2px";
-    finishLine.style.top = "0";
-    finishLine.style.bottom = "0";
-    finishLine.style.width = "5px";
-    finishLine.style.backgroundColor = "red";
-    raceTrack.appendChild(finishLine);
-
-    let winner = null;
-    let interval;
-    const racers = participants.map((name, index) => {
-      const racerContainer = document.createElement("div");
-      racerContainer.style.position = "absolute";
-      racerContainer.style.left = "0px";
-      // evently space the racers across raceTrack.style.height
-      racerContainer.style.top = `${(index + 1) * ((raceTrack.clientHeight-60) / (participants.length + 1))}px`;
-      racerContainer.style.display = "flex";
-      racerContainer.style.flexDirection = "column";
-      racerContainer.style.alignItems = "left";
-
-      const nameBubble = document.createElement("div");
-      nameBubble.innerText = name;
-      nameBubble.className = "badge";
-      nameBubble.style.textAlign = "right";
-      nameBubble.style.display = "block";
-      nameBubble.style.marginTop = "4px";
-
-      const racer = document.createElement("img");
-      racer.src = "https://cdn-icons-png.flaticon.com/512/3205/3205282.png";
-      racer.alt = name;
-      racer.style.width = "40px";
-      racer.style.height = "40px";
-      racerContainer.appendChild(nameBubble);
-      racerContainer.appendChild(racer);
-      raceTrack.appendChild(racerContainer);
-
-      return { name, element: racerContainer, position: 0, speed: 0, bounce:0, yoffset:(index + 1) * ((raceTrack.clientHeight-60) / (participants.length + 1))};
-    });
-
-    function startRace() {
-      interval = setInterval(() => {
-        racers.forEach(racer => {
-          if (!winner) {
-            // add random speed between -1 and 2
-            racer.speed += (Math.random() * 2 - 1);
-            // clamp speed between 1 and 10
-            racer.speed = Math.max(0.1, Math.min(racer.speed, 4));
-            racer.position += racer.speed * 0.5;
-            racer.element.style.left = `${racer.position}px`;
-            racer.element.style.top = `${(racer.yoffset + racer.bounce)}px`;
-            racer.bounce = Math.max(Math.sin(racer.position/5) * racer.speed);
-            if (racer.position >= raceTrack.clientWidth - 30) {
-              winner = racer.name;
-              alert(`${winner} wins the race!`);
-              clearInterval(interval);
-            }
-          }
-        });
-      }, 10);
-    }
-
-    function resetRace() {
-      clearInterval(interval);
-      winner = null;
-      racers.forEach(racer => {
-        racer.position = 0;
-        racer.element.style.left = "0px";
-        racer.speed = 0;
-      });
-    }
-
-    const startButton = document.createElement("button");
-    startButton.innerText = "Start Race";
-    startButton.className = "btn btn-success m-2";
-    startButton.onclick = startRace;
-    document.body.appendChild(startButton);
-
-    const resetButton = document.createElement("button");
-    resetButton.innerText = "Reset Race";
-    resetButton.className = "btn btn-danger m-2";
-    resetButton.onclick = resetRace;
-    document.body.appendChild(resetButton);
-
-  }
 
   function hideGoals() {
     document.getElementById('goals').style.display = 'none';
