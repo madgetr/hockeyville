@@ -1,11 +1,11 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
 Trout Creek Community Centre - ON,527,2,1350,601,35275,808,45216
-Sackville Arena (LDRA) - NS,427,0,1268,418,17318,714,25810
+Sackville Arena (LDRA) - NS,429,0,1273,418,17428,714,25955
 Bashaw Arena - AB,267,0,488,260,12039,392,16433
 Pete Knight Arena - AB,233,1,701,281,11474,411,16198
-Honeywood Arena - ON,250,23,1002,229,8252,475,14217
-Aréna Saint-Boniface - QC,243,1,711,401,7463,534,12437
-Middleton District Arena - NS,173,0,389,225,4773,339,7895
+Honeywood Arena - ON,250,24,1003,229,8290,475,14268
+Aréna Saint-Boniface - QC,244,1,713,402,7521,535,12512
+Middleton District Arena - NS,178,0,398,226,5024,340,8224
 Redvers rec center - SK,77,0,225,100,4938,149,6483
 Ivor MacDonald Memorial Arena - NS,69,0,216,99,2827,178,4264
 Centre Sportif Normandin - QC,203,2,221,172,867,315,3752
@@ -17,8 +17,8 @@ Big River Arena - SK,46,0,127,57,1062,107,1960
 St. Isidore Recreation Centre - ON,21,1,129,31,1223,53,1861
 Oxbow Community Arena - SK,51,0,36,50,979,55,1647
 Don Cruickshank Memorial Arena - BC,32,0,131,27,787,63,1527
+Veterans Memorial Sports Complex - MB,32,1,99,31,778,50,1436
 Haldimand Community Memorial Arena - ON,44,0,96,47,594,83,1369
-Veterans Memorial Sports Complex - MB,30,0,98,29,739,50,1362
 Arborg & District Arena - MB,61,0,129,94,99,127,1190
 Riverton Arena - MB,39,0,53,31,565,55,1145
 Delburne AG Arena - AB,28,0,49,21,695,43,1143
@@ -45,7 +45,7 @@ South Courtice Arena - ON,7,0,40,9,237,18,436
 Marmora Arena - ON,11,0,27,14,191,22,396
 John Levi Community Centre - ON,8,2,49,17,129,37,393
 Kaslo arena - BC,14,0,43,9,92,23,370
-Redwood Meadows Arena - AB,15,1,49,12,18,27,337
+Redwood Meadows Arena - AB,15,2,49,12,22,27,351
 Walkerton Community Centre - ON,6,0,43,14,123,25,326
 Sam Ault Arena - ON,11,0,31,19,104,33,326
 Moosonee Arena - ON,15,0,31,8,65,21,316
@@ -107,16 +107,17 @@ Town of Innisfail Twin Arena - AB,4,0,6,4,0,5,62
 Iceberg Arena - NL,4,0,6,1,1,4,60
 Harman Park Arena - ON,4,0,5,0,4,6,59
 Chesterville and District Arena - ON,3,0,9,0,2,4,59
+Fort Erie Leisureplex - ON,5,0,0,6,3,9,59
 Powell River Recreation Complex - BC,2,0,10,4,1,8,55
 Berens River Memorial Arena  - MB,1,0,10,4,7,7,51
 Harry O. Memorial Arena - SK,4,0,2,4,0,6,50
 Centre sportif J.-A. Lemay - QC,3,0,4,6,1,10,49
-Fort Erie Leisureplex - ON,4,0,0,6,2,8,48
 New Waterford community Center  - NS,2,0,9,0,0,4,47
 Aldershot Arena - ON,4,0,2,1,0,5,47
 Ray Twinney Recreation Complex - ON,3,0,5,2,0,4,47
 Boundary Expo Recreation Centre - BC,0,1,12,1,0,4,47
 Onoway Arena - AB,3,0,5,1,0,3,46
+Harrow Arena - ON,4,0,1,2,1,6,46
 Hepburn Arena - SK,3,0,5,1,0,3,46
 Didsbury Memorial Complex Arena - AB,2,0,8,1,0,7,45
 Raymore Arena - SK,2,0,8,0,0,2,44
@@ -131,6 +132,7 @@ Centre des sports Jean Claude Tremblay - QC,2,0,7,1,0,2,42
 Manitouwadge Community Center - ON,4,0,0,0,0,4,40
 Dundalk Arena & Community Centre - ON,1,0,9,0,3,5,40
 MCN Arena - MB,3,0,3,1,0,5,40
+Sydney Mines & District Community Centre - NS,3,0,3,1,0,4,40
 Harry Lumley Bayshore Community Centre - ON,3,0,2,1,2,3,39
 Princeton & District Arena - BC,2,0,6,1,0,2,39
 Aréna Saint-Pamphile - QC,2,0,6,1,0,2,39
@@ -153,7 +155,6 @@ Nattilik Arena - NU,1,0,7,2,0,4,33
 Darlington Sports Centre - ON,3,0,0,2,1,4,33
 Sungod Recreation Centre - BC,2,0,4,1,0,2,33
 Alberni Valley Multiplex - BC,1,0,7,1,0,2,32
-Harrow Arena - ON,3,0,0,2,0,5,32
 Jordan Arena - ON,2,0,3,1,1,2,31
 Drumheller Memorial Arena - AB,2,0,3,1,0,4,30
 Hodder Memorial Recreation Complex - NL,3,0,0,0,0,3,30
@@ -200,7 +201,6 @@ Stride Place - MB,1,0,4,0,0,1,22
 Marysville Arena - BC,2,0,0,1,0,2,21
 Hillsborough Arena - NB,2,0,0,1,0,2,21
 Westlock Rotary Spirit Centre - AB,1,0,2,2,3,3,21
-Sydney Mines & District Community Centre - NS,2,0,0,1,0,2,21
 Cominco Arena - BC,2,0,0,1,0,3,21
 Twin Town Sports Complex - NL,2,0,0,0,0,2,20
 Upper Pontiac Sports ComplexJ - QC,1,0,3,1,0,1,20
@@ -277,6 +277,7 @@ Essar Centre formerly Steelback Centre - ON,1,0,1,0,0,1,13
 Desbarats arena  - ON,1,0,1,0,0,1,13
 Deseronto Community Recreation Centre - ON,1,0,1,0,0,1,13
 Gaylord Powless Arena - ON,1,0,1,0,0,2,13
+Flames Community Arenas - AB,1,0,1,0,0,1,13
 Little Britain Arena - ON,1,0,0,2,0,2,12
 Seaparc  - BC,1,0,0,2,0,2,12
 Berens River First Nation - MB,0,0,4,0,0,1,12
