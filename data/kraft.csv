@@ -1,19 +1,19 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,527,2,1350,601,35275,808,45216
-Sackville Arena (LDRA) - NS,429,0,1273,418,17433,714,25960
-Bashaw Arena - AB,267,0,488,260,12039,392,16433
-Pete Knight Arena - AB,233,1,701,281,11483,411,16207
-Honeywood Arena - ON,250,24,1003,229,8291,475,14269
-Aréna Saint-Boniface - QC,244,1,713,402,7545,535,12536
-Middleton District Arena - NS,178,0,398,226,5024,340,8224
-Redvers rec center - SK,77,0,225,100,4938,149,6483
-Ivor MacDonald Memorial Arena - NS,69,0,216,99,2827,178,4264
+Trout Creek Community Centre - ON,527,2,1350,601,35805,808,45746
+Sackville Arena (LDRA) - NS,429,0,1273,418,17819,714,26346
+Bashaw Arena - AB,267,0,488,260,12116,392,16510
+Pete Knight Arena - AB,233,1,701,281,11488,411,16212
+Honeywood Arena - ON,250,24,1003,229,8389,475,14367
+Aréna Saint-Boniface - QC,244,1,713,402,7781,535,12772
+Middleton District Arena - NS,178,0,398,226,5025,340,8225
+Redvers rec center - SK,77,0,225,100,4941,149,6486
+Ivor MacDonald Memorial Arena - NS,69,0,216,99,2880,178,4317
 Centre Sportif Normandin - QC,203,2,221,172,867,315,3752
 North Hastings Community Centre - ON,61,0,133,45,2453,82,3507
 Kaetlyn Osmond Arena - NL,119,0,186,70,1528,176,3376
 Fox Valley Skating Arena - SK,76,1,114,52,1384,97,2548
 Rolling Hills Arena - AB,87,0,145,76,898,125,2279
-Big River Arena - SK,46,0,127,57,1062,107,1960
+Big River Arena - SK,46,0,127,57,1084,107,1982
 St. Isidore Recreation Centre - ON,21,1,129,31,1223,53,1861
 Oxbow Community Arena - SK,51,0,36,50,979,55,1647
 Don Cruickshank Memorial Arena - BC,32,0,131,27,800,63,1540
@@ -32,17 +32,17 @@ North Peace Arena - BC,30,0,61,23,199,64,705
 La Glace Recreation Centre - AB,27,0,72,29,142,46,657
 Greenwood Arena - ON,29,0,47,31,140,63,602
 8th Hussars Sports Center - NB,25,0,40,16,189,46,575
+Unity Parc Arena - NL,20,0,39,18,202,27,537
 Elm Creek Skating Rink - MB,11,0,36,18,301,30,537
-Unity Parc Arena - NL,20,0,39,18,201,27,536
+Springdale Stadium and Curling Club - NL,22,0,43,13,160,32,522
 Kinistino sports complex - SK,13,0,64,19,166,34,507
 Kingston Memorial Centre - ON,20,0,42,15,147,28,488
-Springdale Stadium and Curling Club - NL,22,0,43,13,103,32,465
 Cupar Memorial Rink - SK,9,0,48,15,216,30,465
+Frank Crane Arena - BC,19,0,72,22,21,48,449
 Goulds Arena - NL,7,0,50,13,216,20,449
-Frank Crane Arena - BC,19,0,72,22,20,48,448
 Brooke-Alvinston-Inwood Community Centre Complex - ON,18,0,30,16,161,31,447
 South Courtice Arena - ON,7,0,40,9,237,18,436
-Marmora Arena - ON,11,0,27,14,191,22,396
+Marmora Arena - ON,11,0,27,14,206,22,411
 John Levi Community Centre - ON,8,2,49,17,129,37,393
 Kaslo arena - BC,14,0,43,9,92,23,370
 Redwood Meadows Arena - AB,15,2,49,12,22,27,351
@@ -50,10 +50,10 @@ Walkerton Community Centre - ON,6,0,43,14,123,25,326
 Sam Ault Arena - ON,11,0,31,19,104,33,326
 Moosonee Arena - ON,15,0,31,8,65,21,316
 Irma Arena - AB,13,0,52,9,12,23,307
+Cremona Ag Society Community Arena - AB,11,0,42,11,56,19,303
 Eleanor Pew Memorial Arena - NS,12,0,35,11,67,20,303
 Arena De Clarence Creek - ON,13,0,38,18,34,34,296
 I J Coady Memorial Arena - ON,8,0,35,8,84,17,277
-Cremona Ag Society Community Arena - AB,11,0,42,11,14,19,261
 Coldwater Arena - ON,13,0,17,10,64,19,255
 Civic Centre Arena - ON,7,0,23,14,99,21,252
 Jim Ciccone Civic Centre - BC,6,2,30,14,45,26,229
@@ -67,8 +67,8 @@ Aréna Jean Rougeau - QC,6,0,34,12,15,17,189
 Hespeler Memorial Arena - ON,6,0,22,6,56,14,188
 Centre récréatif de Blanc-Sablon - QC,4,0,32,2,38,11,176
 Orville Acres Arena - MB,7,0,27,9,15,15,175
+Aréna Joannie Rochette - QC,1,0,35,9,49,17,173
 Kings Arrow Arena - NB,9,0,19,12,13,20,172
-Aréna Joannie Rochette - QC,1,0,35,9,47,17,171
 Archie Miller Arena - AB,8,0,26,10,1,21,169
 River Valley Civic Centre - NB,7,0,18,7,37,13,168
 Al Lawrence Memorial Arena - BC,7,0,16,3,31,10,152
@@ -83,8 +83,8 @@ Beausejour Sportsplex - MB,5,0,12,4,22,9,112
 Manitouwadge arena  - ON,4,0,21,5,2,11,110
 Manvers Arena & Community Centre - ON,5,0,13,2,16,7,107
 Kipsigak Arena - NU,7,0,11,3,0,14,106
+Kyle Community Sports Centre - SK,3,0,16,4,24,9,106
 Clavet Community Arena - SK,4,0,16,4,11,6,103
-Kyle Community Sports Centre - SK,3,0,16,4,19,9,101
 Inch Park Arena - ON,2,0,18,6,18,11,98
 Centre Sportif C E Boucher - QC,5,0,14,4,0,11,96
 Thamesford District Recreation Centre - ON,4,0,14,9,4,14,95
