@@ -4,7 +4,7 @@ Sackville Arena (LDRA) - NS,429,0,1360,433,18403,735,27206
 Bashaw Arena - AB,267,0,507,268,12277,399,16736
 Pete Knight Arena - AB,233,1,740,291,11784,426,16635
 Honeywood Arena - ON,250,24,1036,239,8930,488,15017
-Aréna Saint-Boniface - QC,244,1,768,421,8504,559,13679
+Aréna Saint-Boniface - QC,244,1,768,421,8521,559,13696
 Middleton District Arena - NS,178,0,400,226,5050,341,8256
 Redvers rec center - SK,77,0,231,102,4941,153,6506
 Ivor MacDonald Memorial Arena - NS,69,0,237,116,2996,202,4513
@@ -13,7 +13,7 @@ North Hastings Community Centre - ON,61,0,133,45,2453,82,3507
 Kaetlyn Osmond Arena - NL,119,0,186,70,1580,176,3431
 Rolling Hills Arena - AB,87,0,155,79,1191,132,2605
 Fox Valley Skating Arena - SK,76,1,114,53,1384,98,2549
-Big River Arena - SK,46,0,140,57,1258,110,2195
+Big River Arena - SK,46,0,140,57,1265,110,2202
 St. Isidore Recreation Centre - ON,21,1,131,31,1223,53,1867
 Oxbow Community Arena - SK,51,0,36,51,994,56,1663
 Don Cruickshank Memorial Arena - BC,32,0,165,29,805,75,1649
@@ -27,7 +27,7 @@ Longlac Sportsplex - ON,23,0,101,22,448,38,1003
 Athens Community Centre Centre 76 - ON,22,0,46,28,572,45,958
 Ron Gorr Memorial Arena - AB,24,0,52,26,382,50,804
 Centre Sportif Charles-Edouard-Boucher - QC,23,0,144,97,19,115,778
-Bill Chaplin Arena - NL,10,1,54,26,435,39,733
+Bill Chaplin Arena - NL,10,1,54,26,470,39,768
 North Peace Arena - BC,30,0,61,23,199,64,705
 La Glace Recreation Centre - AB,27,0,72,29,142,46,657
 Greenwood Arena - ON,29,0,47,31,140,63,602
@@ -53,8 +53,8 @@ Irma Arena - AB,13,0,57,9,12,23,322
 Moosonee Arena - ON,15,0,31,8,65,21,316
 Arena De Clarence Creek - ON,13,0,38,18,47,34,309
 Eleanor Pew Memorial Arena - NS,12,0,35,11,67,20,303
+Aréna Joannie Rochette - QC,1,0,53,12,99,22,280
 I J Coady Memorial Arena - ON,8,0,35,8,84,17,277
-Aréna Joannie Rochette - QC,1,0,53,12,87,22,268
 Bienfait Memorial Arena - SK,6,0,61,14,0,25,257
 Coldwater Arena - ON,13,0,17,10,64,19,255
 Civic Centre Arena - ON,7,0,23,14,99,21,252
