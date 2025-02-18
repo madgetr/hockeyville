@@ -1,13 +1,13 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,585,2,1473,619,38014,835,48922
-Sackville Arena (LDRA) - NS,466,0,1372,436,19493,751,28705
-Pete Knight Arena - AB,257,1,745,291,12556,439,17662
+Trout Creek Community Centre - ON,586,2,1473,619,38014,836,48932
+Sackville Arena (LDRA) - NS,467,0,1372,436,19493,751,28715
+Pete Knight Arena - AB,260,1,745,291,12564,440,17700
 Bashaw Arena - AB,289,0,512,269,12489,412,17184
-Honeywood Arena - ON,273,24,1048,240,9637,498,15991
+Honeywood Arena - ON,275,24,1048,240,9637,498,16011
 Aréna Saint-Boniface - QC,244,1,787,427,9330,566,14568
 Middleton District Arena - NS,193,0,400,226,7226,352,10582
 Redvers rec center - SK,81,0,231,102,4979,153,6584
-Ivor MacDonald Memorial Arena - NS,88,0,242,118,3308,213,5032
+Ivor MacDonald Memorial Arena - NS,89,0,242,118,3308,214,5042
 Centre Sportif Normandin - QC,203,2,224,178,875,320,3775
 North Hastings Community Centre - ON,63,0,133,45,2453,84,3527
 Kaetlyn Osmond Arena - NL,120,0,186,70,1580,177,3441
@@ -30,7 +30,7 @@ Ron Gorr Memorial Arena - AB,27,0,52,26,382,51,834
 Centre Sportif Charles-Edouard-Boucher - QC,23,0,144,97,23,115,782
 North Peace Arena - BC,30,0,61,23,199,64,705
 La Glace Recreation Centre - AB,27,0,72,29,142,46,657
-Frank Crane Arena - BC,25,0,98,26,52,55,622
+Frank Crane Arena - BC,26,0,98,26,52,55,632
 Greenwood Arena - ON,29,0,47,31,140,63,602
 8th Hussars Sports Center - NB,26,0,40,16,189,46,585
 Unity Parc Arena - NL,23,0,39,18,202,30,567
@@ -46,7 +46,7 @@ Marmora Arena - ON,14,0,28,15,206,24,445
 South Courtice Arena - ON,7,0,40,9,237,18,436
 Cremona Ag Society Community Arena - AB,16,0,51,13,75,25,401
 Kaslo arena - BC,14,0,43,9,106,23,384
-Redwood Meadows Arena - AB,15,2,49,12,22,27,351
+Redwood Meadows Arena - AB,16,2,49,12,22,27,361
 Sam Ault Arena - ON,12,0,33,20,104,35,343
 Irma Arena - AB,14,0,57,9,12,24,332
 Aréna Joannie Rochette - QC,1,0,53,12,147,22,328
@@ -205,6 +205,7 @@ Marysville Arena - BC,2,0,0,1,0,2,21
 Hillsborough Arena - NB,2,0,0,1,0,2,21
 Westlock Rotary Spirit Centre - AB,1,0,2,2,3,3,21
 Cominco Arena - BC,2,0,0,1,0,3,21
+Kevin Bateman Center - QC,2,0,0,0,0,2,20
 cochenour arena - ON,2,0,0,0,0,2,20
 Twin Town Sports Complex - NL,2,0,0,0,0,2,20
 Upper Pontiac Sports ComplexJ - QC,1,0,3,1,0,1,20
@@ -307,7 +308,6 @@ Ridgetown Arena - ON,1,0,0,1,0,1,11
 Tricenturena Waterford Arena - ON,1,0,0,0,1,1,11
 Centre Sportif d'Opitciwan - QC,1,0,0,1,0,1,11
 Esgenoopetitj Community rink - NB,1,0,0,0,0,1,10
-Kevin Bateman Center - QC,1,0,0,0,0,1,10
 Shamrock Centre - MB,1,0,0,0,0,1,10
 Fort Smith Centennial Arena - NT,1,0,0,0,0,1,10
 Pembroke Memorial Centre - ON,1,0,0,0,0,1,10
