@@ -1,30 +1,30 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,527,2,1473,619,37909,828,48237
-Sackville Arena (LDRA) - NS,429,0,1372,436,19133,737,27975
-Pete Knight Arena - AB,233,1,745,291,12510,426,17376
-Bashaw Arena - AB,267,0,512,269,12438,400,16913
-Honeywood Arena - ON,250,24,1048,240,9450,490,15574
-Aréna Saint-Boniface - QC,244,1,787,427,9184,566,14422
-Middleton District Arena - NS,178,0,400,226,7107,341,10313
+Trout Creek Community Centre - ON,527,2,1473,619,37910,828,48238
+Sackville Arena (LDRA) - NS,429,0,1372,436,19140,737,27982
+Pete Knight Arena - AB,234,1,745,291,12510,427,17386
+Bashaw Arena - AB,268,0,512,269,12438,401,16923
+Honeywood Arena - ON,251,24,1048,240,9450,491,15584
+Aréna Saint-Boniface - QC,244,1,787,427,9186,566,14424
+Middleton District Arena - NS,180,0,400,226,7107,343,10333
 Redvers rec center - SK,77,0,231,102,4953,153,6518
-Ivor MacDonald Memorial Arena - NS,69,0,242,118,3101,205,4635
+Ivor MacDonald Memorial Arena - NS,70,0,242,118,3101,205,4645
 Centre Sportif Normandin - QC,203,2,224,178,875,320,3775
 North Hastings Community Centre - ON,61,0,133,45,2453,82,3507
 Kaetlyn Osmond Arena - NL,119,0,186,70,1580,176,3431
 Big River Arena - SK,46,0,150,61,1942,116,2913
-Rolling Hills Arena - AB,87,0,155,79,1277,132,2691
+Rolling Hills Arena - AB,88,0,155,79,1277,133,2701
 Fox Valley Skating Arena - SK,76,1,114,53,1384,98,2549
 St. Isidore Recreation Centre - ON,21,1,131,31,1232,53,1876
 Don Cruickshank Memorial Arena - BC,32,0,165,29,875,75,1719
 Oxbow Community Arena - SK,51,0,36,51,994,56,1663
-Veterans Memorial Sports Complex - MB,32,1,99,31,814,50,1472
+Veterans Memorial Sports Complex - MB,33,1,99,31,814,51,1482
 Haldimand Community Memorial Arena - ON,44,0,96,49,638,85,1415
 Arborg & District Arena - MB,61,0,130,94,264,128,1358
-Delburne AG Arena - AB,28,0,62,21,700,46,1187
+Delburne AG Arena - AB,28,0,62,21,713,46,1200
 Riverton Arena - MB,39,0,53,31,579,55,1159
+Athens Community Centre Centre 76 - ON,23,0,58,30,577,48,1011
 Petitcodiac Arena - NB,45,0,79,23,300,72,1010
 Longlac Sportsplex - ON,23,0,101,22,448,38,1003
-Athens Community Centre Centre 76 - ON,22,0,58,30,577,47,1001
 Bill Chaplin Arena - NL,10,1,54,27,532,40,831
 Ron Gorr Memorial Arena - AB,24,0,52,26,382,50,804
 Centre Sportif Charles-Edouard-Boucher - QC,23,0,144,97,23,115,782
@@ -32,7 +32,7 @@ North Peace Arena - BC,30,0,61,23,199,64,705
 La Glace Recreation Centre - AB,27,0,72,29,142,46,657
 Greenwood Arena - ON,29,0,47,31,140,63,602
 8th Hussars Sports Center - NB,25,0,40,16,189,46,575
-Frank Crane Arena - BC,19,0,98,26,52,54,562
+Frank Crane Arena - BC,20,0,98,26,52,55,572
 Elm Creek Skating Rink - MB,11,0,36,18,302,30,538
 Unity Parc Arena - NL,20,0,39,18,202,27,537
 Springdale Stadium and Curling Club - NL,22,0,43,13,161,32,523
@@ -103,16 +103,17 @@ Richmond Arena - NS,4,0,6,1,10,4,69
 Scott Safety Centre - Whitecourt Twin Arenas - AB,4,0,8,2,2,6,68
 Capreol Community Centre and Arena - ON,5,0,4,5,1,8,68
 Geraldton Community Centre - ON,5,0,4,4,0,6,66
+Powell River Recreation Complex - BC,3,0,10,4,1,9,65
 Ko Gocho Centre (Sportsplex) - Arena - NT,5,0,3,3,0,7,62
 Town of Innisfail Twin Arena - AB,4,0,6,4,0,5,62
 Iceberg Arena - NL,4,0,6,1,1,4,60
 Harman Park Arena - ON,4,0,5,0,4,6,59
 Fort Erie Leisureplex - ON,5,0,0,6,3,9,59
-Powell River Recreation Complex - BC,2,0,10,4,1,8,55
 Berens River Memorial Arena  - MB,1,0,10,4,7,7,51
 Onoway Arena - AB,3,0,6,2,0,4,50
 Harry O. Memorial Arena - SK,4,0,2,4,0,6,50
 Centre sportif J.-A. Lemay - QC,3,0,4,6,1,10,49
+Gros Morne Regional Complex - NL,3,0,5,0,2,3,47
 New Waterford community Center  - NS,2,0,9,0,0,4,47
 Aldershot Arena - ON,4,0,2,1,0,5,47
 Ray Twinney Recreation Complex - ON,3,0,5,2,0,4,47
@@ -141,7 +142,6 @@ Humphrey Arena - ON,1,0,7,1,6,3,38
 Aréna Saint-Lin-Laurentides - QC,3,0,2,2,0,3,38
 Aréna St-Cyrille - QC,1,0,5,5,8,6,38
 West Colchester United Arena - NS,3,0,2,0,2,4,38
-Gros Morne Regional Complex - NL,2,0,5,0,2,3,37
 Keswick Valley Regional Complex - NB,3,0,2,1,0,4,37
 Moose Jaw Events Centre - SK,2,0,5,1,0,2,36
 Burks Falls Arena - ON,2,0,4,4,0,4,36
@@ -303,6 +303,8 @@ Ma-te-way Park - ON,1,0,0,1,0,1,11
 Ridgetown Arena - ON,1,0,0,1,0,1,11
 Tricenturena Waterford Arena - ON,1,0,0,0,1,1,11
 Centre Sportif d'Opitciwan - QC,1,0,0,1,0,1,11
+Esgenoopetitj Community rink - NB,1,0,0,0,0,1,10
+Kevin Bateman Center - QC,1,0,0,0,0,1,10
 Centre Edmond E. Landry - NB,1,0,0,0,0,1,10
 Kugaaruk Airport - NU,1,0,0,0,0,1,10
 North Shore Recreation Ctr - NS,1,0,0,0,0,1,10
