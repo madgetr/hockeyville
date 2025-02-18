@@ -1,17 +1,17 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
 Trout Creek Community Centre - ON,528,2,1473,619,37910,829,48248
-Sackville Arena (LDRA) - NS,430,0,1372,436,19140,738,27992
-Pete Knight Arena - AB,237,1,745,291,12510,429,17416
+Sackville Arena (LDRA) - NS,433,0,1372,436,19140,741,28022
+Pete Knight Arena - AB,239,1,745,291,12510,431,17436
 Bashaw Arena - AB,268,0,512,269,12438,401,16923
-Honeywood Arena - ON,251,24,1048,240,9450,491,15584
+Honeywood Arena - ON,252,24,1048,240,9450,491,15594
 Aréna Saint-Boniface - QC,244,1,787,427,9202,566,14440
-Middleton District Arena - NS,192,0,400,226,7107,351,10453
+Middleton District Arena - NS,192,0,400,226,7115,351,10461
 Redvers rec center - SK,77,0,231,102,4953,153,6518
-Ivor MacDonald Memorial Arena - NS,78,0,242,118,3135,211,4759
+Ivor MacDonald Memorial Arena - NS,78,0,242,118,3186,211,4810
 Centre Sportif Normandin - QC,203,2,224,178,875,320,3775
 North Hastings Community Centre - ON,61,0,133,45,2453,82,3507
 Kaetlyn Osmond Arena - NL,119,0,186,70,1580,176,3431
-Big River Arena - SK,48,0,150,61,1942,118,2933
+Big River Arena - SK,49,0,150,61,1942,119,2943
 Rolling Hills Arena - AB,93,0,155,79,1277,138,2751
 Fox Valley Skating Arena - SK,76,1,114,53,1384,98,2549
 St. Isidore Recreation Centre - ON,21,1,131,31,1232,53,1876
@@ -19,11 +19,11 @@ Don Cruickshank Memorial Arena - BC,33,0,165,29,875,76,1729
 Oxbow Community Arena - SK,51,0,36,51,994,56,1663
 Veterans Memorial Sports Complex - MB,33,1,99,31,814,51,1482
 Haldimand Community Memorial Arena - ON,44,0,96,49,638,85,1415
-Arborg & District Arena - MB,63,0,130,94,264,130,1378
+Arborg & District Arena - MB,64,0,130,94,264,130,1388
 Delburne AG Arena - AB,28,0,62,21,713,46,1200
 Riverton Arena - MB,39,0,53,31,579,55,1159
+Petitcodiac Arena - NB,45,0,79,23,304,72,1014
 Athens Community Centre Centre 76 - ON,23,0,58,30,577,48,1011
-Petitcodiac Arena - NB,45,0,79,23,300,72,1010
 Longlac Sportsplex - ON,23,0,101,22,448,38,1003
 Bill Chaplin Arena - NL,10,1,54,27,532,40,831
 Ron Gorr Memorial Arena - AB,24,0,52,26,382,50,804
@@ -33,8 +33,8 @@ La Glace Recreation Centre - AB,27,0,72,29,142,46,657
 Greenwood Arena - ON,29,0,47,31,140,63,602
 8th Hussars Sports Center - NB,25,0,40,16,189,46,575
 Frank Crane Arena - BC,20,0,98,26,52,55,572
+Unity Parc Arena - NL,21,0,39,18,202,28,547
 Elm Creek Skating Rink - MB,11,0,36,18,302,30,538
-Unity Parc Arena - NL,20,0,39,18,202,27,537
 Springdale Stadium and Curling Club - NL,22,0,43,13,161,32,523
 Kinistino sports complex - SK,13,0,68,19,166,35,519
 Kingston Memorial Centre - ON,20,0,42,15,147,28,488
@@ -203,6 +203,7 @@ Marysville Arena - BC,2,0,0,1,0,2,21
 Hillsborough Arena - NB,2,0,0,1,0,2,21
 Westlock Rotary Spirit Centre - AB,1,0,2,2,3,3,21
 Cominco Arena - BC,2,0,0,1,0,3,21
+cochenour arena - ON,2,0,0,0,0,2,20
 Twin Town Sports Complex - NL,2,0,0,0,0,2,20
 Upper Pontiac Sports ComplexJ - QC,1,0,3,1,0,1,20
 Savanna Agricultural Society Rec-Plex - AB,2,0,0,0,0,2,20
@@ -306,7 +307,6 @@ Centre Sportif d'Opitciwan - QC,1,0,0,1,0,1,11
 Esgenoopetitj Community rink - NB,1,0,0,0,0,1,10
 Kevin Bateman Center - QC,1,0,0,0,0,1,10
 Shamrock Centre - MB,1,0,0,0,0,1,10
-cochenour arena - ON,1,0,0,0,0,1,10
 Fort Smith Centennial Arena - NT,1,0,0,0,0,1,10
 Centre Edmond E. Landry - NB,1,0,0,0,0,1,10
 Kugaaruk Airport - NU,1,0,0,0,0,1,10
