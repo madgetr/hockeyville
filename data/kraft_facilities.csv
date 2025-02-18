@@ -1,6 +1,6 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
-1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,10367
-2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,8982
+1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,10387
+2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,9002
 3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,6167
 4, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,5241
 5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,4966
@@ -8,7 +8,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,3359
 8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,2900
 9, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,1851
-10, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,1647
+10, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,1657
 11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,1565
 12, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,1474
 13, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1165
@@ -27,7 +27,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 26, 11eeb7e2fe6974c09c016cc0a60704ac,Frank Crane Arena,49.2079,-123.979,520
 27, 11E9F686BBCBCC4881807B23EA662A63,La Glace Recreation Centre,55.402089,-119.1543859,515
 28, 11eecb02c0216050305bc32b29dd71df,North Peace Arena,56.2306,-120.8277,506
-29, 11efd4eae8c401503acc7126751bba6f,Delburne AG Arena,52.0306,-113.9565,487
+29, 11efd4eae8c401503acc7126751bba6f,Delburne AG Arena,52.0306,-113.9565,497
 30, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,44.6322684,-75.9539849,464
 31, 11E9F686BBBC681681807B23EA662A63,Greenwood Arena,42.878329,-82.15554700000001,462
 32, 11efd22efdcddb70aa25cfa7687d2aa4,Ron Gorr Memorial Arena,52.0306,-113.9565,422
@@ -37,8 +37,8 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 36, 11eeb28b1e853a30ffa2ce4b52231f7b,Kinistino sports complex,52.7586,-107.4669,353
 37, 11efce8c9f28cfd02e5ea2749db3bae8,Kingston Memorial Centre,44.2322,-76.4799,351
 38, 11E9F686BBEB399881807B23EA662A63,Redwood Meadows Arena,50.9911032,-114.4992362,329
-39, 11eebf3760b00940ffe304762d2bb666,Irma Arena,53.0635,-112.3067,320
-40, 11efcdc03bc8b940ce1cd676788d51ff,Bill Chaplin Arena,53.5329,-64.0145,319
+39, 11efcdc03bc8b940ce1cd676788d51ff,Bill Chaplin Arena,53.5329,-64.0145,329
+40, 11eebf3760b00940ffe304762d2bb666,Irma Arena,53.0635,-112.3067,320
 41, 11eebda934364a803381ba5d7c9248c4,Cremona Ag Society Community Arena,52.0306,-113.9565,316
 42, 11efd6019365d310971c42873a24eb89,John Levi Community Centre,45.1953,-76.1496,298
 43, 11eeb86ad118030047158bd465a9cd46,Brooke-Alvinston-Inwood Community Centre Complex,42.7967,-81.7938,286
