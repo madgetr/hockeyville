@@ -1,7 +1,7 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
 1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,10947
 2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,9252
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,6447
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,6457
 4, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,5241
 5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,5236
 6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,4825
@@ -10,7 +10,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 9, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,1861
 10, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,1857
 11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,1655
-12, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,1624
+12, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,1634
 13, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1225
 14, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,1161
 15, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,50.7011,-97.1462,1124
