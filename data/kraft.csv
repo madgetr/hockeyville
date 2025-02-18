@@ -1,13 +1,13 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,532,2,1473,619,37912,830,48290
+Trout Creek Community Centre - ON,532,2,1473,619,37913,830,48291
 Sackville Arena (LDRA) - NS,446,0,1372,436,19474,745,28486
-Pete Knight Arena - AB,243,1,745,291,12526,435,17492
+Pete Knight Arena - AB,243,1,745,291,12545,435,17511
 Bashaw Arena - AB,277,0,512,269,12439,410,17014
-Honeywood Arena - ON,256,24,1048,240,9478,493,15662
-Aréna Saint-Boniface - QC,244,1,787,427,9246,566,14484
+Honeywood Arena - ON,258,24,1048,240,9489,495,15693
+Aréna Saint-Boniface - QC,244,1,787,427,9247,566,14485
 Middleton District Arena - NS,193,0,400,226,7120,352,10476
-Redvers rec center - SK,77,0,231,102,4953,153,6518
-Ivor MacDonald Memorial Arena - NS,83,0,242,118,3193,211,4867
+Redvers rec center - SK,78,0,231,102,4967,153,6542
+Ivor MacDonald Memorial Arena - NS,84,0,242,118,3193,212,4877
 Centre Sportif Normandin - QC,203,2,224,178,875,320,3775
 North Hastings Community Centre - ON,61,0,133,45,2453,82,3507
 Kaetlyn Osmond Arena - NL,119,0,186,70,1580,176,3431
@@ -15,14 +15,14 @@ Big River Arena - SK,58,0,150,61,1955,122,3046
 Rolling Hills Arena - AB,98,0,155,79,1277,139,2801
 Fox Valley Skating Arena - SK,76,1,114,53,1384,98,2549
 St. Isidore Recreation Centre - ON,21,1,131,31,1232,53,1876
-Don Cruickshank Memorial Arena - BC,38,0,165,29,895,80,1799
+Don Cruickshank Memorial Arena - BC,40,0,165,29,895,81,1819
 Oxbow Community Arena - SK,51,0,36,51,994,56,1663
-Veterans Memorial Sports Complex - MB,33,1,99,31,814,51,1482
+Veterans Memorial Sports Complex - MB,33,1,99,31,852,51,1520
 Haldimand Community Memorial Arena - ON,44,0,96,49,638,85,1415
 Arborg & District Arena - MB,64,0,130,94,264,130,1388
 Delburne AG Arena - AB,29,0,62,21,713,46,1210
 Riverton Arena - MB,39,0,53,31,579,55,1159
-Athens Community Centre Centre 76 - ON,27,0,58,30,580,50,1054
+Athens Community Centre Centre 76 - ON,28,0,58,30,580,51,1064
 Petitcodiac Arena - NB,45,0,79,23,304,72,1014
 Longlac Sportsplex - ON,23,0,101,22,448,38,1003
 Bill Chaplin Arena - NL,13,1,54,27,532,40,861
@@ -55,12 +55,12 @@ Moosonee Arena - ON,15,0,31,8,65,21,316
 Arena De Clarence Creek - ON,13,0,38,18,47,34,309
 Eleanor Pew Memorial Arena - NS,12,0,35,11,67,20,303
 I J Coady Memorial Arena - ON,8,0,35,8,84,17,277
-Bienfait Memorial Arena - SK,6,0,61,15,0,25,258
+Bienfait Memorial Arena - SK,7,0,61,15,0,25,268
 Coldwater Arena - ON,13,0,17,10,64,19,255
 Civic Centre Arena - ON,7,0,23,14,99,21,252
+Centre récréatif de Donnacona - QC,8,0,27,22,53,30,236
 Ville De Bouctouche Forum - NB,15,0,8,11,49,21,234
 Jim Ciccone Civic Centre - BC,6,2,30,14,45,26,229
-Centre récréatif de Donnacona - QC,8,0,27,22,41,30,224
 Memorial Community Centre Arena - AB,10,0,33,11,8,17,218
 Sangudo Arena - AB,7,0,22,9,59,17,204
 Hespeler Memorial Arena - ON,7,0,22,6,56,15,198
@@ -92,11 +92,11 @@ Thamesford District Recreation Centre - ON,4,0,14,9,4,14,95
 Summerland Arena - BC,7,0,6,4,0,11,92
 Rapid City community complex - MB,6,0,5,2,10,7,87
 Complexe Sportif De St-Louis-De-France Inc - QC,2,0,14,4,20,7,86
+Chesterville and District Arena - ON,4,0,13,0,2,5,81
 Walpole Island Complex - ON,3,0,15,2,1,7,78
 Welland Main Arena - ON,2,0,17,4,2,9,77
 Knights Of Columbus Twin Arenas - AB,5,0,6,9,0,13,77
 De Salaberry Recreation Facility (St. Malo Arena) - MB,3,0,10,12,1,15,73
-Chesterville and District Arena - ON,3,0,13,0,2,5,71
 Taylor District Ice Center - BC,2,0,16,3,0,11,71
 St Martins 4 Season Complex - NB,1,0,13,3,18,6,70
 Richmond Arena - NS,4,0,6,1,10,4,69
@@ -149,6 +149,7 @@ Aréna Conrad-Parent - QC,2,0,3,6,0,6,35
 Aréna Luc & Marie-Claude de Baie Saint-Paul - QC,3,0,1,2,0,5,35
 St. Jacobs Arena - ON,3,0,1,2,0,4,35
 Doug Hagel Arena - AB,2,0,4,1,2,3,35
+High level  Arena - AB,2,0,4,2,0,4,34
 Tamitik Jubilee Sports Complex - BC,3,0,1,1,0,3,34
 Kuujjuaq Forum - QC,1,0,5,1,8,2,34
 E J Broomfield Arena - NL,1,0,7,3,0,5,34
@@ -182,7 +183,6 @@ Strathcona Gardens Recreation Complex - BC,1,0,5,0,0,2,25
 Peterborough Memorial Centre - ON,2,0,1,0,2,3,25
 Lion's Head Arena - ON,2,0,1,2,0,3,25
 Strasbourg & Community Recreation Centre - SK,1,0,5,0,0,1,25
-High level  Arena - AB,1,0,4,2,0,4,24
 Centre sportif de Métabetchouan - QC,1,0,4,2,0,2,24
 Aréna Gilles-Bourassa - QC,1,0,4,2,0,3,24
 Ilderton Arena - ON,1,0,4,1,1,3,24
