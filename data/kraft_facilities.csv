@@ -1,20 +1,20 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
 1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,10937
 2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,9252
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,6387
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,6417
 4, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,5241
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,5196
-6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,4745
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,5206
+6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,4755
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,3359
 8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,2900
 9, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,1861
-10, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,1767
+10, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,1777
 11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,1645
 12, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,1624
 13, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1225
 14, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,1141
 15, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,50.7011,-97.1462,1124
-16, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,1074
+16, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,1094
 17, 11efddc5dd2dd9402ba61fd19647b85e,Don Cruickshank Memorial Arena,50.65824749999999,-127.4437507,1024
 18, d5512a67cdfc4608ac279365175fcd00,Haldimand Community Memorial Arena,43.9919702,-78.0310643,787
 19, 11eebad347f099003d540cdb84e09cb8,Centre Sportif Charles-Edouard-Boucher,47.6525,-70.4067,759
@@ -98,15 +98,15 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 97, 11eeb550f50e99d0a6ce5f21b411b73a,Scott Safety Centre - Whitecourt Twin Arenas,54.1407,-115.6873,66
 98, 11efcd3bdaf2bb40f1c5d0ce7eabb7b3,Complexe Sportif De St-Louis-De-France Inc,46.4024,-72.5846,66
 99, 11efd5095f3e38f0e9beec3e86c7d857,Geraldton Community Centre,50.139,-89.0561,66
-100, 11eebaea1c7a3a304a96c814ae9dcd7d,Powell River Recreation Complex,49.8021,-124.5124,64
-101, 11eeb71ac96842b0fac784089a0e2451,Ko Gocho Centre (Sportsplex) - Arena,62.4043,-110.7417,62
-102, 11eebae8b7159cd08e501c76a8afd944,Town of Innisfail Twin Arena,52.029,-113.9474,62
-103, 11E9F686BBE111DE81807B23EA662A63,Onoway Arena,53.7069476,-114.1929874,60
-104, 11E9F686BC07B29481807B23EA662A63,Tri Township Arena,42.9126819,-81.5017351,60
-105, 11eeb89115d148f0db0f21b7ada3a2e3,Iceberg Arena,49.4536,-54.1045,59
-106, 11efcf3a8c8ae3a0ec51ee846fecd2c2,Richmond Arena,45.5148,-60.966,59
-107, 11eebaf3374e9460a96867f16dd0bcf4,Fort Erie Leisureplex,42.8845,-78.9398,56
-108, 11efe18d222a4a909a23bbecde8236bb,Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada,46.2318,-63.1192,56
+100, 11efe18d222a4a909a23bbecde8236bb,Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada,46.2318,-63.1192,66
+101, 11eebaea1c7a3a304a96c814ae9dcd7d,Powell River Recreation Complex,49.8021,-124.5124,64
+102, 11eeb71ac96842b0fac784089a0e2451,Ko Gocho Centre (Sportsplex) - Arena,62.4043,-110.7417,62
+103, 11eebae8b7159cd08e501c76a8afd944,Town of Innisfail Twin Arena,52.029,-113.9474,62
+104, 11E9F686BBE111DE81807B23EA662A63,Onoway Arena,53.7069476,-114.1929874,60
+105, 11E9F686BC07B29481807B23EA662A63,Tri Township Arena,42.9126819,-81.5017351,60
+106, 11eeb89115d148f0db0f21b7ada3a2e3,Iceberg Arena,49.4536,-54.1045,59
+107, 11efcf3a8c8ae3a0ec51ee846fecd2c2,Richmond Arena,45.5148,-60.966,59
+108, 11eebaf3374e9460a96867f16dd0bcf4,Fort Erie Leisureplex,42.8845,-78.9398,56
 109, 11E9F686BBBE293081807B23EA662A63,Harman Park Arena,43.8773963,-78.845969,55
 110, 11efd863f5180a105dfe37a9d3b8096b,Berens River Memorial Arena ,55.8244,-98.8348,54
 111, 11eebe335f9d54e0d7e170fe496608ae,St Martins 4 Season Complex,45.3849,-65.6331,52
