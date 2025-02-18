@@ -1,10 +1,10 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
 1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,10347
-2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,8912
+2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,8922
 3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,6157
 4, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,5241
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,4946
-6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,4495
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,4956
+6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,4505
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,3359
 8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,2900
 9, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,1851
@@ -14,7 +14,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 13, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1165
 14, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,50.7011,-97.1462,1124
 15, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,1054
-16, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,1001
+16, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,1021
 17, 11efddc5dd2dd9402ba61fd19647b85e,Don Cruickshank Memorial Arena,50.65824749999999,-127.4437507,874
 18, d5512a67cdfc4608ac279365175fcd00,Haldimand Community Memorial Arena,43.9919702,-78.0310643,777
 19, 11eebad347f099003d540cdb84e09cb8,Centre Sportif Charles-Edouard-Boucher,47.6525,-70.4067,759
@@ -29,13 +29,13 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 28, 11eecb02c0216050305bc32b29dd71df,North Peace Arena,56.2306,-120.8277,506
 29, 11efd4eae8c401503acc7126751bba6f,Delburne AG Arena,52.0306,-113.9565,487
 30, 11E9F686BBBC681681807B23EA662A63,Greenwood Arena,42.878329,-82.15554700000001,462
-31, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,44.6322684,-75.9539849,434
+31, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,44.6322684,-75.9539849,444
 32, 11efd22efdcddb70aa25cfa7687d2aa4,Ron Gorr Memorial Arena,52.0306,-113.9565,422
 33, 11E9F686BB7584B481807B23EA662A63,8th Hussars Sports Center,45.723647,-65.502348,386
 34, 11eeb9609bd28c50a173d25df9263a83,Unity Parc Arena,47.7609,-53.9834,365
 35, 11eeb8c4f3352030b590a61d8226fed8,Springdale Stadium and Curling Club,49.5959,-55.6739,362
 36, 11eeb28b1e853a30ffa2ce4b52231f7b,Kinistino sports complex,52.7586,-107.4669,353
-37, 11efce8c9f28cfd02e5ea2749db3bae8,Kingston Memorial Centre,44.2322,-76.4799,341
+37, 11efce8c9f28cfd02e5ea2749db3bae8,Kingston Memorial Centre,44.2322,-76.4799,351
 38, 11E9F686BBEB399881807B23EA662A63,Redwood Meadows Arena,50.9911032,-114.4992362,329
 39, 11eebf3760b00940ffe304762d2bb666,Irma Arena,53.0635,-112.3067,310
 40, 11efcdc03bc8b940ce1cd676788d51ff,Bill Chaplin Arena,53.5329,-64.0145,299
@@ -75,10 +75,10 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 74, 11efcc743431db507989d6c33ba8c77f,Al Lawrence Memorial Arena,54.7992,-130.0782,121
 75, 11eeb616171bd5e0ceb6edfcfeb91bd6,Grandview Agricultural Community Centre,52.4175,-100.9577,118
 76, 11efcdd84450f100620f665327d1f7b1,Saxon Family Community Complex,49.1895,-104.4374,117
-77, 11efded6895a516004839a3c822c0043,Kipsigak Arena,70.4643,-68.4789,109
-78, 11eebbdd59db60e0838dd72fc536eca8,Soo Pee Wee Arena,46.5105,-84.321,108
-79, 11efdcb2fb4865d031e479e5767dddb8,Manitouwadge arena ,50.139,-89.0561,108
-80, 11E9F686BBC445CC81807B23EA662A63,Ingersoll & District Memorial Centre,43.0409517,-80.8822876,103
+77, 11E9F686BBC445CC81807B23EA662A63,Ingersoll & District Memorial Centre,43.0409517,-80.8822876,113
+78, 11efded6895a516004839a3c822c0043,Kipsigak Arena,70.4643,-68.4789,109
+79, 11eebbdd59db60e0838dd72fc536eca8,Soo Pee Wee Arena,46.5105,-84.321,108
+80, 11efdcb2fb4865d031e479e5767dddb8,Manitouwadge arena ,50.139,-89.0561,108
 81, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,47.6525,-70.4067,97
 82, 11eeb6222b688f00ac245cf23d9a366b,Summerland Arena,49.2357,-119.0117,92
 83, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,52.807,-105.3626,92
