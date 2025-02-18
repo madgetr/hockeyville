@@ -1,12 +1,12 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,543,2,1473,619,37915,830,48403
-Sackville Arena (LDRA) - NS,454,0,1372,436,19474,747,28566
+Trout Creek Community Centre - ON,545,2,1473,619,37915,830,48423
+Sackville Arena (LDRA) - NS,457,0,1372,436,19474,748,28596
 Pete Knight Arena - AB,246,1,745,291,12556,436,17552
-Bashaw Arena - AB,283,0,512,269,12447,411,17082
+Bashaw Arena - AB,284,0,512,269,12447,411,17092
 Honeywood Arena - ON,266,24,1048,240,9619,496,15903
 Aréna Saint-Boniface - QC,244,1,787,427,9308,566,14546
 Middleton District Arena - NS,193,0,400,226,7128,352,10484
-Redvers rec center - SK,78,0,231,102,4979,153,6554
+Redvers rec center - SK,79,0,231,102,4979,153,6564
 Ivor MacDonald Memorial Arena - NS,85,0,242,118,3206,212,4900
 Centre Sportif Normandin - QC,203,2,224,178,875,320,3775
 North Hastings Community Centre - ON,62,0,133,45,2453,83,3517
@@ -14,7 +14,7 @@ Kaetlyn Osmond Arena - NL,120,0,186,70,1580,177,3441
 Big River Arena - SK,59,0,150,61,1955,123,3056
 Rolling Hills Arena - AB,101,0,155,79,1277,141,2831
 Fox Valley Skating Arena - SK,76,1,114,53,1384,98,2549
-Don Cruickshank Memorial Arena - BC,44,0,165,29,953,83,1917
+Don Cruickshank Memorial Arena - BC,46,0,165,29,953,85,1937
 St. Isidore Recreation Centre - ON,21,1,131,31,1232,53,1876
 Oxbow Community Arena - SK,52,0,36,51,994,56,1673
 Veterans Memorial Sports Complex - MB,33,1,99,31,860,51,1528
@@ -26,7 +26,7 @@ Athens Community Centre Centre 76 - ON,28,0,58,30,580,51,1064
 Petitcodiac Arena - NB,45,0,79,23,304,72,1014
 Longlac Sportsplex - ON,23,0,101,22,448,38,1003
 Bill Chaplin Arena - NL,13,1,54,27,532,40,861
-Ron Gorr Memorial Arena - AB,25,0,52,26,382,50,814
+Ron Gorr Memorial Arena - AB,26,0,52,26,382,50,824
 Centre Sportif Charles-Edouard-Boucher - QC,23,0,144,97,23,115,782
 North Peace Arena - BC,30,0,61,23,199,64,705
 La Glace Recreation Centre - AB,27,0,72,29,142,46,657
@@ -76,9 +76,9 @@ Al Lawrence Memorial Arena - BC,7,0,16,3,31,10,152
 Jus Jordan Arena - ON,9,0,13,9,4,19,142
 Ingersoll & District Memorial Centre - ON,8,1,12,7,5,15,138
 Grandview Agricultural Community Centre - MB,7,0,15,3,11,10,129
+Kyle Community Sports Centre - SK,4,0,17,4,33,10,128
 Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada - PE,4,0,5,1,72,6,128
 Saxon Family Community Complex - SK,9,0,8,3,6,12,123
-Kyle Community Sports Centre - SK,3,0,17,4,33,10,118
 Soo Pee Wee Arena - ON,7,0,11,5,8,11,116
 Katelynn Osmond Arena - NL,8,0,9,3,5,13,115
 Beausejour Sportsplex - MB,5,0,12,4,22,9,112
@@ -144,6 +144,7 @@ Humphrey Arena - ON,1,0,7,1,6,3,38
 Aréna Saint-Lin-Laurentides - QC,3,0,2,2,0,3,38
 Aréna St-Cyrille - QC,1,0,5,5,8,6,38
 West Colchester United Arena - NS,3,0,2,0,2,4,38
+Jarome Iginla and kinex arenas - AB,2,0,5,2,0,2,37
 Keswick Valley Regional Complex - NB,3,0,2,1,0,4,37
 Moose Jaw Events Centre - SK,2,0,5,1,0,2,36
 Burks Falls Arena - ON,2,0,4,4,0,4,36
@@ -172,7 +173,6 @@ Hague Arena - SK,1,0,6,1,0,2,29
 Paul J Yakabuski Community Centre - ON,2,0,3,0,0,2,29
 Amherst Stadium - NS,2,0,2,1,1,4,28
 Powassan Sportsplex - ON,1,0,5,1,2,2,28
-Jarome Iginla and kinex arenas - AB,1,0,5,2,0,2,27
 Galt Arena Gardens - ON,2,0,2,1,0,3,27
 Arena BSR - QC,2,0,2,1,0,3,27
 Glaslyn Arena  - SK,1,0,5,1,0,1,26
@@ -200,6 +200,7 @@ East Gwillimbury Sports Complex - ON,2,0,0,1,1,2,22
 Espanola Recreation Fitness - ON,2,0,0,2,0,3,22
 Wainfleet Arena - ON,1,0,4,0,0,1,22
 Stride Place - MB,1,0,4,0,0,1,22
+Cariboo Memorial Complex - BC,2,0,0,1,0,2,21
 Marysville Arena - BC,2,0,0,1,0,2,21
 Hillsborough Arena - NB,2,0,0,1,0,2,21
 Westlock Rotary Spirit Centre - AB,1,0,2,2,3,3,21
@@ -297,7 +298,6 @@ New Tecumseth Recreation Centre - ON,1,0,0,1,0,1,11
 Port Stanley Arena & Community Centre - ON,1,0,0,1,0,1,11
 Centre sportif Mégantic - QC,1,0,0,1,0,1,11
 Polar Center - NL,1,0,0,0,1,1,11
-Cariboo Memorial Complex - BC,1,0,0,1,0,1,11
 Aréna Pierre-Creamer - QC,1,0,0,1,0,1,11
 Capital News Centre CNC1 - BC,1,0,0,1,0,2,11
 Reeves Community Complex - ON,1,0,0,1,0,2,11
@@ -311,6 +311,7 @@ Shamrock Centre - MB,1,0,0,0,0,1,10
 Fort Smith Centennial Arena - NT,1,0,0,0,0,1,10
 Pembroke Memorial Centre - ON,1,0,0,0,0,1,10
 Moosomin Communiplex - SK,1,0,0,0,0,1,10
+Carstairs Memorial Arena - AB,1,0,0,0,0,1,10
 Centre Edmond E. Landry - NB,1,0,0,0,0,1,10
 Kugaaruk Airport - NU,1,0,0,0,0,1,10
 North Shore Recreation Ctr - NS,1,0,0,0,0,1,10
