@@ -3,8 +3,8 @@ Trout Creek Community Centre - ON,589,2,1473,635,38597,851,49561
 Sackville Arena (LDRA) - NS,479,0,1373,458,20196,773,29563
 Pete Knight Arena - AB,277,1,745,312,12910,459,18237
 Bashaw Arena - AB,310,0,512,293,13050,432,17979
-Honeywood Arena - ON,292,24,1050,272,10680,536,17262
-Aréna Saint-Boniface - QC,290,1,787,498,9964,651,15733
+Honeywood Arena - ON,294,24,1050,272,10690,538,17292
+Aréna Saint-Boniface - QC,290,1,787,498,9994,651,15763
 Middleton District Arena - NS,194,0,400,247,7317,369,10704
 Redvers rec center - SK,88,0,231,106,5124,159,6803
 Ivor MacDonald Memorial Arena - NS,104,0,242,129,3317,230,5212
@@ -135,6 +135,7 @@ Tilley arena - AB,4,0,0,1,1,4,42
 Tobique-Plex - NB,2,0,6,4,0,4,42
 Centre des sports Jean Claude Tremblay - QC,2,0,7,1,0,2,42
 Humphrey Arena - ON,1,0,7,3,7,5,41
+Drumheller Memorial Arena - AB,3,0,3,1,0,4,40
 Manitouwadge Community Center - ON,4,0,0,0,0,4,40
 Dundalk Arena & Community Centre - ON,1,0,9,0,3,5,40
 MCN Arena - MB,3,0,3,1,0,5,40
@@ -167,7 +168,6 @@ Darlington Sports Centre - ON,3,0,0,2,1,4,33
 Sungod Recreation Centre - BC,2,0,4,1,0,2,33
 KC Irving Regional Center - NB,1,0,5,7,0,7,32
 Jordan Arena - ON,2,0,3,1,1,2,31
-Drumheller Memorial Arena - AB,2,0,3,1,0,4,30
 Hodder Memorial Recreation Complex - NL,3,0,0,0,0,3,30
 Duncan Murray Recreation Centre - AB,3,0,0,0,0,3,30
 Edson and District Leisure Centre - AB,2,0,3,1,0,3,30
@@ -195,6 +195,7 @@ Kentville Centennial Arena - NS,2,0,1,0,1,2,24
 Harry Ivany Arena - NL,2,0,1,0,1,2,24
 Pond Inlet Comunity Hall - NU,1,0,1,2,9,2,24
 Emily Omemee Arena - ON,2,0,1,1,0,2,24
+Essa Arena - ON,1,0,4,1,0,1,23
 Oceanside Place Arena - BC,1,0,4,1,0,3,23
 Zurich Community Centre - ON,2,0,1,0,0,2,23
 Oro-Medonte Community Arena - ON,2,0,1,0,0,2,23
@@ -271,7 +272,6 @@ Coronation Arena - AB,1,0,1,0,0,2,13
 Atlas Tube Centre - ON,1,0,1,0,0,2,13
 Vern Miller Memorial Arena - ON,1,0,1,0,0,1,13
 Optimist / George Blundun Arenas - AB,1,0,1,0,0,1,13
-Essa Arena - ON,0,0,4,1,0,1,13
 Sexsmith Arena - AB,1,0,1,0,0,2,13
 Lunenburg Community Centre Arena - NS,1,0,1,0,0,1,13
 Sudbury Community Arena - ON,1,0,0,2,1,3,13
