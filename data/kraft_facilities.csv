@@ -1,12 +1,12 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
 1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,10947
 2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,9276
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,6483
-4, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,5412
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,6493
+4, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,5512
 5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,5246
 6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,4841
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,3359
-8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3150
+8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3200
 9, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,1871
 10, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,1857
 11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,1655
@@ -42,11 +42,11 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 41, 11eebf3760b00940ffe304762d2bb666,Irma Arena,53.0635,-112.3067,320
 42, 11efd6019365d310971c42873a24eb89,John Levi Community Centre,45.1953,-76.1496,308
 43, 11eeb86ad118030047158bd465a9cd46,Brooke-Alvinston-Inwood Community Centre Complex,42.7967,-81.7938,286
-44, 11eec20786a453e0099eb8493d090fb9,Kaslo arena,49.7332,-116.913,278
-45, 11efd4f031d4e490fae299e67c87685a,Bienfait Memorial Arena,49.1895,-104.4374,268
-46, 11eec6f3b6b67ef0b4beebf0dc85c2b2,Arena De Clarence Creek,45.1953,-76.1496,262
-47, 11efcc66abe09f50fbb368fdafdeb6ca,Cupar Memorial Rink,51.3669,-105.9973,258
-48, 11eeb59445a01390d6897a81c9d52988,Aréna Joannie Rochette,46.104,-73.256,251
+44, 11eeb59445a01390d6897a81c9d52988,Aréna Joannie Rochette,46.104,-73.256,281
+45, 11eec20786a453e0099eb8493d090fb9,Kaslo arena,49.7332,-116.913,278
+46, 11efd4f031d4e490fae299e67c87685a,Bienfait Memorial Arena,49.1895,-104.4374,268
+47, 11eec6f3b6b67ef0b4beebf0dc85c2b2,Arena De Clarence Creek,45.1953,-76.1496,262
+48, 11efcc66abe09f50fbb368fdafdeb6ca,Cupar Memorial Rink,51.3669,-105.9973,258
 49, 11efc94cfaa4171050876939db7c4873,Moosonee Arena,52.923,-82.4173,251
 50, 11efdde64b0b40e0ca9a7a266d507e82,Sam Ault Arena,45.1299843,-75.3590755,239
 51, 11efde3afa45e9d0516367953137c4c9,Marmora Arena,44.5384894,-77.682665,239
@@ -79,7 +79,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 78, 11efcdd84450f100620f665327d1f7b1,Saxon Family Community Complex,49.1895,-104.4374,117
 79, 11eebbdd59db60e0838dd72fc536eca8,Soo Pee Wee Arena,46.5105,-84.321,108
 80, 11efdcb2fb4865d031e479e5767dddb8,Manitouwadge arena ,50.139,-89.0561,108
-81, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,47.6525,-70.4067,97
+81, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,47.6525,-70.4067,107
 82, 11efcd34d2eaa0401431a7d1d2ed686b,Kyle Community Sports Centre,51.2296,-108.702,95
 83, 11eeb6222b688f00ac245cf23d9a366b,Summerland Arena,49.2357,-119.0117,92
 84, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,52.807,-105.3626,92
