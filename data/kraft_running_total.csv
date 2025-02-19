@@ -3195,10 +3195,10 @@ Date, Arena, Type, Raw Points, Points
 2025/01/19,Pete Knight Arena,story,383,2282
 2025/01/19,Bobcaygeon-Verulam Community Centre,note,17,19
 2025/01/19,Greenwood Arena,note,421,557
-2025/01/19,Summerland Arena,story,10,10
+2025/01/19,Summerland Arena,story,10,11
 2025/01/19,Kinistino sports complex,story,53,95
 2025/01/19,Kinistino sports complex,photo,56,101
-2025/01/19,Summerland Arena,photo,13,14
+2025/01/19,Summerland Arena,photo,13,15
 2025/01/19,Kinistino sports complex,photo,59,107
 2025/01/19,Kinistino sports complex,photo,62,113
 2025/01/19,Big River Arena,photo,193,659
@@ -4278,7 +4278,7 @@ Date, Arena, Type, Raw Points, Points
 2025/01/21,Centre Sportif Charles-Edouard-Boucher,photo,32,41
 2025/01/21,Trout Creek Community Centre,story,1508,13329
 2025/01/21,Centre Sportif Charles-Edouard-Boucher,note,33,42
-2025/01/21,Summerland Arena,note,14,15
+2025/01/21,Summerland Arena,note,14,16
 2025/01/21,Arborg & District Arena,story,374,448
 2025/01/21,Trout Creek Community Centre,story,1518,13419
 2025/01/21,Honeywood Arena,note,660,2371
@@ -4305,7 +4305,7 @@ Date, Arena, Type, Raw Points, Points
 2025/01/21,Centre Sportif Charles-Edouard-Boucher,photo,65,75
 2025/01/21,Centre Sportif Charles-Edouard-Boucher,photo,68,78
 2025/01/21,Centre Sportif Charles-Edouard-Boucher,story,78,89
-2025/01/21,Summerland Arena,note,15,16
+2025/01/21,Summerland Arena,note,15,17
 2025/01/21,Trout Creek Community Centre,story,1544,13639
 2025/01/21,Centre Sportif Charles-Edouard-Boucher,story,88,99
 2025/01/21,Centre Sportif Charles-Edouard-Boucher,note,89,100
@@ -4379,7 +4379,7 @@ Date, Arena, Type, Raw Points, Points
 2025/01/21,Trout Creek Community Centre,story,1601,14153
 2025/01/21,Bashaw Arena,story,257,1168
 2025/01/21,Trout Creek Community Centre,photo,1604,14172
-2025/01/21,Summerland Arena,story,25,26
+2025/01/21,Summerland Arena,story,25,28
 2025/01/21,Trout Creek Community Centre,note,1605,14173
 2025/01/21,Trout Creek Community Centre,story,1615,14298
 2025/01/21,Trout Creek Community Centre,photo,1618,14320
@@ -4392,7 +4392,7 @@ Date, Arena, Type, Raw Points, Points
 2025/01/21,Middleton District Arena,photo,515,2346
 2025/01/21,Bienfait Memorial Arena,photo,13,13
 2025/01/21,Bienfait Memorial Arena,photo,16,16
-2025/01/21,Summerland Arena,photo,28,30
+2025/01/21,Summerland Arena,photo,28,32
 2025/01/21,Sackville Arena (LDRA),story,3112,10499
 2025/01/21,Trout Creek Community Centre,story,1631,14474
 2025/01/21,Sackville Arena (LDRA),photo,3115,10511
@@ -4881,8 +4881,8 @@ Date, Arena, Type, Raw Points, Points
 2025/01/22,Arborg & District Arena,photo,471,569
 2025/01/22,Trout Creek Community Centre,photo,2420,18431
 2025/01/22,Big River Arena,story,363,1242
-2025/01/22,Summerland Arena,story,38,40
-2025/01/22,Summerland Arena,photo,41,44
+2025/01/22,Summerland Arena,story,38,43
+2025/01/22,Summerland Arena,photo,41,47
 2025/01/22,Pete Knight Arena,note,414,2443
 2025/01/22,Ron Gorr Memorial Arena,photo,259,582
 2025/01/22,Trout Creek Community Centre,note,2421,18432
@@ -8143,7 +8143,7 @@ Date, Arena, Type, Raw Points, Points
 2025/01/28,Sackville Arena (LDRA),photo,5687,19240
 2025/01/28,Middleton District Arena,photo,920,3830
 2025/01/28,Sackville Arena (LDRA),photo,5690,19247
-2025/01/28,Summerland Arena,story,51,54
+2025/01/28,Summerland Arena,story,51,58
 2025/01/28,Trout Creek Community Centre,story,5110,31944
 2025/01/28,Trout Creek Community Centre,photo,5113,31952
 2025/01/28,Centre Sportif Charles-Edouard-Boucher,photo,469,486
@@ -8172,7 +8172,7 @@ Date, Arena, Type, Raw Points, Points
 2025/01/28,Middleton District Arena,note,928,3851
 2025/01/28,Pete Knight Arena,story,636,3659
 2025/01/28,Trout Creek Community Centre,note,5158,32083
-2025/01/28,Summerland Arena,photo,54,58
+2025/01/28,Summerland Arena,photo,54,62
 2025/01/28,Honeywood Arena,photo,1947,6062
 2025/01/28,Honeywood Arena,photo,1950,6068
 2025/01/28,Honeywood Arena,photo,1953,6078
@@ -8893,7 +8893,7 @@ Date, Arena, Type, Raw Points, Points
 2025/01/29,Sackville Arena (LDRA),photo,6225,20557
 2025/01/29,Sackville Arena (LDRA),photo,6228,20563
 2025/01/29,Middleton District Arena,story,1019,4084
-2025/01/29,Summerland Arena,story,64,69
+2025/01/29,Summerland Arena,story,64,73
 2025/01/29,Haldimand Community Memorial Arena,photo,245,584
 2025/01/29,Trout Creek Community Centre,note,5332,32609
 2025/01/29,Knights Of Columbus Twin Arenas,story,10,10
@@ -10750,7 +10750,7 @@ Date, Arena, Type, Raw Points, Points
 2025/02/01,Pete Knight Arena,photo,1290,6575
 2025/02/01,Honeywood Arena,note,2966,8668
 2025/02/01,Trout Creek Community Centre,photo,5945,34839
-2025/02/01,Summerland Arena,photo,67,73
+2025/02/01,Summerland Arena,photo,67,77
 2025/02/01,Pete Knight Arena,photo,1293,6588
 2025/02/01,Honeywood Arena,photo,2969,8676
 2025/02/01,Honeywood Arena,photo,2972,8683
@@ -13043,11 +13043,11 @@ Date, Arena, Type, Raw Points, Points
 2025/02/04,Bashaw Arena,note,3110,12161
 2025/02/04,Pete Knight Arena,story,2131,9487
 2025/02/04,Pete Knight Arena,story,2141,9517
-2025/02/04,Summerland Arena,story,77,84
+2025/02/04,Summerland Arena,story,77,88
 2025/02/04,Pete Knight Arena,note,2142,9518
 2025/02/04,Rolling Hills Arena,story,574,1268
 2025/02/04,Pete Knight Arena,photo,2145,9527
-2025/02/04,Summerland Arena,photo,80,88
+2025/02/04,Summerland Arena,photo,80,92
 2025/02/04,Pete Knight Arena,photo,2148,9537
 2025/02/04,Pete Knight Arena,photo,2151,9546
 2025/02/04,Pete Knight Arena,story,2161,9573
@@ -13089,9 +13089,9 @@ Date, Arena, Type, Raw Points, Points
 2025/02/04,Bill Chaplin Arena,photo,69,229
 2025/02/04,Bill Chaplin Arena,photo,72,242
 2025/02/04,Trout Creek Community Centre,note,7482,39245
-2025/02/04,Summerland Arena,story,90,99
+2025/02/04,Summerland Arena,story,90,103
 2025/02/04,North Hastings Community Centre,photo,838,3219
-2025/02/04,Summerland Arena,note,91,100
+2025/02/04,Summerland Arena,note,91,104
 2025/02/04,Aréna Saint-Boniface,note,2257,6077
 2025/02/04,Aréna Saint-Boniface,note,2258,6078
 2025/02/04,Pete Knight Arena,story,2174,9610
@@ -16987,7 +16987,7 @@ Date, Arena, Type, Raw Points, Points
 2025/02/10,Centre Sportif Normandin,note,2949,3783
 2025/02/10,Don Cruickshank Memorial Arena,story,552,1282
 2025/02/10,Nattilik Arena,note,24,24
-2025/02/10,Summerland Arena,note,92,101
+2025/02/10,Summerland Arena,note,92,105
 2025/02/10,Pete Knight Arena,photo,3561,14430
 2025/02/10,Pete Knight Arena,photo,3564,14434
 2025/02/10,Delburne AG Arena,story,395,1096
