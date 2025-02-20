@@ -1,17 +1,17 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,591,2,1473,635,38895,852,49879
+Trout Creek Community Centre - ON,592,2,1473,635,38895,852,49889
 Sackville Arena (LDRA) - NS,481,0,1373,458,20224,773,29611
-Pete Knight Arena - AB,280,1,745,312,13021,460,18378
-Bashaw Arena - AB,314,0,512,293,13064,434,18033
-Honeywood Arena - ON,299,24,1050,272,10823,539,17475
+Pete Knight Arena - AB,282,1,745,312,13023,461,18400
+Bashaw Arena - AB,316,0,512,293,13064,435,18053
+Honeywood Arena - ON,300,24,1050,272,10825,539,17487
 Aréna Saint-Boniface - QC,291,1,787,498,10201,652,15980
 Middleton District Arena - NS,196,0,400,247,7317,370,10724
 Redvers rec center - SK,92,0,231,106,5155,162,6874
-Ivor MacDonald Memorial Arena - NS,109,0,242,129,3362,232,5307
+Ivor MacDonald Memorial Arena - NS,110,0,242,129,3362,232,5317
 Centre Sportif Normandin - QC,247,4,224,183,900,351,4265
 North Hastings Community Centre - ON,70,0,133,45,2453,87,3597
 Kaetlyn Osmond Arena - NL,131,0,186,74,1587,188,3562
-Rolling Hills Arena - AB,116,0,155,95,1675,159,3395
+Rolling Hills Arena - AB,116,0,155,95,1827,159,3547
 Big River Arena - SK,71,0,150,72,2130,133,3362
 Fox Valley Skating Arena - SK,84,1,114,53,1390,105,2635
 Don Cruickshank Memorial Arena - BC,52,0,165,32,1079,88,2126
@@ -25,7 +25,7 @@ Riverton Arena - MB,40,0,53,31,579,55,1169
 Athens Community Centre Centre 76 - ON,29,0,58,30,660,51,1154
 Petitcodiac Arena - NB,45,0,79,23,304,72,1014
 Longlac Sportsplex - ON,23,0,101,22,448,38,1003
-Bill Chaplin Arena - NL,15,1,54,27,607,40,956
+Bill Chaplin Arena - NL,16,1,54,27,607,40,966
 Ron Gorr Memorial Arena - AB,27,0,52,26,382,51,834
 North Peace Arena - BC,32,0,61,24,290,65,817
 Centre Sportif Charles-Edouard-Boucher - QC,24,0,144,97,23,116,792
@@ -189,6 +189,7 @@ Strathcona Gardens Recreation Complex - BC,1,0,5,0,0,2,25
 Peterborough Memorial Centre - ON,2,0,1,0,2,3,25
 Lion's Head Arena - ON,2,0,1,2,0,3,25
 Strasbourg & Community Recreation Centre - SK,1,0,5,0,0,1,25
+Sudbury Arena - ON,2,0,1,1,0,3,24
 Ilderton Arena - ON,1,0,4,1,1,3,24
 Multiplex Arena - NT,2,0,1,1,0,2,24
 Kentville Centennial Arena - NS,2,0,1,0,1,2,24
@@ -264,7 +265,6 @@ Aréna Municipal - QC,1,0,1,1,0,1,14
 Aréna Réjean Lemelin - QC,1,0,1,1,0,3,14
 Burford Community Centre - ON,1,0,1,1,0,1,14
 Fort Macleod & District Sports Centre / Outdoor Swimming Pool / Ice Arena - AB,1,0,1,1,0,1,14
-Sudbury Arena - ON,1,0,1,1,0,2,14
 Southeast Event Centre - MB,1,0,1,1,0,1,14
 Carling Arena - ON,1,0,0,2,1,3,13
 Berens River First Nation - MB,0,0,4,1,0,2,13
