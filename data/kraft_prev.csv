@@ -1,21 +1,21 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
 Trout Creek Community Centre - ON,609,2,1473,641,39653,860,50823
 Sackville Arena (LDRA) - NS,502,0,1373,462,20382,785,29983
-Pete Knight Arena - AB,303,1,825,326,13991,485,19832
+Pete Knight Arena - AB,306,1,878,326,14086,493,20116
 Bashaw Arena - AB,340,0,512,302,13648,452,18886
-Honeywood Arena - ON,344,26,1050,290,11162,577,18302
-Aréna Saint-Boniface - QC,305,1,787,589,11116,741,17126
+Honeywood Arena - ON,347,26,1055,290,11162,579,18347
+Aréna Saint-Boniface - QC,305,1,787,589,11117,741,17127
 Middleton District Arena - NS,202,0,400,249,7343,374,10812
-Redvers rec center - SK,100,0,231,110,5329,171,7132
+Redvers rec center - SK,102,0,231,110,5329,171,7152
 Ivor MacDonald Memorial Arena - NS,121,0,242,130,3378,237,5444
-Rolling Hills Arena - AB,136,0,155,103,2942,175,4870
+Rolling Hills Arena - AB,138,0,155,103,2950,175,4898
 Centre Sportif Normandin - QC,248,4,224,185,900,353,4277
 North Hastings Community Centre - ON,71,0,133,47,2465,89,3621
 Kaetlyn Osmond Arena - NL,135,0,186,74,1587,190,3602
-Big River Arena - SK,80,0,150,74,2201,138,3525
+Big River Arena - SK,81,0,150,74,2201,138,3535
 Fox Valley Skating Arena - SK,84,1,114,53,1445,105,2690
 Don Cruickshank Memorial Arena - BC,53,0,165,33,1093,89,2151
-St. Isidore Recreation Centre - ON,23,1,131,32,1232,54,1897
+St. Isidore Recreation Centre - ON,24,1,131,32,1232,55,1907
 Oxbow Community Arena - SK,52,0,36,51,994,56,1673
 Veterans Memorial Sports Complex - MB,33,1,99,34,879,54,1550
 Haldimand Community Memorial Arena - ON,46,0,96,49,638,85,1435
@@ -105,6 +105,7 @@ St Martins 4 Season Complex - NB,1,0,13,3,18,6,70
 Richmond Arena - NS,4,0,6,1,10,4,69
 Scott Safety Centre - Whitecourt Twin Arenas - AB,4,0,8,2,2,6,68
 Capreol Community Centre and Arena - ON,5,0,4,5,1,8,68
+Foxwarren Arena - MB,6,0,0,2,5,7,67
 Centre sportif J.-A. Lemay - QC,3,1,4,6,8,10,66
 Geraldton Community Centre - ON,5,0,4,4,0,6,66
 Powell River Recreation Complex - BC,3,0,10,4,1,9,65
@@ -115,7 +116,6 @@ Onoway Arena - AB,4,0,6,2,0,4,60
 Iceberg Arena - NL,4,0,6,1,1,4,60
 Harman Park Arena - ON,4,0,5,0,4,6,59
 Fort Erie Leisureplex - ON,5,0,0,6,3,9,59
-Foxwarren Arena - MB,5,0,0,2,5,6,57
 Grand Forks arena - BC,4,0,3,3,0,5,52
 Humphrey Arena - ON,2,0,7,3,7,6,51
 Harry O. Memorial Arena - SK,4,0,2,4,0,6,50
@@ -126,6 +126,7 @@ Ray Twinney Recreation Complex - ON,3,0,5,2,0,4,47
 Boundary Expo Recreation Centre - BC,0,1,12,1,0,4,47
 Harrow Arena - ON,4,0,1,2,1,6,46
 Hepburn Arena - SK,3,0,5,1,0,3,46
+Birtle District Community Centre - MB,2,1,2,9,0,10,45
 Carlo Cartarello Arena - ON,4,0,1,2,0,5,45
 Didsbury Memorial Complex Arena - AB,2,0,8,1,0,7,45
 Raymore Arena - SK,2,0,8,0,0,2,44
@@ -157,7 +158,6 @@ Kevin Bateman Center - QC,3,0,0,6,0,7,36
 Moose Jaw Events Centre - SK,2,0,5,1,0,2,36
 Burks Falls Arena - ON,2,0,4,4,0,4,36
 Strathcona Gardens Recreation Complex - BC,2,0,5,0,0,3,35
-Birtle District Community Centre - MB,1,1,2,9,0,10,35
 Hudson's Hope Arena - BC,3,0,0,1,4,4,35
 Aréna Conrad-Parent - QC,2,0,3,6,0,6,35
 Aréna Luc & Marie-Claude de Baie Saint-Paul - QC,3,0,1,2,0,5,35
@@ -201,12 +201,12 @@ Multiplex Arena - NT,2,0,1,1,0,2,24
 Kentville Centennial Arena - NS,2,0,1,0,1,2,24
 Harry Ivany Arena - NL,2,0,1,0,1,2,24
 Pond Inlet Comunity Hall - NU,1,0,1,2,9,2,24
+Wadena REC Centre - SK,2,0,0,2,1,2,23
 Essa Arena - ON,1,0,4,1,0,1,23
 Oceanside Place Arena - BC,1,0,4,1,0,3,23
 Zurich Community Centre - ON,2,0,1,0,0,2,23
 Oro-Medonte Community Arena - ON,2,0,1,0,0,2,23
 Smiths Falls Memorial Community Centre - ON,1,0,4,1,0,1,23
-Wadena REC Centre - SK,2,0,0,2,0,2,22
 Norway House Cree Nation Multiplex - MB,1,0,4,0,0,1,22
 East Gwillimbury Sports Complex - ON,2,0,0,1,1,2,22
 Espanola Recreation Fitness - ON,2,0,0,2,0,3,22
@@ -317,6 +317,9 @@ Reeves Community Complex - ON,1,0,0,1,0,2,11
 Ma-te-way Park - ON,1,0,0,1,0,1,11
 Ridgetown Arena - ON,1,0,0,1,0,1,11
 Centre Sportif d'Opitciwan - QC,1,0,0,1,0,1,11
+Revelstoke Forum - BC,1,0,0,0,0,1,10
+Pete Knight Memorial Arena - AB,1,0,0,0,0,1,10
+Municipality of Brooke-Alvinston - ON,1,0,0,0,0,1,10
 Beaverlodge Arena - AB,1,0,0,0,0,1,10
 Digby Area Recreation Facility - NS,1,0,0,0,0,1,10
 Esgenoopetitj Community rink - NB,1,0,0,0,0,1,10
