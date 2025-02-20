@@ -6,8 +6,8 @@
 2025/02/19,Redvers rec centre,note,1,1
 2025/02/19,Aréna Saint-Boniface,note,1,1
 2025/02/19,Trout Creek Community Centre,note,1,1
-2025/02/19,Trout Creek Community Centre,note,1,1
 2025/02/19,Middleton District Arena,note,1,1
+2025/02/19,Trout Creek Community Centre,note,1,1
 2025/02/19,Honeywood Arena,note,1,1
 2025/02/19,Pete Knight Arena,note,1,1
 2025/02/19,Kaetlyn Osmond Arena,note,1,1
@@ -121,7 +121,7 @@
 2025/02/19,De Salaberry Recreation Facility (St. Malo Arena),note,1,1
 2025/02/19,Cremona Ag Society Community Arena,note,1,1
 2025/02/19,Pete Knight Arena,note,1,1
-2025/02/19,Aréna Saint-Boniface,story,10,23
+2025/02/19,Aréna Saint-Boniface,story,10,24
 2025/02/19,Carling Arena,note,1,1
 2025/02/19,High level  Arena,note,1,1
 2025/02/19,Pete Knight Arena,note,1,1
@@ -199,8 +199,18 @@
 2025/02/18,Centre sportif de Delson,story,10,11
 2025/02/18,Big River Arena,note,1,1
 2025/02/18,Berens River Memorial Arena ,note,1,1
+2025/02/18,Honeywood Arena,story,10,10
+2025/02/18,Unity Parc Arena,story,10,10
+2025/02/18,Centre récréatif de Donnacona,story,10,10
+2025/02/18,Middleton District Arena,story,10,10
+2025/02/18,Big River Arena,story,10,10
+2025/02/18,La Glace Recreation Centre,story,10,10
 2025/02/18,Centre récréatif de Donnacona,note,1,1
+2025/02/18,Pete Knight Arena,story,10,10
+2025/02/18,Redvers rec centre,story,10,10
 2025/02/18,Bienfait Memorial Arena,note,1,1
+2025/02/18,Bienfait Memorial Arena,story,10,10
+2025/02/18,Redvers rec centre,story,10,10
 2025/02/18,Aréna Saint-Boniface,note,1,1
 2025/02/18,Sam Ault Arena,story,10,10
 2025/02/18,De Salaberry Recreation Facility (St. Malo Arena),story,10,10
@@ -217,7 +227,7 @@
 2025/02/18,Ville De Bouctouche Forum,note,1,1
 2025/02/18,Aréna Joannie Rochette,note,1,1
 2025/02/18,Rolling Hills Arena,story,10,10
-2025/02/18,Aréna Saint-Boniface,story,10,22
+2025/02/18,Aréna Saint-Boniface,story,10,23
 2025/02/18,Saxon Family Community Complex,story,10,10
 2025/02/18,Ivor MacDonald Memorial Arena,story,10,10
 2025/02/18,Ville De Bouctouche Forum,story,10,10
@@ -316,7 +326,7 @@
 2025/02/18,Sackville Arena (LDRA),story,10,25
 2025/02/18,Cremona Ag Society Community Arena,story,10,10
 2025/02/18,Shamrock Centre,story,10,10
-2025/02/18,Aréna Saint-Boniface,story,10,19
+2025/02/18,Aréna Saint-Boniface,story,10,20
 2025/02/18,Middleton District Arena,note,1,1
 2025/02/18,Middleton District Arena,story,10,13
 2025/02/18,Trout Creek Community Centre,note,1,1
@@ -356,7 +366,7 @@
 2025/02/18,Middleton District Arena,story,10,12
 2025/02/18,Big River Arena,story,10,16
 2025/02/18,Ivor MacDonald Memorial Arena,story,10,14
-2025/02/17,Aréna Saint-Boniface,story,10,16
+2025/02/17,Aréna Saint-Boniface,story,10,17
 2025/02/17,Aréna Saint-Boniface,note,1,1
 2025/02/17,Middleton District Arena,note,1,1
 2025/02/17,Ivor MacDonald Memorial Arena,note,1,1
@@ -593,11 +603,11 @@
 2025/02/17,Aréna Saint-Boniface,note,1,1
 2025/02/17,Honeywood Arena,note,1,1
 2025/02/17,Trout Creek Community Centre,note,1,1
-2025/02/17,Aréna Saint-Boniface,photo,3,20
-2025/02/17,Aréna Saint-Boniface,photo,3,14
-2025/02/17,Aréna Saint-Boniface,photo,3,17
-2025/02/17,Aréna Saint-Boniface,photo,3,17
+2025/02/17,Aréna Saint-Boniface,photo,3,21
 2025/02/17,Aréna Saint-Boniface,photo,3,15
+2025/02/17,Aréna Saint-Boniface,photo,3,17
+2025/02/17,Aréna Saint-Boniface,photo,3,18
+2025/02/17,Aréna Saint-Boniface,photo,3,16
 2025/02/17,Aréna Saint-Boniface,note,1,1
 2025/02/17,Bashaw Arena,photo,3,19
 2025/02/17,Bashaw Arena,photo,3,16
@@ -627,8 +637,8 @@
 2025/02/17,Trout Creek Community Centre,photo,3,13
 2025/02/17,Trout Creek Community Centre,photo,3,11
 2025/02/17,Aréna Saint-Boniface,note,1,1
-2025/02/17,Aréna Saint-Boniface,photo,3,14
-2025/02/17,Aréna Saint-Boniface,photo,3,14
+2025/02/17,Aréna Saint-Boniface,photo,3,15
+2025/02/17,Aréna Saint-Boniface,photo,3,15
 2025/02/17,Aréna Saint-Boniface,photo,3,10
 2025/02/17,Aréna Saint-Boniface,photo,3,8
 2025/02/17,Aréna Saint-Boniface,photo,3,13
@@ -712,7 +722,7 @@
 2025/02/17,Ron Gorr Memorial Arena,note,1,1
 2025/02/17,Sackville Arena (LDRA),photo,3,10
 2025/02/17,Sackville Arena (LDRA),story,10,14
-2025/02/17,Aréna Saint-Boniface,photo,3,8
+2025/02/17,Aréna Saint-Boniface,photo,3,9
 2025/02/17,Ron Gorr Memorial Arena,story,10,10
 2025/02/17,Aréna Saint-Boniface,photo,3,9
 2025/02/17,Athens Community Centre Centre 76,photo,3,5
@@ -791,7 +801,7 @@
 2025/02/17,Aréna Saint-Boniface,note,1,1
 2025/02/17,Rolling Hills Arena,story,10,14
 2025/02/17,Tri Township Arena,photo,3,3
-2025/02/17,Aréna Saint-Boniface,story,10,18
+2025/02/17,Aréna Saint-Boniface,story,10,19
 2025/02/17,Bienfait Memorial Arena,photo,3,3
 2025/02/17,Bienfait Memorial Arena,photo,3,3
 2025/02/17,Bienfait Memorial Arena,photo,3,3
@@ -956,9 +966,9 @@
 2025/02/16,Sackville Arena (LDRA),story,10,14
 2025/02/16,Pete Knight Arena,note,1,1
 2025/02/16,Don Cruickshank Memorial Arena,story,10,12
-2025/02/16,Aréna Saint-Boniface,story,10,20
+2025/02/16,Aréna Saint-Boniface,story,10,21
 2025/02/16,High level  Arena,story,10,10
-2025/02/16,Aréna Saint-Boniface,story,10,18
+2025/02/16,Aréna Saint-Boniface,story,10,19
 2025/02/16,Tri Township Arena,note,1,1
 2025/02/16,Onoway Arena,photo,3,3
 2025/02/16,High level  Arena,photo,3,4
@@ -988,9 +998,9 @@
 2025/02/16,Honeywood Arena,photo,3,12
 2025/02/16,Honeywood Arena,photo,3,11
 2025/02/16,Honeywood Arena,photo,3,11
-2025/02/16,Aréna Saint-Boniface,photo,3,4
-2025/02/16,Aréna Saint-Boniface,photo,3,7
 2025/02/16,Aréna Saint-Boniface,photo,3,5
+2025/02/16,Aréna Saint-Boniface,photo,3,8
+2025/02/16,Aréna Saint-Boniface,photo,3,6
 2025/02/16,Haldimand Community Memorial Arena,note,1,1
 2025/02/16,Trout Creek Community Centre,photo,3,9
 2025/02/16,Trout Creek Community Centre,photo,3,9
@@ -1489,7 +1499,7 @@
 2025/02/15,Trout Creek Community Centre,photo,3,6
 2025/02/15,Don Cruickshank Memorial Arena,story,10,11
 2025/02/15,John Levi Community Centre,photo,3,4
-2025/02/15,Aréna Saint-Boniface,story,10,15
+2025/02/15,Aréna Saint-Boniface,story,10,16
 2025/02/15,Pete Knight Arena,photo,3,5
 2025/02/15,Big River Arena,photo,3,11
 2025/02/15,Big River Arena,photo,3,8
@@ -1624,7 +1634,7 @@
 2025/02/15,John Levi Community Centre,photo,3,3
 2025/02/15,John Levi Community Centre,photo,3,3
 2025/02/15,Sackville Arena (LDRA),note,1,1
-2025/02/15,Aréna Saint-Boniface,story,10,14
+2025/02/15,Aréna Saint-Boniface,story,10,15
 2025/02/15,John Levi Community Centre,photo,3,3
 2025/02/15,Sackville Arena (LDRA),story,10,13
 2025/02/15,Aréna Saint-Boniface,photo,3,19
@@ -1838,11 +1848,11 @@
 2025/02/14,Pete Knight Arena,story,10,15
 2025/02/14,Bashaw Arena,note,1,1
 2025/02/14,Bashaw Arena,photo,3,7
-2025/02/14,Aréna Saint-Boniface,photo,3,12
+2025/02/14,Aréna Saint-Boniface,photo,3,13
 2025/02/14,Bashaw Arena,story,10,18
 2025/02/14,Centre récréatif de Blanc-Sablon,photo,3,4
 2025/02/14,Aréna Saint-Boniface,note,1,1
-2025/02/14,Aréna Saint-Boniface,story,10,22
+2025/02/14,Aréna Saint-Boniface,story,10,23
 2025/02/14,Pete Knight Arena,story,10,14
 2025/02/14,Redwood Meadows Arena,story,10,10
 2025/02/14,Rolling Hills Arena,note,1,1
@@ -1881,7 +1891,7 @@
 2025/02/14,Rolling Hills Arena,story,10,14
 2025/02/14,Ivor MacDonald Memorial Arena,photo,3,7
 2025/02/14,Ivor MacDonald Memorial Arena,photo,3,8
-2025/02/14,Aréna Saint-Boniface,story,10,15
+2025/02/14,Aréna Saint-Boniface,story,10,16
 2025/02/14,Ivor MacDonald Memorial Arena,story,10,10
 2025/02/14,Arborg & District Arena,photo,3,4
 2025/02/14,Arborg & District Arena,photo,3,4
@@ -1962,7 +1972,7 @@
 2025/02/14,Honeywood Arena,photo,3,9
 2025/02/14,Pete Knight Arena,photo,3,9
 2025/02/14,Bashaw Arena,photo,3,11
-2025/02/14,Pete Knight Arena,photo,3,6
+2025/02/14,Pete Knight Arena,photo,3,7
 2025/02/14,Bashaw Arena,photo,3,10
 2025/02/14,Pete Knight Arena,photo,3,8
 2025/02/14,Bashaw Arena,photo,3,9
@@ -2368,7 +2378,7 @@
 2025/02/14,Pete Knight Arena,photo,3,5
 2025/02/14,Bashaw Arena,note,1,1
 2025/02/14,Honeywood Arena,story,10,10
-2025/02/14,Aréna Saint-Boniface,story,10,16
+2025/02/14,Aréna Saint-Boniface,story,10,17
 2025/02/14,Pete Knight Arena,note,1,1
 2025/02/14,Aréna Saint-Boniface,note,1,1
 2025/02/14,Pete Knight Arena,note,1,1
@@ -2450,7 +2460,7 @@
 2025/02/14,Aréna Saint-Boniface,note,1,1
 2025/02/14,Trout Creek Community Centre,note,1,1
 2025/02/14,Aréna Saint-Boniface,photo,3,5
-2025/02/14,Aréna Saint-Boniface,story,10,10
+2025/02/14,Aréna Saint-Boniface,story,10,11
 2025/02/14,Aréna Saint-Boniface,photo,3,7
 2025/02/14,Aréna Saint-Boniface,photo,3,6
 2025/02/14,Aréna Saint-Boniface,photo,3,6
@@ -2524,7 +2534,7 @@
 2025/02/13,Bashaw Arena,photo,3,4
 2025/02/13,Bill Chaplin Arena,photo,3,9
 2025/02/13,Trout Creek Community Centre,story,10,10
-2025/02/13,Aréna Saint-Boniface,story,10,16
+2025/02/13,Aréna Saint-Boniface,story,10,17
 2025/02/13,Aréna Joannie Rochette,story,10,10
 2025/02/13,Big River Arena,photo,3,10
 2025/02/13,Honeywood Arena,photo,3,8
@@ -2593,7 +2603,7 @@
 2025/02/13,Ivor MacDonald Memorial Arena,photo,3,5
 2025/02/13,Aréna Saint-Boniface,note,1,1
 2025/02/13,Ivor MacDonald Memorial Arena,photo,3,7
-2025/02/13,Aréna Saint-Boniface,story,10,14
+2025/02/13,Aréna Saint-Boniface,story,10,15
 2025/02/13,John Levi Community Centre,photo,3,6
 2025/02/13,Ivor MacDonald Memorial Arena,photo,3,6
 2025/02/13,Ivor MacDonald Memorial Arena,photo,3,5
@@ -2662,7 +2672,7 @@
 2025/02/13,Centre Sportif Normandin,note,1,1
 2025/02/13,Big River Arena,story,10,11
 2025/02/13,Aréna Joannie Rochette,story,10,10
-2025/02/13,Aréna Saint-Boniface,story,10,12
+2025/02/13,Aréna Saint-Boniface,story,10,13
 2025/02/13,Aréna Saint-Boniface,note,1,1
 2025/02/13,Sackville Arena (LDRA),photo,3,18
 2025/02/13,Sackville Arena (LDRA),photo,3,18
@@ -2688,7 +2698,7 @@
 2025/02/13,Rolling Hills Arena,photo,3,8
 2025/02/13,Aréna Saint-Boniface,photo,3,17
 2025/02/13,Aréna Saint-Boniface,photo,3,17
-2025/02/13,Aréna Saint-Boniface,story,10,15
+2025/02/13,Aréna Saint-Boniface,story,10,16
 2025/02/13,Rolling Hills Arena,note,1,1
 2025/02/13,Aréna Joannie Rochette,story,10,10
 2025/02/13,Bashaw Arena,story,10,10
@@ -2698,7 +2708,7 @@
 2025/02/13,Aréna Saint-Boniface,note,1,1
 2025/02/13,Little Britain Arena,note,1,1
 2025/02/13,Aréna Saint-Boniface,photo,3,19
-2025/02/13,Aréna Saint-Boniface,story,10,11
+2025/02/13,Aréna Saint-Boniface,story,10,12
 2025/02/13,Kaetlyn Osmond Arena,story,10,10
 2025/02/13,Sackville Arena (LDRA),story,10,10
 2025/02/13,Aréna Saint-Boniface,note,1,1
@@ -2717,8 +2727,8 @@
 2025/02/13,Aréna Saint-Boniface,note,1,1
 2025/02/13,North Hastings Community Centre,story,10,10
 2025/02/13,Pine Falls Arena,story,10,10
-2025/02/13,Aréna Saint-Boniface,story,10,15
-2025/02/13,Aréna Saint-Boniface,story,10,10
+2025/02/13,Aréna Saint-Boniface,story,10,16
+2025/02/13,Aréna Saint-Boniface,story,10,11
 2025/02/13,Aréna Saint-Boniface,note,1,1
 2025/02/13,Aréna Saint-Boniface,photo,3,17
 2025/02/13,Aréna Saint-Boniface,note,1,1
@@ -2864,7 +2874,7 @@
 2025/02/13,Aréna Saint-Boniface,photo,3,12
 2025/02/13,Aréna Saint-Boniface,note,1,1
 2025/02/13,Ivor MacDonald Memorial Arena,photo,3,14
-2025/02/13,Aréna Saint-Boniface,story,10,12
+2025/02/13,Aréna Saint-Boniface,story,10,13
 2025/02/13,Aréna Saint-Boniface,note,1,1
 2025/02/13,Big River Arena,note,1,1
 2025/02/13,Aréna Saint-Boniface,note,1,1
@@ -2907,7 +2917,7 @@
 2025/02/13,Aréna Saint-Boniface,photo,3,10
 2025/02/13,Aréna Saint-Boniface,photo,3,11
 2025/02/13,Redvers rec centre,story,10,11
-2025/02/13,Aréna Saint-Boniface,story,10,16
+2025/02/13,Aréna Saint-Boniface,story,10,17
 2025/02/13,Aréna Saint-Boniface,photo,3,7
 2025/02/13,Sackville Arena (LDRA),story,10,10
 2025/02/13,Aréna Saint-Boniface,photo,3,8
@@ -3128,7 +3138,7 @@
 2025/02/13,Pete Knight Arena,photo,3,8
 2025/02/13,Honeywood Arena,video,10,30
 2025/02/13,Pete Knight Arena,photo,3,8
-2025/02/13,Aréna Saint-Boniface,story,10,11
+2025/02/13,Aréna Saint-Boniface,story,10,12
 2025/02/13,Ivor MacDonald Memorial Arena,story,10,10
 2025/02/13,Pete Knight Arena,story,10,10
 2025/02/13,Honeywood Arena,story,10,11
@@ -3258,7 +3268,7 @@
 2025/02/12,Kipsigak Arena,note,1,1
 2025/02/12,Aréna Saint-Boniface,note,1,1
 2025/02/12,Honeywood Arena,story,10,13
-2025/02/12,Aréna Saint-Boniface,story,10,14
+2025/02/12,Aréna Saint-Boniface,story,10,15
 2025/02/12,Kaetlyn Osmond Arena,photo,3,4
 2025/02/12,Marmora Arena,photo,3,8
 2025/02/12,Sackville Arena (LDRA),note,1,1
@@ -3330,7 +3340,7 @@
 2025/02/12,Aréna Saint-Boniface,photo,3,8
 2025/02/12,Aréna Saint-Boniface,photo,3,6
 2025/02/12,Pete Knight Arena,note,1,1
-2025/02/12,Aréna Saint-Boniface,story,10,13
+2025/02/12,Aréna Saint-Boniface,story,10,14
 2025/02/12,Pete Knight Arena,note,1,1
 2025/02/12,Honeywood Arena,photo,3,9
 2025/02/12,Pete Knight Arena,story,10,11
@@ -3338,7 +3348,7 @@
 2025/02/12,Honeywood Arena,photo,3,7
 2025/02/12,Trout Creek Community Centre,note,1,1
 2025/02/12,Humphrey Arena,photo,3,3
-2025/02/12,Aréna Saint-Boniface,story,10,11
+2025/02/12,Aréna Saint-Boniface,story,10,12
 2025/02/12,Kaetlyn Osmond Arena,story,10,10
 2025/02/12,Pete Knight Arena,note,1,1
 2025/02/12,Kipsigak Arena,photo,3,3
@@ -9174,7 +9184,7 @@
 2025/02/04,Honeywood Arena,note,1,1
 2025/02/04,Redvers rec centre,photo,3,4
 2025/02/04,Honeywood Arena,photo,3,7
-2025/02/04,Honeywood Arena,photo,3,6
+2025/02/04,Honeywood Arena,photo,3,7
 2025/02/04,Aréna Saint-Boniface,story,10,17
 2025/02/04,Honeywood Arena,photo,3,5
 2025/02/04,Redvers rec centre,photo,3,4
@@ -9187,7 +9197,7 @@
 2025/02/04,Honeywood Arena,photo,3,5
 2025/02/04,Honeywood Arena,photo,3,8
 2025/02/04,Honeywood Arena,photo,3,4
-2025/02/04,Honeywood Arena,photo,3,7
+2025/02/04,Honeywood Arena,photo,3,8
 2025/02/04,Trout Creek Community Centre,photo,3,7
 2025/02/04,Honeywood Arena,note,1,1
 2025/02/04,Trout Creek Community Centre,photo,3,7
@@ -9702,7 +9712,7 @@
 2025/02/03,John Levi Community Centre,photo,3,4
 2025/02/03,Sangudo Arena,photo,3,4
 2025/02/03,Kaetlyn Osmond Arena,story,10,18
-2025/02/03,Honeywood Arena,photo,3,5
+2025/02/03,Honeywood Arena,photo,3,6
 2025/02/03,Sangudo Arena,note,1,1
 2025/02/03,Kaetlyn Osmond Arena,story,10,18
 2025/02/03,Aréna Saint-Boniface,story,10,18
@@ -9767,7 +9777,7 @@
 2025/02/03,Pete Knight Arena,photo,3,8
 2025/02/03,Pete Knight Arena,photo,3,7
 2025/02/03,Pete Knight Arena,story,10,38
-2025/02/03,Honeywood Arena,photo,3,6
+2025/02/03,Honeywood Arena,photo,3,7
 2025/02/03,Honeywood Arena,photo,3,3
 2025/02/03,Honeywood Arena,photo,3,6
 2025/02/03,Honeywood Arena,photo,3,5
@@ -9988,7 +9998,7 @@
 2025/02/03,Aréna Saint-Boniface,photo,3,15
 2025/02/03,Pete Knight Arena,photo,3,23
 2025/02/03,Kaetlyn Osmond Arena,note,1,1
-2025/02/03,Honeywood Arena,photo,3,13
+2025/02/03,Honeywood Arena,photo,3,14
 2025/02/03,Honeywood Arena,photo,3,13
 2025/02/03,Honeywood Arena,story,10,21
 2025/02/03,Centre Sportif Normandin,note,1,1
@@ -10199,11 +10209,11 @@
 2025/02/03,Rolling Hills Arena,photo,3,16
 2025/02/03,I J Coady Memorial Arena,story,10,11
 2025/02/03,Trout Creek Community Centre,note,1,1
-2025/02/03,Honeywood Arena,photo,3,12
+2025/02/03,Honeywood Arena,photo,3,13
 2025/02/03,Arena De Clarence Creek,note,1,1
-2025/02/03,Honeywood Arena,photo,3,10
+2025/02/03,Honeywood Arena,photo,3,11
 2025/02/03,Trout Creek Community Centre,story,10,25
-2025/02/03,Honeywood Arena,photo,3,10
+2025/02/03,Honeywood Arena,photo,3,11
 2025/02/03,Arena De Clarence Creek,story,10,10
 2025/02/03,Haldimand Community Memorial Arena,photo,3,6
 2025/02/03,Aréna Joannie Rochette,story,10,21
@@ -15587,7 +15597,7 @@
 2025/01/24,Sackville Arena (LDRA),photo,3,8
 2025/01/24,Sackville Arena (LDRA),photo,3,8
 2025/01/24,Sackville Arena (LDRA),photo,3,8
-2025/01/24,Rolling Hills Arena,story,10,18
+2025/01/24,Rolling Hills Arena,story,10,19
 2025/01/24,Honeywood Arena,photo,3,7
 2025/01/24,Sackville Arena (LDRA),story,10,40
 2025/01/24,Honeywood Arena,photo,3,7
