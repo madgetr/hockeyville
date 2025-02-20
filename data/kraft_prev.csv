@@ -1,13 +1,13 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
 Trout Creek Community Centre - ON,618,2,1607,644,39893,869,51558
 Sackville Arena (LDRA) - NS,505,0,1434,463,20493,792,30308
-Pete Knight Arena - AB,329,1,888,336,14275,508,20575
+Pete Knight Arena - AB,329,1,888,336,14292,508,20592
 Bashaw Arena - AB,348,0,602,303,13877,455,19466
-Aréna Saint-Boniface - QC,382,1,1133,618,11326,808,19173
-Honeywood Arena - ON,362,26,1139,300,11542,600,19139
+Aréna Saint-Boniface - QC,405,1,1133,618,11326,817,19403
+Honeywood Arena - ON,362,26,1139,300,11600,600,19197
 Middleton District Arena - NS,204,0,457,252,7367,382,11030
 Redvers rec center - SK,106,0,289,113,5342,178,7382
-Ivor MacDonald Memorial Arena - NS,124,0,261,130,3600,238,5753
+Ivor MacDonald Memorial Arena - NS,124,0,261,130,3689,238,5842
 Rolling Hills Arena - AB,149,0,230,105,3431,188,5716
 Centre Sportif Normandin - QC,252,4,226,185,901,357,4324
 Big River Arena - SK,83,0,192,74,2280,143,3760
@@ -28,7 +28,7 @@ Longlac Sportsplex - ON,23,0,101,22,448,38,1003
 Bill Chaplin Arena - NL,17,1,55,28,607,40,980
 North Peace Arena - BC,34,0,63,25,290,67,844
 Ron Gorr Memorial Arena - AB,28,0,52,26,382,52,844
-Centre Sportif Charles-Edouard-Boucher - QC,24,0,144,97,23,116,792
+Centre Sportif Charles-Edouard-Boucher - QC,25,0,144,97,23,117,802
 Frank Crane Arena - BC,27,0,101,28,97,56,698
 La Glace Recreation Centre - AB,29,0,74,31,142,49,685
 Kinistino sports complex - SK,19,0,69,19,248,39,664
@@ -40,7 +40,7 @@ Elm Creek Skating Rink - MB,11,0,36,18,302,30,538
 Kingston Memorial Centre - ON,23,0,44,16,152,32,530
 John Levi Community Centre - ON,12,3,66,19,153,45,520
 Cremona Ag Society Community Arena - AB,23,0,59,19,91,34,517
-Aréna Joannie Rochette - QC,13,0,59,15,165,27,487
+Aréna Joannie Rochette - QC,15,0,59,15,165,28,507
 Brooke-Alvinston-Inwood Community Centre Complex - ON,19,0,30,16,190,31,486
 Cupar Memorial Rink - SK,9,0,51,15,216,31,474
 Marmora Arena - ON,16,0,29,16,206,26,469
@@ -64,10 +64,10 @@ Civic Centre Arena - ON,8,0,23,16,99,23,264
 Ville De Bouctouche Forum - NB,17,0,10,15,49,26,264
 Sangudo Arena - AB,10,0,22,9,59,19,234
 Centre récréatif de Blanc-Sablon - QC,6,0,32,2,63,12,221
+St Boniface - QC,10,0,18,14,51,18,219
 Memorial Community Centre Arena - AB,10,0,33,11,8,17,218
 Kipsigak Arena - NU,16,0,16,3,0,23,211
 Orville Acres Arena - MB,10,0,29,9,15,18,211
-St Boniface - QC,9,0,18,14,51,18,209
 Centre sportif de Delson - QC,9,0,31,9,16,17,208
 Hespeler Memorial Arena - ON,7,0,22,7,56,15,199
 Wilfred T Lipton Arena - MB,9,0,17,11,44,16,196
@@ -90,12 +90,12 @@ Soo Pee Wee Arena - ON,7,0,11,5,8,11,116
 Katelynn Osmond Arena - NL,8,0,9,3,5,13,115
 Beausejour Sportsplex - MB,5,0,12,4,22,9,112
 Manitouwadge arena  - ON,4,0,21,5,2,11,110
+Centre sportif J.-A. Lemay - QC,6,1,6,6,15,14,109
 Centre Sportif C E Boucher - QC,6,0,14,5,0,12,107
 Manvers Arena & Community Centre - ON,5,0,13,2,16,7,107
 Kevin Bateman Center - QC,5,0,16,6,0,10,104
 Berens River Memorial Arena  - MB,3,0,16,5,20,9,103
 Clavet Community Arena - SK,4,0,16,4,11,6,103
-Centre sportif J.-A. Lemay - QC,5,1,6,6,15,13,99
 Inch Park Arena - ON,2,0,18,6,18,11,98
 Complexe Sportif De St-Louis-De-France Inc - QC,3,0,14,4,20,8,96
 Thamesford District Recreation Centre - ON,4,0,14,9,4,14,95
@@ -189,6 +189,7 @@ Wikwemikong Recreation Center - ON,2,0,2,1,2,2,29
 Hague Arena - SK,1,0,6,1,0,2,29
 Amherst Stadium - NS,2,0,2,1,1,4,28
 Powassan Sportsplex - ON,1,0,5,1,2,2,28
+Arena Connie Dion - QC,2,0,2,1,0,2,27
 Galt Arena Gardens - ON,2,0,2,1,0,3,27
 Arena BSR - QC,2,0,2,1,0,3,27
 Eatonia Memorial Arena - SK,2,0,2,0,0,2,26
@@ -250,7 +251,6 @@ Saint Andrews Community Club - MB,1,0,3,0,0,1,19
 eastern Kings Sportsplex - PE,1,0,3,0,0,2,19
 Festival Arena - NB,1,0,2,2,0,3,18
 Tilbury Memorial Arena - ON,1,0,2,2,0,2,18
-Arena Connie Dion - QC,1,0,2,1,0,2,17
 Rogers Arena - BC,1,0,2,1,0,2,17
 Centre Sportif Mistouk - QC,1,0,2,1,0,3,17
 Lloyd Wilson Centennial Arena - ON,1,0,2,0,1,3,17
