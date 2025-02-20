@@ -1,17 +1,17 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
-1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,11073
-2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,9497
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,6955
-4, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,5912
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,5507
+1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,11084
+2, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,9498
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,6971
+4, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,5942
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,5512
 6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,5189
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,3440
-8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3365
+8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3366
 9, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,2058
 10, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,1995
-11, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,1810
-12, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,1779
-13, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,1302
+11, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,1811
+12, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,1780
+13, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,1303
 14, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1245
 15, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,1144
 16, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,50.7011,-97.1462,1129
@@ -56,9 +56,9 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 55, 11efcf75483809902bd90ec1517cab1c,Memorial Community Centre Arena,49.7318,-112.6171,213
 56, 11E9F686BB9CD3E881807B23EA662A63,Centre récréatif de Donnacona,46.6787327,-71.7299194,209
 57, 11E9F686BBF63B4A81807B23EA662A63,South Courtice Arena,43.8876797,-78.7931319,209
-58, 11eeb94b0a9f1e707a50d372baf5b339,Walkerton Community Centre,43.8567,-81.4023,203
-59, 11eeb6f3ef437df0634f81fa6d7292d2,Coldwater Arena,44.6072,-79.6291,201
-60, 11efcc61799f45f0337d822e4932bf4e,Ville De Bouctouche Forum,46.4171,-64.9241,199
+58, 11efcc61799f45f0337d822e4932bf4e,Ville De Bouctouche Forum,46.4171,-64.9241,209
+59, 11eeb94b0a9f1e707a50d372baf5b339,Walkerton Community Centre,43.8567,-81.4023,203
+60, 11eeb6f3ef437df0634f81fa6d7292d2,Coldwater Arena,44.6072,-79.6291,201
 61, 11eec5e85326a470f60b4a810ad1314f,Jim Ciccone Civic Centre,54.3146,-130.3413,194
 62, b14065f8a04f49af8eb79de468077cd4,I J Coady Memorial Arena,46.64023299999999,-81.39035799999999,193
 63, 11efde8833a3670051d225be9f444f95,Orville Acres Arena,50.4275,-95.3439,190
@@ -82,8 +82,8 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 81, 11efdcb2fb4865d031e479e5767dddb8,Manitouwadge arena ,50.139,-89.0561,108
 82, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,47.6525,-70.4067,107
 83, 11efe3fddb4ca8c01dedb0977326e16f,De Salaberry Recreation Facility (St. Malo Arena),49.0563,-96.1126,106
-84, 11eeb59533fa2490cb0eea7cfc60948d,Centre sportif de Delson,45.4024,-73.5376,95
-85, 11efcd34d2eaa0401431a7d1d2ed686b,Kyle Community Sports Centre,51.2296,-108.702,95
+84, 11eeb59533fa2490cb0eea7cfc60948d,Centre sportif de Delson,45.4024,-73.5376,96
+85, 11efcd34d2eaa0401431a7d1d2ed686b,Kyle Community Sports Centre,51.2296,-108.702,96
 86, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,52.807,-105.3626,92
 87, 11eeb6da2c720620a837bc41071a607e,Thamesford District Recreation Centre,43.5651,-81.6986,91
 88, 11eeb6f6ce9e1260f845c99fc6a31ba3,Manvers Arena & Community Centre,44.1836,-78.5563,91
@@ -1443,3 +1443,17 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 1442, 11efea2c0e747af0d4f9fd5cc7d861c0,Pense Memorial Rink,51.3669,-105.9973,0
 1443, 11efea53ea122ea0ffab0d46482a1c6b,Prince Rupert Airport (YPR),54.3146,-130.3413,0
 1444, 11efebab9a846e80c39a330605c373cc,Wakaw & District Jubilee Arena,52.807,-105.3626,0
+1445, 11efec04066807805ea5d4054bf3f8aa,Aréna St-Polycarpe,45.4487,-74.1015,0
+1446, 11efec12981871c0e387f33292eb284f,Aréna Michel-Normandin,45.4605,-73.4651,0
+1447, 11efeca129b608203d3d1e5d87de4003,Maryfield Curling Rink,51.3669,-105.9973,0
+1448, 11efececaab6fa103041f80e4ac3315b,Aréna Stade Pierre Lafontaine,45.4979,-75.7043,0
+1449, 11efed079ea85280a37c142f29a90f6e,fox lake arena,56.6598,-117.2896,0
+1450, 11efed5620812680d43148ab1b335f22,Perth East Recreation Complex,43.5838,-81.2351,0
+1451, 11efed5bd1e0c430ac68eb46c55bf3a8,Stoneham ,47.06110229999999,-71.3041181,0
+1452, 11efed5beeb08f50816d3ee265bb7eee,Station Touristique Stoneham,47.0270843,-71.3832888,0
+1453, 11efed69aac1eec01acf27a31e6ff7ab,Centre sportif de Murdochville (1957),48.9298,-64.3438,0
+1454, 11efed80debe8780877537458d10d771,Lorette Community Complex,49.73544020000001,-96.8645642,0
+1455, 11efed9ae16b0b10c412a097300ecc83,Carlo Cattarello Arena,48.4757,-81.3366,0
+1456, 11efee0c0553a2001e4186ab3360657a,Sparwood Recreation & Leisure Centre,49.4539,-116.763,0
+1457, 11efee5a9e748b4032f58a87ec6b72f5,Lori ( Lorraine) Parenteau,56.6598,-117.2896,0
+1458, 11efee72b4cfe2a02cd2946f0130327e,Hythe Memorial Arena,56.6598,-117.2896,0
