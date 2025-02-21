@@ -1,10 +1,10 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
 1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,11922
-2, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,10479
-3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,9864
+2, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,10489
+3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,9874
 4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,7809
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,6716
-6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,5736
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,6726
+6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,5746
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,3730
 8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3487
 9, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,2411
@@ -64,10 +64,10 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 63, 11E9F686BBC445CC81807B23EA662A63,Ingersoll & District Memorial Centre,43.0409517,-80.8822876,205
 64, 11eeb94b0a9f1e707a50d372baf5b339,Walkerton Community Centre,43.8567,-81.4023,203
 65, 11eeb6f3ef437df0634f81fa6d7292d2,Coldwater Arena,44.6072,-79.6291,201
-66, 11efde8833a3670051d225be9f444f95,Orville Acres Arena,50.4275,-95.3439,196
-67, b14065f8a04f49af8eb79de468077cd4,I J Coady Memorial Arena,46.64023299999999,-81.39035799999999,193
-68, 11efe4bfdfb8c750db5b2c1d9e243671,Birtle District Community Centre,50.0226,-101.3637,189
-69, 11efce6e0a68a7d0775885f69e3af9ab,Foxwarren Arena,50.7774,-99.5546,186
+66, 11efce6e0a68a7d0775885f69e3af9ab,Foxwarren Arena,50.7774,-99.5546,196
+67, 11efde8833a3670051d225be9f444f95,Orville Acres Arena,50.4275,-95.3439,196
+68, b14065f8a04f49af8eb79de468077cd4,I J Coady Memorial Arena,46.64023299999999,-81.39035799999999,193
+69, 11efe4bfdfb8c750db5b2c1d9e243671,Birtle District Community Centre,50.0226,-101.3637,189
 70, 11efd1e8664880205b118712b95eceb6,Archie Miller Arena,53.2786,-110.0233,178
 71, 11efcd1057a003904627c103b195fc0a,Sangudo Arena,53.8486,-114.4361,175
 72, 11E9F686BB81FFAA81807B23EA662A63,Aréna Jean Rougeau,45.5154982,-73.2929275,174
@@ -96,15 +96,15 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 95, 11eeca22dde18fb0d59351ed89cc1736,Beausejour Sportsplex,50.4275,-95.3439,90
 96, 11eeba6fd042a9b05d126e8b3eefbc0d,Duchess Arena,49.8442,-110.78,89
 97, 11E9F686BC0F81C281807B23EA662A63,Walpole Island Complex,42.5909326,-82.4785076,88
-98, 11E9F686BC07B29481807B23EA662A63,Tri Township Arena,42.9126819,-81.5017351,86
-99, 11eeb65d99db649054a3f0da8cbd3e01,Wasaga Beach Arena,44.5208,-80.0162,84
-100, 11eebaea1c7a3a304a96c814ae9dcd7d,Powell River Recreation Complex,49.8021,-124.5124,84
-101, 11efd863f5180a105dfe37a9d3b8096b,Berens River Memorial Arena ,55.8244,-98.8348,83
-102, 11E9F686BBC3FD1A81807B23EA662A63,Inch Park Arena,43.237403,-79.8591217,80
-103, 11efe4f7b02710e0e8e7ce61c8f9fc3e,Chesterville and District Arena,45.06902849999999,-75.18573669999999,79
-104, 11efd287b441e5104101740a70dd5205,Rapid City community complex,49.0694,-99.527,77
-105, 11efddddfbf84f008dbc4d6ce46696f3,Knights Of Columbus Twin Arenas,53.6202,-113.543,77
-106, aa1085f1858f4424ab5421ecadadf611,Capreol Community Centre and Arena,46.7029179,-80.919747,77
+98, aa1085f1858f4424ab5421ecadadf611,Capreol Community Centre and Arena,46.7029179,-80.919747,87
+99, 11E9F686BC07B29481807B23EA662A63,Tri Township Arena,42.9126819,-81.5017351,86
+100, 11eeb65d99db649054a3f0da8cbd3e01,Wasaga Beach Arena,44.5208,-80.0162,84
+101, 11eebaea1c7a3a304a96c814ae9dcd7d,Powell River Recreation Complex,49.8021,-124.5124,84
+102, 11efd863f5180a105dfe37a9d3b8096b,Berens River Memorial Arena ,55.8244,-98.8348,83
+103, 11E9F686BBC3FD1A81807B23EA662A63,Inch Park Arena,43.237403,-79.8591217,80
+104, 11efe4f7b02710e0e8e7ce61c8f9fc3e,Chesterville and District Arena,45.06902849999999,-75.18573669999999,79
+105, 11efd287b441e5104101740a70dd5205,Rapid City community complex,49.0694,-99.527,77
+106, 11efddddfbf84f008dbc4d6ce46696f3,Knights Of Columbus Twin Arenas,53.6202,-113.543,77
 107, 11eeb550f50e99d0a6ce5f21b411b73a,Scott Safety Centre - Whitecourt Twin Arenas,54.1407,-115.6873,76
 108, 11efcd3bdaf2bb40f1c5d0ce7eabb7b3,Complexe Sportif De St-Louis-De-France Inc,46.4024,-72.5846,76
 109, 11efe18d222a4a909a23bbecde8236bb,Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada,46.2318,-63.1192,76
