@@ -2,8 +2,8 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,11922
 2, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,10610
 3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,9890
-4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,7901
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,7086
+4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,7904
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,7098
 6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,5759
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,3740
 8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3487
@@ -106,9 +106,9 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 105, 11efd287b441e5104101740a70dd5205,Rapid City community complex,49.0694,-99.527,77
 106, 11efddddfbf84f008dbc4d6ce46696f3,Knights Of Columbus Twin Arenas,53.6202,-113.543,77
 107, 11eeb550f50e99d0a6ce5f21b411b73a,Scott Safety Centre - Whitecourt Twin Arenas,54.1407,-115.6873,76
-108, 11efcd3bdaf2bb40f1c5d0ce7eabb7b3,Complexe Sportif De St-Louis-De-France Inc,46.4024,-72.5846,76
-109, 11efe18d222a4a909a23bbecde8236bb,Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada,46.2318,-63.1192,76
-110, 11eeb948f1e16b10958164c4afa33fb1,Tilley arena,49.8442,-110.78,75
+108, 11eeb948f1e16b10958164c4afa33fb1,Tilley arena,49.8442,-110.78,76
+109, 11efcd3bdaf2bb40f1c5d0ce7eabb7b3,Complexe Sportif De St-Louis-De-France Inc,46.4024,-72.5846,76
+110, 11efe18d222a4a909a23bbecde8236bb,Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada,46.2318,-63.1192,76
 111, 11eec88169c7eb30c4caff1b4f7acfac,Wadena REC Centre,51.8194,-103.5644,71
 112, 11efd08efc6585e0c766955230151d67,Taylor District Ice Center,56.2478,-120.8491,71
 113, 11efe9706c333940765b108291df0907,Carling Arena,43.0093,-81.21,69
