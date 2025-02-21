@@ -2,17 +2,17 @@ Facility, stories, videos, photos, notes, reactions, contributors, points
 Trout Creek Community Centre - ON,629,2,1651,653,40793,879,52709
 Sackville Arena (LDRA) - NS,507,0,1434,467,20512,795,30351
 Aréna Saint-Boniface - QC,598,1,1233,699,12261,957,22649
-Pete Knight Arena - AB,344,2,943,356,15531,533,22176
+Pete Knight Arena - AB,344,2,943,356,15549,533,22194
 Honeywood Arena - ON,372,26,1158,315,12209,621,19978
-Bashaw Arena - AB,354,0,606,313,14061,467,19732
-Middleton District Arena - NS,207,0,457,253,7729,386,11423
-Redvers rec center - SK,108,0,298,115,5381,180,7470
+Bashaw Arena - AB,354,0,617,313,14073,467,19777
+Middleton District Arena - NS,207,0,458,253,7729,386,11426
+Redvers rec center - SK,108,0,298,115,5387,180,7476
 Ivor MacDonald Memorial Arena - NS,131,0,312,140,4705,252,7091
 Rolling Hills Arena - AB,158,0,230,110,4335,199,6715
 Centre Sportif Normandin - QC,257,4,226,190,901,365,4379
 Big River Arena - SK,84,0,192,74,2287,143,3777
+North Hastings Community Centre - ON,74,0,133,49,2534,93,3722
 Kaetlyn Osmond Arena - NL,139,0,194,75,1624,193,3713
-North Hastings Community Centre - ON,74,0,133,49,2519,93,3707
 Fox Valley Skating Arena - SK,86,1,115,53,1450,107,2718
 Don Cruickshank Memorial Arena - BC,57,0,191,38,1135,97,2316
 Athens Community Centre Centre 76 - ON,49,0,74,41,1296,76,2049
@@ -35,9 +35,9 @@ Kinistino sports complex - SK,20,0,69,20,248,39,675
 Unity Parc Arena - NL,26,0,48,21,229,36,654
 Greenwood Arena - ON,29,0,47,31,140,63,602
 8th Hussars Sports Center - NB,26,0,40,16,189,46,585
+John Levi Community Centre - ON,12,4,71,20,164,47,557
 Elm Creek Skating Rink - MB,12,0,36,18,302,31,548
 Springdale Stadium and Curling Club - NL,22,0,43,13,183,32,545
-John Levi Community Centre - ON,12,4,66,20,164,46,542
 Kingston Memorial Centre - ON,24,0,44,16,152,33,540
 Cremona Ag Society Community Arena - AB,24,0,59,22,95,37,534
 Aréna Joannie Rochette - QC,15,0,59,15,165,28,507
@@ -63,11 +63,11 @@ I J Coady Memorial Arena - ON,8,0,35,8,84,17,277
 Centre sportif de Delson - QC,15,0,31,10,16,20,269
 Civic Centre Arena - ON,8,0,23,16,101,23,266
 Coldwater Arena - ON,14,0,17,10,64,20,265
+Foxwarren Arena - MB,9,0,30,6,48,18,234
 Sangudo Arena - AB,10,0,22,9,59,19,234
 Centre récréatif de Blanc-Sablon - QC,7,0,32,2,63,12,231
 St Boniface - QC,10,0,18,14,51,18,219
 Memorial Community Centre Arena - AB,10,0,33,11,8,17,218
-Foxwarren Arena - MB,9,0,24,6,48,16,216
 Kipsigak Arena - NU,16,0,16,6,0,26,214
 Orville Acres Arena - MB,10,0,29,9,15,18,211
 Birtle District Community Centre - MB,4,1,41,16,12,20,201
@@ -249,6 +249,7 @@ Maidstone Arena - SK,2,0,0,0,0,2,20
 Brennan Park Arena - BC,1,0,3,1,0,1,20
 Tommy Ricketts Arena - NL,2,0,0,0,0,2,20
 Centre sportif Jacques-Lesage - QC,1,0,3,1,0,2,20
+Beaverlodge Arena - AB,1,0,3,0,0,2,19
 Blenheim Memorial Arena - ON,1,0,3,0,0,1,19
 Saint Andrews Community Club - MB,1,0,3,0,0,1,19
 eastern Kings Sportsplex - PE,1,0,3,0,0,2,19
@@ -343,7 +344,6 @@ Centre Marcel Dionne - QC,1,0,0,0,0,1,10
 Revelstoke Forum - BC,1,0,0,0,0,1,10
 Pete Knight Memorial Arena - AB,1,0,0,0,0,1,10
 Municipality of Brooke-Alvinston - ON,1,0,0,0,0,1,10
-Beaverlodge Arena - AB,1,0,0,0,0,1,10
 Digby Area Recreation Facility - NS,1,0,0,0,0,1,10
 Palmerston & District Community Centre Complex - ON,0,0,3,1,0,1,10
 Shamrock Centre - MB,1,0,0,0,0,1,10
