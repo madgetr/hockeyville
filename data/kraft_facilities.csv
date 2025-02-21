@@ -1,5 +1,5 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
-1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,11922
+1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,11932
 2, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,10610
 3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,9890
 4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,7904
@@ -16,7 +16,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 15, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,1259
 16, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,50.7011,-97.1462,1202
 17, 11efddc5dd2dd9402ba61fd19647b85e,Don Cruickshank Memorial Arena,50.65824749999999,-127.4437507,1199
-18, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,44.6322684,-75.9539849,878
+18, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,44.6322684,-75.9539849,888
 19, d5512a67cdfc4608ac279365175fcd00,Haldimand Community Memorial Arena,43.9919702,-78.0310643,815
 20, 11eebad347f099003d540cdb84e09cb8,Centre Sportif Charles-Edouard-Boucher,47.6525,-70.4067,789
 21, 11E9F686BBE5AE1A81807B23EA662A63,Petitcodiac Arena,45.9330816,-65.1831219,710
@@ -79,10 +79,10 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 78, 11E9F686BBECB2BE81807B23EA662A63,River Valley Civic Centre,46.7487471,-67.6992837,151
 79, 11E9F686BBC7D3B881807B23EA662A63,Jus Jordan Arena,48.7614073,-80.682553,148
 80, 11eeca8cd68533b0e6f0f01529983a7c,Hespeler Memorial Arena,43.4317,-80.3112,143
-81, 11efcc743431db507989d6c33ba8c77f,Al Lawrence Memorial Arena,54.7992,-130.0782,131
-82, 11efcdd84450f100620f665327d1f7b1,Saxon Family Community Complex,49.1895,-104.4374,127
-83, 11efe3fddb4ca8c01dedb0977326e16f,De Salaberry Recreation Facility (St. Malo Arena),49.0563,-96.1126,127
-84, 11efde56f9e542806e961e37fce419fd,Centre sportif J.-A. Lemay,45.582,-72.0094,125
+81, 11efde56f9e542806e961e37fce419fd,Centre sportif J.-A. Lemay,45.582,-72.0094,135
+82, 11efcc743431db507989d6c33ba8c77f,Al Lawrence Memorial Arena,54.7992,-130.0782,131
+83, 11efcdd84450f100620f665327d1f7b1,Saxon Family Community Complex,49.1895,-104.4374,127
+84, 11efe3fddb4ca8c01dedb0977326e16f,De Salaberry Recreation Facility (St. Malo Arena),49.0563,-96.1126,127
 85, 11efdd7ed6a8cfe07f54b0996698a2fb,Kevin Bateman Center,50.1169,-62.4136,119
 86, 11eeb616171bd5e0ceb6edfcfeb91bd6,Grandview Agricultural Community Centre,52.4175,-100.9577,118
 87, 11efcd34d2eaa0401431a7d1d2ed686b,Kyle Community Sports Centre,51.2296,-108.702,115
