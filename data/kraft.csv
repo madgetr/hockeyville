@@ -1,18 +1,18 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
 Trout Creek Community Centre - ON,632,2,2052,759,44714,994,57969
-Aréna Saint-Boniface - QC,611,1,1694,1276,21260,1554,33738
-Sackville Arena (LDRA) - NS,509,0,1485,484,23061,813,33090
-Pete Knight Arena - AB,381,2,1081,470,18449,659,25992
+Aréna Saint-Boniface - QC,611,1,1694,1276,21340,1554,33818
+Sackville Arena (LDRA) - NS,511,0,1485,484,23089,814,33138
+Pete Knight Arena - AB,384,2,1081,470,18449,661,26022
 Honeywood Arena - ON,383,27,1278,357,14829,675,23120
-Bashaw Arena - AB,367,0,735,365,16297,531,22537
+Bashaw Arena - AB,369,0,735,365,16320,532,22580
 Middleton District Arena - NS,208,0,533,280,9425,417,13384
 Ivor MacDonald Memorial Arena - NS,138,0,358,156,6351,272,8961
-Redvers rec center - SK,111,0,330,123,5553,190,7776
-Rolling Hills Arena - AB,167,0,268,129,4994,226,7597
+Redvers rec center - SK,112,0,330,123,5553,190,7786
+Rolling Hills Arena - AB,169,0,268,129,4994,228,7617
 Centre Sportif Normandin - QC,257,4,254,202,1021,381,4595
 North Hastings Community Centre - ON,82,0,151,53,2964,103,4290
 Big River Arena - SK,84,0,202,78,2475,147,3999
-Kaetlyn Osmond Arena - NL,139,0,197,83,1882,199,3988
+Kaetlyn Osmond Arena - NL,140,0,197,83,1882,200,3998
 Athens Community Centre Centre 76 - ON,54,0,123,51,2088,101,3048
 Fox Valley Skating Arena - SK,90,2,124,60,1623,115,2975
 Don Cruickshank Memorial Arena - BC,58,0,214,45,1464,107,2731
@@ -30,7 +30,7 @@ Ron Gorr Memorial Arena - AB,29,0,52,27,385,53,858
 North Peace Arena - BC,35,0,63,25,290,68,854
 Centre Sportif Charles-Edouard-Boucher - QC,26,0,144,97,23,118,812
 Frank Crane Arena - BC,29,0,111,30,101,63,754
-Kinistino sports complex - SK,20,0,69,20,269,39,696
+Kinistino sports complex - SK,20,0,69,20,302,39,729
 La Glace Recreation Centre - AB,29,0,77,31,142,49,694
 John Levi Community Centre - ON,15,5,85,22,199,55,676
 High level  Arena - AB,11,0,46,19,397,31,664
@@ -65,10 +65,10 @@ Jim Ciccone Civic Centre - BC,7,2,38,15,79,28,298
 Birtle District Community Centre - MB,5,1,55,19,52,24,296
 I J Coady Memorial Arena - ON,8,0,38,8,85,18,287
 Ingersoll & District Memorial Centre - ON,10,2,31,16,51,29,280
+Duchess Arena - AB,4,0,30,13,134,16,277
 Morrisburg Arena - ON,2,0,41,22,107,25,272
 Coldwater Arena - ON,14,0,17,11,64,21,266
 Civic Centre Arena - ON,8,0,23,16,101,23,266
-Duchess Arena - AB,4,0,30,13,105,16,248
 Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada - PE,6,0,11,1,144,10,238
 Centre récréatif de Blanc-Sablon - QC,7,0,34,2,63,13,237
 Memorial Community Centre Arena - AB,10,0,37,11,13,18,235
@@ -87,9 +87,9 @@ Kings Arrow Arena - NB,9,0,19,12,13,20,172
 Al Lawrence Memorial Arena - BC,8,0,16,3,31,11,162
 Jus Jordan Arena - ON,10,0,13,9,4,20,152
 Kyle Community Sports Centre - SK,5,0,20,5,33,12,148
+Capreol Community Centre and Arena - ON,8,0,12,8,19,14,143
 Kevin Bateman Center - QC,7,0,18,9,1,14,134
 Powell River Recreation Complex - BC,8,0,12,14,3,24,133
-Capreol Community Centre and Arena - ON,7,0,12,8,19,14,133
 Saxon Family Community Complex - SK,10,0,8,3,6,13,133
 De Salaberry Recreation Facility (St. Malo Arena) - MB,6,0,17,16,4,20,131
 Grandview Agricultural Community Centre - MB,7,0,15,3,11,10,129
@@ -117,6 +117,7 @@ Knights Of Columbus Twin Arenas - AB,5,0,6,9,0,13,77
 Taylor District Ice Center - BC,2,0,16,3,0,11,71
 Hague Arena - SK,1,0,11,3,24,5,70
 St Martins 4 Season Complex - NB,1,0,13,3,18,6,70
+Alberni Valley Multiplex - BC,3,0,10,3,6,6,69
 Richmond Arena - NS,4,0,6,1,10,4,69
 Humphrey Arena - ON,3,0,8,6,7,10,67
 Geraldton Community Centre - ON,5,0,4,4,0,6,66
@@ -127,7 +128,6 @@ A.G. Ross Arena - AB,3,0,10,2,1,5,63
 Hudson's Hope Arena - BC,4,0,6,1,4,6,63
 Ko Gocho Centre (Sportsplex) - Arena - NT,5,0,3,3,0,7,62
 Iceberg Arena - NL,4,0,6,1,1,4,60
-Alberni Valley Multiplex - BC,2,0,10,3,6,5,59
 Arena Connie Dion - QC,4,0,5,1,3,5,59
 Harman Park Arena - ON,4,0,5,0,4,6,59
 Fort Erie Leisureplex - ON,5,0,0,6,3,9,59
@@ -346,6 +346,7 @@ Reeves Community Complex - ON,1,0,0,1,0,2,11
 Ma-te-way Park - ON,1,0,0,1,0,1,11
 Ridgetown Arena - ON,1,0,0,1,0,1,11
 Centre Sportif d'Opitciwan - QC,1,0,0,1,0,1,11
+VisitLethbridge.com Arena - AB,1,0,0,0,0,1,10
 Mold-Masters SportsPlex Arena - ON,1,0,0,0,0,1,10
 Aréna de Bécancour - QC,1,0,0,0,0,1,10
 Revelstoke Forum - BC,1,0,0,0,0,1,10
