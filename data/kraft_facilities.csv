@@ -1,9 +1,9 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
-1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,14051
-2, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,12491
+1, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,14183
+2, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,12501
 3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,10079
 4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,8691
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,7733
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,7744
 6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,6566
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,4121
 8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3574
@@ -13,8 +13,8 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 12, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,2133
 13, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,1719
 14, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,1544
-15, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1392
-16, 11efddc5dd2dd9402ba61fd19647b85e,Don Cruickshank Memorial Arena,50.65824749999999,-127.4437507,1327
+15, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1402
+16, 11efddc5dd2dd9402ba61fd19647b85e,Don Cruickshank Memorial Arena,50.65824749999999,-127.4437507,1337
 17, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,50.7011,-97.1462,1214
 18, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,44.6322684,-75.9539849,1060
 19, d5512a67cdfc4608ac279365175fcd00,Haldimand Community Memorial Arena,43.9919702,-78.0310643,853
@@ -59,9 +59,9 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 58, 11E9F686BB9CD3E881807B23EA662A63,Centre récréatif de Donnacona,46.6787327,-71.7299194,248
 59, 11efcef1fb67d1a0afa669bb60f5a7ad,Eleanor Pew Memorial Arena,45.1458,-61.8108,246
 60, 11efce6e0a68a7d0775885f69e3af9ab,Foxwarren Arena,50.7774,-99.5546,237
-61, 11E9F686BBC445CC81807B23EA662A63,Ingersoll & District Memorial Centre,43.0409517,-80.8822876,229
-62, 11efcf75483809902bd90ec1517cab1c,Memorial Community Centre Arena,49.7318,-112.6171,225
-63, 11efeebf95ee95a00ad4caad9b13eaf3,Morrisburg Arena,44.9244092,-75.1725079,225
+61, 11efcf75483809902bd90ec1517cab1c,Memorial Community Centre Arena,49.7318,-112.6171,235
+62, 11efeebf95ee95a00ad4caad9b13eaf3,Morrisburg Arena,44.9244092,-75.1725079,235
+63, 11E9F686BBC445CC81807B23EA662A63,Ingersoll & District Memorial Centre,43.0409517,-80.8822876,229
 64, 11eec5e85326a470f60b4a810ad1314f,Jim Ciccone Civic Centre,54.3146,-130.3413,219
 65, 11efded6895a516004839a3c822c0043,Kipsigak Arena,70.4643,-68.4789,214
 66, 11eeb6f3ef437df0634f81fa6d7292d2,Coldwater Arena,44.6072,-79.6291,212
@@ -97,10 +97,10 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 96, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,47.6525,-70.4067,107
 97, 11eeb6096e308ae030fc3b42da6a5268,Welland Main Arena,42.9859,-79.2232,105
 98, 11efe18d222a4a909a23bbecde8236bb,Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada,46.2318,-63.1192,104
-99, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,52.807,-105.3626,92
-100, 11E9F686BC0F81C281807B23EA662A63,Walpole Island Complex,42.5909326,-82.4785076,91
-101, 11eeb6da2c720620a837bc41071a607e,Thamesford District Recreation Centre,43.5651,-81.6986,91
-102, 11eeb6f6ce9e1260f845c99fc6a31ba3,Manvers Arena & Community Centre,44.1836,-78.5563,91
+99, 11eeb6f6ce9e1260f845c99fc6a31ba3,Manvers Arena & Community Centre,44.1836,-78.5563,101
+100, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,52.807,-105.3626,92
+101, 11E9F686BC0F81C281807B23EA662A63,Walpole Island Complex,42.5909326,-82.4785076,91
+102, 11eeb6da2c720620a837bc41071a607e,Thamesford District Recreation Centre,43.5651,-81.6986,91
 103, 11eeca22dde18fb0d59351ed89cc1736,Beausejour Sportsplex,50.4275,-95.3439,90
 104, 11eeb948f1e16b10958164c4afa33fb1,Tilley arena,49.8442,-110.78,86
 105, 11efe9706c333940765b108291df0907,Carling Arena,43.0093,-81.21,85
