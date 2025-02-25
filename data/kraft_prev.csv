@@ -1,14 +1,14 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,684,2,2052,759,45075,1001,58850
-Aréna Saint-Boniface - QC,611,1,1694,1276,22126,1554,34604
-Sackville Arena (LDRA) - NS,514,0,1485,484,23411,814,33490
-Pete Knight Arena - AB,399,2,1081,470,18649,662,26372
-Honeywood Arena - ON,414,27,1278,357,14959,693,23560
-Bashaw Arena - AB,391,0,735,365,16332,536,22812
+Trout Creek Community Centre - ON,691,2,2052,759,45090,1002,58935
+Aréna Saint-Boniface - QC,611,1,1694,1276,22128,1554,34606
+Sackville Arena (LDRA) - NS,514,0,1485,484,23418,814,33497
+Pete Knight Arena - AB,400,2,1081,470,18649,662,26382
+Honeywood Arena - ON,415,27,1278,357,14974,694,23585
+Bashaw Arena - AB,393,0,735,365,16338,538,22838
 Middleton District Arena - NS,221,0,533,280,9426,420,13515
-Ivor MacDonald Memorial Arena - NS,144,0,358,156,6528,274,9198
-Redvers rec center - SK,118,0,330,123,5553,192,7846
-Rolling Hills Arena - AB,187,0,268,129,5006,239,7809
+Ivor MacDonald Memorial Arena - NS,145,0,358,156,6528,275,9208
+Redvers rec center - SK,118,0,330,123,5640,192,7933
+Rolling Hills Arena - AB,187,0,268,129,5023,239,7826
 North Hastings Community Centre - ON,121,0,151,53,2964,140,4680
 Centre Sportif Normandin - QC,257,4,254,202,1062,381,4636
 Big River Arena - SK,86,0,202,78,2478,147,4022
@@ -56,11 +56,11 @@ Irma Arena - AB,15,0,59,9,12,25,348
 Morrisburg Arena - ON,8,0,41,22,114,27,339
 Arena De Clarence Creek - ON,13,0,38,18,64,34,326
 Walkerton Community Centre - ON,6,0,43,14,123,25,326
+Birtle District Community Centre - MB,7,1,55,19,52,24,316
 Moosonee Arena - ON,15,0,31,8,65,21,316
 Ville De Bouctouche Forum - NB,20,0,13,17,57,29,313
 Eleanor Pew Memorial Arena - NS,13,0,35,11,67,21,313
 Duchess Arena - AB,7,0,30,13,139,17,312
-Birtle District Community Centre - MB,6,1,55,19,52,24,306
 Centre sportif de Delson - QC,15,0,35,11,38,21,304
 Bienfait Memorial Arena - SK,9,0,66,16,0,26,304
 Centre récréatif de Donnacona - QC,11,0,36,30,55,40,303
@@ -70,12 +70,12 @@ Ingersoll & District Memorial Centre - ON,10,2,31,16,51,29,280
 Coldwater Arena - ON,15,0,17,11,64,21,276
 Civic Centre Arena - ON,8,0,23,16,101,23,266
 Hespeler Memorial Arena - ON,10,0,29,9,63,19,259
-Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada - PE,7,0,11,1,149,11,253
+Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada - PE,7,0,11,1,150,11,254
 Centre récréatif de Blanc-Sablon - QC,7,0,34,2,63,13,237
 Memorial Community Centre Arena - AB,10,0,37,11,13,18,235
 Sangudo Arena - AB,10,0,22,9,59,19,234
+Orville Acres Arena - MB,11,0,29,11,16,20,224
 St Boniface - QC,10,0,18,14,51,18,219
-Orville Acres Arena - MB,10,0,29,11,16,20,214
 Kipsigak Arena - NU,16,0,16,6,0,26,214
 Wilfred T Lipton Arena - MB,9,0,17,11,44,16,196
 Aréna Jean Rougeau - QC,6,0,34,12,15,17,189
@@ -150,10 +150,10 @@ Didsbury Memorial Complex Arena - AB,2,0,8,1,0,7,45
 Kuujjuaq Forum - QC,2,0,5,1,8,2,44
 Raymore Arena - SK,2,0,8,0,0,2,44
 Aréna Olympia - QC,1,0,9,2,5,3,44
+Hagersville Memorial Arena - ON,2,0,7,1,1,3,43
 Hope Rec Centre  - BC,3,0,4,1,0,4,43
 Milton Memorial Arena - ON,3,0,4,1,0,3,43
 McIntyre Arena - ON,3,0,4,1,0,3,43
-Hagersville Memorial Arena - ON,2,0,7,1,0,3,42
 Tobique-Plex - NB,2,0,6,4,0,4,42
 Centre des sports Jean Claude Tremblay - QC,2,0,7,1,0,2,42
 Rheal Cormier Arena - NB,1,0,5,0,16,1,41
@@ -232,6 +232,7 @@ East Gwillimbury Sports Complex - ON,2,0,0,1,1,2,22
 Espanola Recreation Fitness - ON,2,0,0,2,0,3,22
 Wainfleet Arena - ON,1,0,4,0,0,1,22
 Stride Place - MB,1,0,4,0,0,1,22
+Fuller Lake Arena - BC,2,0,0,1,0,2,21
 Parrsboro Lions Arena - NS,2,0,0,1,0,2,21
 Luther Vipond Brooklin Memorial Arena - ON,2,0,0,1,0,2,21
 Cariboo Memorial Complex - BC,2,0,0,1,0,2,21
@@ -329,7 +330,6 @@ Little Britain Arena - ON,1,0,0,2,0,2,12
 Seaparc  - BC,1,0,0,2,0,2,12
 Acton Community Centre - ON,1,0,0,2,0,3,12
 Nicola Valley Memorial Arena - BC,1,0,0,2,0,3,12
-Fuller Lake Arena - BC,1,0,0,1,0,2,11
 Arena Rogatien Vachon - QC,1,0,0,1,0,1,11
 Millview Arena - AB,1,0,0,1,0,2,11
 Chicoutimi Arena Du Plateau - QC,1,0,0,1,0,1,11
