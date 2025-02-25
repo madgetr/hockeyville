@@ -75,7 +75,7 @@ ID, Author, Story, Note, Photo, Points
 11efda92fdb6a2e0429d22423c92f62a,Bill B,✅,✅,5✅,26⭐
 11efd7abf91cfa20f55c3a2d63866713,Bill B,✅,❌,3⚠️,19
 11efd80288c48750bc53382fee8cc0db,Bill E,✅,✅,5✅,26⭐
-11eff2b7a4de8c40aedd6e784184889d,Bill H,❌,✅,5✅,16
+11eff2b7a4de8c40aedd6e784184889d,Bill H,✅,✅,5✅,26⭐
 11efe3113e124a707a3e7c0a409e7521,Bob  M,❌,✅,❌,1
 11efe4b957324650cbe2d59729b6d2e9,Bob B,✅,✅,3⚠️,20
 11eff2569da218900804298ae74d70f7,Bob C,✅,✅,❌,11
@@ -86,7 +86,7 @@ ID, Author, Story, Note, Photo, Points
 11efe71cb92efe60a510c1f58c0570ea,Bonnie M,✅,✅,5✅,26⭐
 11efeb319dc987d09be54a0168bdd346,Bonnie R,✅,✅,5✅,26⭐
 11eff217d7d9a7b0bf6f0ab949355f4e,Bonnie W,✅,❌,❌,10
-11eff2b5ea985970549e5d9a895f053a,Brad S,❌,✅,❌,1
+11eff2b5ea985970549e5d9a895f053a,Brad S,✅,✅,❌,11
 11eff183d93b32c03f82c422b42a97de,Brad W,✅,✅,5✅,26⭐
 11efd5d17fe17d60abb23255b5b91160,Bradley G,✅,✅,5✅,26⭐
 11efd9d9935b0080c5f2b998243f37a7,Brandon B,✅,✅,5✅,26⭐
@@ -389,6 +389,7 @@ ID, Author, Story, Note, Photo, Points
 11efdf6c71748b60f60534576b5a15fa,Jane M,❌,✅,❌,1
 11efda6c623a5d50f1ad2eb45b3c8b3b,Janet B,❌,✅,❌,1
 11efd6c063ac35f0859ffdb94ef9adbe,Janice G,✅,✅,5✅,26⭐
+11eff2fc7786fb703003c27939b957c2,Janice m,❌,✅,❌,1
 11efd923308fd4f0e58d2f8d49b8770a,Jarrett W,✅,❌,1⚠️,13
 11efe8bfd9e49ad08e29a252c6e0b935,Jarrett W,❌,✅,1⚠️,4
 11eff1897fe592a0a944633a116fdb37,Jason C,✅,✅,5✅,26⭐
@@ -578,7 +579,7 @@ ID, Author, Story, Note, Photo, Points
 11efe743e6a43140b0feccb427d4222a,Lauren R,✅,✅,❌,11
 11efe41ba4239520a39b9fc4f4770f34,Lauren V,❌,✅,❌,1
 11efd7b0a03b95101087d318cefdd6ee,Lauri Ann O,✅,✅,5✅,26⭐
-11eff2bb71dc16b008fca9ac389476bb,Lauri H,❌,✅,5✅,16
+11eff2bb71dc16b008fca9ac389476bb,Lauri H,✅,✅,5✅,26⭐
 11eff227bacb0b9015f601d7b961364e,Laurie B,✅,✅,5✅,26⭐
 11efe051454223f0219ea7e6dc667f74,Laurie B,❌,✅,❌,1
 11efd8c57061cfb083b10a11805ddc7f,Laurie F,✅,✅,5✅,26⭐
@@ -1002,9 +1003,11 @@ ID, Author, Story, Note, Photo, Points
 11efe71a8e55853042cf6702f21426d5,Yvon P,✅,✅,5✅,26⭐
 11efd7a4b7f156b01eecbf6e6dd9cb78,abby f,❌,✅,4⚠️,13
 11efd60df85677f0a3d7dd16814f1afc,ashley b,✅,❌,❌,10
+11eff300706e6f90ec2b46e5f786443e,carol l,❌,✅,❌,1
 11efdb38673ff1304f7e2119472d9a1e,debbie p,❌,✅,❌,1
 11efebf5e8e19ef0f4c151bc85d1181b,emma S,❌,✅,1⚠️,4
 11efe71acddb45004fab612136cf0b42,frank C,✅,✅,3⚠️,20
+11eff30265c5a2f0b9ca13622e883033,kylee b,❌,✅,❌,1
 11efe691ea0335a0f6842b83d4e781f8,malakai A,✅,✅,4⚠️,23
 11efdb23546d1cf07281ac1681a9fc41,marilee k,❌,✅,❌,1
 11efd746c619b1f00d484a28d4cf3d73,matthew b,✅,✅,1⚠️,14
