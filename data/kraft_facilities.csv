@@ -1,5 +1,5 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
-1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,15344
+1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,15404
 2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,14481
 3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,10198
 4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,8850
@@ -91,12 +91,12 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 90, 11efe3fddb4ca8c01dedb0977326e16f,De Salaberry Recreation Facility (St. Malo Arena),49.0563,-96.1126,128
 91, 11E9F686BC07B29481807B23EA662A63,Tri Township Arena,42.9126819,-81.5017351,122
 92, 11eeb616171bd5e0ceb6edfcfeb91bd6,Grandview Agricultural Community Centre,52.4175,-100.9577,118
-93, 11efe18d222a4a909a23bbecde8236bb,Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada,46.2318,-63.1192,117
-94, 11efcd34d2eaa0401431a7d1d2ed686b,Kyle Community Sports Centre,51.2296,-108.702,115
-95, 11eebbdd59db60e0838dd72fc536eca8,Soo Pee Wee Arena,46.5105,-84.321,108
-96, 11efdcb2fb4865d031e479e5767dddb8,Manitouwadge arena ,50.139,-89.0561,108
-97, 11eeb6096e308ae030fc3b42da6a5268,Welland Main Arena,42.9859,-79.2232,107
-98, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,47.6525,-70.4067,107
+93, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,47.6525,-70.4067,117
+94, 11efe18d222a4a909a23bbecde8236bb,Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada,46.2318,-63.1192,117
+95, 11efcd34d2eaa0401431a7d1d2ed686b,Kyle Community Sports Centre,51.2296,-108.702,115
+96, 11eebbdd59db60e0838dd72fc536eca8,Soo Pee Wee Arena,46.5105,-84.321,108
+97, 11efdcb2fb4865d031e479e5767dddb8,Manitouwadge arena ,50.139,-89.0561,108
+98, 11eeb6096e308ae030fc3b42da6a5268,Welland Main Arena,42.9859,-79.2232,107
 99, 11eeb6f6ce9e1260f845c99fc6a31ba3,Manvers Arena & Community Centre,44.1836,-78.5563,101
 100, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,52.807,-105.3626,92
 101, 11E9F686BC0F81C281807B23EA662A63,Walpole Island Complex,42.5909326,-82.4785076,91
