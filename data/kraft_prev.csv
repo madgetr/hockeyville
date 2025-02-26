@@ -1,15 +1,15 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
 Trout Creek Community Centre - ON,743,2,2052,869,46173,1110,60648
 Aréna Saint-Boniface - QC,1050,1,1702,1724,26410,2148,43752
-Sackville Arena (LDRA) - NS,518,1,1486,550,23764,866,33962
-Honeywood Arena - ON,432,28,1278,420,20127,760,28981
+Sackville Arena (LDRA) - NS,518,1,1486,550,23884,866,34082
+Honeywood Arena - ON,432,28,1278,420,20173,760,29027
 Pete Knight Arena - AB,405,2,1081,528,20746,718,28587
 Bashaw Arena - AB,402,0,735,379,18122,552,24726
 Middleton District Arena - NS,228,0,533,293,9563,431,13735
 Ivor MacDonald Memorial Arena - NS,147,0,358,181,8127,296,10852
-Rolling Hills Arena - AB,192,2,268,136,5311,247,8191
+Rolling Hills Arena - AB,192,2,268,136,5312,247,8192
 Redvers rec center - SK,120,0,330,126,5795,195,8111
-Big River Arena - SK,87,0,202,87,3518,154,5081
+Big River Arena - SK,87,0,202,87,3524,154,5087
 Centre Sportif Normandin - QC,280,4,254,217,1063,406,4882
 North Hastings Community Centre - ON,122,0,151,56,3111,144,4840
 Kaetlyn Osmond Arena - NL,142,0,197,83,1884,200,4020
@@ -26,7 +26,7 @@ Riverton Arena - MB,41,0,54,31,605,56,1208
 Bill Chaplin Arena - NL,20,1,68,33,714,45,1161
 Petitcodiac Arena - NB,45,0,79,23,371,72,1081
 Longlac Sportsplex - ON,23,0,101,22,448,38,1003
-High level  Arena - AB,12,0,46,21,690,33,969
+High level  Arena - AB,12,0,46,21,706,33,985
 Kinistino sports complex - SK,21,0,69,23,460,42,900
 North Peace Arena - BC,35,0,63,25,297,68,861
 Ron Gorr Memorial Arena - AB,29,0,52,28,385,54,859
@@ -59,9 +59,9 @@ Centre sportif de Delson - QC,18,0,35,11,38,22,334
 Ville De Bouctouche Forum - NB,22,0,13,17,57,29,333
 Arena De Clarence Creek - ON,13,0,38,19,64,35,327
 Walkerton Community Centre - ON,6,0,43,14,123,25,326
+Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada - PE,8,0,11,4,201,13,318
 Birtle District Community Centre - MB,7,1,55,19,52,24,316
 Moosonee Arena - ON,15,0,31,8,65,21,316
-Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada - PE,8,0,11,4,197,13,314
 Centre récréatif de Donnacona - QC,12,0,36,30,55,40,313
 Eleanor Pew Memorial Arena - NS,13,0,35,11,67,21,313
 Bienfait Memorial Arena - SK,9,0,66,16,0,26,304
@@ -216,6 +216,7 @@ Kitchener Memorial Auditorium Dom Cardillo Kinsmen & Kiwanis Arenas - ON,2,0,1,1
 Vern Miller Memorial Arena - ON,1,0,5,0,0,1,25
 Lion's Head Arena - ON,2,0,1,2,0,3,25
 Strasbourg & Community Recreation Centre - SK,1,0,5,0,0,1,25
+Centre Edmond E. Landry - NB,2,0,0,0,4,2,24
 Aréna de Magog - QC,1,0,4,2,0,3,24
 Sudbury Arena - ON,2,0,1,1,0,3,24
 Ilderton Arena - ON,1,0,4,1,1,3,24
@@ -223,7 +224,6 @@ Multiplex Arena - NT,2,0,1,1,0,2,24
 Kentville Centennial Arena - NS,2,0,1,0,1,2,24
 Harry Ivany Arena - NL,2,0,1,0,1,2,24
 Pond Inlet Comunity Hall - NU,1,0,1,2,9,2,24
-Centre Edmond E. Landry - NB,2,0,0,0,3,2,23
 Flames Community Arenas - AB,2,0,1,0,0,2,23
 Bay Arena - NL,2,0,1,0,0,2,23
 Zurich Community Centre - ON,2,0,1,0,0,2,23
