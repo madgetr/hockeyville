@@ -1,5 +1,5 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
-1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,16354
+1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,16384
 2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,14481
 3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,10198
 4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,8850
@@ -46,8 +46,8 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 45, 11eebe55089c4260111c17e9259caa6a,Goulds Arena,47.462,-52.7895,307
 46, 11efd4f031d4e490fae299e67c87685a,Bienfait Memorial Arena,49.1895,-104.4374,304
 47, 11eec20786a453e0099eb8493d090fb9,Kaslo arena,49.7332,-116.913,298
-48, 11efdde64b0b40e0ca9a7a266d507e82,Sam Ault Arena,45.1299843,-75.3590755,295
-49, 11eeb59533fa2490cb0eea7cfc60948d,Centre sportif de Delson,45.4024,-73.5376,286
+48, 11eeb59533fa2490cb0eea7cfc60948d,Centre sportif de Delson,45.4024,-73.5376,296
+49, 11efdde64b0b40e0ca9a7a266d507e82,Sam Ault Arena,45.1299843,-75.3590755,295
 50, 11efde3afa45e9d0516367953137c4c9,Marmora Arena,44.5384894,-77.682665,283
 51, 11eeb74bfa1367b0acd57a22cc38304e,High level  Arena,56.6598,-117.2896,279
 52, 11efcc61799f45f0337d822e4932bf4e,Ville De Bouctouche Forum,46.4171,-64.9241,276
