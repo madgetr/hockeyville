@@ -1,5 +1,5 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
-1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,14784
+1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,14844
 2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,14481
 3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,10198
 4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,8850
@@ -49,8 +49,8 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 48, 11efdde64b0b40e0ca9a7a266d507e82,Sam Ault Arena,45.1299843,-75.3590755,295
 49, 11efde3afa45e9d0516367953137c4c9,Marmora Arena,44.5384894,-77.682665,283
 50, 11eeb74bfa1367b0acd57a22cc38304e,High level  Arena,56.6598,-117.2896,279
-51, 11efcc61799f45f0337d822e4932bf4e,Ville De Bouctouche Forum,46.4171,-64.9241,276
-52, 11eeb59533fa2490cb0eea7cfc60948d,Centre sportif de Delson,45.4024,-73.5376,266
+51, 11eeb59533fa2490cb0eea7cfc60948d,Centre sportif de Delson,45.4024,-73.5376,276
+52, 11efcc61799f45f0337d822e4932bf4e,Ville De Bouctouche Forum,46.4171,-64.9241,276
 53, 11eebf00b2768100c91eac76a462c52c,Elm Creek Skating Rink,49.0698,-98.7619,266
 54, 11efe4bfdfb8c750db5b2c1d9e243671,Birtle District Community Centre,50.0226,-101.3637,264
 55, 11eec6f3b6b67ef0b4beebf0dc85c2b2,Arena De Clarence Creek,45.1953,-76.1496,263
