@@ -1,21 +1,21 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,758,2,2271,933,47033,1176,62379
-Aréna Saint-Boniface - QC,1118,1,2403,1875,27328,2321,47604
-Sackville Arena (LDRA) - NS,542,1,1609,568,25106,901,35931
-Honeywood Arena - ON,434,28,1278,534,23305,856,32293
-Pete Knight Arena - AB,410,2,1081,627,21652,812,29642
-Bashaw Arena - AB,404,0,735,405,18587,577,25237
+Trout Creek Community Centre - ON,767,2,2271,933,47033,1176,62469
+Aréna Saint-Boniface - QC,1121,1,2480,1875,27328,2328,47865
+Sackville Arena (LDRA) - NS,547,1,1609,568,25153,903,36028
+Honeywood Arena - ON,434,28,1278,534,23310,856,32298
+Pete Knight Arena - AB,410,2,1081,627,21670,812,29660
+Bashaw Arena - AB,404,0,735,405,18633,577,25283
 Middleton District Arena - NS,232,0,533,308,9733,444,13960
-Ivor MacDonald Memorial Arena - NS,153,0,437,199,8532,319,11572
-Rolling Hills Arena - AB,192,2,306,144,5630,259,8632
+Ivor MacDonald Memorial Arena - NS,154,0,437,199,8554,319,11604
+Rolling Hills Arena - AB,192,2,306,144,5639,259,8641
 Redvers rec center - SK,120,0,330,137,5919,204,8246
-Big River Arena - SK,87,0,202,94,3675,161,5245
+Big River Arena - SK,89,0,202,94,3675,162,5265
 North Hastings Community Centre - ON,123,0,151,58,3265,146,5006
 Centre Sportif Normandin - QC,282,4,255,219,1112,408,4956
 Kaetlyn Osmond Arena - NL,143,0,197,83,1884,201,4030
 Don Cruickshank Memorial Arena - BC,65,0,214,55,2208,118,3555
 Athens Community Centre Centre 76 - ON,65,0,123,55,2134,108,3208
-Fox Valley Skating Arena - SK,95,2,124,63,1653,120,3058
+Fox Valley Skating Arena - SK,96,2,124,63,1653,120,3068
 St. Isidore Recreation Centre - ON,30,1,149,41,1516,72,2314
 Veterans Memorial Sports Complex - MB,34,1,103,35,1073,57,1767
 Oxbow Community Arena - SK,53,0,39,52,994,57,1693
@@ -38,19 +38,19 @@ John Levi Community Centre - ON,16,6,85,25,208,59,708
 Unity Parc Arena - NL,26,0,49,23,242,38,672
 Greenwood Arena - ON,29,0,50,32,142,64,614
 Cremona Ag Society Community Arena - AB,27,0,74,24,96,42,612
-Aréna Joannie Rochette - QC,16,0,66,18,211,33,587
+Aréna Joannie Rochette - QC,17,0,66,18,211,33,597
 8th Hussars Sports Center - NB,26,0,40,16,189,46,585
 Goulds Arena - NL,10,0,64,15,277,25,584
 Kingston Memorial Centre - ON,24,0,46,19,186,36,583
 Elm Creek Skating Rink - MB,13,0,39,19,308,32,574
-Foxwarren Arena - MB,11,0,43,18,294,29,551
+Foxwarren Arena - MB,13,0,43,18,294,31,571
 Springdale Stadium and Curling Club - NL,22,0,43,14,183,33,546
 Marmora Arena - ON,17,0,32,17,248,28,531
 Brooke-Alvinston-Inwood Community Centre Complex - ON,21,0,33,18,196,33,523
 South Courtice Arena - ON,8,0,40,10,281,20,491
 Cupar Memorial Rink - SK,9,0,51,15,217,31,475
+Duchess Arena - AB,10,0,30,28,220,30,438
 Sam Ault Arena - ON,16,0,37,25,139,41,435
-Duchess Arena - AB,9,0,30,28,220,30,428
 Kaslo arena - BC,14,0,49,11,124,25,422
 Morrisburg Arena - ON,10,0,55,26,121,35,412
 Redwood Meadows Arena - AB,17,3,53,13,22,30,394
@@ -112,12 +112,12 @@ Walpole Island Complex - ON,4,0,16,3,1,7,92
 Rheal Cormier Arena - NB,4,0,5,7,26,11,88
 Tilley arena - AB,8,0,1,3,1,11,87
 Rapid City community complex - MB,6,0,5,2,10,7,87
+Essa Arena - ON,3,0,17,5,0,9,86
 Hague Arena - SK,2,0,12,3,25,5,84
 Chesterville and District Arena - ON,4,0,13,0,2,5,81
 Alberni Valley Multiplex - BC,4,0,10,4,6,7,80
 Scott Safety Centre - Whitecourt Twin Arenas - AB,5,0,8,2,2,7,78
 Knights Of Columbus Twin Arenas - AB,5,0,6,9,0,13,77
-Essa Arena - ON,2,0,17,5,0,8,76
 Humphrey Arena - ON,3,0,9,8,7,12,72
 Wikwemikong Recreation Center - ON,4,0,8,4,3,7,71
 Taylor District Ice Center - BC,2,0,16,3,0,11,71
@@ -229,6 +229,7 @@ Flames Community Arenas - AB,2,0,1,0,0,2,23
 Bay Arena - NL,2,0,1,0,0,2,23
 Zurich Community Centre - ON,2,0,1,0,0,2,23
 Oro-Medonte Community Arena - ON,2,0,1,0,0,2,23
+Arena Rogatien Vachon - QC,2,0,0,2,0,3,22
 Beaverlodge Arena - AB,1,0,4,0,0,3,22
 Norway House Cree Nation Multiplex - MB,1,0,4,0,0,1,22
 East Gwillimbury Sports Complex - ON,2,0,0,1,1,2,22
@@ -326,7 +327,6 @@ Essar Centre formerly Steelback Centre - ON,1,0,1,0,0,1,13
 Desbarats arena  - ON,1,0,1,0,0,1,13
 Deseronto Community Recreation Centre - ON,1,0,1,0,0,1,13
 Gaylord Powless Arena - ON,1,0,1,0,0,2,13
-Arena Rogatien Vachon - QC,1,0,0,2,0,2,12
 Aréna de Repentigny - QC,1,0,0,2,0,3,12
 Little Britain Arena - ON,1,0,0,2,0,2,12
 Seaparc  - BC,1,0,0,2,0,2,12
