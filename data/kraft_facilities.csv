@@ -1,9 +1,9 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
 1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,21824
-2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,15902
-3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,11155
-4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,10182
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,8609
+2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,15982
+3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,11185
+4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,10192
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,8947
 6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,6686
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,4269
 8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3854
@@ -12,7 +12,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,2327
 12, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,2163
 13, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,1774
-14, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,1600
+14, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,1620
 15, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1415
 16, 11efddc5dd2dd9402ba61fd19647b85e,Don Cruickshank Memorial Arena,50.65824749999999,-127.4437507,1347
 17, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,50.7011,-97.1462,1235
@@ -20,7 +20,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 19, d5512a67cdfc4608ac279365175fcd00,Haldimand Community Memorial Arena,43.9919702,-78.0310643,866
 20, 11eebad347f099003d540cdb84e09cb8,Centre Sportif Charles-Edouard-Boucher,47.6525,-70.4067,809
 21, 11EF745D92A71A20B4B8620607786234,St. Isidore Recreation Centre,45.386260,-74.902264,808
-22, 11E9F686BBE5AE1A81807B23EA662A63,Petitcodiac Arena,45.9330816,-65.1831219,711
+22, 11E9F686BBE5AE1A81807B23EA662A63,Petitcodiac Arena,45.9330816,-65.1831219,721
 23, 11eeb9929af07e0041c78e2eb4d12f7a,Veterans Memorial Sports Complex,50.7011,-97.1462,704
 24, 11eeb488d3a9da20bc289cffe14b7496,Oxbow Community Arena,49.1895,-104.4374,699
 25, 11eeb7e2fe6974c09c016cc0a60704ac,Frank Crane Arena,49.2079,-123.979,687
@@ -41,13 +41,13 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 40, 11eeb59445a01390d6897a81c9d52988,Aréna Joannie Rochette,46.104,-73.256,386
 41, 11E9F686BBEB399881807B23EA662A63,Redwood Meadows Arena,50.9911032,-114.4992362,372
 42, 11eeba6fd042a9b05d126e8b3eefbc0d,Duchess Arena,49.8442,-110.78,370
-43, 11eeb8c4f3352030b590a61d8226fed8,Springdale Stadium and Curling Club,49.5959,-55.6739,363
-44, 11eeb74bfa1367b0acd57a22cc38304e,High level  Arena,56.6598,-117.2896,358
-45, 11eeb65d99db649054a3f0da8cbd3e01,Wasaga Beach Arena,44.5208,-80.0162,355
+43, 11eeb65d99db649054a3f0da8cbd3e01,Wasaga Beach Arena,44.5208,-80.0162,365
+44, 11eeb8c4f3352030b590a61d8226fed8,Springdale Stadium and Curling Club,49.5959,-55.6739,363
+45, 11eeb74bfa1367b0acd57a22cc38304e,High level  Arena,56.6598,-117.2896,358
 46, 11eebf3760b00940ffe304762d2bb666,Irma Arena,53.0635,-112.3067,348
-47, 11eeb86ad118030047158bd465a9cd46,Brooke-Alvinston-Inwood Community Centre Complex,42.7967,-81.7938,327
-48, 11eebe55089c4260111c17e9259caa6a,Goulds Arena,47.462,-52.7895,317
-49, 11efeebf95ee95a00ad4caad9b13eaf3,Morrisburg Arena,44.9244092,-75.1725079,311
+47, 11efeebf95ee95a00ad4caad9b13eaf3,Morrisburg Arena,44.9244092,-75.1725079,331
+48, 11eeb86ad118030047158bd465a9cd46,Brooke-Alvinston-Inwood Community Centre Complex,42.7967,-81.7938,327
+49, 11eebe55089c4260111c17e9259caa6a,Goulds Arena,47.462,-52.7895,317
 50, 11eeb59533fa2490cb0eea7cfc60948d,Centre sportif de Delson,45.4024,-73.5376,306
 51, 11efd4f031d4e490fae299e67c87685a,Bienfait Memorial Arena,49.1895,-104.4374,304
 52, 11efe4bfdfb8c750db5b2c1d9e243671,Birtle District Community Centre,50.0226,-101.3637,303
@@ -85,13 +85,13 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 84, 11E9F686BBC7D3B881807B23EA662A63,Jus Jordan Arena,48.7614073,-80.682553,148
 85, aa1085f1858f4424ab5421ecadadf611,Capreol Community Centre and Arena,46.7029179,-80.919747,144
 86, 11eebaea1c7a3a304a96c814ae9dcd7d,Powell River Recreation Complex,49.8021,-124.5124,141
-87, 11efdd7ed6a8cfe07f54b0996698a2fb,Kevin Bateman Center,50.1169,-62.4136,133
-88, 11efcc743431db507989d6c33ba8c77f,Al Lawrence Memorial Arena,54.7992,-130.0782,131
-89, 11efe3fddb4ca8c01dedb0977326e16f,De Salaberry Recreation Facility (St. Malo Arena),49.0563,-96.1126,130
-90, 11efcdd84450f100620f665327d1f7b1,Saxon Family Community Complex,49.1895,-104.4374,129
-91, 11eeb6096e308ae030fc3b42da6a5268,Welland Main Arena,42.9859,-79.2232,127
-92, 11E9F686BC07B29481807B23EA662A63,Tri Township Arena,42.9126819,-81.5017351,122
-93, 11efe18d222a4a909a23bbecde8236bb,Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada,46.2318,-63.1192,119
+87, 11eeb6096e308ae030fc3b42da6a5268,Welland Main Arena,42.9859,-79.2232,137
+88, 11efdd7ed6a8cfe07f54b0996698a2fb,Kevin Bateman Center,50.1169,-62.4136,133
+89, 11efcc743431db507989d6c33ba8c77f,Al Lawrence Memorial Arena,54.7992,-130.0782,131
+90, 11efe3fddb4ca8c01dedb0977326e16f,De Salaberry Recreation Facility (St. Malo Arena),49.0563,-96.1126,130
+91, 11efcdd84450f100620f665327d1f7b1,Saxon Family Community Complex,49.1895,-104.4374,129
+92, 11efe18d222a4a909a23bbecde8236bb,Eliyahu Wellness Centre Canada Games Place Place des Jeux du Canada,46.2318,-63.1192,129
+93, 11E9F686BC07B29481807B23EA662A63,Tri Township Arena,42.9126819,-81.5017351,122
 94, 11eeb616171bd5e0ceb6edfcfeb91bd6,Grandview Agricultural Community Centre,52.4175,-100.9577,118
 95, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,47.6525,-70.4067,117
 96, 11efcd34d2eaa0401431a7d1d2ed686b,Kyle Community Sports Centre,51.2296,-108.702,115
