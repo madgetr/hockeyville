@@ -1,21 +1,21 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,743,2,2052,879,46946,1118,61431
-Aréna Saint-Boniface - QC,1050,1,1702,1756,26915,2167,44289
-Sackville Arena (LDRA) - NS,518,1,1486,550,24089,866,34287
-Honeywood Arena - ON,432,28,1278,468,22207,797,31109
-Pete Knight Arena - AB,405,2,1081,553,21501,739,29367
-Bashaw Arena - AB,402,0,735,390,18403,562,25018
-Middleton District Arena - NS,228,0,533,293,9724,431,13896
-Ivor MacDonald Memorial Arena - NS,147,0,358,183,8432,297,11159
-Rolling Hills Arena - AB,192,2,268,136,5467,247,8347
+Trout Creek Community Centre - ON,743,2,2052,887,46946,1126,61439
+Aréna Saint-Boniface - QC,1050,1,1702,1771,26915,2181,44304
+Sackville Arena (LDRA) - NS,518,1,1486,551,24089,867,34288
+Honeywood Arena - ON,432,28,1278,478,22212,805,31124
+Pete Knight Arena - AB,405,2,1081,563,21501,748,29377
+Bashaw Arena - AB,402,0,735,392,18403,564,25020
+Middleton District Arena - NS,228,0,533,294,9724,432,13897
+Ivor MacDonald Memorial Arena - NS,147,0,358,186,8432,300,11162
+Rolling Hills Arena - AB,192,2,268,137,5467,248,8348
 Redvers rec center - SK,120,0,330,126,5919,195,8235
-Big River Arena - SK,87,0,202,88,3568,155,5132
+Big River Arena - SK,87,0,202,90,3568,157,5134
 North Hastings Community Centre - ON,122,0,151,56,3265,144,4994
-Centre Sportif Normandin - QC,280,4,254,217,1112,406,4931
+Centre Sportif Normandin - QC,280,4,254,218,1112,407,4932
 Kaetlyn Osmond Arena - NL,142,0,197,83,1884,200,4020
 Don Cruickshank Memorial Arena - BC,65,0,214,45,2208,109,3545
-Athens Community Centre Centre 76 - ON,64,0,123,54,2134,107,3197
-Fox Valley Skating Arena - SK,95,2,124,62,1653,119,3057
+Athens Community Centre Centre 76 - ON,64,0,123,55,2134,108,3198
+Fox Valley Skating Arena - SK,95,2,124,63,1653,120,3058
 St. Isidore Recreation Centre - ON,29,1,147,41,1516,70,2298
 Veterans Memorial Sports Complex - MB,33,1,103,34,1073,56,1756
 Oxbow Community Arena - SK,53,0,39,52,994,57,1693
@@ -36,14 +36,14 @@ John Levi Community Centre - ON,16,6,85,24,208,58,707
 La Glace Recreation Centre - AB,30,0,77,32,142,50,705
 Unity Parc Arena - NL,26,0,49,23,242,38,672
 Greenwood Arena - ON,29,0,50,32,142,64,614
-Aréna Joannie Rochette - QC,16,0,66,17,211,32,586
+Aréna Joannie Rochette - QC,16,0,66,18,211,33,587
 8th Hussars Sports Center - NB,26,0,40,16,189,46,585
 Goulds Arena - NL,10,0,64,15,277,25,584
 Kingston Memorial Centre - ON,24,0,46,18,186,35,582
 Elm Creek Skating Rink - MB,13,0,39,19,308,32,574
 Cremona Ag Society Community Arena - AB,26,0,64,24,96,41,572
+Foxwarren Arena - MB,11,0,43,13,294,26,546
 Springdale Stadium and Curling Club - NL,22,0,43,13,183,32,545
-Foxwarren Arena - MB,11,0,43,11,294,24,544
 Marmora Arena - ON,17,0,32,17,248,28,531
 Brooke-Alvinston-Inwood Community Centre Complex - ON,21,0,33,18,196,33,523
 South Courtice Arena - ON,8,0,40,10,281,20,491
@@ -51,7 +51,7 @@ Wasaga Beach Arena - ON,9,1,24,20,293,25,485
 Cupar Memorial Rink - SK,9,0,51,15,217,31,475
 Sam Ault Arena - ON,16,0,37,25,139,41,435
 Kaslo arena - BC,14,0,49,11,124,25,422
-Duchess Arena - AB,8,0,30,24,220,26,414
+Duchess Arena - AB,8,0,30,25,220,27,415
 Redwood Meadows Arena - AB,17,3,53,13,22,30,394
 Morrisburg Arena - ON,9,0,41,25,121,30,359
 Irma Arena - AB,15,0,59,9,12,25,348
@@ -114,7 +114,7 @@ Tilley arena - AB,8,0,1,3,1,11,87
 Rapid City community complex - MB,6,0,5,2,10,7,87
 Hague Arena - SK,2,0,12,3,25,5,84
 Chesterville and District Arena - ON,4,0,13,0,2,5,81
-Alberni Valley Multiplex - BC,4,0,10,3,6,6,79
+Alberni Valley Multiplex - BC,4,0,10,4,6,7,80
 Scott Safety Centre - Whitecourt Twin Arenas - AB,5,0,8,2,2,7,78
 Knights Of Columbus Twin Arenas - AB,5,0,6,9,0,13,77
 Essa Arena - ON,2,0,17,5,0,8,76
@@ -134,10 +134,10 @@ Ko Gocho Centre (Sportsplex) - Arena - NT,5,0,3,3,0,7,62
 Iceberg Arena - NL,4,0,6,1,1,4,60
 Harman Park Arena - ON,4,0,5,0,4,6,59
 Fort Erie Leisureplex - ON,5,0,0,6,3,9,59
+Hagersville Memorial Arena - ON,2,0,7,6,8,8,55
 Strathcona Gardens Recreation Complex - BC,4,0,5,0,0,5,55
 Aréna St-Cyrille - QC,2,0,5,6,14,7,55
 Carlo Cartarello Arena - ON,4,0,4,2,0,5,54
-Hagersville Memorial Arena - ON,2,0,7,4,8,6,53
 Mike Rodden Arena - ON,2,0,10,3,0,8,53
 Drumheller Memorial Arena - AB,4,0,3,1,0,5,50
 Harry O. Memorial Arena - SK,4,0,2,4,0,6,50
@@ -158,9 +158,9 @@ Burks Falls Arena - ON,2,0,4,5,6,5,43
 Hope Rec Centre  - BC,3,0,4,1,0,4,43
 Milton Memorial Arena - ON,3,0,4,1,0,3,43
 McIntyre Arena - ON,3,0,4,1,0,3,43
+Maidstone Arena - SK,2,0,0,9,13,10,42
 Tobique-Plex - NB,2,0,6,4,0,4,42
 Centre des sports Jean Claude Tremblay - QC,2,0,7,1,0,2,42
-Maidstone Arena - SK,2,0,0,8,13,9,41
 Aréna Luc & Marie-Claude de Baie Saint-Paul - QC,3,0,1,3,4,6,40
 Manitouwadge Community Center - ON,4,0,0,0,0,4,40
 Dundalk Arena & Community Centre - ON,1,0,9,0,3,5,40
@@ -202,10 +202,10 @@ Duncan Murray Recreation Centre - AB,3,0,0,0,0,3,30
 Edson and District Leisure Centre - AB,2,0,3,1,0,3,30
 Cambrian Arena - ON,3,0,0,0,0,3,30
 Centre Edmond E. Landry - NB,2,0,0,1,8,2,29
+Oceanside Place Arena - BC,1,0,5,3,0,5,28
 West Kildonan Memorial Arena - MB,2,0,2,2,0,2,28
 Amherst Stadium - NS,2,0,2,1,1,4,28
 Powassan Sportsplex - ON,1,0,5,1,2,2,28
-Oceanside Place Arena - BC,1,0,5,2,0,4,27
 Galt Arena Gardens - ON,2,0,2,1,0,3,27
 Arena BSR - QC,2,0,2,1,0,3,27
 Eatonia Memorial Arena - SK,2,0,2,0,0,2,26
