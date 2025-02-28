@@ -1,14 +1,14 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
-1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,22647
+1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,22657
 2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,16846
-3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,12404
-4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,11407
+3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,12433
+4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,11417
 5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,9824
 6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,7211
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,4466
 8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3917
-9, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,3386
-10, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,3152
+9, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,3396
+10, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,3162
 11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,2615
 12, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,2223
 13, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,2087
@@ -43,7 +43,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 42, 11eeb74bfa1367b0acd57a22cc38304e,High level  Arena,56.6598,-117.2896,403
 43, 11E9F686BB7584B481807B23EA662A63,8th Hussars Sports Center,45.723647,-65.502348,397
 44, 11efce8c9f28cfd02e5ea2749db3bae8,Kingston Memorial Centre,44.2322,-76.4799,397
-45, 11eeb8c4f3352030b590a61d8226fed8,Springdale Stadium and Curling Club,49.5959,-55.6739,378
+45, 11eeb8c4f3352030b590a61d8226fed8,Springdale Stadium and Curling Club,49.5959,-55.6739,388
 46, 11E9F686BBEB399881807B23EA662A63,Redwood Meadows Arena,50.9911032,-114.4992362,372
 47, 11efeebf95ee95a00ad4caad9b13eaf3,Morrisburg Arena,44.9244092,-75.1725079,367
 48, 11efce4bdc59b3b099fa2a567ad3cb1e,Maidstone Arena,54.2836,-109.2415,360
