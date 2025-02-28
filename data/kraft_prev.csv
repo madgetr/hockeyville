@@ -1,15 +1,15 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,925,2,2517,1024,48806,1292,66651
+Trout Creek Community Centre - ON,925,2,2517,1024,48822,1292,66667
 Aréna Saint-Boniface - QC,1459,1,2996,1948,28834,2506,54372
-Honeywood Arena - ON,624,28,1841,598,28222,1055,40863
-Sackville Arena (LDRA) - NS,627,1,1966,670,27693,1059,40541
-Pete Knight Arena - AB,546,2,1448,682,23638,927,34144
+Honeywood Arena - ON,629,28,1841,598,28330,1057,41021
+Sackville Arena (LDRA) - NS,629,1,1966,670,27710,1059,40578
+Pete Knight Arena - AB,546,2,1448,682,23645,927,34151
 Bashaw Arena - AB,433,0,851,417,19485,601,26785
 Ivor MacDonald Memorial Arena - NS,195,0,550,221,12131,361,15952
 Middleton District Arena - NS,251,0,575,311,9852,457,14398
-Rolling Hills Arena - AB,215,2,349,159,6701,287,10077
+Rolling Hills Arena - AB,216,2,349,159,6701,288,10087
 Redvers rec center - SK,135,0,395,148,6042,226,8725
-Big River Arena - SK,118,0,311,111,4836,199,7060
+Big River Arena - SK,118,0,311,111,4882,199,7106
 North Hastings Community Centre - ON,135,0,188,59,3573,157,5546
 Centre Sportif Normandin - QC,284,4,281,219,1206,411,5148
 Don Cruickshank Memorial Arena - BC,78,0,262,69,3150,146,4785
@@ -21,8 +21,8 @@ High level  Arena - AB,19,0,97,33,1743,54,2257
 Veterans Memorial Sports Complex - MB,35,1,119,36,1193,59,1946
 Haldimand Community Memorial Arena - ON,52,0,113,59,853,100,1771
 Oxbow Community Arena - SK,53,0,39,52,994,57,1693
-Foxwarren Arena - MB,32,0,175,40,758,75,1643
-Delburne AG Arena - AB,37,0,76,27,1004,52,1629
+Foxwarren Arena - MB,34,0,175,40,758,75,1663
+Delburne AG Arena - AB,37,0,76,27,1005,52,1630
 Arborg & District Arena - MB,71,0,160,103,264,142,1557
 Wasaga Beach Arena - ON,21,1,71,25,950,38,1408
 Riverton Arena - MB,42,0,54,31,608,57,1221
@@ -32,7 +32,7 @@ Longlac Sportsplex - ON,23,0,101,22,448,38,1003
 Birtle District Community Centre - MB,9,1,121,28,509,40,1000
 Kinistino sports complex - SK,25,0,79,28,460,52,975
 Duchess Arena - AB,30,0,91,31,364,51,968
-North Peace Arena - BC,38,0,65,27,297,73,899
+North Peace Arena - BC,39,0,65,27,297,74,909
 Ron Gorr Memorial Arena - AB,30,0,56,28,385,54,881
 Centre Sportif Charles-Edouard-Boucher - QC,28,0,145,97,23,120,835
 Maidstone Arena - SK,20,0,74,25,378,43,825
@@ -40,12 +40,12 @@ Frank Crane Arena - BC,32,0,119,31,104,67,812
 John Levi Community Centre - ON,17,6,98,26,211,64,761
 La Glace Recreation Centre - AB,33,0,81,32,142,53,747
 Unity Parc Arena - NL,26,0,58,23,242,42,699
+Cremona Ag Society Community Arena - AB,29,0,80,26,96,45,652
 Goulds Arena - NL,11,0,68,15,321,27,650
-Cremona Ag Society Community Arena - AB,28,0,80,26,96,45,642
 Aréna Joannie Rochette - QC,19,0,70,18,214,34,632
 Greenwood Arena - ON,29,0,50,32,142,64,614
 Elm Creek Skating Rink - MB,14,0,42,19,321,33,606
-Kingston Memorial Centre - ON,24,0,49,19,186,36,592
+Kingston Memorial Centre - ON,24,0,49,19,189,36,595
 Morrisburg Arena - ON,19,0,73,31,146,46,586
 8th Hussars Sports Center - NB,26,0,40,17,189,47,586
 Springdale Stadium and Curling Club - NL,23,0,48,14,189,33,577
@@ -99,6 +99,7 @@ Jus Jordan Arena - ON,10,0,13,9,4,20,152
 Kyle Community Sports Centre - SK,5,0,20,5,33,12,148
 Beausejour Sportsplex - MB,6,0,13,5,41,10,145
 Katelynn Osmond Arena - NL,10,0,9,3,11,15,141
+Lord Beaverbrook Arena - NB,5,0,25,9,0,17,134
 Kevin Bateman Center - QC,7,0,18,9,1,14,134
 Grandview Agricultural Community Centre - MB,7,0,16,3,11,11,132
 Manvers Arena & Community Centre - ON,6,0,13,2,16,8,117
@@ -108,7 +109,6 @@ Walpole Island Complex - ON,4,0,22,5,1,12,112
 Alberni Valley Multiplex - BC,7,0,10,4,6,10,110
 Manitouwadge arena  - ON,4,0,21,5,2,11,110
 Carling Arena - ON,4,1,11,2,20,8,105
-Lord Beaverbrook Arena - NB,2,0,25,9,0,16,104
 Complexe Sportif De St-Louis-De-France Inc - QC,3,0,14,4,28,8,104
 Clavet Community Arena - SK,4,0,16,4,11,6,103
 Thamesford District Recreation Centre - ON,4,0,15,10,4,15,99
@@ -249,6 +249,7 @@ Marysville Arena - BC,2,0,0,1,0,2,21
 Hillsborough Arena - NB,2,0,0,1,0,2,21
 Cominco Arena - BC,2,0,0,1,0,3,21
 Recplex - SK,1,0,3,0,1,2,20
+Frank Lacroix Arena - AB,2,0,0,0,0,2,20
 Wilmot Recreation Complex  - ON,2,0,0,0,0,2,20
 Asphodel-Norwood Community Centre - ON,2,0,0,0,0,2,20
 Complexe Sportif Robert Hartley - ON,1,0,3,1,0,2,20
@@ -504,7 +505,6 @@ Loisirs de Saint-Edouard-de-Frampton Inc - QC,1,0,0,0,0,1,10
 East Hants Sportsplex - NS,1,0,0,0,0,1,10
 Whitney Pier Rink - NS,1,0,0,0,0,1,10
 A`nowara`ko:wa Arena - ON,1,0,0,0,0,1,10
-Frank Lacroix Arena - AB,1,0,0,0,0,1,10
 Pilot butte arena - SK,1,0,0,0,0,1,10
 Paradise Double Ice Complex - NL,1,0,0,0,0,1,10
 Randy Rosen Rink - AB,1,0,0,0,0,1,10
