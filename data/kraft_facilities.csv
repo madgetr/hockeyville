@@ -1,19 +1,19 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
-1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,24138
-2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,17272
-3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,12522
+1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,24318
+2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,17295
+3, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,12534
 4, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,11918
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,10096
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,10107
 6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,7281
-7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,4488
-8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3917
-9, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,3595
+7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,4498
+8, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3932
+9, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,3597
 10, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,3185
 11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,2626
-12, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,2233
+12, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,2254
 13, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,2131
 14, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,1878
-15, 11efddc5dd2dd9402ba61fd19647b85e,Don Cruickshank Memorial Arena,50.65824749999999,-127.4437507,1506
+15, 11efddc5dd2dd9402ba61fd19647b85e,Don Cruickshank Memorial Arena,50.65824749999999,-127.4437507,1542
 16, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1438
 17, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,50.7011,-97.1462,1250
 18, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,44.6322684,-75.9539849,1154
@@ -37,7 +37,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 36, 11efd22efdcddb70aa25cfa7687d2aa4,Ron Gorr Memorial Arena,52.0306,-113.9565,496
 37, 11E9F686BBBC681681807B23EA662A63,Greenwood Arena,42.878329,-82.15554700000001,472
 38, 11eeb9609bd28c50a173d25df9263a83,Unity Parc Arena,47.7609,-53.9834,457
-39, 11efcdc03bc8b940ce1cd676788d51ff,Bill Chaplin Arena,53.5329,-64.0145,447
+39, 11efcdc03bc8b940ce1cd676788d51ff,Bill Chaplin Arena,53.5329,-64.0145,456
 40, 11eeb65d99db649054a3f0da8cbd3e01,Wasaga Beach Arena,44.5208,-80.0162,428
 41, 11eeb74bfa1367b0acd57a22cc38304e,High level  Arena,56.6598,-117.2896,414
 42, 11eeb59445a01390d6897a81c9d52988,Aréna Joannie Rochette,46.104,-73.256,409
@@ -48,8 +48,8 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 47, 11eeb8c4f3352030b590a61d8226fed8,Springdale Stadium and Curling Club,49.5959,-55.6739,388
 48, 11E9F686BBEB399881807B23EA662A63,Redwood Meadows Arena,50.9911032,-114.4992362,372
 49, 11eebf3760b00940ffe304762d2bb666,Irma Arena,53.0635,-112.3067,348
-50, 11eeb86ad118030047158bd465a9cd46,Brooke-Alvinston-Inwood Community Centre Complex,42.7967,-81.7938,327
-51, 11eebe55089c4260111c17e9259caa6a,Goulds Arena,47.462,-52.7895,326
+50, 11eebe55089c4260111c17e9259caa6a,Goulds Arena,47.462,-52.7895,329
+51, 11eeb86ad118030047158bd465a9cd46,Brooke-Alvinston-Inwood Community Centre Complex,42.7967,-81.7938,327
 52, 11efe4bfdfb8c750db5b2c1d9e243671,Birtle District Community Centre,50.0226,-101.3637,325
 53, 11eeb59533fa2490cb0eea7cfc60948d,Centre sportif de Delson,45.4024,-73.5376,306
 54, 11efd4f031d4e490fae299e67c87685a,Bienfait Memorial Arena,49.1895,-104.4374,304
@@ -98,14 +98,14 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 97, 11eeb616171bd5e0ceb6edfcfeb91bd6,Grandview Agricultural Community Centre,52.4175,-100.9577,118
 98, 11eebacd58e4b670787233ee30ba0aa6,Centre Sportif C E Boucher,47.6525,-70.4067,117
 99, 11efcd34d2eaa0401431a7d1d2ed686b,Kyle Community Sports Centre,51.2296,-108.702,115
-100, 11eebbdd59db60e0838dd72fc536eca8,Soo Pee Wee Arena,46.5105,-84.321,108
-101, 11efdcb2fb4865d031e479e5767dddb8,Manitouwadge arena ,50.139,-89.0561,108
-102, 11eeca22dde18fb0d59351ed89cc1736,Beausejour Sportsplex,50.4275,-95.3439,104
-103, 11eeb6f6ce9e1260f845c99fc6a31ba3,Manvers Arena & Community Centre,44.1836,-78.5563,101
-104, 11E9F686BB775CA881807B23EA662A63,Alberni Valley Multiplex,49.2560007,-124.7909966,94
-105, 11eeb6f2dfe6f4a0c503657a03e538c7,Essa Arena,44.1476,-79.872,92
-106, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,52.807,-105.3626,92
-107, 11E9F686BC0F81C281807B23EA662A63,Walpole Island Complex,42.5909326,-82.4785076,91
+100, 11E9F686BC0F81C281807B23EA662A63,Walpole Island Complex,42.5909326,-82.4785076,109
+101, 11eebbdd59db60e0838dd72fc536eca8,Soo Pee Wee Arena,46.5105,-84.321,108
+102, 11efdcb2fb4865d031e479e5767dddb8,Manitouwadge arena ,50.139,-89.0561,108
+103, 11eeca22dde18fb0d59351ed89cc1736,Beausejour Sportsplex,50.4275,-95.3439,104
+104, 11eeb6f6ce9e1260f845c99fc6a31ba3,Manvers Arena & Community Centre,44.1836,-78.5563,101
+105, 11E9F686BB775CA881807B23EA662A63,Alberni Valley Multiplex,49.2560007,-124.7909966,94
+106, 11eeb6f2dfe6f4a0c503657a03e538c7,Essa Arena,44.1476,-79.872,92
+107, 11eeb7d13a5486d0e48139ff267392bd,Kachur Wealth Community Arena,52.807,-105.3626,92
 108, 11eeb6da2c720620a837bc41071a607e,Thamesford District Recreation Centre,43.5651,-81.6986,91
 109, 11eeb948f1e16b10958164c4afa33fb1,Tilley arena,49.8442,-110.78,86
 110, 11efe9706c333940765b108291df0907,Carling Arena,43.0093,-81.21,85
