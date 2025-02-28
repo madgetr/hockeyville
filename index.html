@@ -602,33 +602,33 @@
               'points').innerHTML = `Rally Score: ${json['points']} <span class = "badge rounded-pill text-bg-success">${json['pos']} place</span>`;
           createGoalProgressBars([
             {
-              "name": "15,000 Points",
-              "valuemax": 15000,
+              "name": "25,000 Points",
+              "valuemax": 25000,
               "valuemin": 0,
               "valuenow": json['points'],
               "valuechange": json['change_points'],
               "color": "warning"
             },
             {
-              "name": "700 Stories",
-              "valuemax": 700,
+              "name": "1400 Stories",
+              "valuemax": 1400,
               "valuemin": 0,
               "valuenow": json['stories'],
               "valuechange": json['change_stories'],
               "color": "primary"
             },
             {
-              "name": "2000 Photos",
-              "valuemax": 2000,
-              "valuemin": 1000,
+              "name": "3000 Photos",
+              "valuemax": 3000,
+              "valuemin": 2000,
               "valuenow": json['photos'],
               "valuechange": json['change_photos'],
               "color": "danger"
             }
             ,
             {
-              "name": "1000 Contributors",
-              "valuemax": 1000,
+              "name": "1500 Contributors",
+              "valuemax": 1500,
               "valuemin": 0,
               "valuenow": json['contributors'],
               "valuechange": json['change_contributors'],
