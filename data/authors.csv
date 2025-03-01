@@ -77,7 +77,7 @@ ID, Author, Story, Note, Photo, Points
 11efd5c6963596b0ad8cd03f9afd8e06,Ashton E,❌,❌,2⚠️,6
 11eff1f947a856a0a11987afcafe5189,Ashton H,✅,✅,5✅,26⭐
 11eff46d15db494092e73671b75bf363,Aueora B,✅,✅,❌,11
-11eff6c2dc2252e0df0a2546ff6bb76d,Austin O,❌,❌,1⚠️,3
+11eff6c2dc2252e0df0a2546ff6bb76d,Austin O,✅,❌,1⚠️,13
 11efd8111558328034c024dbbb68993c,Avery E,✅,✅,5✅,26⭐
 11efd7fec0c49b30ed02b80f508ec916,B D,✅,✅,❌,11
 11efec80d533de50995a1c28b83443d5,Bailey Y,✅,✅,2⚠️,17
@@ -123,7 +123,7 @@ ID, Author, Story, Note, Photo, Points
 11eff2b5ea985970549e5d9a895f053a,Brad S,✅,✅,5✅,26⭐
 11eff183d93b32c03f82c422b42a97de,Brad W,✅,✅,5✅,26⭐
 11efd5d17fe17d60abb23255b5b91160,Bradley G,✅,❌,5✅,25
-11eff5dea0658f90aaf47d4be38080bc,Bradley M,❌,❌,5✅,15
+11eff5dea0658f90aaf47d4be38080bc,Bradley M,❌,✅,5✅,16
 11efd9d9935b0080c5f2b998243f37a7,Brandon B,✅,✅,5✅,26⭐
 11eff5723c2b9220a758fdbaa46eb55c,Brayden B,✅,✅,5✅,26⭐
 11efd8b7f86750f07456700674183d1e,Breanna D,❌,✅,❌,1
@@ -290,6 +290,7 @@ ID, Author, Story, Note, Photo, Points
 11eff238b123d2a00bfb3d7e25da2df6,Darius L,✅,✅,5✅,26⭐
 11efd8eafeaf416098d3d448821d6596,Darlene  B,✅,❌,❌,10
 11efd8d75d052040975a92ba9ccd7fd2,Darlene  S,❌,✅,4⚠️,13
+11eff6c95208c2e0f291f13bc108ba2b,Darlene D,❌,✅,❌,1
 11efe579aa985c1089b2d9dee37199b9,Darlene J,✅,✅,5✅,26⭐
 11efe33631fd2eb003e04e05ed920bc4,Darren D,✅,✅,4⚠️,23
 11efdb2acd37cbb06e3c4c345a574f39,Darren K,✅,✅,5✅,26⭐
@@ -345,9 +346,9 @@ ID, Author, Story, Note, Photo, Points
 11eff5dd894f2e20d21ee54acbf98416,Derek A,✅,✅,❌,11
 11eff25a1aeb9580b918a93679633860,Derek B,✅,✅,5✅,26⭐
 11efd9a8770c42807ba910deaa40169b,Derek M,✅,❌,❌,10
-11eff5deb8644aa0cd273a35b82da5c1,Derek R,❌,❌,4⚠️,12
+11eff5deb8644aa0cd273a35b82da5c1,Derek R,❌,✅,4⚠️,13
 11efd9a22950b860c14660a39be45ae0,Derrek Y,✅,❌,❌,10
-11efd8f3ca0b1070062910d0deb90788,Derrick M,❌,❌,5✅,15
+11efd8f3ca0b1070062910d0deb90788,Derrick M,❌,✅,5✅,16
 11efd8762aed9ad02587f015865c41df,Deserie P,✅,❌,❌,10
 11efd8c2e998b950c8d93e303c8cb536,Desiree L,✅,✅,3⚠️,20
 11eff60d2b2c0e502474ba01cb4e3d3c,Devon l,✅,✅,5✅,26⭐
@@ -373,7 +374,7 @@ ID, Author, Story, Note, Photo, Points
 11eff628ac5e4a40b1144ef2a8554547,Doug O,✅,✅,5✅,26⭐
 11efda93d302abb09dad792f43ab368e,Doug O,✅,✅,5✅,26⭐
 11eff69a8857d9f065619b4d78c21a5a,Doug V,❌,✅,1⚠️,4
-11efdc0f24586e1074015e868053056c,Douglas C,❌,✅,5✅,16
+11efdc0f24586e1074015e868053056c,Douglas C,✅,✅,5✅,26⭐
 11efeadee7eec9404413d9d661e08ee6,Douglas T,✅,✅,5✅,26⭐
 11efeb4ad840d710175f8284f78c9263,Drake E,✅,✅,2⚠️,17
 11eff3a6660fd8d0bd0850014ed07675,Drew H,✅,✅,❌,11
@@ -398,7 +399,7 @@ ID, Author, Story, Note, Photo, Points
 11efdc2af5a0ada0287294c1486fd2ca,Elwood G,✅,❌,❌,10
 11eff2d49a910ac0d83b4784059c6064,Elwood L,✅,✅,4⚠️,23
 11eff267c2e1dcb081eea8641895e0e2,Emily B,✅,✅,3⚠️,20
-11efd5af063da0f01b2b0db79855e720,Emily O,✅,✅,5✅,26⭐
+11efd5af063da0f01b2b0db79855e720,Emily O,✅,❌,5✅,25
 11efebf2d8f9625043b40cf43acc7cd5,Emily P,✅,✅,2⚠️,17
 11efd911304a45a00e4156900bea1221,Emily R,✅,✅,1⚠️,14
 11efd775d440647058d5707301764b86,Emma C,✅,✅,5✅,26⭐
@@ -508,7 +509,7 @@ ID, Author, Story, Note, Photo, Points
 11efdac73f1878102c4d5c0648f22d7f,Jackie  W,✅,✅,3⚠️,20
 11eff1f63446f8d09ab38cf3c9325996,Jackie L,✅,✅,4⚠️,23
 11eff5ee46df5e00d6d05abbd98321ed,Jacob F,✅,✅,5✅,26⭐
-11efd4ef9a630e70b8180c835292d142,Jacob W,✅,❌,5✅,25
+11efd4ef9a630e70b8180c835292d142,Jacob W,❌,❌,2⚠️,6
 11efe68cec7c8c50fd92468f15a6beef,Jacques D,✅,✅,4⚠️,23
 11efe5a0f46d5a308cad4d338baf0f77,Jacques L,✅,✅,❌,11
 11eff44eff4dcd10406bc0ab8219a8b7,Jake  C,✅,✅,❌,11
@@ -557,9 +558,9 @@ ID, Author, Story, Note, Photo, Points
 11efd876274d1b80a75b4070e91fb3f7,Jeff K,✅,✅,3⚠️,20
 11efebb60e2166e04b518dfaac282b11,Jeff L,✅,✅,4⚠️,23
 11eff6b1b7ffe5a0f15fb6a28d239f7c,Jeff M,✅,✅,5✅,26⭐
-11efd5a77e2603d0730f944d27ffba67,Jeff P,✅,❌,1⚠️,13
+11efd5a77e2603d0730f944d27ffba67,Jeff P,❌,❌,1⚠️,3
 11eff251bdfa3960699925b0c2f0577d,Jeff S,✅,✅,5✅,26⭐
-11eff6c5370f14204823e2338e600de9,Jeffery  H,❌,❌,4⚠️,12
+11eff6c5370f14204823e2338e600de9,Jeffery  H,❌,✅,4⚠️,13
 11efdf6c4e666490bbc175ae5e44fb81,Jeffery  T,❌,✅,1⚠️,4
 11efd79cb9d21e40f8969a79d660b459,Jeffrey M,✅,✅,3⚠️,20
 11eff09b52e437a033b5c999546421ad,Jem C,✅,❌,❌,10
@@ -602,7 +603,7 @@ ID, Author, Story, Note, Photo, Points
 11eff5decd73adf0ba383ee12283a8b2,Jessie H,✅,✅,1⚠️,14
 11eff4510bb1ba604b321a65deb2350b,Jill B,✅,✅,❌,11
 11efd783478ec040faddf419c68c74af,Jill B,❌,✅,❌,1
-11efdc4eacedcc4051160cb334b00087,Jill C,❌,❌,5✅,15
+11efdc4eacedcc4051160cb334b00087,Jill C,❌,✅,5✅,16
 11eff188d28013b0ea4b4fe9ac4d5567,Jim A,✅,❌,5✅,25
 11efe6e21787871056bccf5d6de477b2,Jim H,✅,✅,❌,11
 11eff18ff371bef0033c4939aaf2a9da,Jim M,✅,✅,5✅,26⭐
@@ -651,7 +652,7 @@ ID, Author, Story, Note, Photo, Points
 11efe09f89304a80fe0631015c313787,Josh A,✅,❌,❌,10
 11efd871f224b2504d3dd84ebf1e831b,Josh B,❌,✅,❌,1
 11efd6d3e1146b3067296a1aaf9682c3,Joshua B,✅,✅,5✅,26⭐
-11efd5ee7610a5f0d88232205d713cfb,Joshua C,✅,✅,5✅,26⭐
+11efd5ee7610a5f0d88232205d713cfb,Joshua C,❌,✅,5✅,16
 11efebe9227190b09f96023d45c078bf,Joshua R,✅,✅,2⚠️,17
 11efd8280c0dfef06346e2c14b5a2163,Josie T,✅,✅,4⚠️,23
 11eff4a254c7e3400e1186f86f03bb5a,Joy A,✅,✅,❌,11
@@ -674,6 +675,7 @@ ID, Author, Story, Note, Photo, Points
 11eff6d50b79bfd02f1a57fab4d80030,K B,❌,❌,2⚠️,6
 11efddeec2c79770faa9b8236f74c1fb,K S,❌,✅,❌,1
 11eff567156a9d802df4d45a267909fa,KAYLA C,✅,✅,❌,11
+11eff55c960856e0a1cb67e0ff1ffdcb,Kade P,✅,❌,❌,10
 11efd76d1d58f1308630ab91953f3e43,Kailee P,❌,✅,5✅,16
 11efe3264eb19ce004547249ebed844d,Kaitlin R,❌,❌,1⚠️,3
 11eff561edc888f00b45407299d572aa,Kale C,✅,✅,3⚠️,20
@@ -769,7 +771,7 @@ ID, Author, Story, Note, Photo, Points
 11efd7a8f17ad0109108e3e82e1c5cfa,Krista W,✅,✅,5✅,26⭐
 11efd755d32f2910facd1572f125cc85,Kristen B,❌,❌,2⚠️,6
 11eff6a926c0f320794058ac2b8df3c6,Kristen H,✅,✅,4⚠️,23
-11efd5f7009c33d09926f361e1066fb0,Kristi Y,✅,✅,4⚠️,23
+11efd5f7009c33d09926f361e1066fb0,Kristi Y,❌,✅,4⚠️,13
 11eff3a4662ac5c01a00bea919ebf623,Kristin B,✅,✅,2⚠️,17
 11eff4aad2dfe1801eb74846fd88226f,Kristin H,✅,✅,5✅,26⭐
 11eff3e55ce274e0c0da16ed6b21be69,Kristina A,✅,✅,❌,11
@@ -936,7 +938,7 @@ ID, Author, Story, Note, Photo, Points
 11efdd010e49fb504ce439a0695debf4,Megan D,✅,✅,❌,11
 11efd631b629d0b0042d48758adf34ab,Megan E,❌,✅,❌,1
 11efd8718c7f1ee0114519439b5317a5,Megan H,❌,✅,❌,1
-11efd5f5c244fe60c1313c5049a11cf5,Megan M,✅,✅,5✅,26⭐
+11efd5f5c244fe60c1313c5049a11cf5,Megan M,❌,❌,2⚠️,6
 11eff49e262f7830ceff9ba6d9bc5c7c,Megan O,❌,✅,3⚠️,10
 11eff6122367e3b078542a13a5ee5217,Meghan  H,✅,❌,❌,10
 11efd86df66e18a0593772690bf9736f,Meghan H,✅,❌,❌,10
@@ -950,7 +952,7 @@ ID, Author, Story, Note, Photo, Points
 11efd827d12a4ff073ee8076e62ac9d3,Melanie L,✅,✅,5✅,26⭐
 11eff6dad97101a0dcec638a91c6af24,Melanie S,❌,❌,4⚠️,12
 11efe8e1fb4874906ecadf00fd950d89,Melisa B,❌,❌,2⚠️,6
-11efd5fdb2f8b2a06277328bfa6019be,Melissa  T,✅,❌,4⚠️,22
+11efd5fdb2f8b2a06277328bfa6019be,Melissa  T,❌,❌,2⚠️,6
 11efd672ba03ed10cff1ed915a31595d,Melissa  T,✅,✅,5✅,26⭐
 11eff4552c41ec10eec2116a5258bc2d,Melissa B,✅,✅,❌,11
 11efe7236f851900013db11b05d4cd29,Melissa C,✅,✅,5✅,26⭐
@@ -975,7 +977,7 @@ ID, Author, Story, Note, Photo, Points
 11efdccd46eb32002fe005bdac3c0a29,Michelle F,✅,❌,❌,10
 11efd8065483c560bc63c6e0fd3d595d,Michelle G,✅,✅,1⚠️,14
 11efeb18017805004ecff3fb6958c5ce,Michelle H,✅,❌,❌,10
-11efd5feb80835d02bac1efc8a29576d,Michelle W,✅,✅,5✅,26⭐
+11efd5feb80835d02bac1efc8a29576d,Michelle W,❌,✅,5✅,16
 11efe506f82bcfc0deb97bfb74b12239,Mike  B,✅,✅,❌,11
 11eff57de08340b0765adc9edfcfdb99,Mike B,✅,✅,❌,11
 11eff638ce961b00d8afd59b9c15b943,Mike M,✅,❌,5✅,25
@@ -987,7 +989,7 @@ ID, Author, Story, Note, Photo, Points
 11efe199ec4c8b60ed0ef76222e72bf3,Mike S,✅,❌,❌,10
 11efe0d9065678703c118fa4b8309f8d,Mike S,✅,✅,❌,11
 11efdb1ba8d277203f2e918d4f8f7633,Milli V,✅,❌,❌,10
-11efd5e5206a28f009fc4edaf8a75cef,Miranda B,✅,✅,5✅,26⭐
+11efd5e5206a28f009fc4edaf8a75cef,Miranda B,❌,✅,5✅,16
 11eff2d59209db100cd5a2ac153eb8f0,Misty A,✅,✅,❌,11
 11eff5d5867ec9b01571c5cead4ac19a,Mitch S,✅,❌,❌,10
 11efdcfa2c07d420b99eeb465ab6945b,Monty P,✅,✅,5✅,26⭐
@@ -1265,7 +1267,7 @@ ID, Author, Story, Note, Photo, Points
 11eff333103b06000d17f2e63e4b94b2,Stephan  W,✅,✅,❌,11
 11eff63894fa7c6095fcf694499ae357,Stephane S,✅,✅,❌,11
 11efe09da3e2ece09ca8d652575483d3,Stephanie  M,✅,✅,❌,11
-11efd5f6ae5657e066e01a9310a60df4,Stephanie C,✅,✅,5✅,26⭐
+11efd5f6ae5657e066e01a9310a60df4,Stephanie C,❌,✅,5✅,16
 11eff2bcbb66baa00ed3532e6702f1c2,Stephanie G,❌,✅,❌,1
 11eff6267ce928e05796392860088d7f,Stephanie P,✅,✅,5✅,26⭐
 11efec7931b889309b8dcdd0060cc613,Stephen B,✅,✅,2⚠️,17
@@ -1305,7 +1307,6 @@ ID, Author, Story, Note, Photo, Points
 11efd85b150fdf400cf9d4235eff837d,Tanya  B,❌,✅,❌,1
 11efd77b206628d0ec87ba0d423ad30f,Tanya K,✅,✅,❌,11
 11efd8b4318afd407379737c060449e6,Tara  R,❌,✅,❌,1
-11efd6025d4ed1e01ce38f46fa2906d9,Tara C,✅,❌,❌,10
 11efe9b5a28285b07fc907b55845bce9,Tarryn A,❌,✅,❌,1
 11eff588cff2adc0a94f3a25e968bc22,Taylor  S,❌,❌,4⚠️,12
 11efd79900cf2bc0991c1262e6b5bf5e,Taylor B,✅,✅,5✅,26⭐
@@ -1332,7 +1333,7 @@ ID, Author, Story, Note, Photo, Points
 11eff22baf4b5500aa9553704e1f87a1,Theressa S,✅,✅,❌,11
 11efe339d257b8a0e473a6c8c8470744,Thomas K,✅,❌,❌,10
 11eff2018947d5105875c11504cd22f7,Thomasin C,✅,✅,5✅,26⭐
-11efd6003fbefd007525ab517aaff93c,Tianna H,❌,✅,2⚠️,7
+11efd6003fbefd007525ab517aaff93c,Tianna H,❌,❌,2⚠️,6
 11efd79241a3ddf0cc7ae0f79c168a57,Tim B,✅,✅,5✅,26⭐
 11eff327f4987140b977fc90139890c5,Tim J,✅,✅,5✅,26⭐
 11eff4a61b61afb0ed8fce76a649c13d,Tim W,✅,✅,5✅,26⭐
@@ -1363,7 +1364,7 @@ ID, Author, Story, Note, Photo, Points
 11efef1cc2677ea07602c2bd80c8c60b,Travis Y,✅,✅,5✅,26⭐
 11eff4ab8e14fda0382928f456f99875,Trevis F,✅,✅,❌,11
 11efe3aafac08080746cc4d4c7e175be,Trevor K,✅,❌,❌,10
-11efd5f27bf1a290af1e272ac4b26bdd,Trevor M,✅,✅,5✅,26⭐
+11efd5f27bf1a290af1e272ac4b26bdd,Trevor M,❌,❌,2⚠️,6
 11efd7b32859b420c7badfefc5b10df8,Trevor T,❌,❌,5✅,15
 11efd847513acb60c08be2cf3cd608a3,Trina O,✅,✅,❌,11
 11efd798c296d380e2e90b58fb172171,Trina P,❌,✅,5✅,16
