@@ -1,28 +1,28 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
-1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,26027
-2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,19269
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,14431
-4, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,14081
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,11567
-6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,7408
+1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,26051
+2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,19282
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,14453
+4, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,14090
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,11575
+6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,7410
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,4580
-8, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,4238
+8, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,4244
 9, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3942
-10, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,3690
-11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,2943
-12, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,2796
+10, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,3692
+11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,2944
+12, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,2797
 13, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,2355
-14, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,2023
-15, 11efddc5dd2dd9402ba61fd19647b85e,Don Cruickshank Memorial Arena,50.65824749999999,-127.4437507,1817
+14, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,2025
+15, 11efddc5dd2dd9402ba61fd19647b85e,Don Cruickshank Memorial Arena,50.65824749999999,-127.4437507,1818
 16, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1468
 17, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,50.7011,-97.1462,1324
 18, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,44.6322684,-75.9539849,1186
-19, 11efce6e0a68a7d0775885f69e3af9ab,Foxwarren Arena,50.7774,-99.5546,1180
+19, 11efce6e0a68a7d0775885f69e3af9ab,Foxwarren Arena,50.7774,-99.5546,1182
 20, d5512a67cdfc4608ac279365175fcd00,Haldimand Community Memorial Arena,43.9919702,-78.0310643,939
 21, 11EF745D92A71A20B4B8620607786234,St. Isidore Recreation Centre,45.386260,-74.902264,821
 22, 11eebad347f099003d540cdb84e09cb8,Centre Sportif Charles-Edouard-Boucher,47.6525,-70.4067,812
 23, 11E9F686BBE5AE1A81807B23EA662A63,Petitcodiac Arena,45.9330816,-65.1831219,780
-24, 11eeb9929af07e0041c78e2eb4d12f7a,Veterans Memorial Sports Complex,50.7011,-97.1462,763
+24, 11eeb9929af07e0041c78e2eb4d12f7a,Veterans Memorial Sports Complex,50.7011,-97.1462,764
 25, 11eeb7e2fe6974c09c016cc0a60704ac,Frank Crane Arena,49.2079,-123.979,729
 26, 11eeb488d3a9da20bc289cffe14b7496,Oxbow Community Arena,49.1895,-104.4374,699
 27, 11eeba6fd042a9b05d126e8b3eefbc0d,Duchess Arena,49.8442,-110.78,657
@@ -36,15 +36,15 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 35, 11efd05236b741d08029d62c4a776558,Longlac Sportsplex,50.139,-89.0561,555
 36, 11eeb74bfa1367b0acd57a22cc38304e,High level  Arena,56.6598,-117.2896,546
 37, 11eeb28b1e853a30ffa2ce4b52231f7b,Kinistino sports complex,52.7586,-107.4669,545
-38, 11efce4bdc59b3b099fa2a567ad3cb1e,Maidstone Arena,54.2836,-109.2415,518
-39, 11eeb65d99db649054a3f0da8cbd3e01,Wasaga Beach Arena,44.5208,-80.0162,501
-40, 11efeebf95ee95a00ad4caad9b13eaf3,Morrisburg Arena,44.9244092,-75.1725079,501
+38, 11efce4bdc59b3b099fa2a567ad3cb1e,Maidstone Arena,54.2836,-109.2415,519
+39, 11efeebf95ee95a00ad4caad9b13eaf3,Morrisburg Arena,44.9244092,-75.1725079,502
+40, 11eeb65d99db649054a3f0da8cbd3e01,Wasaga Beach Arena,44.5208,-80.0162,501
 41, 11efd22efdcddb70aa25cfa7687d2aa4,Ron Gorr Memorial Arena,52.0306,-113.9565,496
 42, 11E9F686BBBC681681807B23EA662A63,Greenwood Arena,42.878329,-82.15554700000001,472
 43, 11eeb9609bd28c50a173d25df9263a83,Unity Parc Arena,47.7609,-53.9834,457
 44, 11efcdc03bc8b940ce1cd676788d51ff,Bill Chaplin Arena,53.5329,-64.0145,456
 45, 11eeb59445a01390d6897a81c9d52988,Aréna Joannie Rochette,46.104,-73.256,418
-46, 11efce8c9f28cfd02e5ea2749db3bae8,Kingston Memorial Centre,44.2322,-76.4799,416
+46, 11efce8c9f28cfd02e5ea2749db3bae8,Kingston Memorial Centre,44.2322,-76.4799,417
 47, 11E9F686BB7584B481807B23EA662A63,8th Hussars Sports Center,45.723647,-65.502348,397
 48, 11eeb8c4f3352030b590a61d8226fed8,Springdale Stadium and Curling Club,49.5959,-55.6739,388
 49, 11E9F686BBEB399881807B23EA662A63,Redwood Meadows Arena,50.9911032,-114.4992362,372
@@ -61,7 +61,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 60, 11eec6f3b6b67ef0b4beebf0dc85c2b2,Arena De Clarence Creek,45.1953,-76.1496,283
 61, 11efde8833a3670051d225be9f444f95,Orville Acres Arena,50.4275,-95.3439,283
 62, 11E9F686BBC445CC81807B23EA662A63,Ingersoll & District Memorial Centre,43.0409517,-80.8822876,280
-63, 11efce2988836c303600aec9c5ea88db,Hagersville Memorial Arena,42.9466,-79.8509,277
+63, 11efce2988836c303600aec9c5ea88db,Hagersville Memorial Arena,42.9466,-79.8509,278
 64, 11eec5e85326a470f60b4a810ad1314f,Jim Ciccone Civic Centre,54.3146,-130.3413,276
 65, 11efcf75483809902bd90ec1517cab1c,Memorial Community Centre Arena,49.7318,-112.6171,275
 66, 11eeca8cd68533b0e6f0f01529983a7c,Hespeler Memorial Arena,43.4317,-80.3112,263
@@ -75,7 +75,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 74, 11eeb6f3ef437df0634f81fa6d7292d2,Coldwater Arena,44.6072,-79.6291,216
 75, 11efded6895a516004839a3c822c0043,Kipsigak Arena,70.4643,-68.4789,214
 76, b14065f8a04f49af8eb79de468077cd4,I J Coady Memorial Arena,46.64023299999999,-81.39035799999999,213
-77, 11efcd1057a003904627c103b195fc0a,Sangudo Arena,53.8486,-114.4361,210
+77, 11efcd1057a003904627c103b195fc0a,Sangudo Arena,53.8486,-114.4361,211
 78, 11eeb6222b688f00ac245cf23d9a366b,Summerland Arena,49.2357,-119.0117,206
 79, 11eeb94b0a9f1e707a50d372baf5b339,Walkerton Community Centre,43.8567,-81.4023,203
 80, 11efde56f9e542806e961e37fce419fd,Centre sportif J.-A. Lemay,45.582,-72.0094,201
@@ -93,9 +93,9 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 92, 11E9F686BBECB2BE81807B23EA662A63,River Valley Civic Centre,46.7487471,-67.6992837,151
 93, 11eebaea1c7a3a304a96c814ae9dcd7d,Powell River Recreation Complex,49.8021,-124.5124,151
 94, 11E9F686BBC7D3B881807B23EA662A63,Jus Jordan Arena,48.7614073,-80.682553,148
-95, aa1085f1858f4424ab5421ecadadf611,Capreol Community Centre and Arena,46.7029179,-80.919747,144
-96, 11E9F686BC0F81C281807B23EA662A63,Walpole Island Complex,42.5909326,-82.4785076,142
-97, 11efd863f5180a105dfe37a9d3b8096b,Berens River Memorial Arena ,55.8244,-98.8348,142
+95, 11E9F686BC0F81C281807B23EA662A63,Walpole Island Complex,42.5909326,-82.4785076,144
+96, aa1085f1858f4424ab5421ecadadf611,Capreol Community Centre and Arena,46.7029179,-80.919747,144
+97, 11efd863f5180a105dfe37a9d3b8096b,Berens River Memorial Arena ,55.8244,-98.8348,143
 98, 11E9F686BC07B29481807B23EA662A63,Tri Township Arena,42.9126819,-81.5017351,135
 99, 11efdd7ed6a8cfe07f54b0996698a2fb,Kevin Bateman Center,50.1169,-62.4136,133
 100, 11eeb616171bd5e0ceb6edfcfeb91bd6,Grandview Agricultural Community Centre,52.4175,-100.9577,121
@@ -120,9 +120,9 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 119, 11eeb550f50e99d0a6ce5f21b411b73a,Scott Safety Centre - Whitecourt Twin Arenas,54.1407,-115.6873,76
 120, 11efcd3bdaf2bb40f1c5d0ce7eabb7b3,Complexe Sportif De St-Louis-De-France Inc,46.4024,-72.5846,76
 121, 11eec88169c7eb30c4caff1b4f7acfac,Wadena REC Centre,51.8194,-103.5644,74
-122, 11efd08efc6585e0c766955230151d67,Taylor District Ice Center,56.2478,-120.8491,71
-123, 11eeba08415f18800d253df23f1f026d,Mike Rodden Arena,45.8738,-79.8846,70
-124, 11eeb3da90e62b70ee9f81a12fa5f771,Recplex,53.1325,-104.6719,69
+122, 11eeb3da90e62b70ee9f81a12fa5f771,Recplex,53.1325,-104.6719,72
+123, 11eeba08415f18800d253df23f1f026d,Mike Rodden Arena,45.8738,-79.8846,71
+124, 11efd08efc6585e0c766955230151d67,Taylor District Ice Center,56.2478,-120.8491,71
 125, 11eec845f3b925c056d6758bea354be2,Hudson's Hope Arena,53.928,-122.7878,69
 126, 11efd089a458ba70022cd2d2d5ae303c,Arena Connie Dion,45.7808,-71.9348,66
 127, 11efd5095f3e38f0e9beec3e86c7d857,Geraldton Community Centre,50.139,-89.0561,66
@@ -136,10 +136,10 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 135, 11eeb89115d148f0db0f21b7ada3a2e3,Iceberg Arena,49.4536,-54.1045,59
 136, 11efcf3a8c8ae3a0ec51ee846fecd2c2,Richmond Arena,45.5148,-60.966,59
 137, 11eeb6f69b539420326a661f0ee49686,Harrow Arena,42.2932,-82.7075,57
-138, 11E9F686BB811CD481807B23EA662A63,Aréna Gilles-Bourassa,46.5167919,-72.7553808,55
-139, 11E9F686BBBE293081807B23EA662A63,Harman Park Arena,43.8773963,-78.845969,55
-140, 11eeb7132a120630d6bd4d395c6df313,Strathcona Gardens Recreation Complex,50.0059,-125.2343,55
-141, 11eeba0fbaed3e5044c4979578dd4d5c,Centre Edmond E. Landry,47.8219,-65.0917,55
+138, 11eeba0fbaed3e5044c4979578dd4d5c,Centre Edmond E. Landry,47.8219,-65.0917,56
+139, 11E9F686BB811CD481807B23EA662A63,Aréna Gilles-Bourassa,46.5167919,-72.7553808,55
+140, 11E9F686BBBE293081807B23EA662A63,Harman Park Arena,43.8773963,-78.845969,55
+141, 11eeb7132a120630d6bd4d395c6df313,Strathcona Gardens Recreation Complex,50.0059,-125.2343,55
 142, 11efea33daf2c6703006e1cfce835d2a,Centennial & Jubliee Arena Complex,53.1325,-104.6719,55
 143, 11eebc8a539b75f0f6df272c30eb7379,Carlo Cartarello Arena,48.4466,-80.8161,54
 144, 11eebe335f9d54e0d7e170fe496608ae,St Martins 4 Season Complex,45.3849,-65.6331,52
