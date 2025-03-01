@@ -1,11 +1,11 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,1084,2,2905,1148,50305,1417,71028
-Aréna Saint-Boniface - QC,1488,1,2976,2227,30988,2776,57035
-Honeywood Arena - ON,804,44,2071,784,30829,1304,46306
-Sackville Arena (LDRA) - NS,737,1,2067,715,28466,1154,42762
-Pete Knight Arena - AB,663,2,1454,749,24835,1051,36596
-Bashaw Arena - AB,450,0,851,438,19914,623,27405
-Ivor MacDonald Memorial Arena - NS,242,0,640,269,14225,404,18834
+Trout Creek Community Centre - ON,1086,2,2905,1148,50309,1418,71052
+Aréna Saint-Boniface - QC,1488,1,2976,2227,30999,2776,57046
+Honeywood Arena - ON,810,44,2071,784,31026,1306,46563
+Sackville Arena (LDRA) - NS,737,1,2067,714,28440,1154,42735
+Pete Knight Arena - AB,663,2,1451,748,24772,1051,36523
+Bashaw Arena - AB,451,0,851,438,19914,623,27415
+Ivor MacDonald Memorial Arena - NS,244,0,640,269,14225,404,18854
 Middleton District Arena - NS,246,0,557,310,9327,453,13768
 Rolling Hills Arena - AB,248,2,349,173,7921,309,11641
 Redvers rec center - SK,162,0,394,159,6533,246,9494
@@ -14,12 +14,12 @@ North Hastings Community Centre - ON,138,0,180,61,3627,163,5608
 Don Cruickshank Memorial Arena - BC,99,0,271,78,3383,157,5264
 Centre Sportif Normandin - QC,284,4,281,220,1216,412,5159
 Kaetlyn Osmond Arena - NL,181,0,187,77,1381,245,3857
-Athens Community Centre Centre 76 - ON,74,0,133,62,2464,123,3665
+Athens Community Centre Centre 76 - ON,75,0,133,62,2464,123,3675
 Fox Valley Skating Arena - SK,101,2,125,65,1678,125,3148
 High level  Arena - AB,26,0,111,37,2039,58,2669
-Foxwarren Arena - MB,64,0,175,53,1313,93,2531
+Foxwarren Arena - MB,64,0,175,53,1314,93,2532
 St. Isidore Recreation Centre - ON,31,1,153,42,1545,74,2366
-Birtle District Community Centre - MB,17,1,148,39,1187,47,1850
+Birtle District Community Centre - MB,18,1,148,39,1187,47,1860
 Haldimand Community Memorial Arena - ON,55,0,113,60,869,102,1818
 Oxbow Community Arena - SK,53,0,39,52,994,57,1693
 Delburne AG Arena - AB,37,0,77,27,1005,52,1633
@@ -38,9 +38,9 @@ Ron Gorr Memorial Arena - AB,30,0,56,28,385,54,881
 Centre Sportif Charles-Edouard-Boucher - QC,28,0,145,97,23,120,835
 Frank Crane Arena - BC,34,0,119,32,104,67,833
 John Levi Community Centre - ON,18,6,98,27,214,65,775
-La Glace Recreation Centre - AB,33,0,78,32,124,53,720
 Cremona Ag Society Community Arena - AB,33,0,85,28,100,48,713
 Unity Parc Arena - NL,26,0,58,23,242,42,699
+La Glace Recreation Centre - AB,32,0,77,31,116,52,698
 Aréna Joannie Rochette - QC,19,0,70,19,233,35,652
 Goulds Arena - NL,11,0,68,16,321,28,651
 Morrisburg Arena - ON,25,0,73,35,146,52,650
@@ -62,7 +62,6 @@ Arena De Clarence Creek - ON,13,0,40,20,61,37,331
 Sangudo Arena - AB,12,0,26,13,115,24,326
 Walkerton Community Centre - ON,6,0,43,14,123,25,326
 Hagersville Memorial Arena - ON,16,0,36,14,42,30,324
-Hespeler Memorial Arena - ON,14,0,34,12,63,27,317
 Eleanor Pew Memorial Arena - NS,13,0,35,11,67,21,313
 Ingersoll & District Memorial Centre - ON,10,2,32,16,77,27,309
 Bienfait Memorial Arena - SK,9,0,66,16,0,26,304
@@ -70,9 +69,10 @@ Cupar Memorial Rink - SK,7,0,35,13,112,25,300
 Orville Acres Arena - MB,14,0,42,17,16,32,299
 Centre récréatif de Donnacona - QC,11,0,36,31,50,40,299
 I J Coady Memorial Arena - ON,9,0,38,9,85,19,298
+Hespeler Memorial Arena - ON,14,0,31,12,50,27,295
 Memorial Community Centre Arena - AB,13,0,43,13,14,23,286
-Kaslo arena - BC,9,0,34,7,86,17,285
 Coldwater Arena - ON,15,0,18,12,64,22,280
+Kaslo arena - BC,8,0,34,7,82,17,271
 Ville De Bouctouche Forum - NB,15,0,17,15,37,22,253
 Summerland Arena - BC,13,0,22,10,45,29,251
 Centre récréatif de Blanc-Sablon - QC,7,0,34,2,73,13,247
@@ -104,7 +104,7 @@ Kevin Bateman Center - QC,7,0,18,9,1,14,134
 Thamesford District Recreation Centre - ON,4,0,15,10,23,15,118
 Manvers Arena & Community Centre - ON,6,0,13,2,16,8,117
 Centre Sportif C E Boucher - QC,7,0,14,5,0,13,117
-Alberni Valley Multiplex - BC,7,0,10,4,6,10,110
+Alberni Valley Multiplex - BC,7,0,10,4,7,10,111
 Manitouwadge arena  - ON,4,0,21,5,2,11,110
 Essa Arena - ON,4,0,20,6,0,10,106
 Soo Pee Wee Arena - ON,6,0,11,5,8,10,106
@@ -116,11 +116,11 @@ Onoway Arena - AB,5,0,13,4,0,8,93
 Kings Arrow Arena - NB,6,0,9,6,0,9,93
 Hague Arena - SK,2,0,14,3,25,5,90
 Wikwemikong Recreation Center - ON,5,0,11,4,3,10,90
-Grandview Agricultural Community Centre - MB,6,0,8,3,1,10,88
 Rapid City community complex - MB,6,0,5,2,10,7,87
 Clavet Community Arena - SK,4,0,11,3,7,4,83
 Chesterville and District Arena - ON,4,0,13,0,2,5,81
 Scott Safety Centre - Whitecourt Twin Arenas - AB,5,0,8,2,2,7,78
+Grandview Agricultural Community Centre - MB,5,0,8,3,0,10,77
 Knights Of Columbus Twin Arenas - AB,5,0,6,9,0,13,77
 Hudson's Hope Arena - BC,5,0,6,1,4,7,73
 Taylor District Ice Center - BC,2,0,16,4,0,12,72
