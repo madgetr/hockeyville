@@ -1,14 +1,14 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
-1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,29565
-2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,22177
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,16875
-4, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,14967
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,12296
-6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,7699
-7, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,4987
+1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,29582
+2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,22185
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,16886
+4, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,14970
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,12299
+6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,7701
+7, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,4993
 8, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,4638
 9, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3947
-10, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,3782
+10, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,3783
 11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,3187
 12, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,2820
 13, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,2610
@@ -96,7 +96,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 95, 11efd8c3f0f1b75085346d6e65b3d095,Wilfred T Lipton Arena,55.8244,-98.8348,152
 96, 11E9F686BBC7D3B881807B23EA662A63,Jus Jordan Arena,48.7614073,-80.682553,148
 97, aa1085f1858f4424ab5421ecadadf611,Capreol Community Centre and Arena,46.7029179,-80.919747,144
-98, 11eeb3da90e62b70ee9f81a12fa5f771,Recplex,53.1325,-104.6719,137
+98, 11eeb3da90e62b70ee9f81a12fa5f771,Recplex,53.1325,-104.6719,138
 99, 11E9F686BC07B29481807B23EA662A63,Tri Township Arena,42.9126819,-81.5017351,136
 100, 11efdd7ed6a8cfe07f54b0996698a2fb,Kevin Bateman Center,50.1169,-62.4136,133
 101, 11eeb616171bd5e0ceb6edfcfeb91bd6,Grandview Agricultural Community Centre,52.4175,-100.9577,122
@@ -121,7 +121,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 120, 11efddddfbf84f008dbc4d6ce46696f3,Knights Of Columbus Twin Arenas,53.6202,-113.543,77
 121, 11eeb550f50e99d0a6ce5f21b411b73a,Scott Safety Centre - Whitecourt Twin Arenas,54.1407,-115.6873,76
 122, 11eeba08415f18800d253df23f1f026d,Mike Rodden Arena,45.8738,-79.8846,75
-123, 11eec88169c7eb30c4caff1b4f7acfac,Wadena REC Centre,51.8194,-103.5644,74
+123, 11eec88169c7eb30c4caff1b4f7acfac,Wadena REC Centre,51.8194,-103.5644,75
 124, 11efd08efc6585e0c766955230151d67,Taylor District Ice Center,56.2478,-120.8491,72
 125, 11eec845f3b925c056d6758bea354be2,Hudson's Hope Arena,53.928,-122.7878,69
 126, 11efd089a458ba70022cd2d2d5ae303c,Arena Connie Dion,45.7808,-71.9348,66
