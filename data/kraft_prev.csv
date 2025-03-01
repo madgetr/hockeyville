@@ -1,15 +1,15 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,980,2,2517,1024,49425,1307,67820
-Aréna Saint-Boniface - QC,1466,1,2996,1948,30051,2510,55659
-Honeywood Arena - ON,694,45,1841,598,29743,1100,43254
-Sackville Arena (LDRA) - NS,690,1,1966,670,28561,1082,42039
-Pete Knight Arena - AB,602,2,1448,682,24480,953,35546
-Bashaw Arena - AB,440,0,851,417,19673,604,27043
-Ivor MacDonald Memorial Arena - NS,207,0,550,221,13237,366,17178
-Middleton District Arena - NS,252,0,575,311,9900,457,14456
-Rolling Hills Arena - AB,227,2,349,159,7485,291,10981
+Trout Creek Community Centre - ON,982,2,2517,1024,49455,1307,67870
+Aréna Saint-Boniface - QC,1466,1,2996,1948,30108,2510,55716
+Honeywood Arena - ON,696,45,1841,598,29769,1101,43300
+Sackville Arena (LDRA) - NS,693,1,1966,670,28561,1083,42069
+Pete Knight Arena - AB,604,2,1448,682,24497,954,35583
+Bashaw Arena - AB,441,0,851,417,19676,604,27056
+Ivor MacDonald Memorial Arena - NS,207,0,550,221,13315,366,17256
+Middleton District Arena - NS,252,0,575,311,9904,457,14460
+Rolling Hills Arena - AB,229,2,349,159,7486,291,11002
 Redvers rec center - SK,145,0,395,148,6534,228,9317
-Big River Arena - SK,126,0,311,111,5659,201,7963
+Big River Arena - SK,127,0,311,111,5659,202,7973
 North Hastings Community Centre - ON,136,0,188,59,3582,158,5565
 Centre Sportif Normandin - QC,284,4,281,219,1212,411,5154
 Don Cruickshank Memorial Arena - BC,85,0,262,69,3303,147,5008
@@ -19,7 +19,7 @@ Fox Valley Skating Arena - SK,101,2,125,63,1653,124,3121
 St. Isidore Recreation Centre - ON,31,1,153,41,1545,73,2365
 High level  Arena - AB,20,0,97,33,1833,54,2357
 Veterans Memorial Sports Complex - MB,36,1,119,36,1310,59,2073
-Foxwarren Arena - MB,43,0,175,40,1062,80,2057
+Foxwarren Arena - MB,44,0,175,40,1062,80,2067
 Haldimand Community Memorial Arena - ON,54,0,113,59,853,101,1791
 Oxbow Community Arena - SK,53,0,39,52,994,57,1693
 Delburne AG Arena - AB,37,0,76,27,1005,52,1630
@@ -67,12 +67,12 @@ Hespeler Memorial Arena - ON,14,0,34,11,67,26,320
 Moosonee Arena - ON,15,0,32,8,65,22,319
 Sangudo Arena - AB,11,0,26,12,115,23,315
 Centre récréatif de Donnacona - QC,12,0,36,31,55,41,314
+Ingersoll & District Memorial Centre - ON,10,2,41,17,53,30,313
 Eleanor Pew Memorial Arena - NS,13,0,35,11,67,21,313
-Ingersoll & District Memorial Centre - ON,10,2,41,17,52,30,312
 Bienfait Memorial Arena - SK,9,0,66,16,0,26,304
+Hagersville Memorial Arena - ON,14,0,36,9,42,23,299
 Orville Acres Arena - MB,14,0,42,17,16,32,299
 I J Coady Memorial Arena - ON,9,0,38,8,85,18,297
-Hagersville Memorial Arena - ON,13,0,36,9,42,23,289
 Memorial Community Centre Arena - AB,13,0,43,13,14,23,286
 Coldwater Arena - ON,15,0,18,12,64,22,280
 Civic Centre Arena - ON,8,0,23,16,101,23,266
@@ -146,6 +146,7 @@ Strathcona Gardens Recreation Complex - BC,4,0,5,0,0,5,55
 Aréna St-Cyrille - QC,2,0,5,6,14,7,55
 Carlo Cartarello Arena - ON,4,0,4,2,0,5,54
 West Kildonan Memorial Arena - MB,3,0,6,4,0,4,52
+Galt Arena Gardens - ON,3,0,6,2,0,7,50
 Drumheller Memorial Arena - AB,4,0,3,1,0,5,50
 Harry O. Memorial Arena - SK,4,0,2,4,0,6,50
 Aréna Gilles-Bourassa - QC,3,0,4,7,0,9,49
@@ -170,7 +171,6 @@ Milton Memorial Arena - ON,3,0,4,1,0,3,43
 McIntyre Arena - ON,3,0,4,1,0,3,43
 Tobique-Plex - NB,2,0,6,4,0,4,42
 Centre des sports Jean Claude Tremblay - QC,2,0,7,1,0,2,42
-Galt Arena Gardens - ON,2,0,6,2,0,6,40
 Manitouwadge Community Center - ON,4,0,0,0,0,4,40
 Dundalk Arena & Community Centre - ON,1,0,9,0,3,5,40
 MCN Arena - MB,3,0,3,1,0,5,40
@@ -206,6 +206,7 @@ Sungod Recreation Centre - BC,2,0,4,1,0,2,33
 Westlock Rotary Spirit Centre - AB,2,0,2,2,4,4,32
 Smiths Falls Memorial Community Centre - ON,1,0,7,1,0,2,32
 Jordan Arena - ON,2,0,3,1,1,2,31
+Oxbow Arena - SK,3,0,0,0,0,3,30
 Pikangikum Arena - ON,2,0,3,1,0,3,30
 Northern Lights Palace Arena - SK,3,0,0,0,0,3,30
 Hodder Memorial Recreation Complex - NL,3,0,0,0,0,3,30
@@ -232,6 +233,7 @@ Multiplex Arena - NT,2,0,1,1,0,2,24
 Kentville Centennial Arena - NS,2,0,1,0,1,2,24
 Harry Ivany Arena - NL,2,0,1,0,1,2,24
 Pond Inlet Comunity Hall - NU,1,0,1,2,9,2,24
+Mooretown Sports Complex - ON,2,0,1,0,0,2,23
 Flames Community Arenas - AB,2,0,1,0,0,2,23
 Bay Arena - NL,2,0,1,0,0,2,23
 Zurich Community Centre - ON,2,0,1,0,0,2,23
@@ -260,7 +262,6 @@ Noelville Community Centre - ON,1,0,3,1,0,3,20
 South Cariboo Rec Center - BC,2,0,0,0,0,2,20
 Ken Williams Southern Shore Arena - NL,2,0,0,0,0,2,20
 Nakina Community Complex - ON,1,0,3,1,0,1,20
-Oxbow Arena - SK,2,0,0,0,0,2,20
 Bobcaygeon-Verulam Community Centre - ON,1,0,1,5,2,5,20
 Kapuskasing sports palace - ON,2,0,0,0,0,2,20
 Okanagan Training Rink - BC,2,0,0,0,0,2,20
@@ -309,7 +310,6 @@ Burford Community Centre - ON,1,0,1,1,0,1,14
 Fort Macleod & District Sports Centre / Outdoor Swimming Pool / Ice Arena - AB,1,0,1,1,0,1,14
 Southeast Event Centre - MB,1,0,1,1,0,1,14
 Réal-Boudreau Centre - NB,1,0,1,0,0,1,13
-Mooretown Sports Complex - ON,1,0,1,0,0,2,13
 Chilliwack Coliseum - BC,1,0,1,0,0,2,13
 Centre Marcel Dionne - QC,1,0,1,0,0,2,13
 Centre sportif Rosanne-Laflamme - QC,1,0,1,0,0,2,13
@@ -363,6 +363,7 @@ Reeves Community Complex - ON,1,0,0,1,0,2,11
 Ma-te-way Park - ON,1,0,0,1,0,1,11
 Ridgetown Arena - ON,1,0,0,1,0,1,11
 Centre Sportif d'Opitciwan - QC,1,0,0,1,0,1,11
+Duchess Recreation Centre - AB,1,0,0,0,0,1,10
 MacDonald Island Park - AB,1,0,0,0,0,1,10
 West Middlesex Memorial Centre - ON,1,0,0,0,0,1,10
 Andrew Arena - AB,1,0,0,0,0,1,10
