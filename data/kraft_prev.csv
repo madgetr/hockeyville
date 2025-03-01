@@ -1,24 +1,24 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,1010,2,2517,1024,49572,1309,68267
-Aréna Saint-Boniface - QC,1466,1,2996,1948,30187,2510,55795
-Honeywood Arena - ON,708,45,1841,598,29965,1108,43616
-Sackville Arena (LDRA) - NS,704,1,1966,670,28629,1087,42247
-Pete Knight Arena - AB,607,2,1448,682,24745,956,35861
+Trout Creek Community Centre - ON,1014,2,2517,1024,49581,1309,68316
+Aréna Saint-Boniface - QC,1466,1,2996,1948,30245,2510,55853
+Honeywood Arena - ON,709,45,1841,598,30051,1108,43712
+Sackville Arena (LDRA) - NS,713,1,1966,670,28629,1088,42337
+Pete Knight Arena - AB,609,2,1448,682,24778,956,35914
 Bashaw Arena - AB,442,0,851,417,19676,604,27066
-Ivor MacDonald Memorial Arena - NS,217,0,550,221,13393,369,17434
+Ivor MacDonald Memorial Arena - NS,220,0,550,221,13514,370,17585
 Middleton District Arena - NS,253,0,575,311,9906,457,14472
-Rolling Hills Arena - AB,231,2,349,159,7517,292,11053
-Redvers rec center - SK,149,0,395,148,6545,229,9368
-Big River Arena - SK,127,0,311,111,5662,202,7976
+Rolling Hills Arena - AB,231,2,349,159,7520,292,11056
+Redvers rec center - SK,149,0,395,148,6557,229,9380
+Big River Arena - SK,128,0,311,111,5662,202,7986
 North Hastings Community Centre - ON,136,0,188,59,3582,158,5565
 Centre Sportif Normandin - QC,284,4,281,219,1216,411,5158
 Don Cruickshank Memorial Arena - BC,87,0,262,69,3309,147,5034
 Kaetlyn Osmond Arena - NL,176,0,208,83,1884,232,4393
 Athens Community Centre Centre 76 - ON,72,0,133,56,2168,118,3343
 Fox Valley Skating Arena - SK,101,2,125,63,1653,124,3121
-High level  Arena - AB,21,0,97,33,1833,54,2367
+High level  Arena - AB,22,0,97,33,1833,54,2377
 St. Isidore Recreation Centre - ON,31,1,153,41,1545,73,2365
-Foxwarren Arena - MB,51,0,175,40,1071,82,2146
+Foxwarren Arena - MB,54,0,175,40,1071,82,2176
 Veterans Memorial Sports Complex - MB,36,1,119,36,1310,59,2073
 Haldimand Community Memorial Arena - ON,54,0,113,59,853,101,1791
 Oxbow Community Arena - SK,53,0,39,52,994,57,1693
@@ -28,7 +28,7 @@ Wasaga Beach Arena - ON,24,1,71,25,967,39,1455
 Riverton Arena - MB,43,0,54,31,608,58,1231
 Bill Chaplin Arena - NL,20,1,71,33,715,45,1171
 Petitcodiac Arena - NB,50,0,85,24,371,79,1150
-Birtle District Community Centre - MB,9,1,121,28,637,40,1128
+Birtle District Community Centre - MB,10,1,121,28,637,40,1138
 Duchess Arena - AB,33,0,91,31,397,51,1031
 Kinistino sports complex - SK,28,0,79,28,460,53,1005
 Longlac Sportsplex - ON,23,0,101,22,448,38,1003
@@ -36,7 +36,7 @@ North Peace Arena - BC,41,0,65,27,302,75,934
 Ron Gorr Memorial Arena - AB,30,0,56,28,385,54,881
 Maidstone Arena - SK,23,0,74,25,388,45,865
 Centre Sportif Charles-Edouard-Boucher - QC,28,0,145,97,23,120,835
-Frank Crane Arena - BC,33,0,119,31,104,67,822
+Frank Crane Arena - BC,34,0,119,31,104,67,832
 John Levi Community Centre - ON,18,6,98,26,211,64,771
 La Glace Recreation Centre - AB,34,0,81,32,142,53,757
 Unity Parc Arena - NL,26,0,58,23,242,42,699
@@ -63,11 +63,11 @@ Irma Arena - AB,15,0,59,9,12,25,348
 Arena De Clarence Creek - ON,14,0,41,20,64,38,347
 Centre sportif de Delson - QC,19,0,35,11,38,23,344
 Walkerton Community Centre - ON,6,0,43,14,123,25,326
+Ingersoll & District Memorial Centre - ON,11,2,41,17,53,30,323
 Hespeler Memorial Arena - ON,14,0,34,11,67,26,320
 Moosonee Arena - ON,15,0,32,8,65,22,319
 Sangudo Arena - AB,11,0,26,12,115,23,315
 Centre récréatif de Donnacona - QC,12,0,36,31,55,41,314
-Ingersoll & District Memorial Centre - ON,10,2,41,17,53,30,313
 Eleanor Pew Memorial Arena - NS,13,0,35,11,67,21,313
 Hagersville Memorial Arena - ON,15,0,36,9,42,24,309
 Bienfait Memorial Arena - SK,9,0,66,16,0,26,304
@@ -82,8 +82,8 @@ Centre récréatif de Blanc-Sablon - QC,7,0,34,2,63,13,237
 Lord Beaverbrook Arena - NB,15,0,25,9,0,24,234
 Centre sportif J.-A. Lemay - QC,12,1,18,16,22,32,222
 St Boniface - QC,10,0,18,14,54,18,222
+De Salaberry Recreation Facility (St. Malo Arena) - MB,9,0,24,22,36,26,220
 Kipsigak Arena - NU,16,0,16,6,0,26,214
-De Salaberry Recreation Facility (St. Malo Arena) - MB,8,0,24,22,36,26,210
 Saxon Family Community Complex - SK,12,0,11,5,38,17,196
 Wilfred T Lipton Arena - MB,9,0,17,11,44,16,196
 Aréna Jean Rougeau - QC,6,0,34,12,15,17,189
@@ -126,8 +126,8 @@ Knights Of Columbus Twin Arenas - AB,5,0,6,9,0,13,77
 Hudson's Hope Arena - BC,5,0,6,1,4,7,73
 Humphrey Arena - ON,3,0,9,8,7,12,72
 Taylor District Ice Center - BC,2,0,16,3,0,11,71
+Recplex - SK,3,0,3,0,31,4,70
 St Martins 4 Season Complex - NB,1,0,13,3,18,6,70
-Recplex - SK,3,0,3,0,30,4,69
 Arena Connie Dion - QC,5,0,5,1,3,6,69
 Richmond Arena - NS,4,0,6,1,10,4,69
 Fort Erie Leisureplex - ON,5,0,2,7,3,10,66
