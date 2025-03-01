@@ -1,15 +1,15 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
 1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,25638
-2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,18681
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,13630
-4, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,13578
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,11106
+2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,18701
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,13660
+4, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,13618
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,11116
 6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,7396
 7, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,4578
-8, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,4034
+8, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,4044
 9, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3942
-10, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,3516
-11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,2813
+10, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,3536
+11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,2823
 12, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,2506
 13, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,2314
 14, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,1983
@@ -34,7 +34,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 33, 11efd6019365d310971c42873a24eb89,John Levi Community Centre,45.1953,-76.1496,560
 34, 11efd05236b741d08029d62c4a776558,Longlac Sportsplex,50.139,-89.0561,555
 35, 11eeb28b1e853a30ffa2ce4b52231f7b,Kinistino sports complex,52.7586,-107.4669,545
-36, 11eeb74bfa1367b0acd57a22cc38304e,High level  Arena,56.6598,-117.2896,524
+36, 11eeb74bfa1367b0acd57a22cc38304e,High level  Arena,56.6598,-117.2896,534
 37, 11efeebf95ee95a00ad4caad9b13eaf3,Morrisburg Arena,44.9244092,-75.1725079,500
 38, 11efd22efdcddb70aa25cfa7687d2aa4,Ron Gorr Memorial Arena,52.0306,-113.9565,496
 39, 11efe4bfdfb8c750db5b2c1d9e243671,Birtle District Community Centre,50.0226,-101.3637,491
@@ -62,11 +62,11 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 61, 11efde8833a3670051d225be9f444f95,Orville Acres Arena,50.4275,-95.3439,283
 62, 11eec5e85326a470f60b4a810ad1314f,Jim Ciccone Civic Centre,54.3146,-130.3413,276
 63, 11efcf75483809902bd90ec1517cab1c,Memorial Community Centre Arena,49.7318,-112.6171,275
-64, 11efc94cfaa4171050876939db7c4873,Moosonee Arena,52.923,-82.4173,263
-65, 11E9F686BBC445CC81807B23EA662A63,Ingersoll & District Memorial Centre,43.0409517,-80.8822876,260
-66, 11E9F686BB9CD3E881807B23EA662A63,Centre récréatif de Donnacona,46.6787327,-71.7299194,259
-67, 11efcc66abe09f50fbb368fdafdeb6ca,Cupar Memorial Rink,51.3669,-105.9973,258
-68, 11efce2988836c303600aec9c5ea88db,Hagersville Memorial Arena,42.9466,-79.8509,257
+64, 11efce2988836c303600aec9c5ea88db,Hagersville Memorial Arena,42.9466,-79.8509,267
+65, 11efc94cfaa4171050876939db7c4873,Moosonee Arena,52.923,-82.4173,263
+66, 11E9F686BBC445CC81807B23EA662A63,Ingersoll & District Memorial Centre,43.0409517,-80.8822876,260
+67, 11E9F686BB9CD3E881807B23EA662A63,Centre récréatif de Donnacona,46.6787327,-71.7299194,259
+68, 11efcc66abe09f50fbb368fdafdeb6ca,Cupar Memorial Rink,51.3669,-105.9973,258
 69, 11eeca8cd68533b0e6f0f01529983a7c,Hespeler Memorial Arena,43.4317,-80.3112,253
 70, 11efcef1fb67d1a0afa669bb60f5a7ad,Eleanor Pew Memorial Arena,45.1458,-61.8108,246
 71, 11efdb52155332f05c63950ba6a4a2fe,Lord Beaverbrook Arena,47.0155,-65.5071,234
