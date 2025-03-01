@@ -1,11 +1,11 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
 1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,26287
-2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,20726
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,15739
-4, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,14692
+2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,20746
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,15799
+4, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,14702
 5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,11880
-6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,7497
-7, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,4612
+6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,7507
+7, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,4632
 8, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,4604
 9, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3943
 10, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,3720
@@ -17,7 +17,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 16, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1470
 17, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,50.7011,-97.1462,1325
 18, 11efce6e0a68a7d0775885f69e3af9ab,Foxwarren Arena,50.7774,-99.5546,1218
-19, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,44.6322684,-75.9539849,1201
+19, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,44.6322684,-75.9539849,1211
 20, d5512a67cdfc4608ac279365175fcd00,Haldimand Community Memorial Arena,43.9919702,-78.0310643,949
 21, 11EF745D92A71A20B4B8620607786234,St. Isidore Recreation Centre,45.386260,-74.902264,821
 22, 11eebad347f099003d540cdb84e09cb8,Centre Sportif Charles-Edouard-Boucher,47.6525,-70.4067,812
@@ -26,7 +26,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 25, 11eeb7e2fe6974c09c016cc0a60704ac,Frank Crane Arena,49.2079,-123.979,729
 26, 11eeb488d3a9da20bc289cffe14b7496,Oxbow Community Arena,49.1895,-104.4374,699
 27, 11eeba6fd042a9b05d126e8b3eefbc0d,Duchess Arena,49.8442,-110.78,682
-28, 11efe4bfdfb8c750db5b2c1d9e243671,Birtle District Community Centre,50.0226,-101.3637,663
+28, 11efe4bfdfb8c750db5b2c1d9e243671,Birtle District Community Centre,50.0226,-101.3637,673
 29, 11eecb02c0216050305bc32b29dd71df,North Peace Arena,56.2306,-120.8277,655
 30, 11eeb74bfa1367b0acd57a22cc38304e,High level  Arena,56.6598,-117.2896,630
 31, 11efd4eae8c401503acc7126751bba6f,Delburne AG Arena,52.0306,-113.9565,628
