@@ -1,11 +1,11 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
-1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,33069
-2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,22553
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,18522
-4, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,15621
+1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,33119
+2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,22573
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,18552
+4, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,15631
 5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,12628
-6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,7798
-7, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,5181
+6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,7808
+7, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,5507
 8, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,4703
 9, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3986
 10, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,3802
@@ -14,7 +14,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 13, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,2797
 14, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,2042
 15, 11efddc5dd2dd9402ba61fd19647b85e,Don Cruickshank Memorial Arena,50.65824749999999,-127.4437507,1925
-16, 11efce6e0a68a7d0775885f69e3af9ab,Foxwarren Arena,50.7774,-99.5546,1829
+16, 11efce6e0a68a7d0775885f69e3af9ab,Foxwarren Arena,50.7774,-99.5546,1849
 17, 11efcc6ac99fafa0e7a2eaed1f518a45,Fox Valley Skating Arena,50.3599,-108.5139,1492
 18, 11efcd0ec344d8c0c9c270794469850f,Arborg & District Arena,50.7011,-97.1462,1329
 19, 11E9F686BB87F91481807B23EA662A63,Athens Community Centre Centre 76,44.6322684,-75.9539849,1302
@@ -39,7 +39,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 38, 11efd05236b741d08029d62c4a776558,Longlac Sportsplex,50.139,-89.0561,555
 39, 11eeb28b1e853a30ffa2ce4b52231f7b,Kinistino sports complex,52.7586,-107.4669,548
 40, 11eeb65d99db649054a3f0da8cbd3e01,Wasaga Beach Arena,44.5208,-80.0162,539
-41, 11efd22efdcddb70aa25cfa7687d2aa4,Ron Gorr Memorial Arena,52.0306,-113.9565,505
+41, 11efd22efdcddb70aa25cfa7687d2aa4,Ron Gorr Memorial Arena,52.0306,-113.9565,515
 42, 11E9F686BBBC681681807B23EA662A63,Greenwood Arena,42.878329,-82.15554700000001,472
 43, 11eeb9609bd28c50a173d25df9263a83,Unity Parc Arena,47.7609,-53.9834,457
 44, 11efcdc03bc8b940ce1cd676788d51ff,Bill Chaplin Arena,53.5329,-64.0145,457
