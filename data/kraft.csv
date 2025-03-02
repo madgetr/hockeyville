@@ -1,18 +1,18 @@
 Facility, stories, videos, photos, notes, reactions, contributors, points
-Trout Creek Community Centre - ON,1124,2,3369,1278,54874,1554,77519
-Aréna Saint-Boniface - QC,1772,7,4424,2519,34729,3170,68312
-Honeywood Arena - ON,930,52,2580,1061,41637,1638,60258
-Sackville Arena (LDRA) - NS,788,1,2316,836,33676,1279,49350
-Pete Knight Arena - AB,687,2,1649,817,28547,1120,41201
-Bashaw Arena - AB,467,0,899,466,20747,658,28580
-Ivor MacDonald Memorial Arena - NS,266,0,941,457,21538,587,27478
-Middleton District Arena - NS,257,0,600,321,10102,465,14793
+Trout Creek Community Centre - ON,1124,2,3452,1278,54874,1560,77768
+Aréna Saint-Boniface - QC,1801,7,4424,2523,34775,3179,68652
+Honeywood Arena - ON,935,52,2580,1064,41727,1642,60401
+Sackville Arena (LDRA) - NS,789,1,2316,838,33709,1281,49395
+Pete Knight Arena - AB,687,2,1649,818,28547,1121,41202
+Bashaw Arena - AB,469,0,899,466,20762,658,28615
+Ivor MacDonald Memorial Arena - NS,267,0,941,459,21572,590,27524
+Middleton District Arena - NS,257,0,600,321,10169,465,14860
 Rolling Hills Arena - AB,251,2,395,187,9235,328,13137
-Big River Arena - SK,140,0,425,133,9907,238,12715
-Redvers rec center - SK,170,0,467,170,6994,261,10265
+Big River Arena - SK,140,0,425,133,9910,238,12718
+Redvers rec center - SK,170,0,467,171,6994,262,10266
 North Hastings Community Centre - ON,141,0,190,62,3851,164,5893
-Foxwarren Arena - MB,82,0,311,113,3959,167,5825
-Don Cruickshank Memorial Arena - BC,104,0,277,84,3547,167,5502
+Foxwarren Arena - MB,82,0,311,114,3962,168,5829
+Don Cruickshank Memorial Arena - BC,104,0,277,85,3552,168,5508
 Centre Sportif Normandin - QC,287,4,308,230,1251,430,5315
 High level  Arena - AB,28,0,135,47,4496,68,5228
 Kaetlyn Osmond Arena - NL,207,0,209,86,1890,263,4716
@@ -32,7 +32,7 @@ Duchess Arena - AB,39,0,105,45,468,62,1218
 Bill Chaplin Arena - NL,20,1,71,34,736,46,1193
 Petitcodiac Arena - NB,50,0,85,27,376,81,1158
 North Peace Arena - BC,48,0,67,29,361,81,1071
-Kinistino sports complex - SK,28,0,79,32,494,57,1043
+Kinistino sports complex - SK,28,0,79,32,495,57,1044
 Longlac Sportsplex - ON,23,0,101,22,448,38,1003
 La Glace Recreation Centre - AB,38,0,85,36,265,59,936
 Ron Gorr Memorial Arena - AB,31,0,59,28,385,56,900
@@ -40,7 +40,7 @@ John Levi Community Centre - ON,18,6,124,28,217,70,857
 Morrisburg Arena - ON,25,0,94,36,285,58,853
 Frank Crane Arena - BC,35,0,120,32,104,68,846
 Centre Sportif Charles-Edouard-Boucher - QC,28,0,145,97,23,120,835
-Cremona Ag Society Community Arena - AB,34,0,87,29,122,50,752
+Cremona Ag Society Community Arena - AB,34,0,87,30,122,51,753
 Unity Parc Arena - NL,26,0,58,23,242,42,699
 Aréna Joannie Rochette - QC,22,0,71,19,233,37,685
 Goulds Arena - NL,11,0,73,16,321,29,666
@@ -74,10 +74,10 @@ Eleanor Pew Memorial Arena - NS,13,0,35,11,67,21,313
 Bienfait Memorial Arena - SK,9,0,66,16,0,26,304
 Orville Acres Arena - MB,14,0,42,18,16,33,300
 I J Coady Memorial Arena - ON,9,0,38,9,85,19,298
+Recplex - SK,7,0,37,10,100,24,291
 Memorial Community Centre Arena - AB,13,0,43,13,14,23,286
 Coldwater Arena - ON,15,0,18,12,64,22,280
 Civic Centre Arena - ON,8,0,23,16,101,23,266
-Recplex - SK,7,0,26,10,100,23,258
 Summerland Arena - BC,13,0,22,10,45,29,251
 Centre récréatif de Blanc-Sablon - QC,7,0,35,2,73,14,250
 De Salaberry Recreation Facility (St. Malo Arena) - MB,10,0,29,25,37,29,249
@@ -202,6 +202,7 @@ Parrsboro Lions Arena - NS,3,0,1,1,0,3,34
 Emily Omemee Arena - ON,3,0,1,1,0,3,34
 Tamitik Jubilee Sports Complex - BC,3,0,1,1,0,3,34
 E J Broomfield Arena - NL,1,0,7,3,0,5,34
+Mooretown Sports Complex - ON,3,0,1,0,0,3,33
 KC Irving Regional Center - NB,1,0,5,8,0,8,33
 Nattilik Arena - NU,1,0,7,2,0,4,33
 Darlington Sports Centre - ON,3,0,0,2,1,4,33
@@ -240,7 +241,6 @@ Multiplex Arena - NT,2,0,1,1,0,2,24
 Kentville Centennial Arena - NS,2,0,1,0,1,2,24
 Harry Ivany Arena - NL,2,0,1,0,1,2,24
 Pond Inlet Comunity Hall - NU,1,0,1,2,9,2,24
-Mooretown Sports Complex - ON,2,0,1,0,0,2,23
 Flames Community Arenas - AB,2,0,1,0,0,2,23
 Bay Arena - NL,2,0,1,0,0,2,23
 Zurich Community Centre - ON,2,0,1,0,0,2,23
