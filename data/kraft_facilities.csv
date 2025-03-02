@@ -1,16 +1,16 @@
 Pos, Facility ID, Facility Name, Lat, Lng, Points
 1, 11eec3c710a41100315311e4bca003d9,Aréna Saint-Boniface,46.6996,-72.643,29746
-2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,22247
-3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,17010
+2, 11efd43abbf93d801185f98b382e2880,Trout Creek Community Centre,45.8738,-79.8846,22259
+3, 11E9F686BBC16AC881807B23EA662A63,Honeywood Arena,44.2220857,-80.1906544,17014
 4, 11eec6d14ac47e803b8c60bfa00fa50e,Sackville Arena (LDRA),44.7765,-63.6854,15014
-5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,12314
+5, 11E9F686BBE5876E81807B23EA662A63,Pete Knight Arena,51.4330735,-114.0267071,12315
 6, 11eebe611aee6400ab522e1c8893781e,Bashaw Arena,53.0635,-112.3067,7708
 7, 11eeb7f507c278c0b1606d36fb546664,Ivor MacDonald Memorial Arena,45.5808,-62.1969,5025
 8, 11eeb93e153ca1702c69dd2ca0e74e36,Middleton District Arena,44.6491,-65.5472,4638
 9, 11efd8fea6725be01de11c081b7cd4f2,Centre Sportif Normandin,48.8892,-72.1938,3948
 10, 11efcfb5e68b6520bdcfc1ab92c6ab2e,Rolling Hills Arena,49.8442,-110.78,3788
 11, 11eeb58a5a55a2a0f1112a0ed8377bb3,Redvers rec centre,49.1895,-104.4374,3250
-12, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,2820
+12, 11efd2207373cc90e380ca2cbefae445,Kaetlyn Osmond Arena,47.3597,-54.8984,2821
 13, 11eecb532ee3cff0f1fea7566e99a3c7,Big River Arena,52.7586,-107.4669,2622
 14, 11eeb6f1e28da01042e125fd6b685c29,North Hastings Community Centre,44.8324,-77.9302,2042
 15, 11efddc5dd2dd9402ba61fd19647b85e,Don Cruickshank Memorial Arena,50.65824749999999,-127.4437507,1922
@@ -25,7 +25,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 24, 11eeb9929af07e0041c78e2eb4d12f7a,Veterans Memorial Sports Complex,50.7011,-97.1462,768
 25, 11eeba6fd042a9b05d126e8b3eefbc0d,Duchess Arena,49.8442,-110.78,746
 26, 11eeb7e2fe6974c09c016cc0a60704ac,Frank Crane Arena,49.2079,-123.979,732
-27, 11efce4bdc59b3b099fa2a567ad3cb1e,Maidstone Arena,54.2836,-109.2415,709
+27, 11efce4bdc59b3b099fa2a567ad3cb1e,Maidstone Arena,54.2836,-109.2415,710
 28, 11efe4bfdfb8c750db5b2c1d9e243671,Birtle District Community Centre,50.0226,-101.3637,706
 29, 11eeb488d3a9da20bc289cffe14b7496,Oxbow Community Arena,49.1895,-104.4374,699
 30, 11eecb02c0216050305bc32b29dd71df,North Peace Arena,56.2306,-120.8277,680
@@ -67,7 +67,7 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 66, 11eeca8cd68533b0e6f0f01529983a7c,Hespeler Memorial Arena,43.4317,-80.3112,267
 67, 11efc94cfaa4171050876939db7c4873,Moosonee Arena,52.923,-82.4173,263
 68, 11E9F686BB9CD3E881807B23EA662A63,Centre récréatif de Donnacona,46.6787327,-71.7299194,259
-69, 11efcc66abe09f50fbb368fdafdeb6ca,Cupar Memorial Rink,51.3669,-105.9973,258
+69, 11efcc66abe09f50fbb368fdafdeb6ca,Cupar Memorial Rink,51.3669,-105.9973,259
 70, 11efcef1fb67d1a0afa669bb60f5a7ad,Eleanor Pew Memorial Arena,45.1458,-61.8108,246
 71, 11efdb52155332f05c63950ba6a4a2fe,Lord Beaverbrook Arena,47.0155,-65.5071,237
 72, 11E9F686BBF63B4A81807B23EA662A63,South Courtice Arena,43.8876797,-78.7931319,223
@@ -270,10 +270,10 @@ Pos, Facility ID, Facility Name, Lat, Lng, Points
 269, 11efd2c87166f6402dc14d23fb6d2f99,Wilmot Recreation Complex ,43.4161,-80.688,20
 270, 11efd62c87b536c09afe23d005d4072b,Savanna Agricultural Society Rec-Plex,56.6598,-117.2896,20
 271, 11efdebc30caa6e0bb3c5cdf886ba58b,Noelville Community Centre,46.1719369,-80.4169591,20
-272, 11E9F686BBB1692081807B23EA662A63,eastern Kings Sportsplex,46.3537994,-62.2373921,19
-273, 11eeb659417427a0b89d501b144f815c,Blenheim Memorial Arena,42.5323,-81.7991,19
-274, 11efcfd1cdae6e50800e363a98538b76,Saint Andrews Community Club,50.1483,-96.8756,19
-275, 11E9F686BB9B5D4281807B23EA662A63,Centre Communautaire Shawville,45.6111931,-76.4901745,18
+272, 11E9F686BB9B5D4281807B23EA662A63,Centre Communautaire Shawville,45.6111931,-76.4901745,19
+273, 11E9F686BBB1692081807B23EA662A63,eastern Kings Sportsplex,46.3537994,-62.2373921,19
+274, 11eeb659417427a0b89d501b144f815c,Blenheim Memorial Arena,42.5323,-81.7991,19
+275, 11efcfd1cdae6e50800e363a98538b76,Saint Andrews Community Club,50.1483,-96.8756,19
 276, 11eeb73381cc29802b6bce5cdba41fa3,Bobcaygeon-Verulam Community Centre,44.438,-78.6828,18
 277, 11eebbbb7b8cd6501b4b861b90b26a3f,Tilbury Memorial Arena,42.5323,-81.7991,18
 278, 11efcd74dfe790102bf0b3a287ae113a,Festival Arena,46.2165,-64.5128,18
