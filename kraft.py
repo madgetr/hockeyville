@@ -280,14 +280,15 @@ def save_facilities_as_csv(data, filename):
     # sort data by points and treat null points as 0
     data["facilities"].sort(key=lambda x: x['points'] if x['points'] else 0, reverse=True)
     with open(SAVE_DIR + filename, "w") as f:
-        f.write("Pos, Facility ID, Facility Name, Lat, Lng, Points\n")
+        f.write("Pos, Facility ID, Facility Name, Lat, Lng, Points, isTop4Facility\n")
         for facility in data["facilities"]:
             pos = data["facilities"].index(facility) + 1
             points = facility['points'] if facility['points'] else 0
             if 'Trout Creek' in facility['data']['name']:
                 save_last_modified_date(pos = pos, points = points)
+            is_top_facility_ = facility['isTop4Facility'] or 0
             f.write(
-                f"{pos}, {facility['data']['id']},{facility['data']['name'].replace(',', '')},{facility['data']['lat']},{facility['data']['lng']},{points}\n")
+                f"{pos}, {facility['data']['id']},{facility['data']['name'].replace(',', '')},{facility['data']['lat']},{facility['data']['lng']},{points},{is_top_facility_}\n")
 
 
 def get_facilities(cookie):
