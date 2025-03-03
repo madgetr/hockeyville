@@ -421,8 +421,8 @@
       }
     });
 
-    // // limit to past 20 days of dates
-    // dates.splice(0, dates.length - 20)
+    // // limit to past 10 days of dates
+    dates.splice(0, dates.length - 10)
     // Prepare datasets for each arena-type combination
     const datasets = Object.keys(dataMap).map((key, index) => ({
       label: key,
