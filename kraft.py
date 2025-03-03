@@ -23,7 +23,7 @@ type_limit_map = {
 
 
 def fetch_hockeyville_data(cookie):
-    url = "https://hockeyville.kraftheinz.com/api/contest/gallery?country=CA&page=1&pageCount=50000&search=&types=story,video,note,photo"
+    url = "https://hockeyville.kraftheinz.com/api/contest/gallery?country=CA&page=1&pageCount=60000&search=&types=story,video,note,photo"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
         "Cookie": cookie
