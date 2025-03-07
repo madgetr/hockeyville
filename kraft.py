@@ -263,15 +263,15 @@ def save_running_total_by_arena_csv(data, filename):
 
 def job(cookie):
     save_facilities_as_csv(get_facilities(cookie), "kraft_facilities.csv")
-    data = fetch_hockeyville_data(cookie)
-    stories, videos, photos, notes, reactions, points, contributors, facility_names, authors, profiles, total = get_points_per_facility(
-        data)
-    produce_report(stories, videos, photos, notes, reactions, points, contributors, facility_names)
-    save_author_repo_csv(authors, profiles, facility_names)
-    save_data_as_csv(data, "kraft_by_date.csv")
-    produce_delta_report("kraft_prev.csv", "kraft.csv")
-    save_running_total_by_arena_csv(data, "kraft_running_total.csv")
-    print("Total: ", total)
+    # data = fetch_hockeyville_data(cookie)
+    # stories, videos, photos, notes, reactions, points, contributors, facility_names, authors, profiles, total = get_points_per_facility(
+    #     data)
+    # produce_report(stories, videos, photos, notes, reactions, points, contributors, facility_names)
+    # save_author_repo_csv(authors, profiles, facility_names)
+    # save_data_as_csv(data, "kraft_by_date.csv")
+    # produce_delta_report("kraft_prev.csv", "kraft.csv")
+    # save_running_total_by_arena_csv(data, "kraft_running_total.csv")
+    # print("Total: ", total)
     save_last_modified_date(diff=check_if_git_diff())
     commit_and_push_to_git()
 
@@ -361,7 +361,7 @@ def main():
         except ValueError:
             cookie = input("Enter the cookie: ")
             job(cookie)
-        for _ in tqdm(range(10 * 60), desc="Waiting for next run"):
+        for _ in tqdm(range(2 * 60), desc="Waiting for next run"):
             time.sleep(1)
 
 
