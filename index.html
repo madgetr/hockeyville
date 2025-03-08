@@ -80,10 +80,10 @@
 <div class="mb-3 text-center">
   <select id="csv-select" class="form-select mx-auto btn btn-primary dropdown-toggle"
           style="width: 100%; max-width:500px">
-    <option class="btn btn-light" value="goals">Goals</option>
+    <option class="btn btn-light" value="data/kraft_facilities.csv">Standings</option>
 <!--    <option class="btn btn-light" value="giveaways">Giveaways</option>-->
-    <option class="btn btn-light" value="data/authors.csv">Individual Contributions</option>
-    <option class="btn btn-light" value="data/qualified.csv">Qualified For Giveaways</option>
+<!--    <option class="btn btn-light" value="data/authors.csv">Individual Contributions</option>-->
+<!--    <option class="btn btn-light" value="data/qualified.csv">Qualified For Giveaways</option>-->
   </select>
 </div>
 
@@ -149,10 +149,10 @@
 
   const hiddenFields = ["Facility ID", "ID", "Lat", "Lng"];
   const hiddenOptions = [
-    ["data/kraft_facilities.csv", "Standings"],
-    ["data/kraft.csv", "Arena Breakdown"],
-    ["data/kraft_by_date.csv", "New Points By Day"],
-    ["data/kraft_running_total.csv", "Total Points By Day"]
+    // ["data/kraft_facilities.csv", "Standings"],
+    // ["data/kraft.csv", "Arena Breakdown"],
+    // ["data/kraft_by_date.csv", "New Points By Day"],
+    // ["data/kraft_running_total.csv", "Total Points By Day"]
   ];
   window.addEventListener('DOMContentLoaded', () => {
     loadGiveaways();
@@ -170,12 +170,12 @@
         const optionElement = document.createElement('option');
         optionElement.value = option[0];
         optionElement.textContent = option[1];
-        optionElement.className = 'btn btn-light';
+        optionElement.classpName = 'btn btn-light';
         select.appendChild(optionElement);
       });
     }
     if (!fileParam) {
-      fileParam = 'data/authors.csv';
+      fileParam = 'data/kraft_facilities.csv';
     }
     document.getElementById('csv-select').value = fileParam;
     if (all || !hiddenOptions.some(option => option[0] === fileParam)) {
