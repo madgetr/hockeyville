@@ -1,6 +1,6 @@
 # https://hockeyville.kraftheinz.com/api/contest/gallery?country=CA&page=1&pageCount=1000&search=&sort=random&types=story,video,note,photo
 import json
-from curl_cffi import requests as requests
+import requests
 import time
 from collections import Counter
 from tqdm import tqdm
@@ -359,7 +359,7 @@ def main():
         try:
             job(cookie)
         except ValueError:
-            # cookie = input("Enter the cookie: ")
+            cookie = input("Enter the cookie: ")
             job(cookie)
         for _ in tqdm(range(2 * 60), desc="Waiting for next run"):
             time.sleep(1)
